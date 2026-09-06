@@ -1,6 +1,7 @@
 import json, glob
 from pathlib import Path
 
+# Audit exact-source identity after each manual batch.
 manifest=json.load(open('redo/AmerickiPredsjednici_source_index.json',encoding='utf-8'))
 byq={x['question']:x for x in manifest}
 seen={}
@@ -26,7 +27,7 @@ for fn in sorted(glob.glob('redo/AmerickiPredsjednici*.json')):
         idx=byq[q]['index']
         seen.setdefault(idx,[]).append({'file':fn,'position':pos})
 missing=[x for x in manifest if x['index'] not in seen]
-duplicates=[{'index':i,'question':byq[next(q for q,v in byq.items() if v['index']==i)]['question'] if False else next(x['question'] for x in manifest if x['index']==i),'occurrences':occ} for i,occ in seen.items() if len(occ)>1]
+duplicates=[{'index':i,'question':next(x['question'] for x in manifest if x['index']==i),'occurrences':occ} for i,occ in seen.items() if len(occ)>1]
 report={
   'source_total':len(manifest),
   'matched_unique':len(seen),
