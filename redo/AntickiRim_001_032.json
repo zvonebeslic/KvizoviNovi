@@ -1,0 +1,329 @@
+[
+  {
+    "index": 1,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "Kojeg je spola lik prikazan na Da Vincijevu crtežu koji je nastao inspiracijom iz dijela starorimskog arhitekta Vitruvija?",
+    "answers": {"A": "Ženskog", "B": "Muškog", "C": "Androginog"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 2,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "Na kojem je poluotoku Romul osnovao Rim?",
+    "answers": {"A": "Apeninskom", "B": "Iberskom", "C": "Balkanskom"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 3,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koji rimski car dolazi na vlast 27.g. pr. Kr. i na vlasti ostaje idućih 40 godina?",
+    "answers": {"A": "Tiberije", "B": "August", "C": "Kaligula"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 4,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Kraj kojega se antičkog naselja u današnjoj Grčkoj odvila odlučujuća bitka 31.g. pr. Kr. između Oktavijana i Marka Antonija za vlast nad Rimom?",
+    "answers": {"A": "Akcija", "B": "Filipa", "C": "Korinta"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 5,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Bitka kod Drača iz 48.g. pr. Kr. se vodila između dva rimska velikana, Gaja Julija Cezara i koga još?",
+    "answers": {"A": "Marka Antonija", "B": "Pompeja Velikog", "C": "Marka Licinija Krasa"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 6,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Smrt kojeg tračanina gladijatora je 1882.g. naslikao njemački ilustrator Hermann Vogel?",
+    "answers": {"A": "Spartaka", "B": "Kriksa", "C": "Enomaja"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 7,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "Koji je vojskovođa i kralj Alba Longe bio pogubljen (trganjem na komade potezanjem konja) od strane rimskog kralja Tula Hostilija zbog izdaje na bojištu?",
+    "answers": {"A": "Mecije Fufecije", "B": "Amulije", "C": "Numitor"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Antički izvori Metija/Mecija Fufecija opisuju kao diktatora Alba Longe, ne nužno kao kralja; način pogubljenja rastrzanjem između zaprega potvrđen je u Dionizija iz Halikarnasa."
+  },
+  {
+    "index": 8,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "Kako se zvala sveta granica grada Rima koju je zidovima utvrdio rimski kralj Servije Tulije?",
+    "answers": {"A": "Limes", "B": "Pomerium", "C": "Ager Romanus"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Pomerium je bio sveta ritualna granica, različita od fizičkog gradskog zida. Tradicija povezuje Servija Tulija s proširenjem pomerija i sa Servijevim zidom, ali formulacija pitanja ta dva pojma spaja."
+  },
+  {
+    "index": 9,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koji je starorimski povjesničar u 142 knjige opisao povijest Rima od kraljevine do početaka Rimskog Carstva?",
+    "answers": {"A": "Tit livije", "B": "Tacit", "C": "Svetonije"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 10,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koja rijeka je spasila tek rođene Romula i Rema te ih naposlijetku odvela vučici?",
+    "answers": {"A": "Tiber", "B": "Po", "C": "Arno"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 11,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "U mitologiji, koji je grad, trojanski junak Eneja, osnovao u današnjoj talijanskoj pokrajini Laciji?",
+    "answers": {"A": "Alba Longu", "B": "Lavinij", "C": "Ardeju"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 12,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "U kojoj današnjoj državi možemo pronaći ostatke rimskih gradova Pole, Salone i Narone?",
+    "answers": {"A": "Italiji", "B": "Hrvatskoj", "C": "Crnoj Gori"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 13,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "U rimskoj mitologiji, kako se zvala djevojka koja je izdala Romulov grad otkrivajući Sabinjanima put do Kapitola, a koju su kasnije sami Sabinjani ubili?",
+    "answers": {"A": "Tarpeja", "B": "Lukrecija", "C": "Rea Silvija"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 14,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koju zlatnu kovanicu je rimsko carstvo počelo kovati u 4.st?",
+    "answers": {"A": "Aureus", "B": "Solidus", "C": "Denarius"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 15,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koji rimski bog je glasnik bogova, te bog trgovine i putovanja?",
+    "answers": {"A": "Merkur", "B": "Mars", "C": "Jan"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 16,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koje slovo je posljednje dodano u latiničku abecedu kakvu danas poznajemo?",
+    "answers": {"A": "J", "B": "W", "C": "U"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_status": "source_conflict",
+    "qa_note": "W je nastao u srednjem vijeku kao dvostruko V/U, ali J i U su tek kasnije standardizirani kao zasebna slova od I i V. Zbog toga tvrdnja da je W nedvosmisleno 'posljednje dodano slovo' ovisi o definiciji i treba precizirati."
+  },
+  {
+    "index": 17,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koji su rimski duhovi simbolizirali duše mrtvih predaka, štovani uz posebne obrede?",
+    "answers": {"A": "Lari", "B": "Mani", "C": "Penati"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 18,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Za koji se otok borilo tijekom Prvog Punskog rata?",
+    "answers": {"A": "Siciliju", "B": "Sardiniju", "C": "Korziku"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 19,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "Koji je slavni talijanski slikar naslikao 'Rođenje Venerino' i 'Minervu i Kentaura'?",
+    "answers": {"A": "Rafael", "B": "Botticelli", "C": "Tizian"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 20,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Kako se zove rimska božica lova, prirode i mjeseca?",
+    "answers": {"A": "Dijana", "B": "Minerva", "C": "Vesta"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 21,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Uz koje otočje su rimljani porazili kartažane i njihovu mornaricu i time okončali 1. Punski rat?",
+    "answers": {"A": "Liparsko otočje", "B": "Egadsko otočje", "C": "Pontinsko otočje"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 22,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Početkom kojeg stoljeća je sagrađen Burnum, rimski vojni logor nedaleko od Knina?",
+    "answers": {"A": "1. Stoljeća", "B": "2. stoljeća", "C": "3. stoljeća"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 23,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "U progonima kojeg rimskog cara stradavaju Isusovi apostoli Petar i Pavao?",
+    "answers": {"A": "Domicijana", "B": "Nerona", "C": "Dioklecijana"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Kršćanska predaja smješta mučeništvo Petra i Pavla u Rim za Neronove vladavine; detalji nisu jednako potvrđeni suvremenim rimskim izvorima."
+  },
+  {
+    "index": 24,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Najpoznatije književno djelo o Gaju Juliju Cezaru, dramu 'Julije Cezar', je oko 1599. napisao tko?",
+    "answers": {"A": "Christopher Marlowe", "B": "William Shakespeare", "C": "Ben Jonson"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 25,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Kako se latinskim nazivom naziva crta iznad rimskog broja koja se u proširenom sustavu rimskih brojeva koristi za označavanje tisućestruke vrijednosti?",
+    "answers": {"A": "Vinculum", "B": "Titulus", "C": "Obelus"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 26,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koji je najveći broj koji se može zapisati standardnim rimskim brojevima bez da se isto slovo ponavlja više od tri puta uzastopno?",
+    "answers": {"A": "3888", "B": "3999", "C": "4999"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 27,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koji je najveći broj koji se može zapisati rimskim brojevima ako se svako rimsko slovo smije upotrijebiti samo jednom?",
+    "answers": {"A": "1444", "B": "1666", "C": "1777"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 28,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Kojeg rimskog cara povezujemo s monumentalnom kadom isklesanom iz jednog komada crvenog carskog porfira koja je nekoć krasila Domus Aureu?",
+    "answers": {"A": "Hadrijana", "B": "Nerona", "C": "Trajana"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 29,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?",
+    "answers": {"A": "Egipatsko plava", "B": "Tirski purpur", "C": "Cinober crvena"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 30,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Kako se nazivala odaja u Velikoj carskoj palači u Konstantinopolu u kojoj su se rađali legitimni bizantski carevi, po čemu je nastao izraz 'porfirogenit'?",
+    "answers": {"A": "Porfira", "B": "Triklinij", "C": "Hrizotriklin"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 31,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koja je boja bila toliko luksuzna u antičkom Rimu da je u određenim razdobljima njezino nošenje bilo rezervirano isključivo za careve?",
+    "answers": {"A": "Tirski purpur", "B": "Šafran žuta", "C": "Cinober crvena"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 32,
+    "type": "blitz",
+    "rarity": "legendary",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Kraj kojeg je mjesta u Frigiji, prema Plutarhu, 74. godine pr. Kr. pad velikog meteora između rimske i pontske vojske natjerao obje strane da odustanu od bitke?",
+    "answers": {"A": "Kizika", "B": "Otrija", "C": "Nikomedije"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Plutarh u Životu Lukula navodi mjesto Otryae u Frigiji i opisuje veliko plameno tijelo koje je palo između vojski, nakon čega su se obje strane razdvojile."
+  }
+]
