@@ -108,5 +108,158 @@
     "answers": {"A": "Dud", "B": "Kaki", "C": "Maklura"},
     "correct_answer": "C",
     "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja japanska riječ označava umjetnost uzgoja minijaturnog drveća?",
+    "answers": {"A": "Bonsai", "B": "Ikebana", "C": "Kokedama"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja biljka cvjeta samo jednom za života te nakon cvatnje odmah ugiba?",
+    "answers": {"A": "Aloe vera", "B": "Agava", "C": "Lavanda"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "S kim se izležava Milo Hrnić u pjesmi 'Budi noćas mirno more'?",
+    "answers": {"A": "S galebom", "B": "S leptiricom", "C": "S cvrčkom"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koja azijska biljka ima miris pokvarenog mesa a može se pohvaliti najvećim cvijetom na svijetu koji može dosegnuti i do jednog metra u promjeru?",
+    "answers": {"A": "Rafflesia", "B": "Amorphophallus", "C": "Victoria amazonica"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koji sladak, ali i zdrav proizvod dobivamo od pčela?",
+    "answers": {"A": "Matičnu mliječ", "B": "Med", "C": "Propolis"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kojeg medvjeda možemo pronaći u kineskim provincijama Sichuan, Shaanxi i Gansu?",
+    "answers": {"A": "Smeđeg medvjeda", "B": "Malajskog medvjeda", "C": "Pandu"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Što je neobrano u jednoj od pjesama Klape Maslina?",
+    "answers": {"A": "Maslina", "B": "Smokva", "C": "Trešnja"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koji pojam možemo pronaći u matematici, dijelu biljke i dijelu zuba?",
+    "answers": {"A": "Kruna", "B": "Korijen", "C": "Stabljika"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kitovi pod vodom u prosjeku izdrže 20 minuta a dišu kojim organom?",
+    "answers": {"A": "Škrgama", "B": "Kožom", "C": "Plućima"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koju vrstu kralježnjaka na latinskom poznajemo kao 'aves'?",
+    "answers": {"A": "Ptice", "B": "Gmazove", "C": "Vodozemce"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Kojeg letećeg sisavca možemo sresti ako uđemo u špilju?",
+    "answers": {"A": "Leteću vjevericu", "B": "Šišmiša", "C": "Lemura"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Kako nazivamo vanjski dio debla?",
+    "answers": {"A": "Srž", "B": "Bjeljika", "C": "Kora"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja je životinja potvrdila nijekanje sv. Petra da pozna Isusa Krista?",
+    "answers": {"A": "Pijetao", "B": "Golub", "C": "Janje"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja krilata životinja iz reda kukaca dio života provede i kao gusjenica?",
+    "answers": {"A": "Vilinski konjic", "B": "Leptir", "C": "Skakavac"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koji grad na Neretvi dodajemo iza 'vilin' i 'morski' u nazivima životinja?",
+    "answers": {"A": "Mostar", "B": "Metković", "C": "Konjic"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koja se grabežljiva riba pojavljuje u horor filmu Aleksandrea Aje iz 2010.?",
+    "answers": {"A": "Piranja", "B": "Barakuda", "C": "Murina"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Kako se zove biljka poznata po bodljama i sposobnosti zadržavanja vode u stabljici?",
+    "answers": {"A": "Agava", "B": "Kaktus", "C": "Aloe vera"},
+    "correct_answer": "B",
+    "image": null
   }
 ]
