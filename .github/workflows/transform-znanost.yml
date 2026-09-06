@@ -1,0 +1,42 @@
+name: Transform Znanost ABC
+
+on:
+  push:
+    paths:
+      - 'scripts/transform_znanost.py'
+      - '.github/workflows/transform-znanost.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Transform Znanost.json
+        run: python scripts/transform_znanost.py
+      - name: Validate
+        run: python -m json.tool Znanost.json > /dev/null
+      - name: Audit source vs destination counts
+        run: |
+          python - <<'PY'
+          import json, urllib.request, os
+          files=['AmerickiPredsjednici.json','AntickiRim.json','Film.json','FloraFauna.json','Gaming.json','Glazba.json','Knjizevnost.json','Moreplovci.json','Nogomet.json','Sport.json','Svastara.json','Zemljopis.json','Znanost.json']
+          total_src=total_dst=0
+          for f in files:
+              src=json.loads(urllib.request.urlopen('https://raw.githubusercontent.com/zvonebeslic/balkanska_pub_prica/main/'+f,timeout=60).read().decode('utf-8'))
+              dst=json.load(open(f,encoding='utf-8'))
+              print(f'{f}: source={len(src)} destination={len(dst)} diff={len(dst)-len(src)}')
+              if len(src)!=len(dst): raise SystemExit(f'COUNT MISMATCH: {f}')
+              total_src+=len(src); total_dst+=len(dst)
+          print(f'TOTAL source={total_src} destination={total_dst}')
+          PY
+      - name: Commit Znanost
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Znanost.json
+          git commit -m "Dodaj Znanost.json u ABC formatu" || exit 0
+          git push
