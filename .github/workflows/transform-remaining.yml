@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'scripts/transform_remaining.py'
+      - 'scripts/transform_remaining_v2.py'
       - '.github/workflows/transform-remaining.yml'
   workflow_dispatch:
 
@@ -16,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Transform remaining JSON files
-        run: python scripts/transform_remaining.py
+        run: python scripts/transform_remaining_v2.py
       - name: Validate all generated JSON files
         run: |
           for f in AmerickiPredsjednici.json AntickiRim.json Gaming.json Glazba.json Knjizevnost.json Moreplovci.json Nogomet.json Sport.json Svastara.json Zemljopis.json; do
