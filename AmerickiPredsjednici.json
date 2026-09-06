@@ -6,8 +6,8 @@
     "question": "Koji je američki predsjednik prvi posjetio Sjevernu Koreju?",
     "answers": {
       "A": "Donald Trump",
-      "B": "Benjamin Franklin",
-      "C": "Simon Bolivar"
+      "B": "Barack Obama",
+      "C": "George W. Bush"
     },
     "image": null,
     "correct_answer": "A"
@@ -19,9 +19,9 @@
     "topic": "Povijest",
     "question": "'Fugio cent' je bila prva službena kovanica u SAD-u koja se izdavala od 1787.g. Na njoj se nalazi i natpis 'Mind Your Business' a vjeruje se da je za dizajn kovanice zaslužan koji 'otac Amerike'?",
     "answers": {
-      "A": "Donald Trump",
+      "A": "Thomas Jefferson",
       "B": "Benjamin Franklin",
-      "C": "Simon Bolivar"
+      "C": "John Adams"
     },
     "image": null,
     "correct_answer": "B"
@@ -32,8 +32,8 @@
     "topic": "Povijest",
     "question": "Koji se vojskovođa i državnik naziva 'Libertador de la Patria' te 'George Washington Južne Amerike', a uspomena na njega se danas očituje i u imenu jedne države koja se nekoć zvala Gornji Peru?",
     "answers": {
-      "A": "Benjamin Franklin",
-      "B": "Donald Trump",
+      "A": "José de San Martín",
+      "B": "Bernardo O'Higgins",
       "C": "Simon Bolivar"
     },
     "image": null,
@@ -46,8 +46,8 @@
     "question": "Koji je potpisnik američke Deklaracije nezavisnosti 1753.g. dobio prestižnu britansku Copley medalju za istraživanja elektriciteta?",
     "answers": {
       "A": "Benjamin Franklin",
-      "B": "Simon Bolivar",
-      "C": "Ronald Reagan"
+      "B": "Thomas Jefferson",
+      "C": "John Adams"
     },
     "image": null,
     "correct_answer": "A"
@@ -58,9 +58,9 @@
     "topic": "Povijest",
     "question": "Koji je američki predsjednik održao poznati televizijski govor posvećen astronautima kojem je prethodila nesreća Space Shuttle Challengera istog dana?",
     "answers": {
-      "A": "Benjamin Franklin",
+      "A": "George H. W. Bush",
       "B": "Ronald Reagan",
-      "C": "Simon Bolivar"
+      "C": "Jimmy Carter"
     },
     "image": null,
     "correct_answer": "B"
@@ -72,8 +72,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Za vrijeme predsjednika Thomasa Jeffersona, amerikanci od francuza kupuju veliku površinu Sjeverne Amerike tada poznatu pod kojim imenom?",
     "answers": {
-      "A": "Kumrovec",
-      "B": "AbleArcher 83",
+      "A": "Florida",
+      "B": "Oregon",
       "C": "Louisiana"
     },
     "image": null,
@@ -86,8 +86,8 @@
     "question": "U kojem je gradu potpisan mir između Amerikanaca i Britanaca kojim je Velika Britanija i službeno priznala Ameriku kao slobodnu državu?",
     "answers": {
       "A": "Parizu",
-      "B": "Prištini",
-      "C": "Dallas"
+      "B": "Londonu",
+      "C": "Ghentu"
     },
     "image": null,
     "correct_answer": "A"
@@ -98,9 +98,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Američka ratna podmornica USS Finback je iz Tihog oceana spasila kojeg, tada budućeg američkog predsjednika?",
     "answers": {
-      "A": "Ronald Reagan",
+      "A": "John F. Kennedy",
       "B": "George Herbert Walker Bush",
-      "C": "Ho Ši Mina"
+      "C": "Gerald Ford"
     },
     "image": null,
     "correct_answer": "B"
@@ -111,8 +111,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Tko je Olimpijske Igre u Los Angelesu 1984.g. proglasio otvorenima?",
     "answers": {
-      "A": "Barack Obama",
-      "B": "Joe Biden",
+      "A": "Gerald Ford",
+      "B": "Jimmy Carter",
       "C": "Ronald Reagan"
     },
     "image": null,
@@ -125,8 +125,8 @@
     "question": "Koje je malo hrvatsko mjesto u hrvatskom zagorju 1970.g. posjetio američki predsjednik Richard Nixon?",
     "answers": {
       "A": "Kumrovec",
-      "B": "AbleArcher 83",
-      "C": "Louisiana"
+      "B": "Krapina",
+      "C": "Marija Bistrica"
     },
     "image": null,
     "correct_answer": "A"
@@ -137,9 +137,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Kojeg su sjevernovijetnamskog vođu, bezuspješno pokušali poraziti Kennedy, Johnson i Nixon, što je dovelo do kasnijeg povlačenja američke vojske iz Vijetnama?",
     "answers": {
-      "A": "George Herbert Walker Bush",
+      "A": "Võ Nguyên Giáp",
       "B": "Ho Ši Mina",
-      "C": "Ronald Reagan"
+      "C": "Lê Duẩn"
     },
     "image": null,
     "correct_answer": "B"
@@ -150,8 +150,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Koja je vojna vježba NATO saveza simulirala vojnu intervenciju Varšavskog Pakta na tadašnju Jugoslaviju, zbog političkih nemira u toj zemlji?",
     "answers": {
-      "A": "Kumrovec",
-      "B": "Massachusetts",
+      "A": "Reforger",
+      "B": "Autumn Forge",
       "C": "AbleArcher 83"
     },
     "image": null,
@@ -164,8 +164,8 @@
     "question": "Bulevarom Billa Clintona možete prošetati u kojem kosovskom gradu?",
     "answers": {
       "A": "Prištini",
-      "B": "Parizu",
-      "C": "Dallas"
+      "B": "Prizrenu",
+      "C": "Peći"
     },
     "image": null,
     "correct_answer": "A"
@@ -177,9 +177,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Tko je bio prvi afroamerički predsjednik SAD-a",
     "answers": {
-      "A": "Ronald Reagan",
+      "A": "Jesse Jackson",
       "B": "Barack Obama",
-      "C": "Joe Biden"
+      "C": "Colin Powell"
     },
     "image": null,
     "correct_answer": "B"
@@ -190,8 +190,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojoj je saveznoj američkoj državi rođen JFK?",
     "answers": {
-      "A": "Pustinjska oluja",
-      "B": "Hladnog rata",
+      "A": "New York",
+      "B": "Connecticut",
       "C": "Massachusetts"
     },
     "image": null,
