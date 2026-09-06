@@ -1,0 +1,15 @@
+name: Audit Malformed Answers
+
+on:
+  push:
+    paths:
+      - 'scripts/audit_malformed.py'
+      - '.github/workflows/audit-malformed.yml'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/audit_malformed.py
