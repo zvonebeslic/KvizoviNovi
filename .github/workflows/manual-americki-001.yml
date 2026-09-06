@@ -1,0 +1,22 @@
+name: Manual Americki 001
+on:
+  push:
+    paths:
+      - 'scripts/manual_patch_americki_001.py'
+      - '.github/workflows/manual-americki-001.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/manual_patch_americki_001.py
+      - run: python -m json.tool AmerickiPredsjednici.json > /dev/null
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AmerickiPredsjednici.json
+          git commit -m "Ručno popravi ABC distraktore 1-15" || exit 0
+          git push
