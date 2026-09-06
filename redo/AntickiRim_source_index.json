@@ -1,0 +1,5892 @@
+[
+  {
+    "index": 1,
+    "question": "Kojeg je spola lik prikazan na Da Vincijevu crtežu koji je nastao inspiracijom iz dijela starorimskog arhitekta Vitruvija?",
+    "correct": "Muškog",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 2,
+    "question": "Na kojem je poluotoku Romul osnovao Rim?",
+    "correct": "Apeninskom",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 3,
+    "question": "Koji rimski car dolazi na vlast 27.g. pr. Kr. i na vlasti ostaje idućih 40 godina?",
+    "correct": "August",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 4,
+    "question": "Kraj kojega se antičkog naselja u današnjoj Grčkoj odvila odlučujuća bitka 31.g. pr. Kr. između Oktavijana i Marka Antonija za vlast nad Rimom?",
+    "correct": "Akcija",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 5,
+    "question": "Bitka kod Drača iz 48.g. pr. Kr. se vodila između dva rimska velikana, Gaja Julija Cezara i koga još?",
+    "correct": "Pompeja Velikog",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 6,
+    "question": "Smrt kojeg tračanina gladijatora je 1882.g. naslikao njemački ilustrator Hermann Vogel?",
+    "correct": "Spartaka",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 7,
+    "question": "Koji je vojskovođa i kralj Alba Longe bio pogubljen (trganjem na komade potezanjem konja) od strane rimskog kralja Tula Hostilija zbog izdaje na bojištu?",
+    "correct": "Mecije Fufecije",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 8,
+    "question": "Kako se zvala sveta granica grada Rima koju je zidovima utvrdio rimski kralj Servije Tulije?",
+    "correct": "Pomerium",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 9,
+    "question": "Koji je starorimski povjesničar u 142 knjige opisao povijest Rima od kraljevine do početaka Rimskog Carstva?",
+    "correct": "Tit livije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 10,
+    "question": "Koja rijeka je spasila tek rođene Romula i Rema te ih naposlijetku odvela vučici?",
+    "correct": "Tiber",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 11,
+    "question": "U mitologiji, koji je grad, trojanski junak Eneja, osnovao u današnjoj talijanskoj pokrajini Laciji?",
+    "correct": "Lavinij",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 12,
+    "question": "U kojoj današnjoj državi možemo pronaći ostatke rimskih gradova Pole, Salone i Narone?",
+    "correct": "Hrvatskoj",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 13,
+    "question": "U rimskoj mitologiji, kako se zvala djevojka koja je izdala Romulov grad otkrivajući Sabinjanima put do Kapitola, a koju su kasnije sami Sabinjani ubili?",
+    "correct": "Tarpeja",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 14,
+    "question": "Koju zlatnu kovanicu je rimsko carstvo počelo kovati u 4.st?",
+    "correct": "Solidus",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 15,
+    "question": "Koji rimski bog je glasnik bogova, te bog trgovine i putovanja?",
+    "correct": "Merkur",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 16,
+    "question": "Koje slovo je posljednje dodano u latiničku abecedu kakvu danas poznajemo?",
+    "correct": "W",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 17,
+    "question": "Koji su rimski duhovi simbolizirali duše mrtvih predaka, štovani uz posebne obrede?",
+    "correct": "Mani",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 18,
+    "question": "Za koji se otok borilo tijekom Prvog Punskog rata?",
+    "correct": "Siciliju",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 19,
+    "question": "Koji je slavni talijanski slikar naslikao 'Rođenje Venerino' i 'Minervu i Kentaura'?",
+    "correct": "Botticelli",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 20,
+    "question": "Kako se zove rimska božica lova, prirode i mjeseca?",
+    "correct": "Dijana",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 21,
+    "question": "Uz koje otočje su rimljani porazili kartažane i njihovu mornaricu i time okončali 1. Punski rat?",
+    "correct": "Egadsko otočje",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 22,
+    "question": "Početkom kojeg stoljeća je sagrađen Burnum, rimski vojni logor nedaleko od Knina?",
+    "correct": "1. Stoljeća",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 23,
+    "question": "U progonima kojeg rimskog cara stradavaju Isusovi apostoli Petar i Pavao?",
+    "correct": "Nerona",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 24,
+    "question": "Najpoznatije književno djelo o Gaju Juliju Cezaru, dramu 'Julije Cezar', je oko 1599. napisao tko?",
+    "correct": "William Shakespeare",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 25,
+    "question": "Kako se latinskim nazivom naziva crta iznad rimskog broja koja se u proširenom sustavu rimskih brojeva koristi za označavanje tisućestruke vrijednosti?",
+    "correct": "Vinculum",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 26,
+    "question": "Koji je najveći broj koji se može zapisati standardnim rimskim brojevima bez da se isto slovo ponavlja više od tri puta uzastopno?",
+    "correct": "3999",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 27,
+    "question": "Koji je najveći broj koji se može zapisati rimskim brojevima ako se svako rimsko slovo smije upotrijebiti samo jednom?",
+    "correct": "1666",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 28,
+    "question": "Kojeg rimskog cara povezujemo s monumentalnom kadom isklesanom iz jednog komada crvenog carskog porfira koja je nekoć krasila Domus Aureu?",
+    "correct": "Nerona",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 29,
+    "question": "Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?",
+    "correct": "Tirski purpur",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 30,
+    "question": "Kako se nazivala odaja u Velikoj carskoj palači u Konstantinopolu u kojoj su se rađali legitimni bizantski carevi, po čemu je nastao izraz 'porfirogenit'?",
+    "correct": "Porfira",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 31,
+    "question": "Koja je boja bila toliko luksuzna u antičkom Rimu da je u određenim razdobljima njezino nošenje bilo rezervirano isključivo za careve?",
+    "correct": "Tirski purpur",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 32,
+    "question": "Kraj kojeg je mjesta u Frigiji, prema Plutarhu, 74. godine pr. Kr. pad velikog meteora između rimske i pontske vojske natjerao obje strane da odustanu od bitke?",
+    "correct": "Otrija",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": "legendary",
+    "image": null
+  },
+  {
+    "index": 33,
+    "question": "Tijekom Trećeg mitridatskog rata sukobile su se vojske kraljevstva Pont i kojeg carstva?",
+    "correct": "Rimsko",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 34,
+    "question": "Koje je nebesko tijelo, prema Plutarhu, padom kraj Otrije 74. godine pr. Kr. prekinulo predstojeću bitku između rimske i pontske vojske?",
+    "correct": "Meteor",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 35,
+    "question": "Kako se zove kapa koja je tijekom Rimskog Carstva postala simbol slobode oslobođenih robova, a kasnije i Francuske revolucije?",
+    "correct": "Frigijska kapa",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 36,
+    "question": "Kako se zvao zapovjednik koji je unutar rimske legije upravljao jedinicom od 100 ratnika?",
+    "correct": "Centurion",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 37,
+    "question": "Koju gardu je osnovao prvi rimski car August sa zadatkom da čuva njega i njegovu obitelj?",
+    "correct": "Pretorijansku",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 38,
+    "question": "Koji je keltski narod porazio rimsku vojsku i 390.g. pr. Kr. opljačkao Rim?",
+    "correct": "Gali",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 39,
+    "question": "Kako se zove majka legendarnih blizanaca Romula i Rema?",
+    "correct": "Rea Silvija",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 40,
+    "question": "Junona, rimska božica i kćer Saturna i Ops, svom mužu Jupiteru je rodila dva sina. Marsa i koga još?",
+    "correct": "Vulkana",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 41,
+    "question": "Na području koje današnje države se dogodila bitka kod Filipija iz 42.g. pr. Kr.?",
+    "correct": "Grčke",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 42,
+    "question": "Koji se rimski zid, građen od 142. do 154.g., nalazi sjevernije od Hadrijanova te je duplo kraći od njega?",
+    "correct": "Antoninov zid",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 43,
+    "question": "Koji film s Russellom Croweom u glavnoj ulozi prati život Maximusa Decimusa Meridijusa?",
+    "correct": "Gladijator",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 44,
+    "question": "Kako se zvala druga žena Gaja Julija Cezara?",
+    "correct": "Pompeja",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 45,
+    "question": "Koji naziv koristimo za ranokršćanske grobnice koje su nastajale kao sustav podzemnih hodnika u vrijeme rimskog carstva?",
+    "correct": "Katakombe",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 46,
+    "question": "Koji rimski car počinje sa sustavnim progonom kršćana nakon velikog rimskog požara za koji je okrivio upravo kršćane?",
+    "correct": "Neron",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 47,
+    "question": "Kraj koje slavonske rijeke Iliri nanose Rimljanima jedan od najtežih vojnih poraza u njihovoj povijesti?",
+    "correct": "Vuke",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 48,
+    "question": "Rimski bog Jupiter imao je 3 kćeri: Vestu, Junonu i koju još?",
+    "correct": "Cereru",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 49,
+    "question": "Tko je rimska božica ljubavi i plodnosti?",
+    "correct": "Venera",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 50,
+    "question": "Koje ime je nosila osnovna novčana jedinica za srebrni novac u starom rimu?",
+    "correct": "Denar",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 51,
+    "question": "Nekadašnje rimske provincije Likija, Galatija i Kapadokija su se nalazile na području koje današnje države?",
+    "correct": "Turske",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 52,
+    "question": "Nadimak kojeg rimskog cara poistovjećujemo sa latinskom riječju za malenu čizmu?",
+    "correct": "Kaligula",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 53,
+    "question": "Koji je rimski car započeo zakonom zabranjivati gladijatorske igre od 325.g.?",
+    "correct": "Konstantin Veliki",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 54,
+    "question": "Koji je današnji srpski grad rodno mjesto rimskog cara Konstantina 1. Velikog?",
+    "correct": "Niš",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 55,
+    "question": "Tetrika I. i Tetrika II. koji su vladali odmetnutim Galskim carstvom je porazio koji rimski car, kojeg se nazivalo i obnoviteljem carstva?",
+    "correct": "Aurelijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 56,
+    "question": "Koji car je uveo četverovlađe u rimskom carstvu?",
+    "correct": "Dioklecijan",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 57,
+    "question": "Koji istaknuti rimski liječnik iz Pergama slovi i za najvećeg medicinskog znanstvenika u starom Rimu?",
+    "correct": "Galen",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 58,
+    "question": "Agripina mlađa je bila žena rimskog cara Klaudija i majka cara Nerona, a uspjela je isposlovati da koji današnji grad, a njen rodni, dobije status kolonije, a po 'koloniji' i danas nosi ime?",
+    "correct": "Köln",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 59,
+    "question": "U starim rimskim zapisima, za jednog se cara spominje da je umro ni manje ni više, nego od prekomjernog konzumiranja alpskog sira, a tko je on bio?",
+    "correct": "Antonin Pio",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 60,
+    "question": "Koja se kratkotrajna država formira na istoku rimskog carstva u vrijeme krize trećeg stoljeća a vladar joj je bio Odenat?",
+    "correct": "Palmir",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 61,
+    "question": "U kojem stoljeću se dogodila prva velika pandemija u rimskom carstvu tako što su bolest iz Mezopotamije vojnici donijeli natrag u Rim, a od same bolesti, sumnja se da je umro i car Marko Aurelije?",
+    "correct": "2.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 62,
+    "question": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
+    "correct": "Istok Zapad",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 63,
+    "question": "U kojem stoljeću rimski carevi postaju Valerijan i njegov sin Galijen?",
+    "correct": "3.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 64,
+    "question": "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?",
+    "correct": "Trebonijan Gal",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 65,
+    "question": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
+    "correct": "Bakra",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 66,
+    "question": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
+    "correct": "Severima",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 67,
+    "question": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
+    "correct": "Djerba",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 68,
+    "question": "Kako se zove jedino djelo koje je za života napisao car Marko Aurelije?",
+    "correct": "Samomu sebi",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 69,
+    "question": "Nakš-e Rustam je velika perzijska nekropola uklesana u stijenu gdje se pored grobnica ahemenidskih careva nalaze i sasanidski reljefi, a jedan od njih slavi pobjedu kralja Šapura I. nad kojim carstvom?",
+    "correct": "Rimskim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 70,
+    "question": "Tko je od 260.g. bio prvi car Galskog carstva, tj. pobunjenih provincija Britanije, Galije i Hispanije?",
+    "correct": "Postum",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 71,
+    "question": "U drugom krugu Danteova pakla tj. požudi, se nalazi i koja ljubavnica Julija Cezara i Marka Antonija?",
+    "correct": "Kleopatra",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 72,
+    "question": "Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?",
+    "correct": "Zlata",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 73,
+    "question": "Kaptol je u Zagrebu, Kapitol u Washingtonu a Kapitolij u kojeg gradu?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 74,
+    "question": "Koji veliki kršćanski svetac iz Španjolske biva mučenički ubijen u progonu kršćana pod rimskim carem Valerijanom?",
+    "correct": "Sv. Lovro",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 75,
+    "question": "Tko ubija Karakalu, te dolazi na njegovo mjesto rimskog cara, na kojem ipak, ne ostaje zadugo jer su i njega pogubili?",
+    "correct": "Makrin",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 76,
+    "question": "U Danteovoj 'Božanskoj Komediji', u kojem krugu pakla se nalazi Gaj Julije Cezar?",
+    "correct": "Prvom",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 77,
+    "question": "Ako ćemo vjerovati Herodijanovoj 'Carskoj Povijesti' onda je koji rimski car bio daleko najviši od svih, sa čak 2,4m visine?",
+    "correct": "Maksimin Tračanin",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 78,
+    "question": "Kada kažemo 'Cirkus', danas odmah pomislimo na klaune, dresirane životinje i vratolomije, ali u starom Rimu, 'Circus' je značio mnoge javne igre i utrke dvokolica, najveća građevina za to se nalazila u Rimu i mogla je primiti preko 150 tisuća gledatelja, a kako se ta građevina zove?",
+    "correct": "Circus Maximus",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 79,
+    "question": "Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?",
+    "correct": "Aleksandar Sever",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 80,
+    "question": "U kojem stoljeću, na mjesto rimskog cara stižu čak tri Gordijana, prvi, drugi i treći?",
+    "correct": "3.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 81,
+    "question": "Koji se rimljanin spominje u apostolskom vjerovanju?",
+    "correct": "Poncije Pilat",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 82,
+    "question": "Koji rimski car godine 258. donosi okrutan edikt s ciljem progona kršćana te naređuje da se biskupi, svećenici i đakoni odmah ubiju?",
+    "correct": "Valerijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 83,
+    "question": "Kojim pojmom, koji i danas znači 'velik uspjeh' se bilježio svečani ulazak vojskovođe u Rim, nakon velike pobjede?",
+    "correct": "Trijumf",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 84,
+    "question": "Koji rimski car nastavlja vladati Rimom još 8 godina, nakon što njegova oca Valerijana odvode u zatočeništvo?",
+    "correct": "Galijen",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 85,
+    "question": "Kojeg velikog rimskog pravnika ubija car Karakala jer mu nije htio opravdati ubojstvo brata i suvladara Gete?",
+    "correct": "Emilije Papinijan",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "golden",
+    "image": null
+  },
+  {
+    "index": 86,
+    "question": "Kakav oblik vladavine, tj. suradnju cara sa senatom, uvodi prvi rimski car August?",
+    "correct": "Principat",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 87,
+    "question": "Papa Siksto II., sv. Ciprijan Kartaški i sv. Lovro stradaju u progonima kojeg rimskog cara?",
+    "correct": "Valerijana",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 88,
+    "question": "Koje 'pobunjeno' carstvo se od 260.g. do 273.g. pojavljuje unutar rimskog te obuhvaća provincije Galiju, Britaniju i Hispaniju, gdje 13 godina uživa nezavisnost od središnje rimske vlasti?",
+    "correct": "Galsko",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 89,
+    "question": "Stari rimski grad Singidunum na području Srbije, se razvio u koji moderan grad današnjice?",
+    "correct": "Beograd",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 90,
+    "question": "Koji svetac i zaštitnik zaljubljenih biva pogubljen za vrijeme rimskog cara Klaudija II. Gotskog?",
+    "correct": "Valentin",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 91,
+    "question": "Koji je rimski car uz Maksimijana jedini u povijesti carstva abdicirao, tj. odrekao se titule cara za svog života?",
+    "correct": "Dioklecijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 92,
+    "question": "On svojem sinu Galijenu na upravljanje daje zapadni dio carstva dok se on posvećuje istočnom. Tu prvi put vidimo, iako ne službeno, podjelu carstva na zapadno i istočno, a o kojem se rimskom caru radi?",
+    "correct": "Valerijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 93,
+    "question": "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?",
+    "correct": "Aurelijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 94,
+    "question": "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?",
+    "correct": "Geta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 95,
+    "question": "Koji rimski car je vjerovao u moći svog boga El-Gabala?",
+    "correct": "Elegabal",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 96,
+    "question": "Godina u kojoj je Septimije Sever postao rimski car ostala je upamćena i kao godina sa koliko careva?",
+    "correct": "Pet",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 97,
+    "question": "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?",
+    "correct": "Dijadumenijan",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 98,
+    "question": "U rimskoj književnosti, kojeg se autora 'Amfitriona' i 'Hvalisavog vojnika', smatra i najvećim piscem komedija u starom Rimu?",
+    "correct": "Plauta",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 99,
+    "question": "Koje more su stari rimljani poznavali kao Mare Germanicum?",
+    "correct": "Sjeverno more",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 100,
+    "question": "'Cardo' je bila jedna od dvije glavne ulice u rimskim gradovima i logorima a pružala se od sjevera prema kojoj strani svijeta?",
+    "correct": "Jugu",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 101,
+    "question": "Bitka kod Lugdunuma (današnji Lyon), je ujedno i najveći sukob rimskih vojski u povijesti, a dvije zaraćene strane predvodili su uzurpator Klodije Albin i koji car?",
+    "correct": "Septimije Sever",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 102,
+    "question": "Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?",
+    "correct": "Lovora",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 103,
+    "question": "Koji nadimak kao vojskovođa dobiva budući rimski car Klaudije II. nakon pobjede nad gotima u bitci kod Niša iz 268.g.?",
+    "correct": "Gotski",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 104,
+    "question": "Tko dolazi na vlast nakon smrti rimskog cara Komoda te na njoj ostaje svega 87 dana?",
+    "correct": "Pertinax",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 105,
+    "question": "Amfiteatar u El Džemu ponosno nosi titulu najvećeg rimskog amfiteatra u Africi, a nalazi se u kojoj državi?",
+    "correct": "Tunis",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 106,
+    "question": "U kojem današnjem gradu je bilo sjedište Galskog carstva, koje se pod vodstvom Postuma odvojilo od Rima?",
+    "correct": "Kölnu",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 107,
+    "question": "Kojeg su rimskog cara pisci nazivali 'Vir Rei Publicae Necessarius', odnosno, 'čovjek neophodan rimskoj državi'?",
+    "correct": "Dioklecijana",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 108,
+    "question": "Kvijet, Musije Emilijan i Aureol su bili uzurpatori u starom Rimu koji su pokušali preuzeti vlast od kojeg cara?",
+    "correct": "Galijena",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 109,
+    "question": "Koju je kraljicu palmirskog carstva porazio rimski car Aurelijan te je kao taokinju odveo u Rim, a Palmir ponovno priključio rimskom carstvu?",
+    "correct": "Zenobiju",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 110,
+    "question": "S kojim germanskim narodom, tj. 'ljudima na granici' , ratuje rimski car Marko Aurelije, doživljava teške poraze te naposlijetu sklapa mir?",
+    "correct": "Markomani",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 111,
+    "question": "Tko je uz regenta Pupijena vladao Rimom svega 3 mjeseca u godini 238.?",
+    "correct": "Balbin",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 112,
+    "question": "Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?",
+    "correct": "Galijen",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 113,
+    "question": "Koji veliki sasanidsko-perzijski šah u bitci kod Edese nanosi sramotan poraz rimskoj vojsci te kao roba u Perziju odvodi cara Valerijana?",
+    "correct": "Šapur 1.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 114,
+    "question": "Koja dinastija postaje vladajuća dolaskom Septimija Severa na mjesto rimskog cara?",
+    "correct": "Severska",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 115,
+    "question": "Najveći rimski amfiteatar u Hrvatskoj se nalazi u kojem gradu?",
+    "correct": "Puli",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 116,
+    "question": "Tko je bio prvi rimski car kojeg su neprijateljske snage odvele u zarobljeništvo?",
+    "correct": "Valerijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 117,
+    "question": "U kojem stoljeću se događa velika kriza u rimskom carstvu koja je dovela do 50 godina nestabilnosti i građanskih ratova?",
+    "correct": "3.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 118,
+    "question": "Na području kojeg današnjeg glavnog grada i metropole se rodio veliki rimski car i filozof Marko Aurelije?",
+    "correct": "Beč",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 119,
+    "question": "Koji rimski car je u 3.st. podigao zidine oko Rima koje su okruživale svih 7 brežuljaka te bile duge 19km?",
+    "correct": "Aurelijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 120,
+    "question": "Bitka kod Abrita je vođena u ljeto 251.g. između rimskog carstva s carem Decijem protiv gotskih plemena na čelu s kojim kraljem čije ime označava i jedan oštar predmet?",
+    "correct": "Kniva",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 121,
+    "question": "Koji je starorimski komediograf napisao djela 'Samomučitelj' i 'Svekrva'?",
+    "correct": "Terencije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 122,
+    "question": "Od kojeg je kemijskog elementa napravljen starorimski novac Denar?",
+    "correct": "Srebra",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 123,
+    "question": "Julije Saturnin, Bonos i Prokul su bili uzurpatori u rimskom carstvu za vrijeme kojeg cara?",
+    "correct": "Proba",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 124,
+    "question": "Kako se u starom Rimu zvao veliki zemljišni posjed u vlasništvu imućnika namjenjen za poljoprivredu?",
+    "correct": "Latifundija",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 125,
+    "question": "Kakav upravni sustav u rimskom carstvu uvodi car Dioklecijan 293.g.?",
+    "correct": "Tetrarhiju",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 126,
+    "question": "Od kojeg je kemijskog elementa napravljen starorimski novac Aureus?",
+    "correct": "Zlata",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 127,
+    "question": "U kojem krugu Danteova pakla se nalaze aleksandrijski astronom Ptolomej i rimski govornik Ciceron?",
+    "correct": "Prvom",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 128,
+    "question": "Koji grad u BiH su stari rimljani poznavali kao Domavia?",
+    "correct": "Srebrenica",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 129,
+    "question": "Koji latinski pojam tražimo, ako znamo da ga kod nas možemo pronaći kao 'državljanstvo' a u engleskoj 'citizenship?",
+    "correct": "Civitas",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 130,
+    "question": "Tko je bio posljednji rimski car iz perioda znanog kao 'doba 5 rimskih careva'?",
+    "correct": "Marko Aurelije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 131,
+    "question": "Dioklecijan na početku svoje vladavine, za svog suvladara izabire kojeg ilira s područja današnje Srijemske Mitrovice?",
+    "correct": "Maksimijana",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 132,
+    "question": "Na koliko glavnih razdoblja dijelimo rimsko pravo?",
+    "correct": "4",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 133,
+    "question": "Iz čije palače je izrastao današnji grad Split?",
+    "correct": "Dioklecijanove",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 134,
+    "question": "Koji rimski car je spasio carstvo od daljnjeg propadanja te ga ponovno ujedinio u drugoj polovici 3.st., zbog čega su ga prozvali preporoditeljem carstva?",
+    "correct": "Aurelijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 135,
+    "question": "Rimljani su osvojene teritorije van Italije organizirali u koje upravne jedinice?",
+    "correct": "Provincije",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 136,
+    "question": "Krunom od koje biljke su rimski vojskovođe bili krunjeni nakon velikih vojnih trijumfa?",
+    "correct": "Lovora",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 137,
+    "question": "Koji današnji grad u bugarskoj se nazivao i Philippoupolis, kad su ga rimljani zauzeli dali su mu ime Trimontium, a bio je i središte rimske provincije Trakije?",
+    "correct": "Plovdiv",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 138,
+    "question": "Tko je bio autor knjige 'Commentaria tripartita', koja je predstavljala jedno od prvih tumačenja znamenitog rimskog zakonika 12 ploča?",
+    "correct": "Sekst Pet Kat",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "platinum",
+    "image": null
+  },
+  {
+    "index": 139,
+    "question": "Koji rimski car je podijelio carstvo na 12 dijeceza, u kojima je se nalazila 101 provincija?",
+    "correct": "Dioklecijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 140,
+    "question": "Rimski car Decije imao je dva sina koja su se također domogla carske titule, Hrenija i Hostilijana, a koji od njih je navodno umro od kuge?",
+    "correct": "Hostilijan",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 141,
+    "question": "Koji filozofski pravac je zagovarao rimski car Marko Aurelije, a osnovao ga je Zenon Kitijski?",
+    "correct": "Stoicizam",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 142,
+    "question": "Kako su rimljani nazivali stanovnike antičke Kartage?",
+    "correct": "Puni",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 143,
+    "question": "Koji njemački grad na rijeci Rajni, stari rimljani osnivaju kao Moguntiacum?",
+    "correct": "Mainz",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 144,
+    "question": "Rodom s kojeg kontinenta je rimski car Septimije Sever?",
+    "correct": "Afrika",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 145,
+    "question": "Kojom su troslovnom riječju stari rimljani nazivali današnje 'pravo'?",
+    "correct": "Ius",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 146,
+    "question": "U kojem krugu Danteova pakla se nalaze Kasije i Brut, izdajnici Julija Cezara?",
+    "correct": "Devetom",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 147,
+    "question": "U starim rimskim zapisima, samo se jednog cara spominje da je umro od udara groma, kojeg?",
+    "correct": "Kara",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 148,
+    "question": "Jotapijan, Pakacijan i Silbanak su bili uzurpatori u rimskom carstvu za vladavine kojeg cara?",
+    "correct": "Filipa Arapina",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 149,
+    "question": "Koju su rijeku, stari rimljani poznavali kao Danubius?",
+    "correct": "Dunav",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 150,
+    "question": "Kojeg cara tražimo ako znamo da je rođen kao Avit Varije Basijan u Siriji, te postao rimskim carem sa samo 14 godina a pogubljen kad mu je bilo 18g.?",
+    "correct": "Elegabal",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 151,
+    "question": "Za vrijeme kojeg rimskog cara je proslavljena tisućugodišnjica od osnutka grada Rima?",
+    "correct": "Filipa Arapina",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 152,
+    "question": "Carevi Kar i Karin su vladali kojim carstvom?",
+    "correct": "Rimskim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 153,
+    "question": "Koji atletičar i hrvač ubija rimskog cara Komoda?",
+    "correct": "Narcis",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 154,
+    "question": "Kakav oblik vladavine, tj. apsolutnu carsku vlast u rimskom carstvu uvodi Dioklecijan?",
+    "correct": "Dominat",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 155,
+    "question": "U rimskoj religiji, duše mrtvih koje noću lutaju kao sablasti te plaše ljude se nazivaju kako?",
+    "correct": "Lemuri",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 156,
+    "question": "Ingenije, Regalijan te Makrijan Stariji su bili uzurpatori u starom Rimu koji su pokušali preuzeti vlast od kojeg cara?",
+    "correct": "Galijena",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 157,
+    "question": "Ime kojeg rimskog cara potječe iz grčke mitologije, točnije od heroja grada Megare, Dioklesa?",
+    "correct": "Dioklecijana",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 158,
+    "question": "Na cesti Via Appia, Petar susreće Krista i pita ga 'Quo Vadis, Domine?', na što Krist odgovara da ide u Rim, gdje u to vrijeme vlada koji car i progonitelj kršćana",
+    "correct": "Neron",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 159,
+    "question": "U Rimskom Carstvu, nakon uvođenja kršćanstva kao službene religije, koji je simbol zamijenio orla na carskom žezlu?",
+    "correct": "Križ",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 160,
+    "question": "Koji rimski zid dug 120km spaja Irsko i Sjeverno more?",
+    "correct": "Hadrijanov zid",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 161,
+    "question": "Koje more su stari rimljani zvali 'našim morem'?",
+    "correct": "Mediteransko",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 162,
+    "question": "Titov slavoluk u Rimu nije podigao sam Tit, već njegov nasljednik i brat, car koji?",
+    "correct": "Domicijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 163,
+    "question": "U mitridatskim ratovima protiv rimljana, kraljevstvo Pont je predvodio koji njihov kralj?",
+    "correct": "Mitridat 6.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 164,
+    "question": "Za vrijeme kojeg rimskog cara se dogodio veliki požar u Rimu, nakon kojega se bog Vulkan počeo značajnije štovati?",
+    "correct": "Nerona",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 165,
+    "question": "Kako prevodimo starorimsku uzrečicu 'Panem et circenses'?",
+    "correct": "Kruha i igara",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 166,
+    "question": "Nakon podjele rimskog caratva na zapadno i istočno, otok Malta je pripao kojem?",
+    "correct": "Istočnom",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 167,
+    "question": "Koji su današnji grad stari rimljani osnovali kao Londinium?",
+    "correct": "London",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 168,
+    "question": "Koliko su ratova Rimljani vodili protiv Samnita?",
+    "correct": "3",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 169,
+    "question": "Koji tračanski gladijator je bio vođa ustanka robova protiv rimske republike?",
+    "correct": "Spartak",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 170,
+    "question": "Na kojem se hrvatskom otoku, odigrala odlučujuća bitka 2. Rimsko - Ilirskog rata?",
+    "correct": "Hvaru",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 171,
+    "question": "Tko je uz Lucija Tarkvinija Kolatina postao prvi konzul Rimske Republike 509.g. pr. Kr.?",
+    "correct": "Lucije Junije Brut",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 172,
+    "question": "Kojeg se rimskog boga smatra bogom podzemlja?",
+    "correct": "Plutona",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 173,
+    "question": "Starorimska cesta Via Gabiniana spajala je Andetrium sa kojim rimskim gradom uz obale Jadrana?",
+    "correct": "Salonom",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 174,
+    "question": "Slavoluk kojeg rimskog cara se nalazi u Beneventu?",
+    "correct": "Trajanov",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 175,
+    "question": "U rimskoj mitologiji, Saturn ima 3 sina: Jupitera, Neptuna i koga još?",
+    "correct": "Plutona",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 176,
+    "question": "Koji je talijanski grad, kao luka i važno uporište na Siciliji, u vrijeme rimske republike bio poznat pod imenom Lilibej?",
+    "correct": "Marsala",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 177,
+    "question": "Kako se zove rimski bog vina, pandan grčkom Dionizu?",
+    "correct": "Bakus",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 178,
+    "question": "Kojem su starorimskom rodu pripadali Julije Cezar i Oktavijan?",
+    "correct": "Julijevcima",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 179,
+    "question": "Koje ime je nosio najveći brončani novac kovan za vrijeme rimskog caratva?",
+    "correct": "Sestercij",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 180,
+    "question": "Koje ime povezuje nogometne klubove iz Trnave i Moskve te jednog tračkog gladijatora?",
+    "correct": "Spartak",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 181,
+    "question": "Tko se predaje i baca oružje pred Gaja Julija Cezara na slavnoj slici Lionela Royera iz 1899.?",
+    "correct": "Vercingetorix",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 182,
+    "question": "Tko je prema rimskoj mitologiji bio osnivač i prvi kralj Rima?",
+    "correct": "Romul",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": "silver",
+    "image": null
+  },
+  {
+    "index": 183,
+    "question": "U kojoj je kulturno umjetničkoj ustanovi navodno ubijen Julije Cezar?",
+    "correct": "Kazalištu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 184,
+    "question": "Kojim latinskim izrazom nazivom deseteročlanu komisiju ili kolegij magistrata u Rimskoj Republici?",
+    "correct": "Decemviri",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 185,
+    "question": "Koji je legendarni i jedan od posljednjih latinskih kraljeva Alba Longe, ujedno i djed osnivača Rima, Romula?",
+    "correct": "Numitor",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 186,
+    "question": "Koji je rimski pisac i arhitekt napisao djelo '10 knjiga o arhitekturi'?",
+    "correct": "Vitruvije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 187,
+    "question": "Koji latinski naziv se koristio za roba u starom Rimu koji je bio oslobođen?",
+    "correct": "Libertin",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 188,
+    "question": "U kojem su talijanskom gradu održane posljednje gladijatorske igre?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 189,
+    "question": "Na koji se otok sa svojom vojskom iskrcao Julije Cezar 55. i 54.g. pr. Kr.?",
+    "correct": "Veliku Britaniju",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 190,
+    "question": "Koji se bog u rimskoj i grčkoj mitologiji naziva isto?",
+    "correct": "Apolon",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 191,
+    "question": "Koje ime su dijelili vođe plemena Dezidijata i Breuka za ilirskog ustanka protiv Rima?",
+    "correct": "Baton",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 192,
+    "question": "Koja je staro-rimska kovanica iznosila pola od vrijednosti jednog denara?",
+    "correct": "Kvinar",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 193,
+    "question": "Koji rimski car je bio 4. iz razdoblja 'Pet dobrih careva'?",
+    "correct": "Antonin Pio",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 194,
+    "question": "Koji mauritanski kralj je pomogao Juliju Cezaru u bitci kod Munde?",
+    "correct": "Bogud",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 195,
+    "question": "Kako se zvao sin Gaja Julija Cezara kojeg je imao sa posljednjom kraljicom drevnog Egipta, Kleopatrom?",
+    "correct": "Cezarion",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 196,
+    "question": "Na slici Jacoba Abbota iz 1849., Gaj Julije Cezar sa svojom vojskom prelazi koju rijeku?",
+    "correct": "Rubikon",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 197,
+    "question": "Koji je francuski grad za vrijeme rimskog carstva nosio ime Lutecija?",
+    "correct": "Pariz",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 198,
+    "question": "Koliko je planeta sunčeva sustava dobilo ime po rimskim božanstvima?",
+    "correct": "6",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 199,
+    "question": "Tko je utjelovio Spartaka u Kubrickovu filmu 'Spartak' iz 1960.?",
+    "correct": "Kirk Douglas",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 200,
+    "question": "Koji hrvatski grad se nalazi na području nekadašnjeg rimskog naselja Cibalae?",
+    "correct": "Vinkovci",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 201,
+    "question": "Koji se rimski filozof i jedan od najvećih rimskih govornika rodio 106.g. pr. Kr.?",
+    "correct": "Ciceron",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 202,
+    "question": "Pranećak kojeg slavnog rimskog vojskovođe je bio 1. rimski car August?",
+    "correct": "Julija Cezara",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 203,
+    "question": "Za vrijeme vladavine kojeg rimskog cara je rođen Isus Krist?",
+    "correct": "Augusta",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 204,
+    "question": "7 rimskih brežuljaka su: Palatin, Aventin, Celij, Viminal, Kvirinal, Eskvilin i koji još?",
+    "correct": "Kapitol",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 205,
+    "question": "Koji je seleukidski kralj ratovao protiv rimskog carstva te naposlijetku izgubio?",
+    "correct": "Antioh 3. Veliki",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 206,
+    "question": "Koji je antički grad na Siciliji pod rimsku vlast pao 211.g. pr. Kr.?",
+    "correct": "Sirakuza",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 207,
+    "question": "Kako se zvala greda duga 11m i široka do 3m koju su stari Rimljani koristili u pomorskim bitkama za ukrcavanje na neprijateljski brod?",
+    "correct": "Corvus",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 208,
+    "question": "U starom Rimu, kako se zvalo koplje koje je bilo sastavni dio naoružanog rimskog vojnika?",
+    "correct": "Pilum",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 209,
+    "question": "Koji latinski naziv, preveden kao 'teški bakar', koristimo za rani rimski ljevani novac?",
+    "correct": "Aes Grave",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 210,
+    "question": "Koje je ime nosilo naselje Cavtat za vrijeme rimskog carstva?",
+    "correct": "Epidaurum",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 211,
+    "question": "Kako se zvala klasa građana s najvećim političkim i društvenim pravima u starom Rimu, plemićkog podrijetla?",
+    "correct": "Patriciji",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 212,
+    "question": "Koji rimski car u svojim zadnjim sekundama života izgovara čuvene riječi 'Kakav umjetnik umire!'?",
+    "correct": "Neron",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 213,
+    "question": "Koja riječ je u starom Rimu označavala središnji, javni prostor grada te mjesto gdje se odvijao politički, pravni, gospodarski i društveni život?",
+    "correct": "Forum",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 214,
+    "question": "Koja se rimska tvrđava prvotno zvala Hadrijanov mauzolej?",
+    "correct": "Anđeoska",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 215,
+    "question": "U rimskoj religiji, od 15 svećenika Flamena, koliko ih je bilo 'velikih'?",
+    "correct": "Tri",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 216,
+    "question": "Kako se zvao starorimski ratni brod sa tri reda vesala?",
+    "correct": "Trirema",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 217,
+    "question": "U vrijeme znano kao 'godina 4 cara', Rimom su vladali Galba, Oton, Vitelije i tko još?",
+    "correct": "Vespazijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 218,
+    "question": "Hanibalovo osvajanje i uništavanje kojeg iberskog grada je označilo početak Drugog Punskog rata?",
+    "correct": "Sagunta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 219,
+    "question": "Koji bakreni novac s tankom srebrnom prevlakom uvodi Car Dioklecijan kroz svoju novčanu reformu 294.g.?",
+    "correct": "Follis",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 220,
+    "question": "U kojem talijanskom gradu se nalazi 30m visok Trajanov stup podignut u čast pobjede cara Trajana nad dačanima?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 221,
+    "question": "Koji srebrni novac kroz svoju novčanu reformu 294.g. uvodi Car Dioklecijan?",
+    "correct": "Argenteus",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 222,
+    "question": "Kako se u starom rimu zvao bakreni novac srednje veličine?",
+    "correct": "As",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 223,
+    "question": "Na teritoriju koje današnje države se nalazilo mjesto Zama, poprište odlučujuće bitke tijekom punskih ratova?",
+    "correct": "Tunis",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 224,
+    "question": "U kojem gradu se nalazi Cestijeva piramida, grobnica Gaja Cestija Epulona?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 225,
+    "question": "Kako se zvao drugi rimski kralj, Romulov nasljednik?",
+    "correct": "Numa Pompilije",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 226,
+    "question": "Hram u čast kojem rimskom bogu podiže posljednji rimski kralj Tarkvinije 2. Oholi?",
+    "correct": "Jupiteru",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": "silver",
+    "image": null
+  },
+  {
+    "index": 227,
+    "question": "Drevni latinski grad Alba Longa je osnovan podno Albanskih Brda nekih 400.g. prije kojeg grada osnovanog na 7 brežuljaka, svega 20km dalje?",
+    "correct": "Rima",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 228,
+    "question": "Koje godine prije Krista rimski senat proglašava Julija Cezara doživotnim diktatorom?",
+    "correct": "44.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 229,
+    "question": "Uz koji današnji turski grad vežemo 'Bitku kod Magnezije' iz 2.st. pr. Kr. Između rimske republike i seleukidskog carstva?",
+    "correct": "Manisa",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 230,
+    "question": "Kako se zvala jedinica u rimskoj legiji koja je označavala desetinu od ukupnog broja ratnika?",
+    "correct": "Kohorta",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 231,
+    "question": "Na koliko su ploča napisani prvi rimski zakoni?",
+    "correct": "12",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 232,
+    "question": "Koji nadimak rimski car Klaudije daje svom sinu nakon što osvoji Britaniju?",
+    "correct": "Britanik",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 233,
+    "question": "Kraj kojeg, danas isušenog jezera su Rimljani 496.g. pr. Kr dobili najznačajniju bitku u ratu protiv Latinskih legija?",
+    "correct": "Regilskog",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 234,
+    "question": "Prema ustroju, stari Rim je se kroz povijest dijelio na carstvo, kraljevstvo i što još?",
+    "correct": "Republiku",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 235,
+    "question": "Koji oblik rimske vojne discipline se provodi ako su svakog desetog vojnika u grupi pogubili članovi njegove kohorte zbog pobune ili dezertiranja.",
+    "correct": "Desetkovanje",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 236,
+    "question": "Koju su utvrdu ilirskog plemena Delmata rimljani osvojili 155.g. pr. Kr.?",
+    "correct": "Delminij",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 237,
+    "question": "Via Domitia, Via Agrippa i Via Aquitania su starorimske ceste izgrađene na području koje današnje države?",
+    "correct": "Francuske",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 238,
+    "question": "Po kojem rimskom caru ime nosi najveći od svih rimskih slavoluka?",
+    "correct": "Konstantinu 1.",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 239,
+    "question": "Koji se rimski car bori s Maximusom u Koloseju u filmu 'Gladijator', ali je i po povijesnim činjenicama ostao poznat kao dobar borac, s preko 700 pobjeda u areni?",
+    "correct": "Komod",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 240,
+    "question": "Koliko je rimskih careva bilo na vlasti tijekom 1. stoljeća?",
+    "correct": "13",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 241,
+    "question": "Prvi trgovci iz rimskog carstva koji su dospjeli do Kine su poslani za vrijeme careva Antonina Pia i Marka Aurelija, a tada je kinom vladala koja dinastija?",
+    "correct": "Han",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 242,
+    "question": "Koji je starogrčki matematičar i astronom živio u Aleksandriji za rimskog upravljanja Egiptom, a najpoznatiji je po svom djelu Almagest?",
+    "correct": "Ptolomej",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 243,
+    "question": "Koji starogrčki fizičar, astronom i matematičar pomaže sa svojim izumima u obrani Sirakuze protiv Rimljana?",
+    "correct": "Arhimed",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 244,
+    "question": "Za vrijeme kojeg cara rimsko carstvo poprima najveće teritorijalno proširenje?",
+    "correct": "Trajana",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 245,
+    "question": "Rimska provincija Mauretanija se prostirala teritorijem Alžira i koje još današnje države?",
+    "correct": "Maroko",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 246,
+    "question": "Koja dinastija dolazi na vlast, proglašenjem Vespazijana kao rimskog cara?",
+    "correct": "Flavijevci",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 247,
+    "question": "Od svih pet dobrih rimskih careva, koji je vladao najkraće, svega 2 godine?",
+    "correct": "Nerva",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 248,
+    "question": "Koji grad, osnovan od strane Aleksandra Velikog, postaje glavno središte rimske provincije Aegyptus nakon pada Ptolomjeskog kraljevstva 30.g. pr. Kr?",
+    "correct": "Aleksandrija",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 249,
+    "question": "Iz kojeg se jezika razvio talijanski jezik, kakvog danas poznajemo?",
+    "correct": "Latinskog",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 250,
+    "question": "29.6. 79-e godine se događa erupcija kojeg vulkana u kojoj napuljski zaljev biva dobrim dijelom uništen?",
+    "correct": "Vezuva",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 251,
+    "question": "'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?",
+    "correct": "Trajan",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 252,
+    "question": "Koji portugalski grad se naziva i portugalskim Rimom, a sami Rimljani su ga osnovali u 1.st. pr. Kr. pod imenom Bracera Augusta?",
+    "correct": "Braga",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 253,
+    "question": "Od svih pet dobrih rimskih careva, koji je vladao najduže, čak 23 godine?",
+    "correct": "Antonin Pio",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 254,
+    "question": "Rimsko kapitolijsko trojstvo čine božanstva Jupiter, Junona i tko još?",
+    "correct": "Minerva",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 255,
+    "question": "U kojem hrvatskom gradu se nalazi najveći rimski forum na istočnoj strani Jadrana?",
+    "correct": "Zadar",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 256,
+    "question": "Koji su naziv stari Kinezi koristili za antički Rim?",
+    "correct": "Daqin",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 257,
+    "question": "Rimska božica ljubavi je rimskom bogu rata rodila kojeg boga požude i privlačnosti?",
+    "correct": "Kupida",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 258,
+    "question": "Herkulova žena na zemlji je bila Megara, a tko mu je bila žena kada je postao jedan od bogova?",
+    "correct": "Juventas",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 259,
+    "question": "Koliko daleko su Rimljani prodirali na istok, govori i činjenica da su upravljali i antičkim gradom Dura-Europos, kojeg su osnovali Seleukidi na kojoj velikoj mezopotamijskoj rijeci?",
+    "correct": "Eufrat",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 260,
+    "question": "Titov slavoluk u Rimu slavi uništenje i paljenje kojeg grada u Judeji?",
+    "correct": "Jeruzalema",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 261,
+    "question": "Septimije Sever i Konstancije I. Klor bili su rimski carevi koji su umrli u kojem današnjem engleskom gradu, ako znamo da se tada zvao Eboracum?",
+    "correct": "York",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 262,
+    "question": "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?",
+    "correct": "Surena",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 263,
+    "question": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+    "correct": "Tit",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 264,
+    "question": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+    "correct": "Jeruzalem",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 265,
+    "question": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
+    "correct": "Vezuv",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 266,
+    "question": "Koji je rimski vojskovođa najzaslužniji za pobjedu nad legijama cara Vitelija te za Vespazijanov dolazak na vlast?",
+    "correct": "Antonije Prim",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 267,
+    "question": "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?",
+    "correct": "Vespazijana",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 268,
+    "question": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+    "correct": "Beton",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 269,
+    "question": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
+    "correct": "Dačko",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": "silver",
+    "image": null
+  },
+  {
+    "index": 270,
+    "question": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
+    "correct": "Cena",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 271,
+    "question": "Tko je bio prvi rimski car koji je titulu naslijedio izravno od svog biološkog oca, cara Vespazijana?",
+    "correct": "Tit",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 272,
+    "question": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
+    "correct": "Anastazija",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 273,
+    "question": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
+    "correct": "Kuš",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 274,
+    "question": "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?",
+    "correct": "Judeji",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 275,
+    "question": "Kojeg su rimskog cara, iz doba dobrih careva, nazivali i carem-filozofom?",
+    "correct": "Marko Aurelije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 276,
+    "question": "U kojem stoljeću Rimljani grade Hadrijanov i Antoninov zid u Britaniji?",
+    "correct": "2.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 277,
+    "question": "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?",
+    "correct": "Ver",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 278,
+    "question": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
+    "correct": "Ktezifon",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 279,
+    "question": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
+    "correct": "Indijskim",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 280,
+    "question": "Koji otok 43.godine iza Krista anektira vojskovođa i budući car Vespazijan, a danas je poznat kao najveći otok pod upravom države Engleske?",
+    "correct": "Wight",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 281,
+    "question": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+    "correct": "Dva",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 282,
+    "question": "Koja kraljica iz kraljevstva Kuš (današnji Sudan) je odbijala rimske napade te naposlijetu s njima sklopila mir?",
+    "correct": "Amanirenas",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 283,
+    "question": "Tiša bA'v je najžalosniji dan u židovskom kalendaru tijekom kojeg se, između ostalog, posti i žaluje zbog rimskog spaljivanja 'drugog hrama' u kojem gradu?",
+    "correct": "Jeruzalemu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 284,
+    "question": "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?",
+    "correct": "Rim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 285,
+    "question": "Koju riječ su stari Rimljani koristili za most?",
+    "correct": "Pons",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 286,
+    "question": "Antinous je bio mladi simpatizer rimskog cara Hadrijana kojeg je nakon dušenja u Nilu Hadrijan proglasio božanstvom te mu u čast podigao koji grad u srednjem Egiptu?",
+    "correct": "Antinoopolis",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 287,
+    "question": "Ime koje rimske božice mladosti povezujemo sa 'starom damom' iz Torina?",
+    "correct": "Juventas",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 288,
+    "question": "Koji je rimski vojskovođa osvojio i spalio Jeruzalem 70.g. da bi kasnije postao i carem?",
+    "correct": "Tit",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 289,
+    "question": "Koji je španjolski grad prvotno osnovan kao vojni logor 6. rimske legije Victix a danas se nalazi i na putu sv. Jakova?",
+    "correct": "Leon",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 290,
+    "question": "Ako svratimo u Kumrovec, tamo ćemo pronaći ime na spomeniku i u rodnoj kući koje bi nas moglo podsjetiti na kojeg rimskog cara?",
+    "correct": "Tita",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 291,
+    "question": "Koji je katolički svetac i srijemski biskup pogubljen u vrijeme Dioklecijanovih progona kršćana na antičkom mostu Basentis, u blizini današnje Srijemske Mitrovice?",
+    "correct": "Irenej",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 292,
+    "question": "'Zar i ti, sine Brute' je uzrečica koju je pri smrti izgovorio koji rimski vojskovođa?",
+    "correct": "Julije Cezar",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 293,
+    "question": "Na području kojeg su današnjeg hrvatskog grada rođena dva rimska cara, Valentinijan I. i Valens?",
+    "correct": "Vinkovci",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 294,
+    "question": "Kako nazivamo proces širenja rimskog jezika, prava, kulture i načina života na osvojene narode?",
+    "correct": "Romanizam",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 295,
+    "question": "Dan 22.11.1738.g. se smatra rođendanom klasične arheologije jer su tada započela iskapanja kojeg starorimskog grada uništenog u erupciji Vezuva?",
+    "correct": "Herkulaneja",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 296,
+    "question": "Rimski carevi Decije, Aurelijan, Prob i Maksimijan su svi rođeni na području kojeg današnjeg srpskog grada?",
+    "correct": "Srijemske Mitrovice",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 297,
+    "question": "Tko je bio prvi rimski car koji je bio ilirskog porijekla, a ujedno i prvi progonitelj kršćana na našim područjima te prvi car koji je poginuo u bitci?",
+    "correct": "Decije",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 298,
+    "question": "Koji su veliki otok u Atlantskom oceanu stari Rimljani zvali Hibernia?",
+    "correct": "Irska",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 299,
+    "question": "Koji je katolički svetac i biskup antiohijski bio prognan od strane rimskog cara Trajana te usmrćen u Koloseumu, gdje je bačen lavovima?",
+    "correct": "Ignacije Antiohijski",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 300,
+    "question": "Koliko je Oscara osvojio 'Gladijator', film Ridleyja Scotta iz 2000.g.?",
+    "correct": "5",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 301,
+    "question": "Ako sudimo po veličini planeta, koji rimski bog ispada najmanji?",
+    "correct": "Merkur",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 302,
+    "question": "Koji broj dobijemo kad zbrojimo zadatke koje je Herkul morao ispuniti za oprost teških grijeha sa brojem ploča na kojima su pisani prvi rimski zakoni?",
+    "correct": "24",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 303,
+    "question": "Prvu crkvu na svijetu posvećenu Blaženoj Djevici Mariji sagradio je apostol Jakov u Caesaraugusti, starorimskom gradu na čijem području se danas nalazi koji španjolski grad, inače veliko marijansko svetište?",
+    "correct": "Zaragoza",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 304,
+    "question": "2015.g. je osnovana gaming platforma koja svoje ime dijelom duguje kojoj rimskoj božici svađe i razdora?",
+    "correct": "Diskordija",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 305,
+    "question": "U kojem stoljeću prije Krista nastaje Rimsko Carstvo?",
+    "correct": "1.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 306,
+    "question": "Koja je utvrda u 1. židovsko - rimskom ratu ostala upamćena po masovnom samoubojstvu njenih branitelja, žena i djece?",
+    "correct": "Masada",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 307,
+    "question": "Koja ptica se u starom Rimu koristila kao glavni znak rimskih legija?",
+    "correct": "Orao",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 308,
+    "question": "Pred kojim zidom Židovi oplakuju rimsko razaranje drugog jeruzalemskog hrama koje se dogodilo 70.g.?",
+    "correct": "Zid plača",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 309,
+    "question": "Na rimskom forumu u Zadru danas se nalazi koja crkva?",
+    "correct": "Sv. Donata",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 310,
+    "question": "Koliko rimskih careva potječe iz flavijevske dinastije?",
+    "correct": "3",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 311,
+    "question": "U starom Rimu, doručak je bio lentaculum, večera je bila cena, a ručak?",
+    "correct": "Prandium",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 312,
+    "question": "Koji je rimski car promijenio ime grada Rima te svih 12 mjeseci u godini, što je ispravljeno i vraćeno na staro odmah nakon njegove smrti?",
+    "correct": "Komod",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 313,
+    "question": "Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?",
+    "correct": "Vespazijan",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "silver",
+    "image": null
+  },
+  {
+    "index": 314,
+    "question": "U televizijskoj seriji iz 2006.g.,u produkciji HTV-a, se prikazuje koliko 'ludih rimskih careva'?",
+    "correct": "4",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 315,
+    "question": "Tko je bio posljednji iz plejade rimskih careva koji su vladali u 'godini 4 cara', točnije u 69-oj poslije Krista?",
+    "correct": "Vespazijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 316,
+    "question": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+    "correct": "Oton",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 317,
+    "question": "Pax Romana na latinskom prevodimo kao Rimski što?",
+    "correct": "Mir",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 318,
+    "question": "I, V, X, L i C nazivamo kakvim brojevima?",
+    "correct": "Rimskim",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 319,
+    "question": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+    "correct": "Lugo",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 320,
+    "question": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
+    "correct": "Arhimed",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 321,
+    "question": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
+    "correct": "Pompeja",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 322,
+    "question": "Na koliko kontinenta se prostiralo rimsko carstvo?",
+    "correct": "3",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 323,
+    "question": "Opsada kojeg grada na bliskom istoku se događala 70-e, 1099-e i 1187-e godine?",
+    "correct": "Jeruzalema",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 324,
+    "question": "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?",
+    "correct": "Srbijom",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 325,
+    "question": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
+    "correct": "Antoninov zid",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 326,
+    "question": "Najočuvanija te najveća starorimska gradska vrata na svijetu, imena Porta Nigra, se nalaze u kojem njemačkom gradu, gdje su i danas nezaobilazna turistička atrakcija?",
+    "correct": "Trier",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 327,
+    "question": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+    "correct": "Kaledonija",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 328,
+    "question": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
+    "correct": "Plinije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 329,
+    "question": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
+    "correct": "Dunav",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 330,
+    "question": "Koji su današnji srpski grad Rimljani poznavali kao Sirmium?",
+    "correct": "Srijemska Mitrovica",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 331,
+    "question": "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?",
+    "correct": "Trajanov",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 332,
+    "question": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
+    "correct": "Optimus",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 333,
+    "question": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
+    "correct": "Seres",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 334,
+    "question": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+    "correct": "Eufrazija",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 335,
+    "question": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
+    "correct": "Plinije stariji",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 336,
+    "question": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
+    "correct": "Vitelije",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 337,
+    "question": "U kojem stoljeću prije Krista nastaje Rimska Republika?",
+    "correct": "6.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 338,
+    "question": "Za vladavine kojeg rimskog cara se dogodila velika erupcija Vezuva u kojoj su Pompeji totalno uništeni?",
+    "correct": "Tita",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 339,
+    "question": "Nakon ubojstva rimskog cara Domicijana nestaje flavijevska dinastija, a dolaze godine u kojima vlada koliko 'dobrih careva'?",
+    "correct": "5",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 340,
+    "question": "'Fiscus Judaicus' je bio nametnuti porez u starom Rimu kojeg je plaćala samo jedna etnoreligijska skupina. Koja?",
+    "correct": "Židovi",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 341,
+    "question": "U kojoj su današnjoj državi stari Rimljani osnovali gradove Emerita Augusta, Tarraco i Hispalis?",
+    "correct": "Španjolska",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 342,
+    "question": "Vallum Hadriani i Vallum Antonini su zidine koje i danas možemo vidjeti na kojem otoku?",
+    "correct": "Velika Britanija",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 343,
+    "question": "Koliko je bilo bitki kod Bedrijaka u blizini današnje Cremone, tijekom građanskog rata te sukoba careva Otona, Vitelija i Vespazijana?",
+    "correct": "2",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 344,
+    "question": "Na ušću u Atlantski ocean koje škotske rijeke se nalazi najveći škotski grad Glasgow te početak starorimskog Antoninova zida?",
+    "correct": "Clyde",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 345,
+    "question": "U HTV-ovoj TV seriji 'Ludi rimski carevi', kroz 4 epizode se prikazuju carevi Kaligula, Neron, Komod i koji još?",
+    "correct": "Elagabal",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 346,
+    "question": "Najzapadnija točka kontinentalne Europe je nekada bila i najzapadnija točka rimskog carstva. Rimljani su taj rt poznavali kao Promontorium Magnum, a kako se on danas zove?",
+    "correct": "Cabo de Roca",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 347,
+    "question": "Koju zakladu za odgoj i uzdržavanje siromašne djece osniva rimski car Nerva, a kasnije usavršava car Trajan, a njeno ime se i danas slično koristi za jednu zakonsku obvezu jednog od supružnika?",
+    "correct": "Alimenta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "golden",
+    "image": null
+  },
+  {
+    "index": 348,
+    "question": "Koji je starorimski grad danas poznat kao Slavonski Brod, a to staro ime i dan danas nosi nogometni klub u kojem su karijeru počeli Madžukić i Olić?",
+    "correct": "Marsonia",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 349,
+    "question": "Tko izdaje naredbu da se 'provede popis svega svijeta', malo prije Kristova rođenja?",
+    "correct": "August",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 350,
+    "question": "Padom Sirakuze pod rimsku vlast 212.g. pr. Kr. svoj život tragično završava i koji veliki matematičar?",
+    "correct": "Arhimed",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 351,
+    "question": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najduže, točnije 15 godina?",
+    "correct": "Domicijan",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 352,
+    "question": "Koji se portugalski grad može dičiti sa jednim od najstarijih sveučilišta u Europi, rimskim ostacima grada Aeminiuma te kao glavni grad Portugala kroz 12. i 13.st?",
+    "correct": "Coimbra",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 353,
+    "question": "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?",
+    "correct": "Ver",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 354,
+    "question": "Koji je današnji grad u Velikoj Britaniji, na rijeci Tyne, prvotno nastao kao rimsko naselje Pons Aelius?",
+    "correct": "Newcastle",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 355,
+    "question": "Kada je Dioklecijan uspostavio tetrarhiju, središtem rimske moći postaju čak 4 grada. To su danas Trier, Milano, Izmit i koji još grad, smješten na rijeci Savi?",
+    "correct": "Srijemska Mitrovica",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 356,
+    "question": "Da je ostalo do danas, kako bi se u Rimskom Carstvu napisala godina 2026.?",
+    "correct": "MMXXVI",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 357,
+    "question": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63km?",
+    "correct": "Škotskoj",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 358,
+    "question": "Koji je dački kralj ratovao protiv Rimljana kroz sva tri Rimsko-dačka rata te na kraju bio poražen?",
+    "correct": "Decebal",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 359,
+    "question": "Veni, Vidi, Vici, u prijevodu znači: Dođoh, vidjeh, što?",
+    "correct": "Pobjedih",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 360,
+    "question": "U Sarajevu je do danas sačuvano nekoliko kamenih mostova preko kojih se može prijeći, a jedan takav, iako su ga gradili Osmanlije, dobio je ime po carstvu koje je tim prostorom vladalo mnogo prije. Kako se zove taj most?",
+    "correct": "Rimski most",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 361,
+    "question": "Vojnici kojeg budućeg rimskog cara s vlasti uklanjaju cara Vitelija?",
+    "correct": "Vespazijana",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 362,
+    "question": "Koji su grad u Španjolskoj na rijeci Ebro Rimljani osnovali kao Caesaraugusta?",
+    "correct": "Zaragoza",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 363,
+    "question": "Koju rimsku božicu rata i Marsovu sestru su naslikali Guercino, Auguste Rodin i Rembrandt?",
+    "correct": "Belonu",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 364,
+    "question": "Prvi trgovci iz rimskog carstva koji su dospjeli do Kine poslani su za vrijeme careva Antonina Pia i Marka Aurelija, a tada je Kinom vladala koja dinastija?",
+    "correct": "Han",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 365,
+    "question": "Tko je bio rimski namjesnik cara Tiberija u provinciji Judeji od 26. do 36.g.?",
+    "correct": "Poncije Pilat",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 366,
+    "question": "Koji antički španjolski grad rimski vojskovođa Scipion Emilian Mlađi osvaja 133.g. pr. Kr. bez direktnih borbi tako što je grad potpuno okružio i čekao da branitelji popadaju od gladi?",
+    "correct": "Numantia",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 367,
+    "question": "Koju rimsku boginju tražimo ako znamo da su joj Mars i Vulkan braća, Diskordija sestra, Prozerpina polusestra, stričevi Neptun i Pluton a muž Herkul?",
+    "correct": "Juventas",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 368,
+    "question": "Koji je španjolski nogometni klub iz Sorie igrao najelitniju španjolsku ligu samo 4 sezone, a ime je dobio po starom keltiberskom gradu sa istog mjesta, kojeg Rimljani osvajaju 133.g. pr. Kr.?",
+    "correct": "Numancija",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 369,
+    "question": "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120 km?",
+    "correct": "Engleskoj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 370,
+    "question": "Koji grad 1870.g. pada pod vlast kralja Viktora Emanuela II.?",
+    "correct": "Rim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 371,
+    "question": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
+    "correct": "Zlatnu",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 372,
+    "question": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
+    "correct": "Longin",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 373,
+    "question": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
+    "correct": "Engracija",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 374,
+    "question": "U kojem stoljeću vlada ludi rimski car Kaligula?",
+    "correct": "1.",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 375,
+    "question": "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?",
+    "correct": "Trajan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 376,
+    "question": "Koji car iz razdoblja pet dobrih careva nasljeđuje Trajana?",
+    "correct": "Hadrijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 377,
+    "question": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
+    "correct": "Karakala",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 378,
+    "question": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
+    "correct": "Jupiter",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 379,
+    "question": "Koja ptica se često povezivala s Jupiterom, vrhovnim rimskim bogom, simbolizirajući njegovu moć i dominaciju?",
+    "correct": "Orao",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 380,
+    "question": "Koja božica je bogu Jupiteru rodila boga Apolona?",
+    "correct": "Latona",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 381,
+    "question": "Kojom frazom je Julije Cezar obavijestio rimski senat o munjevitoj pobjedi svoje vojske nad pontskim kraljem Farnakom II.?",
+    "correct": "Veni Vidi Vici",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 382,
+    "question": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
+    "correct": "Haran",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 383,
+    "question": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
+    "correct": "Sevillu",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 384,
+    "question": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
+    "correct": "Ivan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 385,
+    "question": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
+    "correct": "Carevima",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 386,
+    "question": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
+    "correct": "Urbs",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 387,
+    "question": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+    "correct": "Škotskoj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 388,
+    "question": "Koji su portugalski grad stari Rimljani poznavali kao Olissipo?",
+    "correct": "Lisabon",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 389,
+    "question": "U velikoj erupciji Vezuva 79 g. bivaju uništeni gradovi: Pompeji, Stabije, Oplontis i koji još antički grad?",
+    "correct": "Herkulanej",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 390,
+    "question": "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120km?",
+    "correct": "Engleskoj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 391,
+    "question": "Kojem se rimskom kralju pripisuje ustroj luke u Ostiji, izgradnja solana i zatvora te drvenog mosta preko Tibera?",
+    "correct": "Anku Marciju",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 392,
+    "question": "Klodija Lijepa, Skribonija i Livija Drusilla su bile žene kojeg rimskog cara?",
+    "correct": "Augusta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 393,
+    "question": "U rimskom pravu, nijedan rimski general sa svojim jedinicama nije smio prići Rimu bliže od koje rijeke?",
+    "correct": "Rubikon",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 394,
+    "question": "Koji rimski vojskovođa i otac cara Kaligule je pomogao Tiberiju slomiti ilirski ustanak?",
+    "correct": "Germanik",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 395,
+    "question": "Koji helvetski vođa je vodio helvećane protiv Cezara u bitci kod Bibrakta?",
+    "correct": "Divikon",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 396,
+    "question": "Koje ime dobiva Gaj Oktavijan nakon 27.g. pr. Kr.?",
+    "correct": "August",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 397,
+    "question": "Koji rimski car je svojeg konja želio proglasiti konzulom?",
+    "correct": "Kaligula",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 398,
+    "question": "Tko su bili borci u starom Rimu koji su u arenama izvodili borbe do smrti?",
+    "correct": "Gladijatori",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 399,
+    "question": "Koji su rimski kućni duhovi bili zaštitnici ognjišta i hrane?",
+    "correct": "Penati",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 400,
+    "question": "Peti, a ujedno i zadnji rimski car iz Julijevsko - Klaudijevske dinastije je bio tko?",
+    "correct": "Neron",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 401,
+    "question": "Na kojem talijanskom otoku umire rimski car Tiberije?",
+    "correct": "Capri",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 402,
+    "question": "Najpoznatiju operu o Gaju Juliju Cezaru, 'Giulio Cesare' je 1724. skladao tko?",
+    "correct": "Geoege Friderich Handel",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 403,
+    "question": "Veliki požar u kojem gradu izbija za vladavine cara Nerona?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 404,
+    "question": "Na kojem današnjem poluotoku su bile rimske provincije Tarakonska i Betička Hispanija te Luzitanija?",
+    "correct": "Pirenejskom",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 405,
+    "question": "Kako se zove kratki mač, glavno oružje rimskog vojnika?",
+    "correct": "Gladijus",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 406,
+    "question": "Koji rimski car je bio sin Agripine i Gneja Domicija Ahenobarba a vladao je od 54. do 68.g.?",
+    "correct": "Neron",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 407,
+    "question": "Koji rimski bog živi u Etni i ondje izrađuje strijele za Jupitera?",
+    "correct": "Vulkan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 408,
+    "question": "Ako bi slavnu Via Appiu prešli u cijelosti, onda bi iz Rima došli u koji grad na jugoistoku Italije?",
+    "correct": "Brindisi",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 409,
+    "question": "Bitka kod Herakleje se odvijala između Rima i Epira u blizini kojeg današnjeg talijanskog grada?",
+    "correct": "Policoro",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 410,
+    "question": "Pompej, Cezar i Kras su osnovali koji po redu trijumvirat?",
+    "correct": "Prvi",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 411,
+    "question": "Kako se zove rimska božica, zaštitnica doma, obitelji i ognjišta?",
+    "correct": "Vesta",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 412,
+    "question": "Koji se rimski vojskovođa proslavio u drugom Punskom ratu i pobjedi protiv Hanibala?",
+    "correct": "Scipion Stariji",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 413,
+    "question": "Burdigala, Durocortorum i Lugdunum su bili rimski gradovi čiju bogatu baštinu danas možemo vidjeti u kojoj državi?",
+    "correct": "Francuskoj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 414,
+    "question": "Kako se zvala najveća vojna jedinica u okviru rimske vojske?",
+    "correct": "Legija",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 415,
+    "question": "U kojem talijanskom gradu se nalaze Karakaline terme, kompleks koji je odjednom mogao primiti 1600 kupača?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 416,
+    "question": "Tko je bio vođa britanskih plemena koja su pružala otpor Cezaru za njegova osvajanja britanijom?",
+    "correct": "Kasivelaun",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 417,
+    "question": "Koji naziv se koristio za konzervativnu frakciju u senatu rimske republike?",
+    "correct": "Optimati",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 418,
+    "question": "U rečenici 'Veni Vidi Vici', jedna se riječ ne može napisati koristeći samo rimske brojeve, koja?",
+    "correct": "Veni",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 419,
+    "question": "Koji broj stari Rimljani nisu poznavali?",
+    "correct": "Nula",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Povijest",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 420,
+    "question": "Od 7 rimskih kraljeva, koliko ih je bilo etruščanskog porijekla?",
+    "correct": "3",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 421,
+    "question": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
+    "correct": "Perzeja",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 422,
+    "question": "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?",
+    "correct": "Hanibala",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 423,
+    "question": "Tko je na Tiberijevo pitanje 'Zašto ste se pobunili?' odgovorio slavnom rečenicom 'Vi ste Rimljani krivi jer ste umjesto pastirskih pasa poslali vukove da čuvaju vaše stado'?",
+    "correct": "Baton Dezidijat",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "golden",
+    "image": null
+  },
+  {
+    "index": 424,
+    "question": "Film Claudea Zidija iz 1999. prati Asterixa i Obelixa protiv kojeg vojskovođe?",
+    "correct": "Gaja Julija Cezara",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 425,
+    "question": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
+    "correct": "Avarik",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 426,
+    "question": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
+    "correct": "Kartagu",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 427,
+    "question": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+    "correct": "Palatinu",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 428,
+    "question": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+    "correct": "Oton",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 429,
+    "question": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
+    "correct": "Konzul",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 430,
+    "question": "Koji legendarni rimski kralj, ruši i spaljuje grad Alba Longu oko 665.g. pr. Kr. a njegove stanovnike preseljava u Rim?",
+    "correct": "Tul Hostilije",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 431,
+    "question": "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?",
+    "correct": "Gencije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 432,
+    "question": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
+    "correct": "Fritiger",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 433,
+    "question": "Tko je bio prvi germanski vođa koji je osvojio Rim?",
+    "correct": "Alarik",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 434,
+    "question": "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?",
+    "correct": "Pauci",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 435,
+    "question": "Koje slovo je označavalo broj 1000 u rimskom carstvu?",
+    "correct": "M",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 436,
+    "question": "Ruski slikar Karl Bryullov je 1833.g. naslikao posljednje dane kojeg grada?",
+    "correct": "Pompeja",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 437,
+    "question": "Kod kojeg mjesta car Valens doživljava veliki poraz od vizigota gdje i sam pogiba, a ta bitka je nagovijestila skori pad zapadnog rimskog carstva?",
+    "correct": "Hadrijanopola",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 438,
+    "question": "Kako bi stari rimljani napisali broj '410'?",
+    "correct": "CDX",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 439,
+    "question": "Tko je bio posljednji zapadnorimski car?",
+    "correct": "Romul Augustul",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 440,
+    "question": "Koje slovo je označavalo broj 1 u rimskom carstvu?",
+    "correct": "I",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 441,
+    "question": "Koji rimski car proglašava kršćanstvo državnom religijom, a kršćani njemu daju nadimak Veliki?",
+    "correct": "Teodozije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 442,
+    "question": "Koji je germanski narod opljačkao Rim 455.g.?",
+    "correct": "Vandali",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 443,
+    "question": "Koji rimski car je proveo posljednje velike progone kršćana?",
+    "correct": "Dioklecijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 444,
+    "question": "Tko je bio zadnji 'priznati' rimski car, zapadnog rimskog carstva?",
+    "correct": "Julije Nepot",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 445,
+    "question": "Ime kojeg rimskog cara se krije u anagramu riječi 'vrane'?",
+    "correct": "Nerva",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 446,
+    "question": "Stupivši na prijestolje zajedno sa Maksimijanom, Dioklecijan isprva dijeli carstvo prema odgovornosti na dva dijela, zapadno i Istočno, a kojim je upravljao on?",
+    "correct": "Istočnim",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 447,
+    "question": "Treći ekumenski sabor crkve se sazvao u drevnom Efezu, na području današnje Turske, u to vrijeme je na tom području upravljalo istočno rimsko carstvo, a za vrijeme sabora, tim carstvom je upravljao koji car?",
+    "correct": "Teodozije II.",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 448,
+    "question": "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje hrvatske je pripalo kojem?",
+    "correct": "Zapadnom",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 449,
+    "question": "U kojem engleskom gradu se nalazi brončani kip rimskog cara Konstantina I. Velikog?",
+    "correct": "Yorku",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 450,
+    "question": "Vizigotska, ili Alarikova pljačka Rima dogodila se koje godine?",
+    "correct": "410.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 451,
+    "question": "Teodozijeve zakone, tj. zbirke zakona rimskog carstva iz doba kršćanskih careva sastavio je Teodozije II., car istočnog carstva, a tko je te zakone, godinu poslije, uveo u zapadno?",
+    "correct": "Valentinijan III.",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 452,
+    "question": "Koje je igre, rimski car Teodozije, 393.g. odlučio zabraniti jer ih je smatrao kao poganske?",
+    "correct": "Olimpijske",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 453,
+    "question": "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje Srbije je najvećim dijelom pripalo kojem?",
+    "correct": "Istočnom",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 454,
+    "question": "Kroz koliko stoljeća se odvijala vlast cara Dioklecijana nad rimskim carstvom?",
+    "correct": "2",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 455,
+    "question": "Kojim ediktom car Konstantin I. Veliki službeno označava kraj vjerskih progona u rimskom carstvu?",
+    "correct": "Milanskim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 456,
+    "question": "Tko je bio car zapadnog rimskog carstva u trenucima kada su vizigoti 410.g. provalili i opljačkali Rim?",
+    "correct": "Honorije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 457,
+    "question": "Vizigoti provalju te pljačkaju Rim 410.g. pod vodstvom kojeg kralja?",
+    "correct": "Alarika",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 458,
+    "question": "Koji burgundski kraljević, zajedno sa svojom vojskom izabire Glicerija za cara zapadnog rimskog carstva?",
+    "correct": "Gundobad",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 459,
+    "question": "Koji je 'bič' predvodio Hune u bitci na Katalunskim poljima, kraj današnjeg Orleansa, protiv Zapadnog rimskog carstva i Vizigota?",
+    "correct": "Božji",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 460,
+    "question": "Na slici Karla Bryullova iz 1836.g. prikazana je Gajzerikova pljačka kojeg grada?",
+    "correct": "Rima",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 461,
+    "question": "Na čelu s kojim kraljem, godine 455. vandali ulaze u Rim te ga pljačkaju?",
+    "correct": "Gajzerikom",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 462,
+    "question": "Koji narod pobjeđjuje rimsku vojsku u bitci kod rijeke Alije te 390.g pljačka Rim?",
+    "correct": "Gali",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 463,
+    "question": "Koje slovo je označavalo broj 10 u rimskom carstvu?",
+    "correct": "X",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 464,
+    "question": "Koje slovo je označavalo broj 500 u rimskom carstvu?",
+    "correct": "D",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 465,
+    "question": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
+    "correct": "Dioklecijanova",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 466,
+    "question": "Tko je bio na čelu galske vojske kada su 390.g. provalili i opljačkali Rim?",
+    "correct": "Bren",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 467,
+    "question": "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?",
+    "correct": "Konstantina",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 468,
+    "question": "Koji je rimski vojskovođa uz pomoć Vizigota, porazio Hune u bitci na Katalunskim poljima 451.g.?",
+    "correct": "Flavije Aecije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 469,
+    "question": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
+    "correct": "C",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 470,
+    "question": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
+    "correct": "Vepra",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 471,
+    "question": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+    "correct": "Konstantinopol",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 472,
+    "question": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
+    "correct": "L",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 473,
+    "question": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+    "correct": "Zapadom",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 474,
+    "question": "Da se rimski car Valens rodio danas, bio bi građanin koje države?",
+    "correct": "Hrvatske",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 475,
+    "question": "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?",
+    "correct": "Guske",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 476,
+    "question": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+    "correct": "Konstantin",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 477,
+    "question": "Tko je bio car istočnog, u vrijeme kada je zapadno rimsko carstvo prestalo postojati?",
+    "correct": "Zenon",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 478,
+    "question": "Koji rimski car je sazvao prvi ekumenski crkveni sabor?",
+    "correct": "Konstantin",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 479,
+    "question": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
+    "correct": "Honoriju",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 480,
+    "question": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
+    "correct": "Odoakar",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 481,
+    "question": "Koji se današnji grad, poznat po modi, u doba rimskog carstva zvao Mediolanum?",
+    "correct": "Milano",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 482,
+    "question": "Koji je današnji francuski grad rimski car Aurelijan nazvao po sebi, Aurelianum?",
+    "correct": "Orleans",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 483,
+    "question": "Koju su riječ stari rimljani koristili za 'granicu'?",
+    "correct": "Limes",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 484,
+    "question": "Tko je bio prvi rimski car koji je primio sakramenat krštenja?",
+    "correct": "Konstantin",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 485,
+    "question": "S čijim imenom je počelo rimsko kraljevstvo a završilo zapadno rimsko carstvo?",
+    "correct": "Romul",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 486,
+    "question": "Vizigoti provaljuju i pljačkaju Rim 410.g., a Vandali to ponavljaju nekoliko desetljeća poslije, koje točno godine?",
+    "correct": "455.",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 487,
+    "question": "Kod kojeg rta su vandali 468.g. na čelu s kraljem Gajzerikom, porazili duplo veću vojsku istočnog rimskog carstva koja je brojala preko 1000 brodova i 100 000 vojnika?",
+    "correct": "Bon",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 488,
+    "question": "Koji današnji grad se prije spominjao kao Bizantij, Konstantinopol i Carigrad?",
+    "correct": "Istanbul",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 489,
+    "question": "U kojem je drevnom gradu, na području današnje Turske, ustoličen Dioklecijan kao rimski car?",
+    "correct": "Nikomediji",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": "silver",
+    "image": null
+  },
+  {
+    "index": 490,
+    "question": "Ime kojeg rimskog cara, možemo povezati sa jednom bezbojnom, viskoznom tekućinom slatkastog okusa?",
+    "correct": "Glicerije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 491,
+    "question": "Za kojeg rimskog cara, kršćanstvo u cijelom rimskom carstvu postaje jedina dopuštena državna religija?",
+    "correct": "Teodozija",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 492,
+    "question": "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje BiH je pripalo kojem?",
+    "correct": "Zapadnom",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 493,
+    "question": "Rimski car Konstantin I. Veliki je na mjestu starog Bizantija odredio granice kojeg budućeg 'svoga' grada?",
+    "correct": "Konstantinopola",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 494,
+    "question": "Koje slovo je označavalo broj 5 u rimskom carstvu?",
+    "correct": "V",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 495,
+    "question": "Oko hramova koje rimske boginje su se redovno zadržavala jata gusaka?",
+    "correct": "Junone",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 496,
+    "question": "Koliko su današnji Vinkovci, a nekada Cibalae, iznjedrili rimskih careva?",
+    "correct": "2",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 497,
+    "question": "Da se rimski car Konstantin I. Veliki rodio danas, bio bi građanin koje države?",
+    "correct": "Srbije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 498,
+    "question": "Koji je rimski car sazvao drugi ekumenski crkveni sabor 381.g. koji se sastao u Carigradu?",
+    "correct": "Teodozije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 499,
+    "question": "Kada je Konstancije bio 'junior cezar' , Galerije mu je bio 'senior cezar', a kada je Maksimijan bio 'junior august', 'senior august' mu je bio tko?",
+    "correct": "Dioklecijan",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 500,
+    "question": "Koji car je bio posljednji, univarzalni vladar cijelog rimskog carstva, prije službene podjele na zapadno i istočno?",
+    "correct": "Teodozije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 501,
+    "question": "Na kojim se poljima odvila najvažnija bitka između Huna i Zapadnorimskog carstva u savezu sa Vizigotima?",
+    "correct": "Katalaunskim",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 502,
+    "question": "Koju goru su rimljani zvali Mons Almus, a ostala je poznata kao utvrda Breuka i Dezidijata tjekom rimske okupacije?",
+    "correct": "Fruška Gora",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 503,
+    "question": "U ratu između Julija Cezara i Ptolomeja 13. u jednom od požara zapaljena je i koja glasovita knjižnica?",
+    "correct": "Aleksandrijska",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 504,
+    "question": "Koji je uski planinski prolaz u grčkoj uvelike obilježio grčko-perzijske te rimsko-seleukidske ratove?",
+    "correct": "Termopil",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 505,
+    "question": "Koji rimski bog je prikazan na Caravaggiovoj slici 'Amor Vincit Omnia'?",
+    "correct": "Kupid",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 506,
+    "question": "Koji je drevni narod italije prvo ratovao, pa se udružio sa Romulovim narodom nakon što su 'Otete Sabinjanke' zaustavile boj?",
+    "correct": "Sabinjani",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 507,
+    "question": "Koji kalendar ustanovljuje Julije Cezar, a koristiti će se do 16. st?",
+    "correct": "Julijanski",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 508,
+    "question": "Koje carstvo je svoje vojnike naoružavalo gladiusom, scutumom, pugiom i pilumom?",
+    "correct": "Rimsko",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 509,
+    "question": "Na koje razdoblje da upravljaju, su birani konzuli u starom Rimu?",
+    "correct": "1 godinu",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 510,
+    "question": "Tko je otac bogova i bog vremena u rimskoj mitologiji?",
+    "correct": "Saturn",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 511,
+    "question": "Koje ime nosi vrhovni bog italskih naroda?",
+    "correct": "Jupiter",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 512,
+    "question": "'Zagrebačka lanena knjiga' je rukopis s najduljim sačuvanim tekstom na jeziku kojeg drevnog naroda sa Apeninskog poluotoka?",
+    "correct": "Etruščana",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 513,
+    "question": "Tko je uz Bruta predvodio urotu protiv Julija Cezara u kojoj je Julije i ubijen?",
+    "correct": "Kasije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 514,
+    "question": "Koji grad tražimo, ako znamo da se u rimsko doba zvao Tilurium?",
+    "correct": "Trilj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 515,
+    "question": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
+    "correct": "Pompejevo kazalište",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 516,
+    "question": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
+    "correct": "Pontskog",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 517,
+    "question": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+    "correct": "Lari",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 518,
+    "question": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+    "correct": "Kleopatri",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 519,
+    "question": "Na teritoriju koje današnje države se nalazila Kartaga?",
+    "correct": "Tunis",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 520,
+    "question": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
+    "correct": "Drugog",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 521,
+    "question": "Tko je Posejdonov pandan u rimskoj mitologiji?",
+    "correct": "Neptun",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 522,
+    "question": "Koji egipatski faraon je dao pogubiti Pompeja Velikog?",
+    "correct": "Ptolomej 13.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 523,
+    "question": "Koji je površinom najveći otok koji je u cijelosti bio pod rimskom vlašću?",
+    "correct": "Sicilija",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 524,
+    "question": "Koji se 'Hram svih Bogova' nalazi u Rimu i dan danas a datira iz davne 125.g. i vremena cara Hadrijana?",
+    "correct": "Panteon",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 525,
+    "question": "Koja 4 slova stoje na zastavama rimske republike i rimskog carstva?",
+    "correct": "SPQR",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 526,
+    "question": "Koliko je kraljeva vladalo rimskim kraljevstvom?",
+    "correct": "7",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 527,
+    "question": "Kako se zvala klasa građana s manjim pravima u starom Rimu, uglavnom seljačkog podrijetla?",
+    "correct": "Plebejci",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 528,
+    "question": "Na području koje hrvatske županije se nalaze ostaci Andetriuma, davne ilirske utvrde koju rimljani osvajaju i tako guše ilirski ustanak?",
+    "correct": "Splitsko Dalmatinske",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 529,
+    "question": "'Cezar i Kleopatra' je film iz 1945. u kojem Kleopatru glumi Vivien Leigh a Cezara tko?",
+    "correct": "Claude Rains",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 530,
+    "question": "Koji nadimak na latinskom je dobio posljednji rimski kralj Lucije Tarkvinije, što u prijevodu znači 'oholi'?",
+    "correct": "Superbus",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 531,
+    "question": "Tko je bio prvi rimski car nakon završetka Julijevsko - Klaudijevske dinastije i njihovih 5 careva?",
+    "correct": "Galba",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 532,
+    "question": "Za vrijeme kojeg rimskog kralja je sagrađen 'Circus Maximus', ogromni hipodrom za utrke dvokolica i gladijatorske borbe?",
+    "correct": "Tarkvinija 1.",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 533,
+    "question": "Drugi trijumvirat 43.g. pr. Kr. su sklopili Oktavijan (kasnije August), Marko Emilie Lepid i tko još?",
+    "correct": "Marko Antonije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 534,
+    "question": "Koji Punski rat je trajao najduže, čak 23 godine?",
+    "correct": "1. Punski rat",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 535,
+    "question": "Koga je Karl Marx isticao kao 'najizvrsnijeg heroja cijele antičke povijesti'?",
+    "correct": "Spartaka",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 536,
+    "question": "Koje je španjolsko otočje u vrijeme antičkog Rima bilo poznato i cijenjeno po svojim vrsnim strijelcima i praćkašima?",
+    "correct": "Balearsko",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 537,
+    "question": "Koji se latinski izraz koristi za titulu koju su nosili kraljevi Rima?",
+    "correct": "Rex",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 538,
+    "question": "Via Argentaria je starorimska cesta koja je iz današnjeg Solina vodila do kojeg današnjeg grada u BiH?",
+    "correct": "Srebrenice",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 539,
+    "question": "Tko je naslijedio carsku titulu od cara Augusta?",
+    "correct": "Tiberije",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 540,
+    "question": "Koji je slavni rimski vojskovođa poražen i ubijen u bitci kod Harana tijekom borbe sa partskim carstvom?",
+    "correct": "Marko Licinije Kras",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 541,
+    "question": "Kako se zvao veliki starorimski pravokutni štit koji su vojnici nosili u boj?",
+    "correct": "Scutum",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 542,
+    "question": "Tko je rimski bog neba, pandan grčkom Uranu?",
+    "correct": "Cel",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 543,
+    "question": "Koje rimsko božanstvo se smatra i 'majkom zemljom', nastalo iz Kaosa?",
+    "correct": "Terra",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 544,
+    "question": "Koji je kralj Alba Longe ostao upamćen po kopanju Kluilijeva rova oko Rima te opsjedanjem tog istog grada?",
+    "correct": "Gaj Kluilije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 545,
+    "question": "U kojem se francuskom gradu nalazi Maison Carrée, jedan od najbolje očuvanih hramova iz doba Rimskog Carstva?",
+    "correct": "Nimesu",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 546,
+    "question": "Koji starorimski povjesničar u svom djelu 'Annales' spominje kršćane i Isusa?",
+    "correct": "Tacit",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 547,
+    "question": "Rimski kućni duhovi, ključni za obiteljsku religiju, bili su Lari i koji još?",
+    "correct": "Penati",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 548,
+    "question": "40-e godine pr. Kr. rimski senat imenuje koga za kralja Judeje?",
+    "correct": "Heroda",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 549,
+    "question": "Koji je starorimski novac kovan od bakra a kasnije i mesinga, vrijedio 2 asa?",
+    "correct": "Dupondij",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 550,
+    "question": "Koji je francuski slikar naslikao 'Zakletvu Horacija' i 'Veneru i tri gracije razoružavaju Marsa'?",
+    "correct": "Jacques Louis David",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 551,
+    "question": "Koji je galski poglavica bio vođa galskih plemena u pobuni protiv rimske vlasti na čelu s Julijem Cezarom?",
+    "correct": "Vercingetoriks",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 552,
+    "question": "Julijevsko - Klaudijevska dinastija je iznjedrila koliko rimskih careva?",
+    "correct": "5",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 553,
+    "question": "Prema legendi, rat između Rima i Alba Longe je odlučen u dvoboju 3 brata albske obitelji Curiatii protiv 3 brata koje rimske obitelji?",
+    "correct": "Horatii",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 554,
+    "question": "Koja je rimska božica rodila bogove Marsa i Vulkana?",
+    "correct": "Junona",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 555,
+    "question": "Koji latinski naziv, preveden kao 'žigosani bakar', koristimo za rane rimske bakrene ingote, preteče kovanog novca?",
+    "correct": "Aes Signatum",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": "platinum",
+    "image": null
+  },
+  {
+    "index": 556,
+    "question": "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?",
+    "correct": "Napuljskom",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 557,
+    "question": "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?",
+    "correct": "Egerija",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 558,
+    "question": "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?",
+    "correct": "Pugio",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 559,
+    "question": "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?",
+    "correct": "Teutoburškoj šumi",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 560,
+    "question": "Što je Had, Perzefoni, to je Pluton, kome?",
+    "correct": "Prozerpini",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 561,
+    "question": "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?",
+    "correct": "Flamen",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 562,
+    "question": "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?",
+    "correct": "Breučkog",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 563,
+    "question": "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?",
+    "correct": "Augusta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 564,
+    "question": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+    "correct": "Kocka",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 565,
+    "question": "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?",
+    "correct": "Punski ratovi",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 566,
+    "question": "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?",
+    "correct": "Beč",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 567,
+    "question": "Koji današnji kanal su rimljani morali preploviti u pohodu na Britaniju?",
+    "correct": "La Manche",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 568,
+    "question": "1120km duga rimska cesta Via Egnatia je svoju početnu točku imala u današnjoj Albaniji, a završavala je u kojoj današnjoj državi?",
+    "correct": "Turskoj",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 569,
+    "question": "Koji naziv se koristio za populističku frakciju u senatu rimske republike?",
+    "correct": "Populari",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 570,
+    "question": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+    "correct": "Pir",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 571,
+    "question": "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?",
+    "correct": "Sisak",
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 572,
+    "question": "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?",
+    "correct": "Teuta",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 573,
+    "question": "Koliko su ratova vodili Rim i Makedonija u razdoblju od 214.g. pr. Kr do 148.g. pr. Kr?",
+    "correct": "4",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 574,
+    "question": "Koji je rimski pisac napisao biografiju 'O dvanaest rimskih careva'?",
+    "correct": "Svetonije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 575,
+    "question": "Tko je bio 3. rimski car, poznat po rastrošnosti i luđačkom umu?",
+    "correct": "Kaligula",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 576,
+    "question": "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?",
+    "correct": "Vitruvijev čovjek",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 577,
+    "question": "Vitruvije je bio rimski pisac, arhitekt i vojni inženjer koji je živio u vrijeme kojeg rimskog cara?",
+    "correct": "Augusta",
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 578,
+    "question": "Nastavi redoslijed: August, Tiberije, Kaligula pa tko onda?",
+    "correct": "Klaudije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 579,
+    "question": "Heraklo iz grčke mitologije se zvao kako u rimskoj mitologiji?",
+    "correct": "Herkul",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 580,
+    "question": "Cloaca Maxima je najstariji sustav kanalizacije na svijetu nastao za rimskog kraljevstva, a nalazi se u kojem gradu?",
+    "correct": "Rimu",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 581,
+    "question": "Koliko je bilo Punskih ratova?",
+    "correct": "3",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 582,
+    "question": "Hanibal je u ratnim pohodima na Rimljane koristio i koje velike sisavce?",
+    "correct": "Slonove",
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 583,
+    "question": "Duž koje rimske ceste je bilo razapeto 6 000 pobunjenih robova na kraju Spartakova rata?",
+    "correct": "Via Appije",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 584,
+    "question": "Kojeg se rimskog boga rata smatra Romulovim ocem, pa tako i praocem rimljana?",
+    "correct": "Marsa",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 585,
+    "question": "Askanije (drugog imena Jul) je, u rimskoj mitologiji, sin Enejin, osnivač staroitalskog grada Alba Longe te mitski praotac kojeg rimskoga roda iz kojeg potječe i Julije Cezar?",
+    "correct": "Julijevaca",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 586,
+    "question": "Batonski rat je ujedno značio i čiji 'veliki ustanak' protiv rimljana?",
+    "correct": "Ilirski",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 587,
+    "question": "Kako se zove rimska božica umjetnosti, ratova i mudrosti?",
+    "correct": "Minerva",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 588,
+    "question": "Prvi trijumvirat 60.g. pr. Kr. su sklopili Julije Cezar, Marko Licinije Kras i tko još?",
+    "correct": "Pompej",
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  },
+  {
+    "index": 589,
+    "question": "Koje ime je nosio staro-rimski zlatni novac prije Solidusa?",
+    "correct": "Aureus",
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "rarity": null,
+    "image": null
+  }
+]
