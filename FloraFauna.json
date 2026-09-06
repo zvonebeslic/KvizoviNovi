@@ -1,0 +1,112 @@
+[
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Prijenosnu knjižnicu sa 117 000 knjiga, perzijskog velikog vezira Saheb Ibn Abada nosilo je čak 400 jedinki koje vrste životinje?",
+    "answers": {"A": "Deva", "B": "Konj", "C": "Magarac"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "U bitki kod Peluzija 525. pr. Kr. Perzijanci su pobijedili Egipćane noseći sa sobom koje današnje kućne ljubimce?",
+    "answers": {"A": "Pse", "B": "Mačke", "C": "Kuniće"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koju životinju je rimski car Kaligula proglasio rimskim građaninom a namjeravao ju je imenovati i konzulom?",
+    "answers": {"A": "Slona", "B": "Psa", "C": "Konja"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "FloraFauna",
+    "question": "Koje ime dijele jedan rimski bog i jedan od Francuskih goniča Georga Washingtona?",
+    "answers": {"A": "Vulcan", "B": "Mars", "C": "Apollo"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Koja životinja na sebi ima kućicu?",
+    "answers": {"A": "Kornjača", "B": "Puž", "C": "Jež"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Za koju mačku se kaže da je 'kralj životinja'?",
+    "answers": {"A": "Tigar", "B": "Leopard", "C": "Lav"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "FloraFauna",
+    "question": "Koja životinja mijenja boju kože radi kamuflaže, a ima i jako brz jezik?",
+    "answers": {"A": "Kameleon", "B": "Iguana", "C": "Gekon"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "rarity": "silver",
+    "difficulty": 3,
+    "topic": "FloraFauna",
+    "question": "Koje drvo može narasti preko 20m u visinu i 8m u širinu a ujedno je i nacionalni simbol Madagaskara?",
+    "answers": {"A": "Sekvoja", "B": "Baobab", "C": "Eukaliptus"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Kojoj vrsti drveća pripada divovska Hyperion, stablo visoko preko 115m te ga se smatra i najvišim na svijetu?",
+    "answers": {"A": "Eukaliptusima", "B": "Duglazijama", "C": "Sekvojama"},
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje tropsko voće bodljikave ljuske iz jugoistočne Azije ima bogat okus ali i jako neugodan miris?",
+    "answers": {"A": "Durian", "B": "Rambutan", "C": "Pitaja"},
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "FloraFauna",
+    "question": "Plod kojeg drveta najviše podsjeća na ljudski mozak?",
+    "answers": {"A": "Lješnjaka", "B": "Oraha", "C": "Badema"},
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "FloraFauna",
+    "question": "Koje drvo je u narodu poznato kao 'Drvo Mozak' a plod mu se popularno zove konjskom ili adamovom jabukom?",
+    "answers": {"A": "Dud", "B": "Kaki", "C": "Maklura"},
+    "correct_answer": "C",
+    "image": null
+  }
+]
