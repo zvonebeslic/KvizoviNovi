@@ -1,0 +1,257 @@
+[
+  {
+    "index": 16,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koju je vojnu operaciju 1991.g. George H. W. Bush u Kuvajtu pokrenuo protiv Iraka i njihovog vođe Saddama Husseina?",
+    "answers": {"A": "Pustinjski štit", "B": "Pustinjska oluja", "C": "Pustinjska lisica"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 17,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U eri kojeg se rata, odvijao i Vijetnamski rat?",
+    "answers": {"A": "Hladnog rata", "B": "Korejskog rata", "C": "Drugog svjetskog rata"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 18,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koja španjolska riječ za 'grm' je poslužila Georgeu Bushu za ime svoje kompanije za eksploataciju nafte i plina?",
+    "answers": {"A": "Matorral", "B": "Arbusto", "C": "Bosque"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 19,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kojeg se datuma dogodio teroristički napad na Ameriku i WTC?",
+    "answers": {"A": "11.9.", "B": "7.7.", "C": "19.4."},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 20,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Sa kojim dvorom legendarnog kralja Arthura se često uspoređuje predsjedništvo JFK-a?",
+    "answers": {"A": "Avalon", "B": "Camelot", "C": "Tintagel"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 21,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Prije nego je postao predsjednik, Ronald Reagan je bio guverner koje savezne američke države?",
+    "answers": {"A": "Kalifornije", "B": "Nevade", "C": "Arizone"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 22,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koliko je misija sveukupno obavio svemirski program Apollo?",
+    "answers": {"A": "15", "B": "17", "C": "19"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_status": "source_conflict",
+    "qa_note": "Izvorni odgovor je 17, ali NASA označava misije Apollo 1 te Apollo 4–17; brojevi Apollo 2 i Apollo 3 nisu korišteni. Ako se pita broj stvarno označenih misija u NASA-inu popisu, formulaciju treba precizirati."
+  },
+  {
+    "index": 23,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Na kojeg je svećenika i borca za prava američkog crnačkog stanovništva izvršen atentat dok je američki predsjednik bio Lyndon B. Johnson?",
+    "answers": {"A": "Malcolm X", "B": "Martin Luther King", "C": "Medgar Evers"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 24,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik bio na dužnosti kroz dva tisućljeća?",
+    "answers": {"A": "George H. W. Bush", "B": "Bill Clinton", "C": "George W. Bush"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 25,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio 46. predsjednim SAD-a?",
+    "answers": {"A": "Barack Obama", "B": "Joe Biden", "C": "Donald Trump"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 26,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Za kojeg se grčkog bogataša i brodovlasnika udala udovica Johna F. Kennedyja, Jacqueline Bouvier?",
+    "answers": {"A": "Stavros Niarchos", "B": "Aristoteles Socrates Onassis", "C": "George Livanos"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 27,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Raketna kriza na kojem otoku je zamalo dovela do 3. svjetskog rata?",
+    "answers": {"A": "Kuba", "B": "Portoriko", "C": "Hispaniola"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 28,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio potpredsjednik u kabinetu Billa Clintona?",
+    "answers": {"A": "Dan Quayle", "B": "Al Gore", "C": "Dick Cheney"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 29,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje je srednje ime, američkog predsjednika Richarda Nixona?",
+    "answers": {"A": "Milhous", "B": "Prescott", "C": "Delano"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 30,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "S kojom je Hollywoodskom kompanijom Ronald Reagan kao glumac sklopio ugovor po kojem je morao nastupiti u najmanje 7 filmova?",
+    "answers": {"A": "MGM", "B": "Warner Bros", "C": "Paramount Pictures"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 31,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio 40-i predsjednik SAD-a ali i 33 guverner Kalifornije?",
+    "answers": {"A": "Richard Nixon", "B": "Ronald Reagan", "C": "Gerald Ford"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 32,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje ime je nosio Obamin zakon o općem i obaveznom zdravstvenom osiguranju?",
+    "answers": {"A": "Medicare for All", "B": "Obamacare", "C": "Great Society"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Obamacare je uobičajeni naziv za Affordable Care Act; formulacija 'opće i obavezno zdravstveno osiguranje' pojednostavljuje sadržaj zakona."
+  },
+  {
+    "index": 33,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio jedini američki predsjednik koji je bio kvalificirani podmorničar?",
+    "answers": {"A": "John F. Kennedy", "B": "Jimmy Carter", "C": "George H. W. Bush"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 34,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kao zapovjednik torpednog čamca u 2. svjetskom ratu, John F. Kennedy je 1943.g. ranjen u borbi protiv kojeg carstva?",
+    "answers": {"A": "Njemačkog", "B": "Japanskog", "C": "Talijanskog"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 35,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio Nixonov savjetnik za nacionalnu sigurnost, a kasnije i državni tajnik?",
+    "answers": {"A": "Dean Rusk", "B": "Henry Kissinger", "C": "Alexander Haig"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 36,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "S kojim se revolucionarom i državnikom Richard Nixon sastao u Kini 1971.g. gdje je Narodnoj Republici Kini ponuđeno da se pridruži Ujedinjenim Narodima?",
+    "answers": {"A": "Mao Ce Tung", "B": "Zhou Enlai", "C": "Deng Xiaoping"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "Nixon se s Mao Zedongom sastao 21. veljače 1972., ne 1971. Pitanje spaja taj susret s odvojenim događajem iz 1971., kada je Narodna Republika Kina dobila kinesko mjesto u UN-u."
+  },
+  {
+    "index": 37,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kojem su američkom predsjedniku Green Bay Packersi i Detroit Lionsi ponudili profesionalni NFL ugovor, što je on odbio te otišao na Yale?",
+    "answers": {"A": "Geraldu Fordu", "B": "Dwightu Eisenhoweru", "C": "Ronald Reagan"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 38,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koja glumica, pjevačica i pop ikona svoje umjetničko prezime dijeli sa petim predsjednikom SAD-a?",
+    "answers": {"A": "Marilyn Monroe", "B": "Judy Garland", "C": "Rita Hayworth"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 39,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je Bellov izum, Theodore Roosevelt kao policijski načelnik New Yorka uveo u svaku Njujoršku policijsku postaju?",
+    "answers": {"A": "Telegraf", "B": "Telefon", "C": "Fonograf"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 40,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kako se zove ubojica JFK-a?",
+    "answers": {"A": "Jack Ruby", "B": "Lee Harvey Oswald", "C": "John Wilkes Booth"},
+    "image": null,
+    "correct_answer": "B"
+  }
+]
