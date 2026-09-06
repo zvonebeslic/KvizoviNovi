@@ -18,7 +18,6 @@ def first_answer(q):
     if isinstance(a,list) and a: return str(a[0]).strip()
     raise ValueError('Nema izvornog odgovora')
 
-# Kategorije su namjerno uske: cilj je da distraktori budu iste vrste kao točan odgovor.
 def category(q, ans):
     x=norm(q.get('question','')); a=norm(ans)
     if a in {'da','ne','tocno','netocno','istina','laz','true','false'}: return 'binary'
@@ -51,7 +50,6 @@ def category(q, ans):
     ]
     for cat,pat in tests:
         if re.search(pat,x): return cat
-    # odgovori s dvije ili tri riječi i velikim početnim slovima često su osobna imena; samo kao zadnja rezerva
     raw=str(ans).strip()
     if re.fullmatch(r"[A-ZČĆŽŠĐ][^0-9,;:!?]{1,30}\s+[A-ZČĆŽŠĐ][^0-9,;:!?]{1,30}(?:\s+[A-ZČĆŽŠĐ][^0-9,;:!?]{1,30})?", raw): return 'personlike'
     return 'other'
@@ -70,7 +68,6 @@ def numeric_wrongs(ans, cat):
     out=[]
     for v in vals:
         s=str(int(v)) if float(v).is_integer() else str(v).replace('.',',')
-        # zadrži osnovnu jedinicu ako postoji
         suffix=(raw[m.end():]).strip()
         out.append(s + ((' '+suffix) if suffix else ''))
     if norm(out[0])==norm(raw) or norm(out[1])==norm(raw) or norm(out[0])==norm(out[1]): return None
@@ -88,14 +85,10 @@ def choose_pair(i, cat, source, cats):
     correct=first_answer(source[i]); nc=norm(correct)
     if cat=='binary':
         n=norm(correct)
-        if n in {'da','tocno','istina','true'}: return ['Ne']
-        return ['Da']
+        return ['Ne'] if n in {'da','tocno','istina','true'} else ['Da']
     if cat in {'year','number'}:
         z=numeric_wrongs(correct,cat)
         if z: return z
-
-    # Prioritet: ista kategorija + blizina u izvornom dokumentu. Pitanja su u bazama često tematski grupirana,
-    # pa bliski odgovori iste vrste daju znatno prirodnije distraktore od nasumičnog globalnog izbora.
     candidates=[]
     for distance in range(1, len(source)):
         for j in (i-distance, i+distance):
@@ -104,7 +97,6 @@ def choose_pair(i, cat, source, cats):
                 if norm(a)!=nc and compatible(cat,a) and all(norm(a)!=norm(x) for x in candidates):
                     candidates.append(a)
                     if len(candidates)==2: return candidates
-    # srodne rezervne kategorije, nikad potpuno nasumični tipovi
     related={
       'person':['personlike'],'personlike':['person'],'city':['place'],'place':['city','country'],
       'country':['place'],'film':['book','game'],'book':['film'],'song':['album'],'album':['song'],
@@ -119,19 +111,33 @@ def choose_pair(i, cat, source, cats):
                     if norm(a)!=nc and compatible(rc,a) and all(norm(a)!=norm(x) for x in candidates):
                         candidates.append(a)
                         if len(candidates)==2: return candidates
-    # Posljednja rezerva: ručno neutralne alternative prema tipu.
     defaults={
-      'country':['Francuska','Italija'],'city':['Rim','Pariz'],'place':['Europa','Azija'],
-      'award':['Pulitzerova nagrada','Zlatni globus'],'language':['Francuski','Talijanski'],
-      'sport':['Tenis','Košarka'],'animal':['Lav','Tigar'],'plant':['Hrast','Maslina'],
-      'currency':['Euro','Dolar'],'religion':['Budizam','Hinduizam'],'war':['Prvi svjetski rat','Drugi svjetski rat'],
-      'dynasty':['Dinastija Han','Dinastija Ming'],'game':['Minecraft','The Legend of Zelda'],
-      'film':['Kum','Casablanca'],'book':['Odiseja','Božanstvena komedija'],
-      'song':['Imagine','Yesterday'],'album':['Abbey Road','Thriller'],
-      'music_artist':['The Beatles','Queen'],'club':['Real Madrid','Barcelona'],
-      'organization':['UNESCO','UNICEF'],'character':['Hamlet','Odisej'],'person':['Albert Einstein','Isaac Newton'],
-      'personlike':['Albert Einstein','Isaac Newton'],'title':['Alfa','Omega'],'other':['Prvi','Drugi']
-    }.get(cat,['Prvi','Drugi'])
+      'country':['Francuska','Italija','Španjolska','Njemačka'],
+      'city':['Rim','Pariz','Beč','Prag'],
+      'place':['Europa','Azija','Afrika','Sjeverna Amerika'],
+      'award':['Pulitzerova nagrada','Zlatni globus','Nagrada Booker','Zlatna palma'],
+      'language':['Francuski','Talijanski','Njemački','Španjolski'],
+      'sport':['Tenis','Košarka','Nogomet','Rukomet'],
+      'animal':['Lav','Tigar','Vuk','Medvjed'],
+      'plant':['Hrast','Maslina','Bor','Javor'],
+      'currency':['Euro','Dolar','Funta','Jen','Franak'],
+      'religion':['Budizam','Hinduizam','Kršćanstvo','Islam'],
+      'war':['Prvi svjetski rat','Drugi svjetski rat','Krimski rat','Sedmogodišnji rat'],
+      'dynasty':['Dinastija Han','Dinastija Ming','Dinastija Tang','Dinastija Qing'],
+      'game':['Minecraft','The Legend of Zelda','Fortnite','Grand Theft Auto'],
+      'film':['Kum','Casablanca','Titanic','Pakleni šund'],
+      'book':['Odiseja','Božanstvena komedija','Rat i mir','Don Quijote'],
+      'song':['Imagine','Yesterday','Hallelujah','Respect'],
+      'album':['Abbey Road','Thriller','Nevermind','The Wall'],
+      'music_artist':['The Beatles','Queen','U2','ABBA'],
+      'club':['Real Madrid','Barcelona','Bayern München','Juventus'],
+      'organization':['UNESCO','UNICEF','WHO','NATO'],
+      'character':['Hamlet','Odisej','Sherlock Holmes','Don Quijote'],
+      'person':['Albert Einstein','Isaac Newton','Charles Darwin','Nikola Tesla'],
+      'personlike':['Albert Einstein','Isaac Newton','Charles Darwin','Nikola Tesla'],
+      'title':['Alfa','Omega','Sigma','Delta'],
+      'other':['Prvi','Drugi','Treći','Četvrti']
+    }.get(cat,['Prvi','Drugi','Treći','Četvrti'])
     for a in defaults:
         if norm(a)!=nc and all(norm(a)!=norm(x) for x in candidates): candidates.append(a)
         if len(candidates)==2: break
@@ -146,7 +152,6 @@ def transform(name):
         correct=first_answer(q); cat=cats[i]; pair=choose_pair(i,cat,src,cats)
         item=dict(q)
         if cat=='binary':
-            # dvije opcije; balansiraj A/B po redoslijedu binarnih pitanja
             pos=binary%2; binary+=1
             vals=[None,None]; vals[pos]=correct; vals[1-pos]=pair[0]
             item['answers']={'A':vals[0],'B':vals[1]}
@@ -162,10 +167,9 @@ def transform(name):
         out.append(item)
     with open(ROOT/name,'w',encoding='utf-8') as f:
         json.dump(out,f,ensure_ascii=False,indent=2); f.write('\n')
-    # stroga strukturalna provjera
     check=json.load(open(ROOT/name,encoding='utf-8'))
     assert len(check)==len(src)
-    for i,(a,b) in enumerate(zip(src,check)):
+    for a,b in zip(src,check):
         assert a['question']==b['question']
         assert first_answer(a) in b['answers'].values()
         assert b['answers'][b['correct_answer']]==first_answer(a)
