@@ -1,0 +1,238 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojoj vojnoj utvrdi, smještenoj u Kentuckyju, Sjedinjene Američke Države drže više od polovice svojih zlatnih rezervi?",
+    "answers": {"A": "Fort Campbell", "B": "Fort Knox", "C": "Fort Bragg"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio ruski car u vrijeme kad se Aljaska prodala amerikancima?",
+    "answers": {"A": "Nikola I.", "B": "Aleksandar II.", "C": "Aleksandar III."},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Hodgenville je rodno mjesto Abrahama Lincolna a smješteno je u kojoj američkoj saveznoj državi?",
+    "answers": {"A": "Indiana", "B": "Kentucky", "C": "Illinois"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik poznat po nadimku Old Kinderhook?",
+    "answers": {"A": "Martin Van Buren", "B": "Andrew Jackson", "C": "William Henry Harrison"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Američka utvrda Fort Brown izgrađena je za potrebe američko - meksičkog rata na obali koje rijeke?",
+    "answers": {"A": "Colorado", "B": "Rio Grande", "C": "Brazos"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Andrew Jackson, prije nego je postao američki predsjednik je jednom prilikom sudjelovao u dvoboju pištoljima sa smrtnim ishodom. Protivnika je ubio nakon što je bio ranjen u prsa, a taj njegov protivnik ime i prezime dijeli sa jednim američkim piscem, autorom novele 'Valcer u Maratonu'. Kako se zvao taj protivnik?",
+    "answers": {"A": "Charles Dickinson", "B": "Thomas Benton", "C": "Jesse Benton"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji grad je bio metropola nepriznate konfederacije američkih država prije nego je to postao Richmond?",
+    "answers": {"A": "Atlanta", "B": "Montgomery", "C": "Charleston"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Slika 'Pad Alama', iz 1903.g. koju je naslikao Robert Jenkins Onderdonk, uprizoruje koga, da nakon istrošene municije, koristi svoju pušku kao palicu u borbi protiv meksikanaca?",
+    "answers": {"A": "Jim Bowie", "B": "Davyja Crocketta", "C": "William B. Travis"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio američki predsjednik u vrijeme kupovine teritorija Aljaske od rusa?",
+    "answers": {"A": "Abraham Lincoln", "B": "Andrew Johnson", "C": "Ulysses S. Grant"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Spletom okolnosti, prezime jednog američkog predsjednika danas označava mnoge poznate glazbeno - koncertne dvorane. Koje je to prezime, ako znamo da je taj 'splet okolnosti' počeo u San Franciscu?",
+    "answers": {"A": "Fillmore", "B": "Madison", "C": "Monroe"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Inicijali 18-og predsjednika SAD-a su USG, što punim imenom znači Ulysses Simpson Grant, ali nije uvijek bilo tako. Naime, upisivajući ga u vojnu akademiju West Point, školske vlasti su napravile grešku te ga upisale imenom koje je Ulysses 'zagrlio' i prihvatio, te je ostalo upamćeno, a kad bi se sjetili njegova rodnog imena, kako bi mu napisali inicijale?",
+    "answers": {"A": "HUG", "B": "UHG", "C": "HSG"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio američki predsjednik u vrijeme uvođenja prvih poštanskih markica u SAD-u?",
+    "answers": {"A": "James Knox Polk", "B": "Zachary Taylor", "C": "John Tyler"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje ime dijele vođa indijanskog plemena Sauka koji se predao američkoj vojsci u ratu 1832.g. te helikopteri američke vojske koji su pali u Somaliji 1993.g.?",
+    "answers": {"A": "Crveni Oblak", "B": "Crni Jastreb", "C": "Ludi Konj"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Posmrtni ostaci kojeg su američkog predsjednika iskapani 17 puta?",
+    "answers": {"A": "Georgea Washingtona", "B": "Abrahama Lincolna", "C": "Ulyssesa S. Granta"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_status": "source_conflict",
+    "qa_note": "Tvrdnja je pogrešno formulirana: Lincolnov lijes je premještan 17 puta, a otvaran 5 puta; posmrtni ostaci nisu 'iskapani 17 puta'."
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Andrew Johnson je prisegao za mjesto američkog predsjednika u 10h ujutro, samo dan nakon čijeg ubojstva?",
+    "answers": {"A": "Abrahama Lincolna", "B": "Jamesa Garfielda", "C": "Williama McKinleyja"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojoj je palači Ulysses S. Grant ručavao sa kraljicom Viktorijom?",
+    "answers": {"A": "Buckingham", "B": "Windsor", "C": "Kensington"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio prvi američki predsjednik koji se rodio kao američki državljanin?",
+    "answers": {"A": "Andrew Jackson", "B": "Martin Van Buren", "C": "John Quincy Adams"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koju vojnu akademiju je pohađao Ulysses S. Grant, 18-i predsjednik SAD-a?",
+    "answers": {"A": "West Point", "B": "Annapolis", "C": "The Citadel"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "S kojim se poznatim skladateljem, Ulysses S. Grant, u svojoj turneji svijetom, susreo u njemačkom Heidelbergu?",
+    "answers": {"A": "Johannes Brahms", "B": "Wilhelm Richard Wagner", "C": "Franz Liszt"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik imao nadimke 'pošteni Abe' i veliki osloboditelj'?",
+    "answers": {"A": "Abraham Lincoln", "B": "Andrew Johnson", "C": "Ulysses S. Grant"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji se general konfederacije američkih država proslavio pobjedama u mnogim bitkama američkog građanskog rata, da bi se na kraju predao Uniji kod Appomattoxa?",
+    "answers": {"A": "Thomas J. Jackson", "B": "Robert Edward Lee", "C": "Joseph E. Johnston"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koga tražimo, ako znamo da je, prije predsjedanja Amerikom, bio izabran kao guverner New Yorka 1829.g. ali je na tu funkciju odmah podnio ostavku kako bi postao državni tajnik u prvoj administraciji Andrewja Jacksona?",
+    "answers": {"A": "Martin Van Buren", "B": "John C. Calhoun", "C": "William H. Seward"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U opsadi kojeg meksičkog grada vojnici Zacharyja Taylora na bojišnici koriste taktiku zvanu 'mišja rupa', tj. blisku bitku prsa o prsa u zgradama umjesto otvorenih sukoba na ulicama?",
+    "answers": {"A": "Monterrey", "B": "Veracruz", "C": "Puebla"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "'Our American Cousin' je predstava za čijeg igranja je ubijen tko?",
+    "answers": {"A": "James Garfield", "B": "Abraham Lincoln", "C": "William McKinley"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "John Wilkes Booth i Lee Harvey Oswald su usmrtili predsjednike koje države?",
+    "answers": {"A": "SAD-a", "B": "Francuske", "C": "Meksika"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Od 1846.g. do 1848 g. SAD je ratovao protiv koje države?",
+    "answers": {"A": "Kanade", "B": "Meksika", "C": "Španjolske"},
+    "image": null,
+    "correct_answer": "B"
+  }
+]
