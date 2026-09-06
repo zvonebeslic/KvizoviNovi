@@ -1,0 +1,223 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "USS Pomfret je bila američka ratna podmornica na kojoj je služio koji, tada budući, američki predsjednik?",
+    "answers": {"A": "John F. Kennedy", "B": "Jimmy Carter", "C": "George H. W. Bush"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki potpredsjednik, 2007.g. dobio Nobela za mir, zbog rada na podizanju svijesti o klimatskim promjenama?",
+    "answers": {"A": "Al Gore", "B": "Walter Mondale", "C": "Hubert Humphrey"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bila prva dama i supruga 35-og predsjednika SAD-a, JFK-a?",
+    "answers": {"A": "Eleanor Roosevelt", "B": "Jacqueline Bouvier Kennedy Onassis", "C": "Lady Bird Johnson"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Zbog koje afere je Richard Nixon dao ostavku na mjesto predsjednika SAD-a?",
+    "answers": {"A": "Teapot Dome", "B": "Iran-Contra", "C": "Watergate"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik zaslužan za mir na Balkanu i potpisivanje Daytonskog sporazuma?",
+    "answers": {"A": "Bill Clinton", "B": "George H. W. Bush", "C": "George W. Bush"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Na kojem je sveučilištu diplomirao JFK?",
+    "answers": {"A": "Yale", "B": "Harvard", "C": "Princeton"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kako se zvao svemirski program kojim je na mjesec kročio čovjek?",
+    "answers": {"A": "Gemini", "B": "Mercury", "C": "Apollo"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio prvi američki predsjednik koji je posjetio Zagreb?",
+    "answers": {"A": "Richard Nixon", "B": "Gerald Ford", "C": "Jimmy Carter"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je došao na mjesto američkog predsjednika nakon skandala Watergate?",
+    "answers": {"A": "Jimmy Carter", "B": "Gerald Ford", "C": "Nelson Rockefeller"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji nadimak je nosila Claudia Alta Johnson, žena i prva dama američkog predsjednika Lyndona B. Johnsona?",
+    "answers": {"A": "Bess", "B": "Mamie", "C": "LadyBird"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "39-i američki predsjednik Jimmy Carter je u fazi svog života prije predsjedničkog mandata radio na projektu nuklearne podmornice koja se zove kako?",
+    "answers": {"A": "USS Seawolf", "B": "USS Nautilus", "C": "USS Skate"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koju Rockefellerovu kompaniju, Roosevelt uz pomoć vrhovnog suda razbija na 34 manje kompanije?",
+    "answers": {"A": "U.S. Steel", "B": "Standard Oil", "C": "American Tobacco Company"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojem se gradu dogodio atentat na JFK-a?",
+    "answers": {"A": "Memphis", "B": "Washington", "C": "Dallas"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Sa kojeg otoka se u Ameriku doselio djed Johna F. Kennedyja?",
+    "answers": {"A": "Irska", "B": "Škotska", "C": "Isle of Man"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojem je gradu, Ronald Reagan 1984.g. otvorio Ljetne Olimpijske Igre?",
+    "answers": {"A": "Atlanta", "B": "Los Angeles", "C": "Montreal"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik 2009.g. dobio Nobelovu nagradu zbog zalaganja za nuklearno razoružavanje?",
+    "answers": {"A": "Jimmy Carter", "B": "Bill Clinton", "C": "Barack Obama"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio protukandidat Johnu F. Kennedyju na predsjedničkim izborima 1960.g.?",
+    "answers": {"A": "Richard Nixon", "B": "Barry Goldwater", "C": "Adlai Stevenson"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Američki napad na koji otok je Georgea H. W. Busha skoro koštao glave, jer je njegov avion bio teško oštećen dok je bombardirao japanske instalacije na tom otoku?",
+    "answers": {"A": "Iwo Jima", "B": "Okinawa", "C": "Guam"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_answer_conflict",
+    "qa_note": "Izvorni prvi odgovor je Iwo Jima, ali U.S. Naval History and Heritage Command navodi Chichi Jimu kao cilj misije na kojoj je Bush oboren 2. rujna 1944. Ne koristiti u produkciji dok se pitanje/odgovor ne ispravi."
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je postao predsjednik SAD-a nakon ubojstva JFK-a?",
+    "answers": {"A": "Hubert Humphrey", "B": "Lyndon B. Johnson", "C": "Richard Nixon"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Uredbe 'Patriot Act I' i 'Patriot Act II' koje su regulirale strožu kontrolu pri ulasku u SAD, je uveo koji predsjednik?",
+    "answers": {"A": "Bill Clinton", "B": "Barack Obama", "C": "George Bush"},
+    "image": null,
+    "correct_answer": "C",
+    "qa_status": "question_wording_review",
+    "qa_note": "USA PATRIOT Act donesen je 2001. za administracije Georgea W. Busha; tzv. 'Patriot II' bio je nacrt Domestic Security Enhancement Acta iz 2003. i nije usvojen pod tim nazivom."
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji se američki predsjednik rodio pod imenom Leslie Lynch King Jr.?",
+    "answers": {"A": "Gerald Ford", "B": "Ronald Reagan", "C": "Richard Nixon"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "S kojim predsjednikom SSSR-a se sastao John F. Kennedy?",
+    "answers": {"A": "Leonid Brežnjev", "B": "Nikita Sergejevič Hruščov", "C": "Mihail Gorbačov"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik u 2. svjetskom ratu bio mornarički pilot?",
+    "answers": {"A": "John F. Kennedy", "B": "Gerald Ford", "C": "George Herbert Walker Bush"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje ime nosi službeno odmaralište američkog predsjednika, a nalazi se u saveznoj državi Maryland?",
+    "answers": {"A": "Camp David", "B": "Blair House", "C": "Camp Peary"},
+    "image": null,
+    "correct_answer": "A"
+  }
+]
