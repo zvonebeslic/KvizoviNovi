@@ -1,0 +1,24 @@
+name: Index Anticki Rim Source
+
+on:
+  push:
+    paths:
+      - 'scripts/index_anticki_rim_source.py'
+      - '.github/workflows/index-anticki-rim-source.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/index_anticki_rim_source.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add redo/AntickiRim_source_index.json
+          git commit -m "Generiraj točan indeks AntickiRim izvora" || exit 0
+          git push
