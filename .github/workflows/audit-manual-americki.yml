@@ -1,0 +1,24 @@
+name: Audit Manual Americki
+
+on:
+  push:
+    paths:
+      - 'scripts/audit_manual_americki.py'
+      - '.github/workflows/audit-manual-americki.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/audit_manual_americki.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add redo/AmerickiPredsjednici_manual_audit.json
+          git commit -m "Auditiraj ručno obrađena američka pitanja" || exit 0
+          git push
