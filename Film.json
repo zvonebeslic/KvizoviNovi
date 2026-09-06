@@ -1,0 +1,393 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji glumac tumači ulogu zloglasnog pukovnika Hansa Lande u filmu 'Nemilosrdni gadovi' (Inglourious Basterds)?",
+    "answers": {
+      "A": "Christoph Waltz",
+      "B": "Mads Mikkelsen",
+      "C": "Daniel Brühl"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koja glumica igra glavnu ulogu u 'La La Landu'?",
+    "answers": {
+      "A": "Natalie Portman",
+      "B": "Emma Stone",
+      "C": "Jennifer Lawrence"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "U filmu 'Amélie', u kojem dijelu Pariza živi i radi glavna junakinja Amelie Poulain?",
+    "answers": {
+      "A": "Le Marais",
+      "B": "Latin Quarter",
+      "C": "Montmartre"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove dječak iz obitelji McCallister koji ostane 'Sam u kući'?",
+    "answers": {
+      "A": "Kevin",
+      "B": "Buzz",
+      "C": "Fuller"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove grad-planet iz Ratova zvijezda, koji je sjedište Galaktičke Republike?",
+    "answers": {
+      "A": "Naboo",
+      "B": "Coruscant",
+      "C": "Alderaan"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je film 1994. godine pobijedio 'Pakleni šund' u utrci za najbolji film?",
+    "answers": {
+      "A": "Iskupljenje u Shawshanku",
+      "B": "Četiri vjenčanja i sprovod",
+      "C": "Forrest Gump"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Miro i Pepek su na zaključanom tavanu pronašli kakav top?",
+    "answers": {
+      "A": "Antigravitacijski",
+      "B": "Laserski",
+      "C": "Atomski"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U filmu iz 1974., koji mali kapetan, brodom trabakulom prevozi ljude na otoke spašavajući ih od fašističkih snaga?",
+    "answers": {
+      "A": "Nikola",
+      "B": "Mikula",
+      "C": "Marin"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Koji film Stevena Spielberga govori o morskom psu ubojici?",
+    "answers": {
+      "A": "Duel",
+      "B": "Bliski susreti treće vrste",
+      "C": "Ralje"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Smogovci su snimljeni po istoimenom romanu kojeg hrvatskog književnika?",
+    "answers": {
+      "A": "Hrvoja Hitreca",
+      "B": "Paje Kanižaja",
+      "C": "Zvonimira Milčeca"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Kako se zove zlikovac u prvom od filmova 'Umri muški' (Die Hard)?",
+    "answers": {
+      "A": "Simon Gruber",
+      "B": "Hans Gruber",
+      "C": "Karl Vreski"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji horor film uključuje ukletu videokasetu, koju, tko god pogleda umire za 7 dana?",
+    "answers": {
+      "A": "Slagalica strave",
+      "B": "Prokletstvo",
+      "C": "Krug"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove lav iz Narnijskih kronika?",
+    "answers": {
+      "A": "Aslan",
+      "B": "Mufasa",
+      "C": "Scar"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koje ime Theodore Twombly daje sustavu umjetne inteligencije kojeg kupuje, a kasnije se i zaljubljuje u filmu 'Ona' (Her) ?",
+    "answers": {
+      "A": "Catherine",
+      "B": "Samantha",
+      "C": "Amy"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Tko je glumio Hannibala Lectera u filmu 'Kad jaganjci utihnu' (The Silence of the Lambs)?",
+    "answers": {
+      "A": "Jack Nicholson",
+      "B": "Jeremy Irons",
+      "C": "Anthony Hopkins"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Ferdo Jurić i Jura Ferdić su glavni protagonisti koje humoristične tv serije?",
+    "answers": {
+      "A": "Zauvijek susjedi",
+      "B": "Bitange i princeze",
+      "C": "Naša mala klinika"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "Film",
+    "question": "Koji kanadski glumac posuđuje glas Shreku?",
+    "answers": {
+      "A": "Jim Carrey",
+      "B": "Mike Myers",
+      "C": "Seth Rogen"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Kako se zove robot pratitelj Lukea Skywalkera?",
+    "answers": {
+      "A": "C-3PO",
+      "B": "BB-8",
+      "C": "R2 D2"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "U kojoj državi se odvija radnja filma 'Casablanca' iz 1942.?",
+    "answers": {
+      "A": "Maroko",
+      "B": "Alžir",
+      "C": "Tunis"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji je jedini horor film u povijesti koji je osvojio Oscara za najbolji film?",
+    "answers": {
+      "A": "Egzorcist",
+      "B": "Kad jaganjci utihnu",
+      "C": "Psiho"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "U kojoj seriji Borisa Dvornika poznamo kao Dimnjačara?",
+    "answers": {
+      "A": "Velo misto",
+      "B": "Prosjaci i sinovi",
+      "C": "Kapelski Kresovi"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "Film",
+    "question": "Neo u 'Matrixu' je zapravo tko, u stvarnom svijetu?",
+    "answers": {
+      "A": "Keanu Reeves",
+      "B": "Laurence Fishburne",
+      "C": "Hugo Weaving"
+    },
+    "correct_answer": "A",
+    "image": null,
+    "rarity": "silver"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "Film",
+    "question": "Kako se zove čuveni špijun s kodnim imenom 007?",
+    "answers": {
+      "A": "Jason Bourne",
+      "B": "James Bond",
+      "C": "Ethan Hunt"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove zli klaun u filmu 'Ono' (It)?",
+    "answers": {
+      "A": "Art",
+      "B": "Captain Spaulding",
+      "C": "Pennywise"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove maleni hobit koji treba odnijeti prsten moći na Kletu Goru da ga uništi?",
+    "answers": {
+      "A": "Frodo Baggins",
+      "B": "Bilbo Baggins",
+      "C": "Samwise Gamgee"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koje je boje sivi kamion u srpskom filmu iz 2004.?",
+    "answers": {
+      "A": "Plave",
+      "B": "Crvene",
+      "C": "Zelene"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji animirani studio je stvorio 'Priču o igračkama'?",
+    "answers": {
+      "A": "DreamWorks",
+      "B": "Blue Sky Studios",
+      "C": "Pixar"
+    },
+    "correct_answer": "C",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Kako se zove fiktivni otok na kojem se odvija radnja filma 'Duhovi otoka' (The Banshees of Inisherin)?",
+    "answers": {
+      "A": "Inisherin",
+      "B": "Inis Mór",
+      "C": "Inisheer"
+    },
+    "correct_answer": "A",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "Film",
+    "question": "Koji redatelj potpisuje vizualno upečatljive filmove 'Grand Budapest Hotel' i 'Asteroid City'?",
+    "answers": {
+      "A": "Paul Thomas Anderson",
+      "B": "Wes Anderson",
+      "C": "Noah Baumbach"
+    },
+    "correct_answer": "B",
+    "image": null
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "Film",
+    "question": "Koji film iz 2018. prati život pjevača Freddieja Mercuryja te grupe Queen?",
+    "answers": {
+      "A": "Rocketman",
+      "B": "Yesterday",
+      "C": "Bohemian Rhapsody"
+    },
+    "correct_answer": "C",
+    "image": null
+  }
+]
