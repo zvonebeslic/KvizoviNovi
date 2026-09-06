@@ -1,0 +1,239 @@
+[
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je muzejski kompleks u SAD-u osnovan u vrijeme predsjedanja Jamesa Knoxa Polka?",
+    "answers": {"A": "Library of Congress", "B": "Smithsonian", "C": "National Archives"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje je kazalište u Washington DC-ju bilo poprište ubojstva Abrahama Lincolna?",
+    "answers": {"A": "National Theatre", "B": "Grover's Theatre", "C": "Fordovo"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koliko je dana trajalo osvajanje utvrde Alamo?",
+    "answers": {"A": "11", "B": "13", "C": "15"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Na području kojeg današnjeg grada je ranjen, tada budući, 14. predsjednik SAD-a, u jednoj od bitaka tijekom Američko - Meksičkog rata?",
+    "answers": {"A": "Monterrey", "B": "Mexico City", "C": "Veracruz"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koga je hicem iz pištolja usmrtio John Wilkes Booth?",
+    "answers": {"A": "Abrahama Lincolna", "B": "Jamesa Garfielda", "C": "Williama McKinleyja"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji su meksički grad, koji nosi titulu 'herojski', amerikanci okupirali 1847.g.?",
+    "answers": {"A": "Monterrey", "B": "Veracruz", "C": "Puebla"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "William H. Seward i Eduard de Stoeckl su dogovorili kupoprodajni ugovor koje današnje savezne američke države?",
+    "answers": {"A": "Aljaske", "B": "Floride", "C": "Louisiane"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Invazije na Meksičku zemlju koje meksikanci nazivaju 'Invasión estadounidense a México' i 'Guerra del 47' izvela je koja država?",
+    "answers": {"A": "Španjolska", "B": "SAD", "C": "Francuska"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "'Uređaj za podizanje brodova preko plitkih dijelova rijeke' je izum koji je patentirao koji američki predsjednik?",
+    "answers": {"A": "Thomas Jefferson", "B": "Ulysses S. Grant", "C": "Abraham Lincoln"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Prezime kojeg američkog predsjednika je jednako imenu predsjednika nepriznate konfederacije američkih država?",
+    "answers": {"A": "Jefferson", "B": "Jackson", "C": "Lincoln"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik sudjelovao u dvoboju pištoljima, u kojem je dobio metak u prsa, kojeg je nosio u prsima do kraja života?",
+    "answers": {"A": "Abraham Lincoln", "B": "Andrew Jackson", "C": "Theodore Roosevelt"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Osmi američki predsjednik, Martin Van Buren, stekao je veliku nepopularnost i kritike jer je u sustav sjedinjenih država 1837.g. odbio primiti koju današnju saveznu državu?",
+    "answers": {"A": "Kaliforniju", "B": "Texas", "C": "Oregon"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Mandat koje američkog predsjednika je trajao samo 31 dan?",
+    "answers": {"A": "Jamesa Garfielda", "B": "Zacharyja Taylora", "C": "Williama Henryja Harrisona"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik zaprijetio ratom protiv Velike Britanije zbog njihovog neslaganja oko toga tko ima pravo na zemlju Oregon?",
+    "answers": {"A": "James Knox Polk", "B": "John Tyler", "C": "Martin Van Buren"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koje bitke iz američkog građanskog rata se možemo sjetiti pomoću termina koji označava period rasta cijena dionica, praćenog optimizmom investitora i povećanom kupnjom?",
+    "answers": {"A": "Bitka kod Bull Runa", "B": "Bitka kod Stones Rivera", "C": "Bitka kod Chickamauge"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Na kojoj je rijeci splavar bio Abraham Lincoln?",
+    "answers": {"A": "Ohio", "B": "Mississippi", "C": "Missouri"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojem se velikom gradu, danas nalazi utvrda Alamo?",
+    "answers": {"A": "Austin", "B": "San Antonio", "C": "El Paso"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koja je fotografska tehnika korištena za prvu predsjedničku fotografiju u Bijeloj kući?",
+    "answers": {"A": "Kalotipija", "B": "Ambrotipija", "C": "Dagerotipija"},
+    "image": null,
+    "correct_answer": "C"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U godini kada je George Washington počeo svoj drugi mandat kao predsjednik SAD-a, u francuskoj je osnovan koji veliki i svjetski poznati muzej?",
+    "answers": {"A": "Louvre", "B": "Musée d'Orsay", "C": "Musée Carnavalet"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "rarity": "golden",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik ostao upamćen po najdužem inauguracijskom govoru u povijesti SAD-a koji je trajao gotovo 2h i sadržavao 8 445 riječi, ali i po najkraćem predsjedničkom mandatu koji je trajao samo 31 dan jer se naime od hladnog vremena za vrijeme govora, predsjednik razbolio te za mjesec dana umro od upale pluća?",
+    "answers": {"A": "William Henry Harrison", "B": "James Garfield", "C": "Zachary Taylor"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "Najduži inauguracijski govor i 31-dnevni mandat su točni, ali moderna medicinska analiza smatra da Harrison vjerojatno nije umro zato što se prehladio tijekom inauguracije; enterična groznica je vjerojatniji uzrok."
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kako se zove zakon koji je SAD usvojio u vrijeme predsjedanja Chestera A. Arthura a označio je kraj zapošljavanja pomoću političkih veza te potakao ono po sposobnosti?",
+    "answers": {"A": "Pendletonov zakon", "B": "Shermanov antitrustovski zakon", "C": "Tenure of Office Act"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Tko je bio prvi američki predsjednik koji se mogao koristiti telefonom i pisaćim strojem u Bijeloj Kući?",
+    "answers": {"A": "James Garfield", "B": "Rutherford B. Hayes", "C": "Chester A. Arthur"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "U kojem je gradu svoju inaguraciju odradio George Washington?",
+    "answers": {"A": "Philadelphiji", "B": "New York", "C": "Washingtonu"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Zbog velike gospodarske krize krajem 19-og st. od američkog predsjednika Clevelanda se zahtjevalo da zlatni standard zamjeni kojim?",
+    "answers": {"A": "Papirnatim", "B": "Srebrnim", "C": "Platinastim"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Predsjednik Hoover je napisao biografiju kojeg predsjednika?",
+    "answers": {"A": "Theodore Roosevelt", "B": "Thomas Woodrow Wilson", "C": "Calvin Coolidge"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Znamo da je Prvi svjetski rat trajao od 28. srpnja (jula) 1914.g. do 11. studenog (novembra) 1918.g., a koje godine su u taj rat ušle Sjedinjene Američke Države?",
+    "answers": {"A": "1916", "B": "1917", "C": "1918"},
+    "image": null,
+    "correct_answer": "B"
+  }
+]
