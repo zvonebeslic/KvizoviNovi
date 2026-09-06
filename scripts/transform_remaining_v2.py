@@ -13,7 +13,15 @@ new="""def first_answer(q):
     if isinstance(a,dict):
         for k in ('correct','answer','A','a'):
             if k in a and str(a[k]).strip(): return str(a[k]).strip()
-    raise ValueError('Nema izvornog odgovora: '+str(q.get('question',''))+' / '+repr(a))
+    question=str(q.get('question',''))
+    overrides={
+      'Na Jabukovcu u kojem selu žive Lovrakova tri đaka':'Velikom Selu',
+      'Koja knjiga uvodi čitatelja u svijet lova na kitove':'Moby Dick',
+      'Koji se naziv koristi za tradicionalnu zastavu europskih i američkih pirata':'Jolly Roger'
+    }
+    for prefix,answer in overrides.items():
+        if prefix in question: return answer
+    raise ValueError('Nema izvornog odgovora: '+question+' / '+repr(a))
 """
 if old not in text: raise SystemExit('Patch target nije pronađen')
 text=text.replace(old,new)
