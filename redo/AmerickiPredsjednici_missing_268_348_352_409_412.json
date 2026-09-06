@@ -1,0 +1,108 @@
+[
+  {
+    "index": 268,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "S kojom su strankom na američkim izborima za predsjednika pobjedili Harrison, Tyler, Taylor i Polk?",
+    "answers": {"A": "Vigovskom", "B": "Demokratskom", "C": "Republikanskom"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "William Henry Harrison i Zachary Taylor izabrani su kao vigovci, a John Tyler bio je vigovski kandidat za potpredsjednika i naslijedio predsjedništvo. James K. Polk, međutim, izabran je kao demokrat. Izvorni odgovor 'Vigovskom' stoga ne može vrijediti za sva četiri navedena imena."
+  },
+  {
+    "index": 348,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji se kralj iz keltske mitologije može pronaći i na popisu američkih predsjednika?",
+    "answers": {"A": "Arthur", "B": "Bran", "C": "Conchobar"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Odgovor se odnosi na predsjednika Chestera A. Arthura; kralj Arthur pripada arturijanskoj legendi povezanoj s britanskom, osobito keltskom tradicijom."
+  },
+  {
+    "index": 349,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Smatra se jednim od prvih nacionalnih parkova na svijetu. Osnovan je 1. ožujka (marta) 1872.g. Zakon o osnivanju potpisao je Ulysses S. Grant, a park se zove kako?",
+    "answers": {"A": "Yosemite", "B": "Yellowstone", "C": "Sequoia"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 350,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je Edisonov izum zabilježio glas Benjamina Harrisona, 23-eg predsjednika SAD-a?",
+    "answers": {"A": "Fonograf", "B": "Kinetoskop", "C": "Diktafon"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 351,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik 1913.g. potpisao Federal Reserve Act kojim je stvoren tzv. FED (Federal Reserve System)?",
+    "answers": {"A": "William Howard Taft", "B": "Thomas Woodrow Wilson", "C": "Warren G. Harding"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 352,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Velika Depresija i slom burze na Wall Streetu obilježili su mandat kojeg američkog predsjednika?",
+    "answers": {"A": "Calvina Coolidgea", "B": "Herbert Hoover", "C": "Franklina D. Roosevelta"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Slom burze 1929. i prve godine Velike depresije obilježili su Hooverov mandat; kriza se nastavila i duboko obilježila početak Rooseveltova predsjedništva."
+  },
+  {
+    "index": 409,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koliko američkih predsjednika ima registriran patent na izum?",
+    "answers": {"A": "Jedan", "B": "Dva", "C": "Tri"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 410,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Amerikanci su kupili Louisianu od Francuza, otok Manhattan od Indijanaca, a Aljasku od kojeg carstva?",
+    "answers": {"A": "Britanskog", "B": "Ruskog", "C": "Španjolskog"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Popularna tvrdnja da je Manhattan jednostavno 'kupljen od Indijanaca' snažno pojednostavljuje složen i sporan kolonijalni sporazum iz 1626.; odgovor za Aljasku ipak ostaje Rusko Carstvo."
+  },
+  {
+    "index": 411,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Koji je američki predsjednik umro od kolere tri mjeseca nakon završetka mandata?",
+    "answers": {"A": "James Knox Polk", "B": "Zachary Taylor", "C": "William Henry Harrison"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 412,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Kako se zove planinski prolaz kod kojeg su se 1847 g. sukobile američke snage sa, tada budućim predsjednikom amerike Zacharyjom Taylorom i meksičke snage pod vodstvom Antonia Lopeza de Santa Anna?",
+    "answers": {"A": "Buena Vista", "B": "Cerro Gordo", "C": "Resaca de la Palma"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Bitka kod Buena Viste vodila se u blizini haciende Buena Vista kod Angosture; izraz 'planinski prolaz' pojednostavljuje geografsku lokaciju bojišta."
+  }
+]
