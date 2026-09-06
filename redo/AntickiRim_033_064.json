@@ -1,0 +1,335 @@
+[
+  {
+    "index": 33,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Tijekom Trećeg mitridatskog rata sukobile su se vojske kraljevstva Pont i kojeg carstva?",
+    "answers": {"A": "Rimsko", "B": "Seleukidsko", "C": "Partsko"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 34,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koje je nebesko tijelo, prema Plutarhu, padom kraj Otrije 74. godine pr. Kr. prekinulo predstojeću bitku između rimske i pontske vojske?",
+    "answers": {"A": "Komet", "B": "Meteor", "C": "Pomrčina Sunca"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Plutarh opisuje veliko plameno tijelo koje je palo između vojski; današnji opis 'meteor' je moderna interpretacija tog antičkog izvještaja."
+  },
+  {
+    "index": 35,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Kako se zove kapa koja je tijekom Rimskog Carstva postala simbol slobode oslobođenih robova, a kasnije i Francuske revolucije?",
+    "answers": {"A": "Frigijska kapa", "B": "Pileus", "C": "Petasos"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "U antičkom Rimu oslobođeni robovi povezivali su se s pileusom. Francuski revolucionarni 'liberty cap' kasnije je ikonografski spojen s frigijskom kapom. Izvorno pitanje te dvije tradicije previše izjednačava."
+  },
+  {
+    "index": 36,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Kako se zvao zapovjednik koji je unutar rimske legije upravljao jedinicom od 100 ratnika?",
+    "answers": {"A": "Centurion", "B": "Tribun", "C": "Legat"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Naziv centurion dolazi od centurije, ali u klasičnoj carskoj legiji centurija je tipično imala oko 80 legionara, ne doslovno 100."
+  },
+  {
+    "index": 37,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koju gardu je osnovao prvi rimski car August sa zadatkom da čuva njega i njegovu obitelj?",
+    "answers": {"A": "Pretorijansku", "B": "Varjašku", "C": "Palatinsku"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 38,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koji je keltski narod porazio rimsku vojsku i 390.g. pr. Kr. opljačkao Rim?",
+    "answers": {"A": "Gali", "B": "Briti", "C": "Keltiberi"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 39,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Kako se zove majka legendarnih blizanaca Romula i Rema?",
+    "answers": {"A": "Rea Silvija", "B": "Lukrecija", "C": "Tarpeja"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 40,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Junona, rimska božica i kćer Saturna i Ops, svom mužu Jupiteru je rodila dva sina. Marsa i koga još?",
+    "answers": {"A": "Merkura", "B": "Vulkana", "C": "Apola"},
+    "image": null,
+    "correct_answer": "B",
+    "qa_note": "Rimske genealoške tradicije nisu potpuno jedinstvene, ali Junona se u uobičajenim rodoslovljima navodi kao majka Marsa i Vulkana."
+  },
+  {
+    "index": 41,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Na području koje današnje države se dogodila bitka kod Filipija iz 42.g. pr. Kr.?",
+    "answers": {"A": "Grčke", "B": "Turske", "C": "Sjeverne Makedonije"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 42,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koji se rimski zid, građen od 142. do 154.g., nalazi sjevernije od Hadrijanova te je duplo kraći od njega?",
+    "answers": {"A": "Antoninov zid", "B": "Aurelijev zid", "C": "Servijev zid"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 43,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "Koji film s Russellom Croweom u glavnoj ulozi prati život Maximusa Decimusa Meridijusa?",
+    "answers": {"A": "Gladijator", "B": "Troja", "C": "Aleksandar"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 44,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Kako se zvala druga žena Gaja Julija Cezara?",
+    "answers": {"A": "Kornelija", "B": "Pompeja", "C": "Kalpurnija"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 45,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koji naziv koristimo za ranokršćanske grobnice koje su nastajale kao sustav podzemnih hodnika u vrijeme rimskog carstva?",
+    "answers": {"A": "Katakombe", "B": "Nekropole", "C": "Kolumbariji"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 46,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koji rimski car počinje sa sustavnim progonom kršćana nakon velikog rimskog požara za koji je okrivio upravo kršćane?",
+    "answers": {"A": "Neron", "B": "Domicijan", "C": "Decije"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 47,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Kraj koje slavonske rijeke Iliri nanose Rimljanima jedan od najtežih vojnih poraza u njihovoj povijesti?",
+    "answers": {"A": "Vuke", "B": "Bosuta", "C": "Save"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Tvrdnja je vrlo specifična i zahtijeva dodatnu provjeru izvora i identifikacije bitke prije produkcije; prvi odgovor iz baze ostaje Vuka."
+  },
+  {
+    "index": 48,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Rimski bog Jupiter imao je 3 kćeri: Vestu, Junonu i koju još?",
+    "answers": {"A": "Cereru", "B": "Dijanu", "C": "Minervu"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "Vesta, Junona i Cerera nisu Jupiterove kćeri nego njegove sestre, djeca Saturna i Ops. Pitanje treba ispraviti prije produkcije."
+  },
+  {
+    "index": 49,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Tko je rimska božica ljubavi i plodnosti?",
+    "answers": {"A": "Venera", "B": "Junona", "C": "Dijana"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 50,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koje ime je nosila osnovna novčana jedinica za srebrni novac u starom rimu?",
+    "answers": {"A": "Denar", "B": "Sestercij", "C": "Aureus"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 51,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "Nekadašnje rimske provincije Likija, Galatija i Kapadokija su se nalazile na području koje današnje države?",
+    "answers": {"A": "Grčke", "B": "Turske", "C": "Sirije"},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 52,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Nadimak kojeg rimskog cara poistovjećujemo sa latinskom riječju za malenu čizmu?",
+    "answers": {"A": "Kaligula", "B": "Klaudije", "C": "Tiberije"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 53,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koji je rimski car započeo zakonom zabranjivati gladijatorske igre od 325.g.?",
+    "answers": {"A": "Konstantin Veliki", "B": "Teodozije I.", "C": "Honorije"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Konstantinov zakon iz 325. ograničio je odnosno zabranio određene gladiatorske osude i krvave spektakle, ali gladijatorske igre nisu tada potpuno nestale; nastavile su se i kasnije."
+  },
+  {
+    "index": 54,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Koji je današnji srpski grad rodno mjesto rimskog cara Konstantina 1. Velikog?",
+    "answers": {"A": "Niš", "B": "Sremska Mitrovica", "C": "Beograd"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 55,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Tetrika I. i Tetrika II. koji su vladali odmetnutim Galskim carstvom je porazio koji rimski car, kojeg se nazivalo i obnoviteljem carstva?",
+    "answers": {"A": "Aurelijan", "B": "Probo", "C": "Klaudije II. Gotski"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 56,
+    "type": "blitz",
+    "difficulty": 2,
+    "topic": "AntickiRim",
+    "question": "Koji car je uveo četverovlađe u rimskom carstvu?",
+    "answers": {"A": "Dioklecijan", "B": "Konstantin Veliki", "C": "Teodozije I."},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 57,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "Koji istaknuti rimski liječnik iz Pergama slovi i za najvećeg medicinskog znanstvenika u starom Rimu?",
+    "answers": {"A": "Galen", "B": "Celzo", "C": "Soran iz Efeza"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 58,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "Agripina mlađa je bila žena rimskog cara Klaudija i majka cara Nerona, a uspjela je isposlovati da koji današnji grad, a njen rodni, dobije status kolonije, a po 'koloniji' i danas nosi ime?",
+    "answers": {"A": "Köln", "B": "Mainz", "C": "Trier"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 59,
+    "type": "blitz",
+    "difficulty": 5,
+    "topic": "AntickiRim",
+    "question": "U starim rimskim zapisima, za jednog se cara spominje da je umro ni manje ni više, nego od prekomjernog konzumiranja alpskog sira, a tko je on bio?",
+    "answers": {"A": "Antonin Pio", "B": "Marko Aurelije", "C": "Hadrijan"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Priču prenosi Historia Augusta: nakon prekomjernog jedenja alpskog sira Antonin Pio povraćao je i dobio temperaturu. Taj izvor je poznat po nepouzdanosti, pa tvrdnju treba tretirati kao antičku predaju, ne sigurnu medicinsku činjenicu."
+  },
+  {
+    "index": 60,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koja se kratkotrajna država formira na istoku rimskog carstva u vrijeme krize trećeg stoljeća a vladar joj je bio Odenat?",
+    "answers": {"A": "Palmir", "B": "Galsko Carstvo", "C": "Bosporsko Kraljevstvo"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_note": "Odenat je vladao praktično autonomnim palmirskim područjem, ali ostao je formalno lojalan Rimu. Odmetnuto Palmirensko Carstvo u užem smislu razvilo se nakon njegove smrti pod Zenobijom i Vabalatom."
+  },
+  {
+    "index": 61,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "U kojem stoljeću se dogodila prva velika pandemija u rimskom carstvu tako što su bolest iz Mezopotamije vojnici donijeli natrag u Rim, a od same bolesti, sumnja se da je umro i car Marko Aurelije?",
+    "answers": {"A": "1.", "B": "2.", "C": "3."},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 62,
+    "type": "blitz",
+    "difficulty": 1,
+    "topic": "AntickiRim",
+    "question": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
+    "answers": {"A": "Istok Zapad", "B": "Sjeveroistok–jugozapad", "C": "Kružno oko foruma"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 63,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AntickiRim",
+    "question": "U kojem stoljeću rimski carevi postaju Valerijan i njegov sin Galijen?",
+    "answers": {"A": "2.", "B": "3.", "C": "4."},
+    "image": null,
+    "correct_answer": "B"
+  },
+  {
+    "index": 64,
+    "type": "blitz",
+    "difficulty": 4,
+    "topic": "AntickiRim",
+    "question": "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?",
+    "answers": {"A": "Trebonijan Gal", "B": "Decije", "C": "Emilijan"},
+    "image": null,
+    "correct_answer": "A",
+    "qa_status": "source_conflict",
+    "qa_note": "Trebonijan Gal sklopio je nepovoljan mir nakon poraza kod Abrita, ali protivnici su bili Goti, ne galska plemena. Pitanje treba ispraviti prije produkcije."
+  }
+]
