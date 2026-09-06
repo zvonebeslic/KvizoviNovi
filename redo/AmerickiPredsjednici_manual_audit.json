@@ -1,0 +1,619 @@
+{
+  "source_total": 488,
+  "matched_unique": 429,
+  "missing_count": 59,
+  "duplicate_index_count": 0,
+  "extra_or_changed_count": 0,
+  "files_scanned": [
+    "redo/AmerickiPredsjednici.json",
+    "redo/AmerickiPredsjednici_113_143.json",
+    "redo/AmerickiPredsjednici_144_176.json",
+    "redo/AmerickiPredsjednici_177_210.json",
+    "redo/AmerickiPredsjednici_211_241.json",
+    "redo/AmerickiPredsjednici_242_267.json",
+    "redo/AmerickiPredsjednici_268_293.json",
+    "redo/AmerickiPredsjednici_294_320.json",
+    "redo/AmerickiPredsjednici_321_346.json",
+    "redo/AmerickiPredsjednici_347_372.json",
+    "redo/AmerickiPredsjednici_373_402.json",
+    "redo/AmerickiPredsjednici_403_429.json",
+    "redo/AmerickiPredsjednici_440_464.json",
+    "redo/AmerickiPredsjednici_465_488.json",
+    "redo/AmerickiPredsjednici_65_89.json",
+    "redo/AmerickiPredsjednici_90_112.json"
+  ],
+  "missing": [
+    {
+      "index": 16,
+      "question": "Koju je vojnu operaciju 1991.g. George H. W. Bush u Kuvajtu pokrenuo protiv Iraka i njihovog vođe Saddama Husseina?",
+      "correct": "Pustinjska oluja",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 17,
+      "question": "U eri kojeg se rata, odvijao i Vijetnamski rat?",
+      "correct": "Hladnog rata",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 18,
+      "question": "Koja španjolska riječ za 'grm' je poslužila Georgeu Bushu za ime svoje kompanije za eksploataciju nafte i plina?",
+      "correct": "Arbusto",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 19,
+      "question": "Kojeg se datuma dogodio teroristički napad na Ameriku i WTC?",
+      "correct": "11.9.",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 20,
+      "question": "Sa kojim dvorom legendarnog kralja Arthura se često uspoređuje predsjedništvo JFK-a?",
+      "correct": "Camelot",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 21,
+      "question": "Prije nego je postao predsjednik, Ronald Reagan je bio guverner koje savezne američke države?",
+      "correct": "Kalifornije",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 22,
+      "question": "Koliko je misija sveukupno obavio svemirski program Apollo?",
+      "correct": "17",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 23,
+      "question": "Na kojeg je svećenika i borca za prava američkog crnačkog stanovništva izvršen atentat dok je američki predsjednik bio Lyndon B. Johnson?",
+      "correct": "Martin Luther King",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 24,
+      "question": "Koji je američki predsjednik bio na dužnosti kroz dva tisućljeća?",
+      "correct": "Bill Clinton",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 25,
+      "question": "Tko je bio 46. predsjednim SAD-a?",
+      "correct": "Joe Biden",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 26,
+      "question": "Za kojeg se grčkog bogataša i brodovlasnika udala udovica Johna F. Kennedyja, Jacqueline Bouvier?",
+      "correct": "Aristoteles Socrates Onassis",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 27,
+      "question": "Raketna kriza na kojem otoku je zamalo dovela do 3. svjetskog rata?",
+      "correct": "Kuba",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 28,
+      "question": "Tko je bio potpredsjednik u kabinetu Billa Clintona?",
+      "correct": "Al Gore",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 29,
+      "question": "Koje je srednje ime, američkog predsjednika Richarda Nixona?",
+      "correct": "Milhous",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 30,
+      "question": "S kojom je Hollywoodskom kompanijom Ronald Reagan kao glumac sklopio ugovor po kojem je morao nastupiti u najmanje 7 filmova?",
+      "correct": "Warner Bros",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 31,
+      "question": "Tko je bio 40-i predsjednik SAD-a ali i 33 guverner Kalifornije?",
+      "correct": "Ronald Reagan",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 32,
+      "question": "Koje ime je nosio Obamin zakon o općem i obaveznom zdravstvenom osiguranju?",
+      "correct": "Obamacare",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 33,
+      "question": "Tko je bio jedini američki predsjednik koji je bio kvalificirani podmorničar?",
+      "correct": "Jimmy Carter",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 34,
+      "question": "Kao zapovjednik torpednog čamca u 2. svjetskom ratu, John F. Kennedy je 1943.g. ranjen u borbi protiv kojeg carstva?",
+      "correct": "Japanskog",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 35,
+      "question": "Tko je bio Nixonov savjetnik za nacionalnu sigurnost, a kasnije i državni tajnik?",
+      "correct": "Henry Kissinger",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 36,
+      "question": "S kojim se revolucionarom i državnikom Richard Nixon sastao u Kini 1971.g. gdje je Narodnoj Republici Kini ponuđeno da se pridruži Ujedinjenim Narodima?",
+      "correct": "Mao Ce Tung",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 37,
+      "question": "Kojem su američkom predsjedniku Green Bay Packersi i Detroit Lionsi ponudili profesionalni NFL ugovor, što je on odbio te otišao na Yale?",
+      "correct": "Geraldu Fordu",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 38,
+      "question": "Koja glumica, pjevačica i pop ikona svoje umjetničko prezime dijeli sa petim predsjednikom SAD-a?",
+      "correct": "Marilyn Monroe",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 39,
+      "question": "Koji je Bellov izum, Theodore Roosevelt kao policijski načelnik New Yorka uveo u svaku Njujoršku policijsku postaju?",
+      "correct": "Telefon",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 40,
+      "question": "Kako se zove ubojica JFK-a?",
+      "correct": "Lee Harvey Oswald",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 41,
+      "question": "USS Pomfret je bila američka ratna podmornica na kojoj je služio koji, tada budući, američki predsjednik?",
+      "correct": "Jimmy Carter",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 42,
+      "question": "Koji je američki potpredsjednik, 2007.g. dobio Nobela za mir, zbog rada na podizanju svijesti o klimatskim promjenama?",
+      "correct": "Al Gore",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 43,
+      "question": "Tko je bila prva dama i supruga 35-og predsjednika SAD-a, JFK-a?",
+      "correct": "Jacqueline Bouvier Kennedy Onassis",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 44,
+      "question": "Zbog koje afere je Richard Nixon dao ostavku na mjesto predsjednika SAD-a?",
+      "correct": "Watergate",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 45,
+      "question": "Koji je američki predsjednik zaslužan za mir na Balkanu i potpisivanje Daytonskog sporazuma?",
+      "correct": "Bill Clinton",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 46,
+      "question": "Na kojem je sveučilištu diplomirao JFK?",
+      "correct": "Harvard",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 47,
+      "question": "Kako se zvao svemirski program kojim je na mjesec kročio čovjek?",
+      "correct": "Apollo",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 48,
+      "question": "Tko je bio prvi američki predsjednik koji je posjetio Zagreb?",
+      "correct": "Richard Nixon",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 49,
+      "question": "Tko je došao na mjesto američkog predsjednika nakon skandala Watergate?",
+      "correct": "Gerald Ford",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 50,
+      "question": "Koji nadimak je nosila Claudia Alta Johnson, žena i prva dama američkog predsjednika Lyndona B. Johnsona?",
+      "correct": "LadyBird",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 51,
+      "question": "39-i američki predsjednik Jimmy Carter je u fazi svog života prije predsjedničkog mandata radio na projektu nuklearne podmornice koja se zove kako?",
+      "correct": "USS Seawolf",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": "golden",
+      "image": null
+    },
+    {
+      "index": 52,
+      "question": "Koju Rockefellerovu kompaniju, Roosevelt uz pomoć vrhovnog suda razbija na 34 manje kompanije?",
+      "correct": "Standard Oil",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 53,
+      "question": "U kojem se gradu dogodio atentat na JFK-a?",
+      "correct": "Dallas",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 54,
+      "question": "Sa kojeg otoka se u Ameriku doselio djed Johna F. Kennedyja?",
+      "correct": "Irska",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 55,
+      "question": "U kojem je gradu, Ronald Reagan 1984.g. otvorio Ljetne Olimpijske Igre?",
+      "correct": "Los Angeles",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 56,
+      "question": "Koji je američki predsjednik 2009.g. dobio Nobelovu nagradu zbog zalaganja za nuklearno razoružavanje?",
+      "correct": "Barack Obama",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 57,
+      "question": "Tko je bio protukandidat Johnu F. Kennedyju na predsjedničkim izborima 1960.g.?",
+      "correct": "Richard Nixon",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 58,
+      "question": "Američki napad na koji otok je Georgea H. W. Busha skoro koštao glave, jer je njegov avion bio teško oštećen dok je bombardirao japanske instalacije na tom otoku?",
+      "correct": "Iwo Jima",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 59,
+      "question": "Tko je postao predsjednik SAD-a nakon ubojstva JFK-a?",
+      "correct": "Lyndon B. Johnson",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 60,
+      "question": "Uredbe 'Patriot Act I' i 'Patriot Act II' koje su regulirale strožu kontrolu pri ulasku u SAD, je uveo koji predsjednik?",
+      "correct": "George Bush",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 61,
+      "question": "Koji se američki predsjednik rodio pod imenom Leslie Lynch King Jr.?",
+      "correct": "Gerald Ford",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 62,
+      "question": "S kojim predsjednikom SSSR-a se sastao John F. Kennedy?",
+      "correct": "Nikita Sergejevič Hruščov",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 63,
+      "question": "Koji je američki predsjednik u 2. svjetskom ratu bio mornarički pilot?",
+      "correct": "George Herbert Walker Bush",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 64,
+      "question": "Koje ime nosi službeno odmaralište američkog predsjednika, a nalazi se u saveznoj državi Maryland?",
+      "correct": "Camp David",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 268,
+      "question": "S kojom su strankom na američkim izborima za predsjednika pobjedili Harrison, Tyler, Taylor i Polk?",
+      "correct": "Vigovskom",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 348,
+      "question": "Koji se kralj iz keltske mitologije može pronaći i na popisu američkih predsjednika?",
+      "correct": "Arthur",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 349,
+      "question": "Smatra se jednim od prvih nacionalnih parkova na svijetu. Osnovan je 1. ožujka (marta) 1872.g. Zakon o osnivanju potpisao je Ulysses S. Grant, a park se zove kako?",
+      "correct": "Yellowstone",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 350,
+      "question": "Koji je Edisonov izum zabilježio glas Benjamina Harrisona, 23-eg predsjednika SAD-a?",
+      "correct": "Fonograf",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 351,
+      "question": "Koji je američki predsjednik 1913.g. potpisao Federal Reserve Act kojim je stvoren tzv. FED (Federal Reserve System)?",
+      "correct": "Thomas Woodrow Wilson",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 352,
+      "question": "Velika Depresija i slom burze na Wall Streetu obilježili su mandat kojeg američkog predsjednika?",
+      "correct": "Herbert Hoover",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 409,
+      "question": "Koliko američkih predsjednika ima registriran patent na izum?",
+      "correct": "Jedan",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 410,
+      "question": "Amerikanci su kupili Louisianu od Francuza, otok Manhattan od Indijanaca, a Aljasku od kojeg carstva?",
+      "correct": "Ruskog",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 411,
+      "question": "Koji je američki predsjednik umro od kolere tri mjeseca nakon završetka mandata?",
+      "correct": "James Knox Polk",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 412,
+      "question": "Kako se zove planinski prolaz kod kojeg su se 1847 g. sukobile američke snage sa, tada budućim predsjednikom amerike Zacharyjom Taylorom i meksičke snage pod vodstvom Antonia Lopeza de Santa Anna?",
+      "correct": "Buena Vista",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    }
+  ],
+  "duplicates": [],
+  "extra_or_changed": []
+}
