@@ -48,3 +48,4 @@ with open(ROOT / "Film.json", "w", encoding="utf-8") as f:
     f.write("\n")
 
 print(f"Film.json: {len(out)} pitanja; raspodjela {counts}")
+# workflow trigger
