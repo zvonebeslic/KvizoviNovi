@@ -1,284 +1,33 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji se američki predsjednik nalazi na novčanici od 2 dolara?",
-    "answers": {"A": "Abraham Lincoln", "B": "Thomas Jefferson", "C": "Alexander Hamilton"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 40. predsjedniku SAD-a Ronaldu Reaganu?",
-    "answers": {"A": "Rawhide", "B": "Lancer", "C": "Trailblazer"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kojem predsjedniku SAD-a pripisujemo izreku 'The Bank is trying to kill me, Mr. Van Buren, but I shall kill it!'?",
-    "answers": {"A": "Martinu Van Burenu", "B": "Andrewju Jacksonu", "C": "Henryju Clayu"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji poglavica indijanskog plemena Ottawa dijeli ime s jednom automobilskom markom čija je proizvodnja ugašena 2009.g.?",
-    "answers": {"A": "Tecumseh", "B": "Black Hawk", "C": "Pontiac"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki grad, koji se nalazi ispod razine mora, Andrew Jackson branio u anglo-američkom ratu?",
-    "answers": {"A": "Mobile", "B": "New Orleans", "C": "Charleston"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio prvi američki predsjednik iz redova demokratske stranke?",
-    "answers": {"A": "Martin Van Buren", "B": "Thomas Jefferson", "C": "Andrew Jackson"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 2. predsjednik SAD-a, prezimena Adams, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JA", "B": "JQA", "C": "JSA"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 4. predsjednik SAD-a, prezimena Madison, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JRM", "B": "JM", "C": "JQM"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Godine 1783. mirom u Parizu, Velika Britanija je priznala nezavisnost Amerike, a britanski kralj u to vrijeme je bio tko?",
-    "answers": {"A": "George II.", "B": "George III.", "C": "George IV."},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj je saveznoj američkoj državi, rođen prvi predsjednik SAD-a, George Washington?",
-    "answers": {"A": "Maryland", "B": "Virginija", "C": "Massachusetts"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U prvom berberskom ratu protiv berberskih država, SAD je bio pod zapovjedništvom Thomasa Jeffersona, a suveznici u ratu su mu bili Kraljevina Sicilija i koja još kraljevina koja postoji i danas?",
-    "answers": {"A": "Danska", "B": "Španjolska", "C": "Švedska"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Piramida ispod svevidećeg oka se sastoji od 13 redova i simbolizira 13 ujedinjenih kolonija s kojeg kontinenta?",
-    "answers": {"A": "Sjeverne Amerike", "B": "Južne Amerike", "C": "Europe"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Dana 11.6. 1776.g. izabran je odbor od koliko članova za izradu američke Deklaracije nezavisnosti?",
-    "answers": {"A": "3", "B": "5", "C": "7"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji američki predsjednik je na slici 'Lansdowne portrait' iz 1796.g. slikara Gilberta Stuarta?",
-    "answers": {"A": "John Adams", "B": "Thomas Jefferson", "C": "George Washington"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koja dva prezimena se nalaze na američkom zvonu slobode (Liberty Bell) koja ujedno predstavljaju londonske majstore ljevače, koji su zvone i napravili?",
-    "answers": {"A": "Lester i Pack", "B": "Pass i Stow", "C": "Mears i Stainbank"},
-    "image": null,
-    "correct_answer": "B",
-    "qa_status": "source_conflict",
-    "qa_note": "Pass i Stow nisu bili londonski majstori koji su izvorno napravili zvono. Oni su bili lokalni ljevači u Philadelphiji koji su ga 1753. ponovno izlili. Izvorno zvono iz Londona izradili su Thomas Lester i Thomas Pack."
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj je američkoj saveznoj državi rođen drugi američki predsjednik John Adams?",
-    "answers": {"A": "Virginia", "B": "Massachusetts", "C": "New York"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Za koliko milijuna dolara su amerikanci od francuza kupili područje zvano Louisiana?",
-    "answers": {"A": "10", "B": "15", "C": "20"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koliko je predsjednika SAD-a obnašalo dužnost za vrijeme života kraljice Elizabete II.?",
-    "answers": {"A": "15", "B": "17", "C": "19"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji američki grad nosi ime po šestom predsjedniku SAD-a?",
-    "answers": {"A": "Quincy", "B": "Monroe", "C": "Madison"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Pomorski rat između SAD-a i 1. Francuske Republike vođen je od 1798. do 1801.g., naziva ga se 'Kvazi Ratom' jer nikada službeno nije objavljen, a za vrijeme rata, predsjednik SAD-a je bio tko?",
-    "answers": {"A": "George Washington", "B": "John Adams", "C": "Thomas Jefferson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "O priznanju koje države se radi ako znamo da su 'mir' potpisali John Adams, Benjamin Franklin te John Jay?",
-    "answers": {"A": "Kanade", "B": "Francuske", "C": "SAD-a"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Samo je jedna američka savezna država dobila ime po američkom predsjedniku, koja?",
-    "answers": {"A": "Jefferson", "B": "Washington", "C": "Lincoln"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje prezime spaja 4. potpredsjednika i 42. predsjednika SAD-a?",
-    "answers": {"A": "Adams", "B": "Clinton", "C": "Johnson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koliko je jezika tečno govorio Thomas Jefferson?",
-    "answers": {"A": "3", "B": "5", "C": "7"},
-    "image": null,
-    "correct_answer": "B",
-    "qa_note": "Broj jezika koje je Jefferson 'tečno govorio' ovisi o kriteriju i izvoru; prvi odgovor iz baze je 5, ali formulaciju pitanja treba dodatno provjeriti prije produkcije."
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američko-britanski filozof i književnik napisao knjigu 'Zdrav razum' (Common Sense) u kojoj je podupirao Deklaraciju neovisnosti'?",
-    "answers": {"A": "Thomas Paine", "B": "John Locke", "C": "Edmund Burke"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj je zgradi u Philadelphiji potpisana Deklaracija neovisnosti SAD-a?",
-    "answers": {"A": "Congress Hall", "B": "Dvorana neovisnosti", "C": "Carpenters' Hall"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Potpisivanjem deklaracije nezavisnosti, koliko se sjevernoameričkih kolonija odvojilo od Velike Britanije?",
-    "answers": {"A": "12", "B": "13", "C": "14"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Od koliko se redova sastoji piramida koja stoji ispod 'svevidećeg oka'?",
-    "answers": {"A": "12", "B": "13", "C": "15"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Danas se taj grad zove Quincy u čast šestog predsjednika SAD-a, no u vrijeme kada su rođeni američki predsjednici John i John Quincy Adams isti taj grad se zvao kako?",
-    "answers": {"A": "Braintree", "B": "Plymouth", "C": "Milton"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koja rijeka protječe pokraj Popes Creeka, rodnog mjesta Georga Washingtona, te kroz grad Washington DC?",
-    "answers": {"A": "James", "B": "Potomac", "C": "Rappahannock"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U noći za vrijeme kojeg kršćanskog blagdana, George Washington prelazi rijeku Delaware i napada britanske plaćenike u Trentonu?",
-    "answers": {"A": "Uskrsa", "B": "Božića", "C": "Dana zahvalnosti"},
-    "image": null,
-    "correct_answer": "B"
-  }
+{"index":211,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji se američki predsjednik nalazi na novčanici od 2 dolara?","answers":{"A":"Abraham Lincoln","B":"Thomas Jefferson","C":"Andrew Jackson"},"image":null,"correct_answer":"B"},
+{"index":212,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 40. predsjedniku SAD-a Ronaldu Reaganu?","answers":{"A":"Rawhide","B":"Lancer","C":"Timberwolf"},"image":null,"correct_answer":"A"},
+{"index":213,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kojem predsjedniku SAD-a pripisujemo izreku 'The Bank is trying to kill me, Mr. Van Buren, but I shall kill it!'?","answers":{"A":"Martinu Van Burenu","B":"Andrewju Jacksonu","C":"Johnu Quincyju Adamsu"},"image":null,"correct_answer":"B"},
+{"index":214,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji poglavica indijanskog plemena Ottawa dijeli ime s jednom automobilskom markom čija je proizvodnja ugašena 2009.g.?","answers":{"A":"Tecumseh","B":"Black Hawk","C":"Pontiac"},"image":null,"correct_answer":"C"},
+{"index":215,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki grad, koji se nalazi ispod razine mora, Andrew Jackson branio u anglo-američkom ratu?","answers":{"A":"Mobile","B":"New Orleans","C":"Charleston"},"image":null,"correct_answer":"B"},
+{"index":216,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio prvi američki predsjednik iz redova demokratske stranke?","answers":{"A":"Martin Van Buren","B":"Thomas Jefferson","C":"Andrew Jackson"},"image":null,"correct_answer":"C"},
+{"index":217,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 2. predsjednik SAD-a, prezimena Adams, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JA","B":"JQA","C":"JSA"},"image":null,"correct_answer":"A"},
+{"index":218,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 4. predsjednik SAD-a, prezimena Madison, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JRM","B":"JM","C":"JQM"},"image":null,"correct_answer":"B"},
+{"index":219,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Godine 1783. mirom u Parizu, Velika Britanija je priznala nezavisnost Amerike, a britanski kralj u to vrijeme je bio tko?","answers":{"A":"George II.","B":"George III.","C":"George IV."},"image":null,"correct_answer":"B"},
+{"index":220,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj je saveznoj američkoj državi, rođen prvi predsjednik SAD-a, George Washington?","answers":{"A":"Maryland", "B":"Virginija", "C":"Pennsylvania"},"image":null,"correct_answer":"B"},
+{"index":221,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U prvom berberskom ratu protiv berberskih država, SAD je bio pod zapovjedništvom Thomasa Jeffersona, a suveznici u ratu su mu bili Kraljevina Sicilija i koja još kraljevina koja postoji i danas?","answers":{"A":"Danska","B":"Španjolska","C":"Švedska"},"image":null,"correct_answer":"C"},
+{"index":222,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Piramida ispod svevidećeg oka se sastoji od 13 redova i simbolizira 13 ujedinjenih kolonija s kojeg kontinenta?","answers":{"A":"Sjeverne Amerike","B":"Južne Amerike","C":"Europe"},"image":null,"correct_answer":"A"},
+{"index":223,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Dana 11.6. 1776.g. izabran je odbor od koliko članova za izradu američke Deklaracije nezavisnosti?","answers":{"A":"3","B":"5","C":"7"},"image":null,"correct_answer":"B"},
+{"index":224,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji američki predsjednik je na slici 'Lansdowne portrait' iz 1796.g. slikara Gilberta Stuarta?","answers":{"A":"John Adams","B":"Thomas Jefferson","C":"George Washington"},"image":null,"correct_answer":"C"},
+{"index":225,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koja dva prezimena se nalaze na američkom zvonu slobode (Liberty Bell) koja ujedno predstavljaju londonske majstore ljevače, koji su zvone i napravili?","answers":{"A":"Lester i Pack","B":"Pass i Stow","C":"Mears i Stainbank"},"image":null,"correct_answer":"B","qa_status":"source_conflict","qa_note":"Pass i Stow nisu bili londonski majstori koji su izvorno napravili zvono. Oni su bili lokalni ljevači u Philadelphiji koji su ga 1753. ponovno izlili. Izvorno zvono iz Londona izradili su Thomas Lester i Thomas Pack."},
+{"index":226,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj je američkoj saveznoj državi rođen drugi američki predsjednik John Adams?","answers":{"A":"Virginia","B":"Massachusetts","C":"New York"},"image":null,"correct_answer":"B"},
+{"index":227,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Za koliko milijuna dolara su amerikanci od francuza kupili područje zvano Louisiana?","answers":{"A":"10","B":"15","C":"20"},"image":null,"correct_answer":"B"},
+{"index":228,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koliko je predsjednika SAD-a obnašalo dužnost za vrijeme života kraljice Elizabete II.?","answers":{"A":"15","B":"17","C":"19"},"image":null,"correct_answer":"B"},
+{"index":229,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji američki grad nosi ime po šestom predsjedniku SAD-a?","answers":{"A":"Quincy","B":"Monroe","C":"Madison"},"image":null,"correct_answer":"A"},
+{"index":230,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Pomorski rat između SAD-a i 1. Francuske Republike vođen je od 1798. do 1801.g., naziva ga se 'Kvazi Ratom' jer nikada službeno nije objavljen, a za vrijeme rata, predsjednik SAD-a je bio tko?","answers":{"A":"George Washington","B":"John Adams","C":"Thomas Jefferson"},"image":null,"correct_answer":"B"},
+{"index":231,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"O priznanju koje države se radi ako znamo da su 'mir' potpisali John Adams, Benjamin Franklin te John Jay?","answers":{"A":"Kanade","B":"Francuske","C":"SAD-a"},"image":null,"correct_answer":"C"},
+{"index":232,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Samo je jedna američka savezna država dobila ime po američkom predsjedniku, koja?","answers":{"A":"Jefferson", "B":"Washington", "C":"Franklin"},"image":null,"correct_answer":"B"},
+{"index":233,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje prezime spaja 4. potpredsjednika i 42. predsjednika SAD-a?","answers":{"A":"Adams","B":"Clinton","C":"Johnson"},"image":null,"correct_answer":"B"},
+{"index":234,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koliko je jezika tečno govorio Thomas Jefferson?","answers":{"A":"3","B":"5","C":"7"},"image":null,"correct_answer":"B","qa_note":"Broj jezika koje je Jefferson 'tečno govorio' ovisi o kriteriju i izvoru; prvi odgovor iz baze je 5, ali formulaciju pitanja treba dodatno provjeriti prije produkcije."},
+{"index":235,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američko-britanski filozof i književnik napisao knjigu 'Zdrav razum' (Common Sense) u kojoj je podupirao Deklaraciju neovisnosti'?","answers":{"A":"Thomas Paine","B":"John Dickinson","C":"Benjamin Rush"},"image":null,"correct_answer":"A"},
+{"index":236,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj je zgradi u Philadelphiji potpisana Deklaracija neovisnosti SAD-a?","answers":{"A":"Congress Hall","B":"Dvorana neovisnosti","C":"Carpenters' Hall"},"image":null,"correct_answer":"B"},
+{"index":237,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Potpisivanjem deklaracije nezavisnosti, koliko se sjevernoameričkih kolonija odvojilo od Velike Britanije?","answers":{"A":"12","B":"13","C":"14"},"image":null,"correct_answer":"B"},
+{"index":238,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Od koliko se redova sastoji piramida koja stoji ispod 'svevidećeg oka'?","answers":{"A":"12","B":"13","C":"14"},"image":null,"correct_answer":"B"},
+{"index":239,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Danas se taj grad zove Quincy u čast šestog predsjednika SAD-a, no u vrijeme kada su rođeni američki predsjednici John i John Quincy Adams isti taj grad se zvao kako?","answers":{"A":"Braintree","B":"Plymouth","C":"Milton"},"image":null,"correct_answer":"A"},
+{"index":240,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koja rijeka protječe pokraj Popes Creeka, rodnog mjesta Georga Washingtona, te kroz grad Washington DC?","answers":{"A":"James", "B":"Potomac", "C":"Rappahannock"},"image":null,"correct_answer":"B"},
+{"index":241,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U noći za vrijeme kojeg kršćanskog blagdana, George Washington prelazi rijeku Delaware i napada britanske plaćenike u Trentonu?","answers":{"A":"Uskrsa","B":"Božića","C":"Bogojavljenja"},"image":null,"correct_answer":"B"}
 ]
