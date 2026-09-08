@@ -23,3 +23,4 @@ duplicates=[{'index':i,'occurrences':v} for i,v in seen.items() if len(v)>1]
 report={'source_total':len(manifest),'matched_unique':len(seen),'missing_count':len(missing),'duplicate_index_count':len(duplicates),'extra_or_changed_count':len(extras),'files_scanned':files,'missing':missing,'duplicates':duplicates,'extra_or_changed':extras}
 Path('redo/AmerickiPredsjednici_manual_audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print(json.dumps({k:report[k] for k in ['source_total','matched_unique','missing_count','duplicate_index_count','extra_or_changed_count']},ensure_ascii=False))
+# strict rerun
