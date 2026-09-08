@@ -1,9 +1,9 @@
 {
   "source_total": 488,
-  "matched_unique": 488,
-  "missing_count": 0,
+  "matched_unique": 484,
+  "missing_count": 4,
   "duplicate_index_count": 0,
-  "extra_or_changed_count": 0,
+  "extra_or_changed_count": 4,
   "files_scanned": [
     "redo/AmerickiPredsjednici.json",
     "redo/AmerickiPredsjednici_016_040.json",
@@ -25,7 +25,73 @@
     "redo/AmerickiPredsjednici_90_112.json",
     "redo/AmerickiPredsjednici_missing_268_348_352_409_412.json"
   ],
-  "missing": [],
+  "missing": [
+    {
+      "index": 206,
+      "question": "Koje indijansko pleme je prije doseljavanja europljana nastanjivalo područje današnjeg glavnog grada Kanade?",
+      "correct": "Ottawa",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 207,
+      "question": "Politička pisma, koja je tada budući predsjednik SAD-a, John Adams, objavio u novinama Boston Gazette od 7-og do 9-og mjeseca 1763.g. je potpisao pseudonimom sa samo jednim slovom, kojim?",
+      "correct": "U",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 208,
+      "question": "Kada bi se 18. predsjednik SAD-a, prezimena Grant, potpisao samo inicijalima, dobili bi koja slova?",
+      "correct": "USG",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 209,
+      "question": "Od kojeg je kemijskog elementa bila izrađena tintarnica iz koje su deklaraciju neovisnosti potpisali mnogi 'očevi amerike'?",
+      "correct": "Srebra",
+      "type": "blitz",
+      "difficulty": 3,
+      "topic": "AmerickiPredsjednici",
+      "rarity": null,
+      "image": null
+    }
+  ],
   "duplicates": [],
-  "extra_or_changed": []
+  "extra_or_changed": [
+    {
+      "file": "redo/AmerickiPredsjednici_177_210.json",
+      "position": 30,
+      "index": 206,
+      "reason": "question not exact source match"
+    },
+    {
+      "file": "redo/AmerickiPredsjednici_177_210.json",
+      "position": 31,
+      "index": 207,
+      "reason": "question not exact source match"
+    },
+    {
+      "file": "redo/AmerickiPredsjednici_177_210.json",
+      "position": 32,
+      "index": 208,
+      "reason": "question not exact source match"
+    },
+    {
+      "file": "redo/AmerickiPredsjednici_177_210.json",
+      "position": 33,
+      "index": 209,
+      "reason": "question not exact source match"
+    }
+  ]
 }
