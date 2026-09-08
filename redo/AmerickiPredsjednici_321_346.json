@@ -1,5 +1,6 @@
 [
   {
+    "index": 322,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -9,61 +10,68 @@
     "correct_answer": "A"
   },
   {
+    "index": 323,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Theodore Roosevelt je za svog predsjedanja SAD-om otpočeo gradnju kojeg kanala?",
-    "answers": {"A": "Sueskog", "B": "Panamskog", "C": "Kielskog"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Po kojem cvijetu ime nosi vrt u sklopu Bijele Kuće u SAD-u?",
-    "answers": {"A": "Tulipanu", "B": "Ruži", "C": "Magnoliji"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Ljubavna veza sa sekretaricom Lucy Mercer, ostala je tajna do kraja života kojeg američkog predsjednika?",
-    "answers": {"A": "Franklin Delano Roosevelt", "B": "Woodrow Wilson", "C": "Warren G. Harding"},
+    "answers": {"A": "Panamskog", "B": "Nikaragvanskog", "C": "Kielskog"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 324,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Po kojem cvijetu ime nosi vrt u sklopu Bijele Kuće u SAD-u?",
+    "answers": {"A": "Ruži", "B": "Magnoliji", "C": "Tulipanu"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 325,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Ljubavna veza sa sekretaricom Lucy Mercer, ostala je tajna do kraja života kojeg američkog predsjednika?",
+    "answers": {"A": "Franklin Delano Roosevelt", "B": "Warren G. Harding", "C": "Woodrow Wilson"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 326,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koje marke je bio parni automobil kojim se vozio američki predsjednik William McKinley?",
-    "answers": {"A": "Locomobile", "B": "Stanley Steamer", "C": "White Steamer"},
+    "answers": {"A": "Stanley Steamer", "B": "Locomobile", "C": "White Steamer"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 327,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Woodrow Wilson, 28. američki predsjednik je nakon završetka 1. svjetskog rata bio toliko priznat, popularan i smatran herojem da je čak i jedan glavni europski grad promijenio ime u 'Wilsonow grad', a taj grad se danas zove kako?",
-    "answers": {"A": "Bratislava", "B": "Ljubljana", "C": "Prag"},
+    "answers": {"A": "Bratislava", "B": "Prag", "C": "Ljubljana"},
     "image": null,
     "correct_answer": "A",
     "qa_note": "Za Bratislavu je 1918.–1919. postojao prijedlog i ograničena uporaba naziva Wilsonovo/Wilsonov grad, ali tvrdnja da je grad službeno i trajno 'promijenio ime' u Wilsonov grad je pojednostavljena."
   },
   {
+    "index": 328,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Tko je projektirao američku predsjedničku Bijelu Kuću?",
-    "answers": {"A": "Benjamin Henry Latrobe", "B": "James Hoban", "C": "Pierre Charles L'Enfant"},
+    "answers": {"A": "James Hoban", "B": "Benjamin Henry Latrobe", "C": "Pierre Charles L'Enfant"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 329,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -73,15 +81,17 @@
     "correct_answer": "A"
   },
   {
+    "index": 330,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Kao kandidat koje stranke je Grover Cleveland osvojio svoja dva predsjednička mandata u SAD-u?",
-    "answers": {"A": "Republikanske", "B": "Demokratske", "C": "Populističke"},
+    "answers": {"A": "Demokratske", "B": "Republikanske", "C": "Populističke"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 331,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -93,6 +103,7 @@
     "qa_note": "Izvorni prvi odgovor Woodrow Wilson nije moguć: Wilson je umro 1924. Herbert Hoover, bivši predsjednik SAD-a, susreo se s Hitlerom u Njemačkoj 1938. Pitanje i točan odgovor treba ispraviti prije produkcije."
   },
   {
+    "index": 332,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -102,24 +113,27 @@
     "correct_answer": "A"
   },
   {
+    "index": 333,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Rat sa kojom državom je Ulysses S. Grant opisao kao 'zločin radi kojeg je Bog Ameriku kaznio građanskim ratom'?",
-    "answers": {"A": "Španjolskom", "B": "Meksikom", "C": "Velikom Britanijom"},
+    "answers": {"A": "Meksikom", "B": "Španjolskom", "C": "Velikom Britanijom"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 334,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Tijekom 1. svjetskog rata, Njemci su Meksiku ponudili savez gdje bi im pomogli vratiti teritorij koji su meksikanci izgubili za vrijeme rata sa SAD-om. Sve je počelo sa jednim brzojavom koji je presrela britanska tajna služba a on je ujedno i označio američki ulazak u 1. svjetski rat. Brzojav je ostao zapamćen po kojem prezimenu njemca koji ga je i poslao?",
-    "answers": {"A": "Bethmann Hollweg", "B": "Zimmermann", "C": "Ludendorff"},
+    "answers": {"A": "Zimmermann", "B": "Bethmann Hollweg", "C": "Ludendorff"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 335,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -129,15 +143,17 @@
     "correct_answer": "A"
   },
   {
+    "index": 336,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Iako je otkupljena 1867.g., koja je američka savezna država čekala sve do 1923.g. da ju posjeti jedan američki predsjednik, što je tada učinio Warren G. Harding?",
-    "answers": {"A": "Havaji", "B": "Aljaska", "C": "Oregon"},
+    "answers": {"A": "Aljaska", "B": "Havaji", "C": "Oregon"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 337,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -148,33 +164,37 @@
     "qa_note": "Vrh je desetljećima bio službeno poznat kao Mount McKinley, ali današnji službeni naziv je Denali; pitanje je povijesno formulirano."
   },
   {
+    "index": 338,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koji je Medvjedić inspiriran američkim predsjednikom Theodoreom Rooseveltom?",
-    "answers": {"A": "Paddington Bear", "B": "Teddy Bear", "C": "Smokey Bear"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Samo je jedna žena u američkoj povijesti prvom damom postala vjenčanjem a ne predsjedničkom inauguracijom, udala se u Bijeloj Kući za Grovera Clevelanda a zove se kako?",
-    "answers": {"A": "Frances Folsom", "B": "Caroline Harrison", "C": "Helen Herron"},
+    "answers": {"A": "Teddy Bear", "B": "Smokey Bear", "C": "Yogi Bear"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 339,
+    "type": "blitz",
+    "difficulty": 3,
+    "topic": "AmerickiPredsjednici",
+    "question": "Samo je jedna žena u američkoj povijesti prvom damom postala vjenčanjem a ne predsjedničkom inauguracijom, udala se u Bijeloj Kući za Grovera Clevelanda a zove se kako?",
+    "answers": {"A": "Frances Folsom", "B": "Julia Gardiner", "C": "Caroline Harrison"},
+    "image": null,
+    "correct_answer": "A"
+  },
+  {
+    "index": 340,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "U vrijeme Dana-D i iskrcavanja vojnika u Normandiji, američki predsjednik je bio Franklin D. Roosevelt, a vrhovni zapovjednik savezničkih snaga koji, tada budući, američki predsjednik?",
-    "answers": {"A": "George S. Patton", "B": "Dwight David Eisenhower", "C": "Omar Bradley"},
+    "answers": {"A": "Dwight David Eisenhower", "B": "George S. Patton", "C": "Omar Bradley"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 341,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -184,15 +204,17 @@
     "correct_answer": "A"
   },
   {
+    "index": 342,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Prezime kojeg američkog predsjednika možemo pronaći uz obalu jezera Erie, jednog od 'velikih' sjevernoameričkih jezera?",
-    "answers": {"A": "Madison", "B": "Cleveland", "C": "Monroe"},
+    "answers": {"A": "Cleveland", "B": "Monroe", "C": "Madison"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 343,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -202,6 +224,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 344,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -212,30 +235,33 @@
     "qa_note": "Pitanje je široko: FDR je bio predsjednik tijekom većeg dijela Drugog svjetskog rata, ali Harry S. Truman preuzeo je dužnost u travnju 1945. i bio predsjednik do završetka rata. Prvi odgovor iz baze ostaje FDR."
   },
   {
+    "index": 345,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Andrew Jackson je bio prvi američki predsjednik koji se provozao kojim prijevoznim sredstvom, tada poznatim i kao 'željezni konj'?",
-    "answers": {"A": "Parnim brodom", "B": "Parnom lokomotivom", "C": "Tramvajem"},
+    "answers": {"A": "Parnom lokomotivom", "B": "Parobrodom", "C": "Kočijom na paru"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 346,
     "type": "blitz",
     "rarity": "silver",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Konferenciju održanu na slapovima Niagare u svibnju/maju i lipnju/junu 1914.g. u kanadskom gradu Niagara Falls održali su predstavnici triju država koje su diplomatskim putem pokušale spriječiti rat između SAD-a i Meksika nakon američke okupacije Veracruza. Po kojoj je troslovnoj kratici konferencija ostala upamćena ako znamo da su u njoj prva slova svake te države?",
-    "answers": {"A": "ABC", "B": "AMS", "C": "BCA"},
+    "answers": {"A": "ABC", "B": "BAC", "C": "ACB"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 347,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Ubojstvom Williama McKinleyja, američkim predsjednikom postaje tko?",
-    "answers": {"A": "Theodore Roosevelt", "B": "William Howard Taft", "C": "Grover Cleveland"},
+    "answers": {"A": "Theodore Roosevelt", "B": "William Howard Taft", "C": "Charles W. Fairbanks"},
     "image": null,
     "correct_answer": "A"
   }
