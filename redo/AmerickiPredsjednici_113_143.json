@@ -1,281 +1,33 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 44. predsjednik SAD-a, prezimena Obama, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "BHO", "B": "BOH", "C": "BHOJ"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je guverner New Yorka bio jedan od glavnih zagovaratelja izgradnje kanala Erie te naposlijetku bio i najzaslužniji za taj megaprojekt dugačak 584km, kojim su Velika Jezera spojena sa Atlantikom?",
-    "answers": {"A": "George Clinton", "B": "DeWitt Clinton", "C": "Martin Van Buren"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 35. predsjednik SAD-a, prezimena Kennedy potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JFK", "B": "JPK", "C": "JMK"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Jefferson i Adams su 1786.g. obilazeći Veliku Britaniju, posjetili i rodnu kuću u mjestu Stratford na Avonu, kojeg slavnog pisca?",
-    "answers": {"A": "Johna Miltona", "B": "Williama Shakespearea", "C": "Geoffreyja Chaucera"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 39. predsjednik SAD-a, prezimena Carter, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JEC", "B": "JRC", "C": "JAC"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Thomas Jefferson i John Adams su se na francuskom kraljevskom dvoru susreli za vremena kojeg francuskog kralja?",
-    "answers": {"A": "Luja XV.", "B": "Luja XVI.", "C": "Luja XVIII."},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Godine 1819. španjolska ustupa amerikancima područje koje današnje savezne američke države?",
-    "answers": {"A": "Floride", "B": "Teksasa", "C": "Kalifornije"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tijekom anglo-američkog rata, koja američka fregata u pomorskoj bitci 1812.g. pobjeđuje britansku HMS Guerriere?",
-    "answers": {"A": "USS United States", "B": "Constitution", "C": "USS Constellation"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je, tada budući američki predsjednik, potpisao mir u Gentu 1814.g. kojim je okončan anglo-američki rat?",
-    "answers": {"A": "Henry Clay", "B": "John Quincy Adams", "C": "James Monroe"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 21. predsjednik SAD-a, prezimena Arthur, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "CAA", "B": "CJA", "C": "CAAJ"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 38. predsjedniku SAD-a Geraldu Fordu?",
-    "answers": {"A": "Lancer", "B": "Passkey", "C": "Eagle"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Nastavi niz: Washington, Adams, Jefferson, Madison pa onda tko?",
-    "answers": {"A": "John Quincy Adams", "B": "James Monroe", "C": "Andrew Jackson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Potpisivanjem mira u kojem gradu 1814.g. završava britansko-američki rat koji je otpočeo 1812.g.?",
-    "answers": {"A": "Bruxellesu", "B": "Parizu", "C": "Gentu"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 35. predsjedniku SAD-a Johnu F. Kennedyju?",
-    "answers": {"A": "Lancer", "B": "Passkey", "C": "Timberwolf"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 28. predsjednik SAD-a, prezimena Wilson, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "TW", "B": "WW", "C": "WWW"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kojeg američkog predsjednika prati mini-tv serija iz 2008.g. koja je osvojila 4 zlatna globusa i čak 13 emmyja?",
-    "answers": {"A": "Georgea Washingtona", "B": "Thomasa Jeffersona", "C": "Johna Adamsa"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 33. predsjednik SAD-a, prezimena Truman, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "HST", "B": "HJT", "C": "HTS"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 17. predsjednik SAD-a, prezimena Johnson, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "ABJ", "B": "AJ", "C": "AJS"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 46. predsjednik SAD-a, prezimena Biden, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JRBJ", "B": "JRB", "C": "JEBJ"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 42. predsjedniku SAD-a Billu Clintonu?",
-    "answers": {"A": "Eagle", "B": "Lancer", "C": "Rawhide"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 25. predsjednik SAD-a, prezimena McKinley, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "WJM", "B": "WM", "C": "WMM"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 15. predsjednik SAD-a, prezimena Buchanan, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JKB", "B": "JB", "C": "JAB"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 45. i 47. predsjednik SAD-a potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "DJT", "B": "DTJ", "C": "DTT"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji se fiktivni američki predsjednik pojavljuje u TV seriji Zapadno Krilo (The West Wing)?",
-    "answers": {"A": "Frank Underwood", "B": "Josiah Bartlet", "C": "David Palmer"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 42. predsjednik SAD-a, prezimena Clinton, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "WJC", "B": "BJC", "C": "WBC"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kojem je američkom predsjedniku, potpredsjednik kroz dva mandata bio Daniel D. Tompkins?",
-    "answers": {"A": "Jamesu Madisonu", "B": "Jamesu Monroeu", "C": "Johnu Quincyju Adamsu"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 11. predsjednik SAD-a, prezimena Polk, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JMP", "B": "JKP", "C": "JTP"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 22. predsjednik SAD-a, prezimena Cleveland, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "SGC", "B": "GC", "C": "GSC"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 10. predsjednik SAD-a, prezimena Tyler, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JT", "B": "JCT", "C": "JTT"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koja valuta postaje službena 1792.g. zahvaljujući Alexanderu Hamiltonu?",
-    "answers": {"A": "Funta", "B": "Dolar", "C": "Kontinentalni dolar"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koliko je osoba sa papirnih novčanica američkog dolara, koje su danas u opticaju, poginulo od vatrenog oružja?",
-    "answers": {"A": "1", "B": "2", "C": "3"},
-    "image": null,
-    "correct_answer": "B"
-  }
+{"index":113,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 44. predsjednik SAD-a, prezimena Obama, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"BHO","B":"BOH","C":"BHOJ"},"image":null,"correct_answer":"A"},
+{"index":114,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je guverner New Yorka bio jedan od glavnih zagovaratelja izgradnje kanala Erie te naposlijetku bio i najzaslužniji za taj megaprojekt dugačak 584km, kojim su Velika Jezera spojena sa Atlantikom?","answers":{"A":"George Clinton","B":"DeWitt Clinton","C":"Martin Van Buren"},"image":null,"correct_answer":"B"},
+{"index":115,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 35. predsjednik SAD-a, prezimena Kennedy potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JFK","B":"JPK","C":"JMK"},"image":null,"correct_answer":"A"},
+{"index":116,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Jefferson i Adams su 1786.g. obilazeći Veliku Britaniju, posjetili i rodnu kuću u mjestu Stratford na Avonu, kojeg slavnog pisca?","answers":{"A":"Johna Miltona","B":"Williama Shakespearea","C":"Geoffreyja Chaucera"},"image":null,"correct_answer":"B"},
+{"index":117,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 39. predsjednik SAD-a, prezimena Carter, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JEC","B":"JRC","C":"JAC"},"image":null,"correct_answer":"A"},
+{"index":118,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Thomas Jefferson i John Adams su se na francuskom kraljevskom dvoru susreli za vremena kojeg francuskog kralja?","answers":{"A":"Luja XV.","B":"Luja XVI.","C":"Luja XVIII."},"image":null,"correct_answer":"B"},
+{"index":119,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Godine 1819. španjolska ustupa amerikancima područje koje današnje savezne američke države?","answers":{"A":"Floride","B":"Teksasa","C":"Kalifornije"},"image":null,"correct_answer":"A","qa_note":"Adams-Onísov sporazum potpisan je 1819., a prijenos Floride stupio je na snagu 1821."},
+{"index":120,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tijekom anglo-američkog rata, koja američka fregata u pomorskoj bitci 1812.g. pobjeđuje britansku HMS Guerriere?","answers":{"A":"USS United States","B":"Constitution","C":"USS President"},"image":null,"correct_answer":"B"},
+{"index":121,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je, tada budući američki predsjednik, potpisao mir u Gentu 1814.g. kojim je okončan anglo-američki rat?","answers":{"A":"Henry Clay","B":"John Quincy Adams","C":"James Monroe"},"image":null,"correct_answer":"B"},
+{"index":122,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 21. predsjednik SAD-a, prezimena Arthur, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"CAA","B":"CJA","C":"CAAJ"},"image":null,"correct_answer":"A"},
+{"index":123,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 38. predsjedniku SAD-a Geraldu Fordu?","answers":{"A":"Lancer","B":"Passkey","C":"Rawhide"},"image":null,"correct_answer":"B"},
+{"index":124,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Nastavi niz: Washington, Adams, Jefferson, Madison pa onda tko?","answers":{"A":"John Quincy Adams","B":"James Monroe","C":"Andrew Jackson"},"image":null,"correct_answer":"B"},
+{"index":125,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Potpisivanjem mira u kojem gradu 1814.g. završava britansko-američki rat koji je otpočeo 1812.g.?","answers":{"A":"Bruxellesu","B":"Parizu","C":"Gentu"},"image":null,"correct_answer":"C"},
+{"index":126,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 35. predsjedniku SAD-a Johnu F. Kennedyju?","answers":{"A":"Lancer","B":"Passkey","C":"Timberwolf"},"image":null,"correct_answer":"A"},
+{"index":127,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 28. predsjednik SAD-a, prezimena Wilson, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"TW","B":"WW","C":"WWW"},"image":null,"correct_answer":"B"},
+{"index":128,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kojeg američkog predsjednika prati mini-tv serija iz 2008.g. koja je osvojila 4 zlatna globusa i čak 13 emmyja?","answers":{"A":"Georgea Washingtona","B":"Thomasa Jeffersona","C":"Johna Adamsa"},"image":null,"correct_answer":"C"},
+{"index":129,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 33. predsjednik SAD-a, prezimena Truman, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"HST","B":"HJT","C":"HTS"},"image":null,"correct_answer":"A"},
+{"index":130,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 17. predsjednik SAD-a, prezimena Johnson, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"ABJ","B":"AJ","C":"AJS"},"image":null,"correct_answer":"B"},
+{"index":131,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 46. predsjednik SAD-a, prezimena Biden, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JRBJ","B":"JRB","C":"JEBJ"},"image":null,"correct_answer":"A"},
+{"index":132,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 42. predsjedniku SAD-a Billu Clintonu?","answers":{"A":"Eagle","B":"Lancer","C":"Rawhide"},"image":null,"correct_answer":"A"},
+{"index":133,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 25. predsjednik SAD-a, prezimena McKinley, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"WJM","B":"WM","C":"WMM"},"image":null,"correct_answer":"B"},
+{"index":134,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 15. predsjednik SAD-a, prezimena Buchanan, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JKB","B":"JB","C":"JAB"},"image":null,"correct_answer":"B"},
+{"index":135,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 45. i 47. predsjednik SAD-a potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"DJT","B":"DTJ","C":"DTT"},"image":null,"correct_answer":"A"},
+{"index":136,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji se fiktivni američki predsjednik pojavljuje u TV seriji Zapadno Krilo (The West Wing)?","answers":{"A":"Frank Underwood","B":"Josiah Bartlet","C":"David Palmer"},"image":null,"correct_answer":"B"},
+{"index":137,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 42. predsjednik SAD-a, prezimena Clinton, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"WJC","B":"BJC","C":"WBC"},"image":null,"correct_answer":"A"},
+{"index":138,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kojem je američkom predsjedniku, potpredsjednik kroz dva mandata bio Daniel D. Tompkins?","answers":{"A":"Jamesu Madisonu","B":"Jamesu Monroeu","C":"Johnu Quincyju Adamsu"},"image":null,"correct_answer":"B"},
+{"index":139,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 11. predsjednik SAD-a, prezimena Polk, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JMP","B":"JKP","C":"JTP"},"image":null,"correct_answer":"B"},
+{"index":140,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 22. predsjednik SAD-a, prezimena Cleveland, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"SGC","B":"GC","C":"GSC"},"image":null,"correct_answer":"B"},
+{"index":141,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 10. predsjednik SAD-a, prezimena Tyler, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JT","B":"JCT","C":"JTT"},"image":null,"correct_answer":"A"},
+{"index":142,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koja valuta postaje službena 1792.g. zahvaljujući Alexanderu Hamiltonu?","answers":{"A":"Kontinentalni dolar","B":"Dolar","C":"Američka funta"},"image":null,"correct_answer":"B"},
+{"index":143,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koliko je osoba sa papirnih novčanica američkog dolara, koje su danas u opticaju, poginulo od vatrenog oružja?","answers":{"A":"1","B":"2","C":"3"},"image":null,"correct_answer":"B"}
 ]
