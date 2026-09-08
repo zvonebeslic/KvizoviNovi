@@ -1,302 +1,35 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Godine 1811. serijom potresa jačine 7.2 , 8.2 i 7.4 po Richteru, zabilježeni su najjači potresi u povijesti SAD-a istočno od Stjenjaka, a dogodili su se u blizini kojeg grada, koji ime dijeli s jednom europskom prijestolnicom?",
-    "answers": {"A": "New Madrid", "B": "New London", "C": "New Athens"},
-    "image": null,
-    "correct_answer": "A",
-    "qa_note": "Procjene magnituda potresa New Madrida 1811.–1812. razlikuju se po izvorima; sam odgovor New Madrid je ispravan."
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Na najstarijoj sačuvanoj fotografiji jednog američkog predsjednika, se nalazi tko?",
-    "answers": {"A": "Andrew Jackson", "B": "John Quincy Adams", "C": "Martin Van Buren"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 6. predsjednik SAD-a, prezimena Adams, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JQA", "B": "JQAA", "C": "JCA"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 45. i 47. predsjedniku SAD-a Donaldu Trumpu?",
-    "answers": {"A": "Renegade", "B": "Mogul", "C": "Trailblazer"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji se američki predsjednik nalazi na novčanici od 5 dolara?",
-    "answers": {"A": "George Washington", "B": "Thomas Jefferson", "C": "Abraham Lincoln"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kako se zove 'dom' New York Knicksa iz NBA-a i New York Rangersa iz NHL-a, a koji je ime dobio po četvrtom predsjedniku SAD-a?",
-    "answers": {"A": "Barclays Center", "B": "Madison Square Garden", "C": "Yankee Stadium"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 34. predsjedniku SAD-a Dwightu D. Eisenhoweru?",
-    "answers": {"A": "General", "B": "Scorecard", "C": "Lancer"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 29. predsjednik SAD-a, prezimena Harding, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "WHG", "B": "WGH", "C": "WJH"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 24. predsjednik SAD-a, prezimena Cleveland, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "GSC", "B": "GC", "C": "SGC"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 27. predsjednik SAD-a, prezimena Taft, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "WHT", "B": "WTT", "C": "WJT"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koju 'slobodnu' državu James Monroe proglašava kao 23. američku saveznu državu, u znak kompromisa prema 'robovlasničkoj' državi Missouri koja je savezna postala kao 24.?",
-    "answers": {"A": "Vermont", "B": "Maine", "C": "Ohio"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "rarity": "silver",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koliko je američkih predsjednika umrlo na dan američke neovisnosti?",
-    "answers": {"A": "2", "B": "3", "C": "4"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 38. predsjednik SAD-a, prezimena Ford, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "GRF", "B": "GJF", "C": "GFR"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 43. predsjedniku SAD-a Georgeu W. Bushu?",
-    "answers": {"A": "Trailblazer", "B": "Timberwolf", "C": "Eagle"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je 'piratski kralj' meksičkog zaljeva pomogao Andrewju Jacksonu u obrani New Orleansa od Britanaca 1815.g.?",
-    "answers": {"A": "Pierre Lafitte", "B": "Jean Lafitte", "C": "Dominique You"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Na novčanici od 20 dolara, nalazimo potret kojeg američkog predsjednika?",
-    "answers": {"A": "Ulysses S. Grant", "B": "Andrew Jackson", "C": "Thomas Jefferson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Ostalo je zabilježeno u povijesti da je rijeka Mississippi jednog dana tekla 'uzvodno', zbog jakih potresa koji su poremetili korito rijeke. Sve se dogodilo 1812.g. u kojoj američkoj saveznoj državi?",
-    "answers": {"A": "Arkansas", "B": "Tennessee", "C": "Missouri"},
-    "image": null,
-    "correct_answer": "C",
-    "qa_note": "USGS objašnjava da je potresno izdizanje i privremeno pregrađivanje rijeke stvorilo dojam da Mississippi teče uzvodno."
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 40. predsjednik SAD-a, prezimena Reagan, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "RWR", "B": "RRW", "C": "RJR"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Ulysses S. Grant je bio 18. predsjednik SAD-a a svoje mjesto je pronašao i na dolaru koje nominalne vrijednosti?",
-    "answers": {"A": "20", "B": "50", "C": "100"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 41. predsjednik SAD-a, prezimena Bush, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "GHWB", "B": "GWB", "C": "GHWJB"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je političar i državnik iz Virginije obnašao dužnost četvrtog predsjednika SAD-a?",
-    "answers": {"A": "James Monroe", "B": "Thomas Jefferson", "C": "James Madison"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je potpisnik američke deklaracije neovisnosti izumio gromobran?",
-    "answers": {"A": "Benjamin Franklin", "B": "Thomas Jefferson", "C": "John Adams"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Jedna od najvećih katastrofa u povijesti SAD-a dogodila se 24. kolovoza (Augusta) 1814. godine kada je između ostalih, spaljena i koja poznata kuća?",
-    "answers": {"A": "Monticello", "B": "Bijela Kuća", "C": "Mount Vernon"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 33. predsjedniku SAD-a Harryju S. Trumanu?",
-    "answers": {"A": "General", "B": "Scorecard", "C": "Passkey"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 5. predsjednik SAD-a, prezimena Monroe, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JQM", "B": "JM", "C": "JRM"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Benjamin Franklin je zaslužan za koji izum koji štiti građevine od atmosferskih pojava nastalih električnim pražnjenjem u atmosferi?",
-    "answers": {"A": "Prenaponski odvodnik", "B": "Gromobran", "C": "Uzemljivač"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 20. predsjednik SAD-a, prezimena Garfield, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "JAG", "B": "JRG", "C": "JGG"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 39. predsjedniku SAD-a Jimmyju Carteru?",
-    "answers": {"A": "Deacon", "B": "Volunteer", "C": "Renegade"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 26. predsjednik SAD-a, prezimena Roosevelt, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "FDR", "B": "TR", "C": "TDR"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 36. predsjedniku SAD-a Lyndonu B. Johnsonu?",
-    "answers": {"A": "Volunteer", "B": "General", "C": "Lancer"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 19. predsjednik SAD-a, prezimena Hayes, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "RPH", "B": "RBH", "C": "RHH"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje kodno ime je Tajna služba dodijelila 44. predsjedniku SAD-a Baracku Obami?",
-    "answers": {"A": "Mogul", "B": "Renegade", "C": "Trailblazer"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 16. predsjednik SAD-a, prezimena Lincoln, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "AL", "B": "AHL", "C": "ABL"},
-    "image": null,
-    "correct_answer": "A"
-  }
+{"index":144,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Godine 1811. serijom potresa jačine 7.2 , 8.2 i 7.4 po Richteru, zabilježeni su najjači potresi u povijesti SAD-a istočno od Stjenjaka, a dogodili su se u blizini kojeg grada, koji ime dijeli s jednom europskom prijestolnicom?","answers":{"A":"New Madrid","B":"New London","C":"New Athens"},"image":null,"correct_answer":"A","qa_note":"Procjene magnituda potresa New Madrida 1811.–1812. razlikuju se po izvorima; sam odgovor New Madrid je ispravan."},
+{"index":145,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Na najstarijoj sačuvanoj fotografiji jednog američkog predsjednika, se nalazi tko?","answers":{"A":"Andrew Jackson","B":"John Quincy Adams","C":"Martin Van Buren"},"image":null,"correct_answer":"B"},
+{"index":146,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 6. predsjednik SAD-a, prezimena Adams, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JQA","B":"JQAA","C":"JCA"},"image":null,"correct_answer":"A"},
+{"index":147,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 45. i 47. predsjedniku SAD-a Donaldu Trumpu?","answers":{"A":"Renegade","B":"Mogul","C":"Celtic"},"image":null,"correct_answer":"B"},
+{"index":148,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji se američki predsjednik nalazi na novčanici od 5 dolara?","answers":{"A":"George Washington","B":"Thomas Jefferson","C":"Abraham Lincoln"},"image":null,"correct_answer":"C"},
+{"index":149,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kako se zove 'dom' New York Knicksa iz NBA-a i New York Rangersa iz NHL-a, a koji je ime dobio po četvrtom predsjedniku SAD-a?","answers":{"A":"Barclays Center","B":"Madison Square Garden","C":"Madison Square Arena"},"image":null,"correct_answer":"B"},
+{"index":150,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 34. predsjedniku SAD-a Dwightu D. Eisenhoweru?","answers":{"A":"General","B":"Scorecard","C":"Rawhide"},"image":null,"correct_answer":"B"},
+{"index":151,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 29. predsjednik SAD-a, prezimena Harding, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"WHG","B":"WGH","C":"WJH"},"image":null,"correct_answer":"B"},
+{"index":152,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 24. predsjednik SAD-a, prezimena Cleveland, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"GSC","B":"GC","C":"SGC"},"image":null,"correct_answer":"B"},
+{"index":153,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 27. predsjednik SAD-a, prezimena Taft, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"WHT","B":"WTT","C":"WJT"},"image":null,"correct_answer":"A"},
+{"index":154,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koju 'slobodnu' državu James Monroe proglašava kao 23. američku saveznu državu, u znak kompromisa prema 'robovlasničkoj' državi Missouri koja je savezna postala kao 24.?","answers":{"A":"Vermont","B":"Maine","C":"Ohio"},"image":null,"correct_answer":"B"},
+{"index":155,"type":"blitz","rarity":"silver","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koliko je američkih predsjednika umrlo na dan američke neovisnosti?","answers":{"A":"2","B":"3","C":"4"},"image":null,"correct_answer":"B"},
+{"index":156,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 38. predsjednik SAD-a, prezimena Ford, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"GRF","B":"GJF","C":"GFR"},"image":null,"correct_answer":"A"},
+{"index":157,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 43. predsjedniku SAD-a Georgeu W. Bushu?","answers":{"A":"Trailblazer","B":"Timberwolf","C":"Tumbler"},"image":null,"correct_answer":"A"},
+{"index":158,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je 'piratski kralj' meksičkog zaljeva pomogao Andrewju Jacksonu u obrani New Orleansa od Britanaca 1815.g.?","answers":{"A":"Pierre Lafitte","B":"Jean Lafitte","C":"Dominique You"},"image":null,"correct_answer":"B"},
+{"index":159,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Na novčanici od 20 dolara, nalazimo potret kojeg američkog predsjednika?","answers":{"A":"Ulysses S. Grant","B":"Andrew Jackson","C":"Abraham Lincoln"},"image":null,"correct_answer":"B"},
+{"index":160,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Ostalo je zabilježeno u povijesti da je rijeka Mississippi jednog dana tekla 'uzvodno', zbog jakih potresa koji su poremetili korito rijeke. Sve se dogodilo 1812.g. u kojoj američkoj saveznoj državi?","answers":{"A":"Arkansas","B":"Tennessee","C":"Missouri"},"image":null,"correct_answer":"C","qa_note":"USGS objašnjava da je potresno izdizanje i privremeno pregrađivanje rijeke stvorilo dojam da Mississippi teče uzvodno."},
+{"index":161,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 40. predsjednik SAD-a, prezimena Reagan, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"RWR","B":"RRW","C":"RJR"},"image":null,"correct_answer":"A"},
+{"index":162,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Ulysses S. Grant je bio 18. predsjednik SAD-a a svoje mjesto je pronašao i na dolaru koje nominalne vrijednosti?","answers":{"A":"20","B":"50","C":"100"},"image":null,"correct_answer":"B"},
+{"index":163,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 41. predsjednik SAD-a, prezimena Bush, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"GHWB","B":"GWB","C":"GHWJB"},"image":null,"correct_answer":"A"},
+{"index":164,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je političar i državnik iz Virginije obnašao dužnost četvrtog predsjednika SAD-a?","answers":{"A":"James Monroe","B":"Thomas Jefferson","C":"James Madison"},"image":null,"correct_answer":"C"},
+{"index":165,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je potpisnik američke deklaracije neovisnosti izumio gromobran?","answers":{"A":"Benjamin Franklin","B":"Thomas Paine","C":"Robert Morris"},"image":null,"correct_answer":"A"},
+{"index":166,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Jedna od najvećih katastrofa u povijesti SAD-a dogodila se 24. kolovoza (Augusta) 1814. godine kada je između ostalih, spaljena i koja poznata kuća?","answers":{"A":"Octagon House","B":"Bijela Kuća","C":"Dumbarton House"},"image":null,"correct_answer":"B"},
+{"index":167,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 33. predsjedniku SAD-a Harryju S. Trumanu?","answers":{"A":"General","B":"Scorecard","C":"Passkey"},"image":null,"correct_answer":"A"},
+{"index":168,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 5. predsjednik SAD-a, prezimena Monroe, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JQM","B":"JM","C":"JRM"},"image":null,"correct_answer":"B"},
+{"index":169,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Benjamin Franklin je zaslužan za koji izum koji štiti građevine od atmosferskih pojava nastalih električnim pražnjenjem u atmosferi?","answers":{"A":"Prenaponski odvodnik","B":"Gromobran","C":"Faradayev kavez"},"image":null,"correct_answer":"B"},
+{"index":170,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 20. predsjednik SAD-a, prezimena Garfield, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"JAG","B":"JRG","C":"JGG"},"image":null,"correct_answer":"A"},
+{"index":171,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 39. predsjedniku SAD-a Jimmyju Carteru?","answers":{"A":"Deacon","B":"Volunteer","C":"Renegade"},"image":null,"correct_answer":"A"},
+{"index":172,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 26. predsjednik SAD-a, prezimena Roosevelt, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"FDR","B":"TR","C":"TDR"},"image":null,"correct_answer":"B"},
+{"index":173,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 36. predsjedniku SAD-a Lyndonu B. Johnsonu?","answers":{"A":"Volunteer","B":"General","C":"Lancer"},"image":null,"correct_answer":"A"},
+{"index":174,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 19. predsjednik SAD-a, prezimena Hayes, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"RPH","B":"RBH","C":"RHH"},"image":null,"correct_answer":"B"},
+{"index":175,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje kodno ime je Tajna služba dodijelila 44. predsjedniku SAD-a Baracku Obami?","answers":{"A":"Mogul","B":"Renegade","C":"Celtic"},"image":null,"correct_answer":"B"},
+{"index":176,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 16. predsjednik SAD-a, prezimena Lincoln, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"AL","B":"AHL","C":"ABL"},"image":null,"correct_answer":"A"}
 ]
