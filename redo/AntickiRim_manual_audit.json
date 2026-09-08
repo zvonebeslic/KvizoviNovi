@@ -1,0 +1,79 @@
+{
+  "source_total": 589,
+  "matched_unique": 587,
+  "missing_count": 2,
+  "duplicate_index_count": 2,
+  "extra_or_changed_count": 0,
+  "files_scanned": [
+    "redo/AntickiRim_001_032.json",
+    "redo/AntickiRim_033_064.json",
+    "redo/AntickiRim_065_096.json",
+    "redo/AntickiRim_097_128.json",
+    "redo/AntickiRim_129_160.json",
+    "redo/AntickiRim_161_192.json",
+    "redo/AntickiRim_193_224.json",
+    "redo/AntickiRim_225_256.json",
+    "redo/AntickiRim_257_288.json",
+    "redo/AntickiRim_289_320.json",
+    "redo/AntickiRim_321_352.json",
+    "redo/AntickiRim_353_384.json",
+    "redo/AntickiRim_385_416.json",
+    "redo/AntickiRim_417_448.json",
+    "redo/AntickiRim_449_480.json",
+    "redo/AntickiRim_481_512.json",
+    "redo/AntickiRim_513_544.json",
+    "redo/AntickiRim_545_576.json",
+    "redo/AntickiRim_577_589.json"
+  ],
+  "missing": [
+    {
+      "index": 277,
+      "question": "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?",
+      "correct": "Ver",
+      "type": "blitz",
+      "difficulty": 4,
+      "topic": "AntickiRim",
+      "rarity": null,
+      "image": null
+    },
+    {
+      "index": 316,
+      "question": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "correct": "Oton",
+      "type": "blitz",
+      "difficulty": 5,
+      "topic": "AntickiRim",
+      "rarity": null,
+      "image": null
+    }
+  ],
+  "duplicates": [
+    {
+      "index": 353,
+      "occurrences": [
+        {
+          "file": "redo/AntickiRim_257_288.json",
+          "position": 21
+        },
+        {
+          "file": "redo/AntickiRim_353_384.json",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "index": 428,
+      "occurrences": [
+        {
+          "file": "redo/AntickiRim_289_320.json",
+          "position": 28
+        },
+        {
+          "file": "redo/AntickiRim_417_448.json",
+          "position": 12
+        }
+      ]
+    }
+  ],
+  "extra_or_changed": []
+}
