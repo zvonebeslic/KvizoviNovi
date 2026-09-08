@@ -1,245 +1,29 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki predsjednik bio na vlasti samo mjesec dana, od 4. ožujka (marta) do 4. travnja (aprila) godine 1841.?",
-    "answers": {"A": "William Henry Harrison", "B": "Zachary Taylor", "C": "James Garfield"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Na koji se vulkan u 19-om stoljeću popeo Ulysses S. Grant?",
-    "answers": {"A": "Etna", "B": "Vezuv", "C": "Stromboli"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio jedini američki predsjednik koji se nikada nije ženio?",
-    "answers": {"A": "James Buchanan", "B": "Grover Cleveland", "C": "Chester A. Arthur"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U 'Shoppingu' od 7,2mil dolara, amerikanci su od rusa kupili koji teritorij?",
-    "answers": {"A": "Aljasku", "B": "Havaje", "C": "Louisianu"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Gerald Ford i Millard Fillmore su jedini američki predsjednici koji su prisegnuli na mandat u kakvoj godini?",
-    "answers": {"A": "Prijestupnoj", "B": "Parnoj", "C": "Izbornoj"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Bitka kod kojeg 'prolaza', u američkom građanskom ratuj je snimljena kao 'u prolazu' u filmu Dobar, Loš, Zao?",
-    "answers": {"A": "Prolaz Glorieta", "B": "Cumberland Gap", "C": "Thoroughfare Gap"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "'Sewardova ludost' nije bolest već pojam koji se veže za kupnju kojeg teritorija?",
-    "answers": {"A": "Floride", "B": "Aljaske", "C": "Louisiane"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Američki građanski rat je počeo napadom zemalja konfederacije na koju utvrdu u Južnoj Karolini?",
-    "answers": {"A": "Fort Sumter", "B": "Fort Moultrie", "C": "Fort Pulaski"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio predsjednik međunarodno nepriznate Konfederacije Američkih Država?",
-    "answers": {"A": "Robert E. Lee", "B": "Jefferson Davis", "C": "Alexander H. Stephens"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koja je boja dominirala američkom ratnom uniformom za vrijeme američko - meksičkog rata iz 19-og st?",
-    "answers": {"A": "Plava", "B": "Siva", "C": "Zelena"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji američki predsjednik, samo 2 mjeseca prije svoje inauguracije doživljava željezničku nesreću u kojoj mu pogiba 11-ogodišnji sin?",
-    "answers": {"A": "Franklin Pierce", "B": "James Buchanan", "C": "Millard Fillmore"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Osmi predsjednik SAD-a, Martin Van Buren, prvi je od američkih predsjednika koji je rođen kao čiji državljanin?",
-    "answers": {"A": "Britanski", "B": "Američki", "C": "Nizozemski"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Najveća bitka američkog građanskog rata se dogodila u saveznoj državi Pennsylvaniji, u blizini kojeg grada?",
-    "answers": {"A": "Gettysburga", "B": "Harrisburga", "C": "Lancastera"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U vrijeme kojeg je američkog predsjednika započeta izgradnja 169 metara visokog Washingtonovog spomenika?",
-    "answers": {"A": "John Tyler", "B": "James Knox Polk", "C": "Zachary Taylor"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je 4. ožujka (marta) 1861.g. predao bijelu kuću Abrahamu Lincolnu?",
-    "answers": {"A": "James Buchanan", "B": "Franklin Pierce", "C": "Millard Fillmore"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kako je Abraham Lincoln izabran za američkog predsjednika, tako je izbio i koji rat?",
-    "answers": {"A": "Meksičko-američki rat", "B": "Američki građanski rat", "C": "Španjolsko-američki rat"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Od svih američkih predsjednika, najviše potomaka je imao John Tyler, kroz dva plodna braka rodilo mu se koliko djece?",
-    "answers": {"A": "12", "B": "15", "C": "18"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Prezime kojeg američkog predsjednika se piše kao ime jednog glumca koji je utjelovio agenta 007?",
-    "answers": {"A": "Pierce", "B": "Moore", "C": "Dalton"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Američki Senat je 9. travnja (aprila) 1867.g. ratificirao sporazum kojim je od rusije za 7,2mil. dolara kupljen koji teritorij?",
-    "answers": {"A": "Aljaska", "B": "Oregon", "C": "Havaji"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko nedostaje Washingtonu, Rooseveltu i Lincolnu, na planini Rushmore?",
-    "answers": {"A": "Thomas Jefferson", "B": "Andrew Jackson", "C": "Ulysses S. Grant"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio treći predsjednik SAD-a?",
-    "answers": {"A": "John Adams", "B": "Thomas Jefferson", "C": "James Madison"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Godine 1800. Johna Adamsa je na predsjedničkim izborima porazio tko?",
-    "answers": {"A": "Thomas Jefferson", "B": "James Madison", "C": "Aaron Burr"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kako se zvao prvi rat koji su Sjedinjene Američke Države vodile na stranom tlu?",
-    "answers": {"A": "Prvi berberski rat", "B": "Rat 1812.", "C": "Meksičko-američki rat"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio prvi američki predsjednik koji je za vrijeme svog predsjedničkog mandata boravio u rezidenciji koja će kasnije postati poznata pod nazivom Bijela Kuća?",
-    "answers": {"A": "George Washington", "B": "John Adams", "C": "Thomas Jefferson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Odbor za izradu američke deklaracije neovisnosti se naziva i odborom petorice, a od tih pet članova, koliko ih je postalo američkim predsjednicima?",
-    "answers": {"A": "Jedan", "B": "Dva", "C": "Tri"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje je ime Thomas Jefferson dao svom imanju u Charlottesvilleu na kojem se i danas nalazi vila, na 260m visokom brdu?",
-    "answers": {"A": "Monticello", "B": "Mount Vernon", "C": "Montpelier"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Od koje godine je u uporabi Veliki pečat Sjedinjenih Američkih Država (Great Seal of the US)?",
-    "answers": {"A": "1776.", "B": "1782.", "C": "1789."},
-    "image": null,
-    "correct_answer": "B"
-  }
+{"index":413,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki predsjednik bio na vlasti samo mjesec dana, od 4. ožujka (marta) do 4. travnja (aprila) godine 1841.?","answers":{"A":"William Henry Harrison","B":"Zachary Taylor","C":"James Garfield"},"image":null,"correct_answer":"A"},
+{"index":414,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Na koji se vulkan u 19-om stoljeću popeo Ulysses S. Grant?","answers":{"A":"Etna","B":"Vezuv","C":"Stromboli"},"image":null,"correct_answer":"B"},
+{"index":415,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio jedini američki predsjednik koji se nikada nije ženio?","answers":{"A":"James Buchanan","B":"Grover Cleveland","C":"Franklin Pierce"},"image":null,"correct_answer":"A"},
+{"index":416,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U 'Shoppingu' od 7,2mil dolara, amerikanci su od rusa kupili koji teritorij?","answers":{"A":"Aljasku","B":"Kamčatku","C":"Aleutske otoke"},"image":null,"correct_answer":"A"},
+{"index":417,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Gerald Ford i Millard Fillmore su jedini američki predsjednici koji su prisegnuli na mandat u kakvoj godini?","answers":{"A":"Prijestupnoj","B":"Parnoj","C":"Izbornoj"},"image":null,"correct_answer":"B"},
+{"index":418,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Bitka kod kojeg 'prolaza', u američkom građanskom ratuj je snimljena kao 'u prolazu' u filmu Dobar, Loš, Zao?","answers":{"A":"Prolaz Glorieta","B":"Cumberland Gap","C":"Thoroughfare Gap"},"image":null,"correct_answer":"A"},
+{"index":419,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"'Sewardova ludost' nije bolest već pojam koji se veže za kupnju kojeg teritorija?","answers":{"A":"Floride","B":"Aljaske","C":"Louisiane"},"image":null,"correct_answer":"B"},
+{"index":420,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Američki građanski rat je počeo napadom zemalja konfederacije na koju utvrdu u Južnoj Karolini?","answers":{"A":"Fort Sumter","B":"Fort Moultrie","C":"Fort Pulaski"},"image":null,"correct_answer":"A"},
+{"index":421,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio predsjednik međunarodno nepriznate Konfederacije Američkih Država?","answers":{"A":"Jefferson Davis","B":"Alexander H. Stephens","C":"Robert Toombs"},"image":null,"correct_answer":"A"},
+{"index":422,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koja je boja dominirala američkom ratnom uniformom za vrijeme američko - meksičkog rata iz 19-og st?","answers":{"A":"Plava","B":"Siva","C":"Zelena"},"image":null,"correct_answer":"A"},
+{"index":423,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji američki predsjednik, samo 2 mjeseca prije svoje inauguracije doživljava željezničku nesreću u kojoj mu pogiba 11-ogodišnji sin?","answers":{"A":"Franklin Pierce","B":"James Buchanan","C":"Millard Fillmore"},"image":null,"correct_answer":"A"},
+{"index":424,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Osmi predsjednik SAD-a, Martin Van Buren, prvi je od američkih predsjednika koji je rođen kao čiji državljanin?","answers":{"A":"Britanski","B":"Američki","C":"Nizozemski"},"image":null,"correct_answer":"B"},
+{"index":425,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Najveća bitka američkog građanskog rata se dogodila u saveznoj državi Pennsylvaniji, u blizini kojeg grada?","answers":{"A":"Gettysburga","B":"Harrisburga","C":"Lancastera"},"image":null,"correct_answer":"A"},
+{"index":426,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U vrijeme kojeg je američkog predsjednika započeta izgradnja 169 metara visokog Washingtonovog spomenika?","answers":{"A":"James Knox Polk","B":"Zachary Taylor","C":"Millard Fillmore"},"image":null,"correct_answer":"A"},
+{"index":427,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je 4. ožujka (marta) 1861.g. predao bijelu kuću Abrahamu Lincolnu?","answers":{"A":"James Buchanan","B":"Franklin Pierce","C":"Millard Fillmore"},"image":null,"correct_answer":"A"},
+{"index":428,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kako je Abraham Lincoln izabran za američkog predsjednika, tako je izbio i koji rat?","answers":{"A":"Američki građanski rat","B":"Meksičko-američki rat","C":"Španjolsko-američki rat"},"image":null,"correct_answer":"A"},
+{"index":429,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Od svih američkih predsjednika, najviše potomaka je imao John Tyler, kroz dva plodna braka rodilo mu se koliko djece?","answers":{"A":"13","B":"15","C":"17"},"image":null,"correct_answer":"B"},
+{"index":430,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Prezime kojeg američkog predsjednika se piše kao ime jednog glumca koji je utjelovio agenta 007?","answers":{"A":"Pierce","B":"Moore","C":"Dalton"},"image":null,"correct_answer":"A"},
+{"index":431,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Američki Senat je 9. travnja (aprila) 1867.g. ratificirao sporazum kojim je od rusije za 7,2mil. dolara kupljen koji teritorij?","answers":{"A":"Aljaska","B":"Kamčatka","C":"Čukotka"},"image":null,"correct_answer":"A"},
+{"index":432,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko nedostaje Washingtonu, Rooseveltu i Lincolnu, na planini Rushmore?","answers":{"A":"Thomas Jefferson","B":"Andrew Jackson","C":"Ulysses S. Grant"},"image":null,"correct_answer":"A"},
+{"index":433,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio treći predsjednik SAD-a?","answers":{"A":"John Adams","B":"Thomas Jefferson","C":"James Madison"},"image":null,"correct_answer":"B"},
+{"index":434,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Godine 1800. Johna Adamsa je na predsjedničkim izborima porazio tko?","answers":{"A":"Thomas Jefferson","B":"Aaron Burr","C":"Charles C. Pinckney"},"image":null,"correct_answer":"A"},
+{"index":435,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kako se zvao prvi rat koji su Sjedinjene Američke Države vodile na stranom tlu?","answers":{"A":"Prvi berberski rat","B":"Drugi berberski rat","C":"Meksičko-američki rat"},"image":null,"correct_answer":"A"},
+{"index":436,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio prvi američki predsjednik koji je za vrijeme svog predsjedničkog mandata boravio u rezidenciji koja će kasnije postati poznata pod nazivom Bijela Kuća?","answers":{"A":"George Washington","B":"John Adams","C":"Thomas Jefferson"},"image":null,"correct_answer":"B"},
+{"index":437,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Odbor za izradu američke deklaracije neovisnosti se naziva i odborom petorice, a od tih pet članova, koliko ih je postalo američkim predsjednicima?","answers":{"A":"Jedan","B":"Dva","C":"Tri"},"image":null,"correct_answer":"B"},
+{"index":438,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje je ime Thomas Jefferson dao svom imanju u Charlottesvilleu na kojem se i danas nalazi vila, na 260m visokom brdu?","answers":{"A":"Monticello","B":"Mount Vernon","C":"Montpelier"},"image":null,"correct_answer":"A"},
+{"index":439,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Od koje godine je u uporabi Veliki pečat Sjedinjenih Američkih Država (Great Seal of the US)?","answers":{"A":"1776.","B":"1782.","C":"1789."},"image":null,"correct_answer":"B"}
 ]
