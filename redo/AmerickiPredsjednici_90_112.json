@@ -1,210 +1,25 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji zid su istočnonjemačke vlasti podignule dok je u americi predsjedao John F. Kennedy?",
-    "answers": {"A": "Atlantski zid", "B": "Berlinski zid", "C": "Hadrijanov zid"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kako se zove supruga bivšeg američkog predsjednika Baracka Obame?",
-    "answers": {"A": "Laura", "B": "Jill", "C": "Michelle"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Prvi predsjednik je bio George Washington, a tko je bio prvi potpredsjednik?",
-    "answers": {"A": "John Adams", "B": "Thomas Jefferson", "C": "Aaron Burr"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Washington je 1776. i 1777.g. u ratu za neovisnost pobjedio britance kod Trentona i Prestona, ali i izgubio kod kojeg mjesta?",
-    "answers": {"A": "Brandywine", "B": "Long Island", "C": "Germantown"},
-    "image": null,
-    "correct_answer": "B",
-    "qa_note": "U pitanju piše 'Preston', a povijesno je riječ o pobjedi kod Princetona 1777."
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "'Bostonska čajanka' je događaj koji je ostao upamćen u američkoj povijesti kao jedan od početaka rata za neovisnost. Amerikanci su sa britanskih brodova Dartmouth, Eleanor i Beaver u more pobacali tone uvoznog kineskog čaja, a bili su prerušeni u koje indijansko pleme?",
-    "answers": {"A": "Cherokee", "B": "Narragansett", "C": "Mohawk"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "John Adams je bio drugi predsjednik SAD-a, a njegov sin, John Quincy Adams je bio koji po redu predsjednik iste države?",
-    "answers": {"A": "Peti", "B": "Šesti", "C": "Sedmi"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj se američkoj saveznoj državi nalazi Mount Rushmore sa 18-metarskim skulpturama 4-ero američkih predsjednika isklesanih u liticama planine?",
-    "answers": {"A": "Wyoming", "B": "Sjeverna Dakota", "C": "Južna Dakota"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio predsjednik SAD-a u vrijeme kada je Napoleon pobjedio u bitci kod Austerlitza?",
-    "answers": {"A": "Thomas Jefferson", "B": "John Adams", "C": "James Madison"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je francuz odigrao jednu od ključnih uloga u bitci kod Yorktowna, pomažući Georgeu Washingtonu u američkom ratu za neovisnost, a poslije toga uvelike doprinio prvoj francuskoj revoluciji?",
-    "answers": {"A": "Comte de Rochambeau", "B": "Marquis de Lafayette", "C": "François Joseph Paul de Grasse"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj je zgradi u Philadelphiji potpisan Ustav SAD-a?",
-    "answers": {"A": "Carpenters' Hall", "B": "Congress Hall", "C": "Independence Hall"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness' su riječi sa američke deklaracije nezavisnosti koje se pripisuju kojem američkom predsjedniku?",
-    "answers": {"A": "Benjamin Franklin", "B": "Thomas Jefferson", "C": "John Adams"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U čast kojeg američkog predsjednika je podignut 169m visok monumentalni obelisk u Washington DC-u?",
-    "answers": {"A": "Georgea Washingtona", "B": "Thomasa Jeffersona", "C": "Abrahama Lincolna"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojem gradiću, uz rijeku Hudson, Thomas Jefferson 1802.g. osniva prvu vojnu akademiju u SAD-u?",
-    "answers": {"A": "Newburgh", "B": "West Point", "C": "Poughkeepsie"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio prvi amerikanac u povijesti s titulom 'President of the United States in Congress Assembled', nakon ratifikacije članaka konfederacije 1781.g.?",
-    "answers": {"A": "Elias Boudinot", "B": "Thomas Mifflin", "C": "John Hanson"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Što se u SAD-u slavi  4. srpnja (jula)?",
-    "answers": {"A": "Dan nezavisnosti", "B": "Dan Ustava", "C": "Dan veterana"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Građani na čelu sa Samuelom Adamsom su 1773.g. sa britanskih brodova u more pobacali 342 sanduka kineskog čaja u znak prosvjeda protiv loše uprave Britanije, što je u povijesti upamćeno kao čajanka 'tog grada' te jedan od događaja koji je predvodio ratu za neovisnost a zbio se u kojem gradu?",
-    "answers": {"A": "Philadelphiji", "B": "Bostonu", "C": "New Yorku"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki potpredsjednik sudjelovao u dvoboju pištoljima sa Alexanderom Hamiltonom iz kojeg je izašao kao pobjednik i preživjeli?",
-    "answers": {"A": "George Clinton", "B": "Elbridge Gerry", "C": "Aaron Burr"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je bio prvi predsjednik SAD-a?",
-    "answers": {"A": "John Adams", "B": "George Washington", "C": "Thomas Jefferson"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Pod kojim imenom, u kojem se spominje i jedan broj, indijansko pleme Lakota Siouxa poznaje planinu Mount Rushmore",
-    "answers": {"A": "Paha Sapa", "B": "6 djedova", "C": "Mato Paha"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U tzv. 'Kvazi Ratu' amerikanci su u pomorskim sukobima zarobljavali brodove koje republike?",
-    "answers": {"A": "Batavske", "B": "Ligurske", "C": "Francuske"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kada bi se 37. predsjednik SAD-a, prezimena Nixon, potpisao samo inicijalima, dobili bi koja slova?",
-    "answers": {"A": "RMN", "B": "RNM", "C": "RNN"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki povjesničar i pisac 2001.g. napisao biografiju o drugom američkom predsjedniku, Johnu Adamsu?",
-    "answers": {"A": "Ron Chernow", "B": "David McCullough", "C": "Joseph J. Ellis"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji kipar je najzaslužniji za djelo američkih predsjednika na planini Rushmore?",
-    "answers": {"A": "Daniel Chester French", "B": "Augustus Saint-Gaudens", "C": "Gutzon Borglum"},
-    "image": null,
-    "correct_answer": "C"
-  }
+{"index":90,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji zid su istočnonjemačke vlasti podignule dok je u americi predsjedao John F. Kennedy?","answers":{"A":"Berlinski zid","B":"Unutarnjonjemačku granicu","C":"Zid oko Brandenburških vrata"},"image":null,"correct_answer":"A"},
+{"index":91,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kako se zove supruga bivšeg američkog predsjednika Baracka Obame?","answers":{"A":"Laura","B":"Jill","C":"Michelle"},"image":null,"correct_answer":"C"},
+{"index":92,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Prvi predsjednik je bio George Washington, a tko je bio prvi potpredsjednik?","answers":{"A":"John Adams","B":"Thomas Jefferson","C":"Aaron Burr"},"image":null,"correct_answer":"A"},
+{"index":93,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Washington je 1776. i 1777.g. u ratu za neovisnost pobjedio britance kod Trentona i Prestona, ali i izgubio kod kojeg mjesta?","answers":{"A":"Brandywine","B":"Long Island","C":"Germantown"},"image":null,"correct_answer":"B","qa_note":"U pitanju piše 'Preston', a povijesno je riječ o pobjedi kod Princetona 1777."},
+{"index":94,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"'Bostonska čajanka' je događaj koji je ostao upamćen u američkoj povijesti kao jedan od početaka rata za neovisnost. Amerikanci su sa britanskih brodova Dartmouth, Eleanor i Beaver u more pobacali tone uvoznog kineskog čaja, a bili su prerušeni u koje indijansko pleme?","answers":{"A":"Narragansett","B":"Wampanoag","C":"Mohawk"},"image":null,"correct_answer":"C"},
+{"index":95,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"John Adams je bio drugi predsjednik SAD-a, a njegov sin, John Quincy Adams je bio koji po redu predsjednik iste države?","answers":{"A":"Peti","B":"Šesti","C":"Sedmi"},"image":null,"correct_answer":"B"},
+{"index":96,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj se američkoj saveznoj državi nalazi Mount Rushmore sa 18-metarskim skulpturama 4-ero američkih predsjednika isklesanih u liticama planine?","answers":{"A":"Wyoming","B":"Sjeverna Dakota","C":"Južna Dakota"},"image":null,"correct_answer":"C"},
+{"index":97,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio predsjednik SAD-a u vrijeme kada je Napoleon pobjedio u bitci kod Austerlitza?","answers":{"A":"Thomas Jefferson","B":"John Adams","C":"James Madison"},"image":null,"correct_answer":"A"},
+{"index":98,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je francuz odigrao jednu od ključnih uloga u bitci kod Yorktowna, pomažući Georgeu Washingtonu u američkom ratu za neovisnost, a poslije toga uvelike doprinio prvoj francuskoj revoluciji?","answers":{"A":"Comte de Rochambeau","B":"Marquis de Lafayette","C":"François Joseph Paul de Grasse"},"image":null,"correct_answer":"B"},
+{"index":99,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj je zgradi u Philadelphiji potpisan Ustav SAD-a?","answers":{"A":"Carpenters' Hall","B":"Congress Hall","C":"Independence Hall"},"image":null,"correct_answer":"C"},
+{"index":100,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness' su riječi sa američke deklaracije nezavisnosti koje se pripisuju kojem američkom predsjedniku?","answers":{"A":"Benjamin Franklin","B":"Thomas Jefferson","C":"John Adams"},"image":null,"correct_answer":"B"},
+{"index":101,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U čast kojeg američkog predsjednika je podignut 169m visok monumentalni obelisk u Washington DC-u?","answers":{"A":"Georgea Washingtona","B":"Thomasa Jeffersona","C":"Abrahama Lincolna"},"image":null,"correct_answer":"A"},
+{"index":102,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojem gradiću, uz rijeku Hudson, Thomas Jefferson 1802.g. osniva prvu vojnu akademiju u SAD-u?","answers":{"A":"Newburgh","B":"West Point","C":"Peekskill"},"image":null,"correct_answer":"B"},
+{"index":103,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio prvi amerikanac u povijesti s titulom 'President of the United States in Congress Assembled', nakon ratifikacije članaka konfederacije 1781.g.?","answers":{"A":"Elias Boudinot","B":"Thomas Mifflin","C":"John Hanson"},"image":null,"correct_answer":"C"},
+{"index":104,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Što se u SAD-u slavi  4. srpnja (jula)?","answers":{"A":"Dan nezavisnosti","B":"Dan Ustava","C":"Dan zastave"},"image":null,"correct_answer":"A"},
+{"index":105,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Građani na čelu sa Samuelom Adamsom su 1773.g. sa britanskih brodova u more pobacali 342 sanduka kineskog čaja u znak prosvjeda protiv loše uprave Britanije, što je u povijesti upamćeno kao čajanka 'tog grada' te jedan od događaja koji je predvodio ratu za neovisnost a zbio se u kojem gradu?","answers":{"A":"Philadelphiji","B":"Bostonu","C":"New Yorku"},"image":null,"correct_answer":"B"},
+{"index":106,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki potpredsjednik sudjelovao u dvoboju pištoljima sa Alexanderom Hamiltonom iz kojeg je izašao kao pobjednik i preživjeli?","answers":{"A":"George Clinton","B":"Elbridge Gerry","C":"Aaron Burr"},"image":null,"correct_answer":"C"},
+{"index":107,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je bio prvi predsjednik SAD-a?","answers":{"A":"John Adams","B":"George Washington","C":"Thomas Jefferson"},"image":null,"correct_answer":"B"},
+{"index":108,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Pod kojim imenom, u kojem se spominje i jedan broj, indijansko pleme Lakota Siouxa poznaje planinu Mount Rushmore","answers":{"A":"Paha Sapa","B":"6 djedova","C":"Mato Paha"},"image":null,"correct_answer":"B"},
+{"index":109,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U tzv. 'Kvazi Ratu' amerikanci su u pomorskim sukobima zarobljavali brodove koje republike?","answers":{"A":"Batavske","B":"Ligurske","C":"Francuske"},"image":null,"correct_answer":"C"},
+{"index":110,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kada bi se 37. predsjednik SAD-a, prezimena Nixon, potpisao samo inicijalima, dobili bi koja slova?","answers":{"A":"RMN","B":"RNM","C":"RNN"},"image":null,"correct_answer":"A"},
+{"index":111,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki povjesničar i pisac 2001.g. napisao biografiju o drugom američkom predsjedniku, Johnu Adamsu?","answers":{"A":"Ron Chernow","B":"David McCullough","C":"Joseph J. Ellis"},"image":null,"correct_answer":"B"},
+{"index":112,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji kipar je najzaslužniji za djelo američkih predsjednika na planini Rushmore?","answers":{"A":"Daniel Chester French","B":"Augustus Saint-Gaudens","C":"Gutzon Borglum"},"image":null,"correct_answer":"C"}
 ]
