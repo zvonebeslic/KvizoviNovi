@@ -1,24 +1,27 @@
 [
   {
+    "index": 295,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Od 11 američkih nosača aviona, samo je jedan nazvan po jednom ubijenom američkom predsjedniku. Kojem?",
-    "answers": {"A": "Johnu F. Kennedyju", "B": "Abrahamu Lincolnu", "C": "Williamu McKinleyju"},
+    "answers": {"A": "Johnu F. Kennedyju", "B": "Abrahamu Lincolnu", "C": "Dwightu D. Eisenhoweru"},
     "image": null,
     "correct_answer": "B",
     "qa_note": "Broj aktivnih nosača aviona je vremenski osjetljiv podatak; prije produkcije vrijedi ponovno provjeriti formulaciju 'od 11'."
   },
   {
+    "index": 296,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koji je dominantni planinski vrh na talijansko-švicarskoj granici popeo američki predsjednik Theodore Roosevelt?",
-    "answers": {"A": "Matterhorn", "B": "Mont Blanc", "C": "Monte Rosa"},
+    "answers": {"A": "Matterhorn", "B": "Monte Rosa", "C": "Gran Paradiso"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 297,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -28,24 +31,27 @@
     "correct_answer": "B"
   },
   {
+    "index": 298,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Brana koja tvori jezero Mead i bar na kratko zaustavlja rijeku Colorado dobila je ime po prezimenu jednog američkog predsjednika, a ono glasi kako?",
-    "answers": {"A": "Roosevelt", "B": "Hoover", "C": "Wilson"},
+    "answers": {"A": "Roosevelt", "B": "Hoover", "C": "Truman"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 299,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koju je današnju saveznu američku državu, William McKinkey anektirao 1898.g.?",
-    "answers": {"A": "Aljasku", "B": "Havaje", "C": "Kaliforniju"},
+    "answers": {"A": "Aljasku", "B": "Havaje", "C": "Teksas"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 300,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -55,24 +61,27 @@
     "correct_answer": "B"
   },
   {
+    "index": 301,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "William Henry je ime čovjeka koji je 18-om američkom predsjedniku, Ulysses S. Grantu 1884.g. posudio 150 000 dolara kako bi Grant spasio svoje investicije koje su počele propadati. No ipak neuspješno jer je Grant izgubio sve, a taj 'posuđivač' je član koje poznate američke obitelji?",
-    "answers": {"A": "Astor", "B": "Vanderbilt", "C": "Rockefeller"},
+    "answers": {"A": "Astor", "B": "Vanderbilt", "C": "Morgan"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 302,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Kako se prvotno zvala rijeka u Brazilu koja je kasnije dobila ime po američkom predsjedniku Theodoreu Rooseveltu?",
-    "answers": {"A": "Rijeka Sumnje", "B": "Rijeka Tajne", "C": "Rijeka Izazova"},
+    "answers": {"A": "Rijeka Sumnje", "B": "Rijeka Neizvjesnosti", "C": "Rijeka Tajne"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 303,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -82,6 +91,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 304,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -91,45 +101,50 @@
     "correct_answer": "A"
   },
   {
+    "index": 305,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koji je američki predsjednik bio poznat po ambidekstriji, jer je istovremeno mogao pisat latinski jednom rukom a grički drugom?",
-    "answers": {"A": "James Abram Garfield", "B": "Thomas Jefferson", "C": "John Quincy Adams"},
+    "answers": {"A": "James Abram Garfield", "B": "John Quincy Adams", "C": "Thomas Jefferson"},
     "image": null,
     "correct_answer": "A",
     "qa_note": "Anegdota o istodobnom pisanju latinskog i grčkog objavljuje se u brojnim biografskim izvorima, ali postoje i izvori koji je smatraju nedokazanom legendom; prije produkcije vrijedi dodatna provjera."
   },
   {
+    "index": 306,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Pierce, Buchanan i Knox su prezimena koja su predsjedala kojom državom?",
-    "answers": {"A": "Kanadom", "B": "SAD-om", "C": "Meksikom"},
+    "answers": {"A": "SAD-om", "B": "Kanadom", "C": "Meksikom"},
     "image": null,
-    "correct_answer": "B",
+    "correct_answer": "A",
     "qa_status": "source_conflict",
     "qa_note": "Pierce i Buchanan jesu prezimena predsjednika SAD-a, ali Knox nije predsjedničko prezime nego srednje ime Jamesa Knoxa Polka. Pitanje treba preformulirati."
   },
   {
+    "index": 307,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koji je američki predsjednik pokopan sa zastavom konfederacije?",
-    "answers": {"A": "John Tyler", "B": "Andrew Johnson", "C": "Zachary Taylor"},
+    "answers": {"A": "John Tyler", "B": "Andrew Johnson", "C": "Franklin Pierce"},
     "image": null,
     "correct_answer": "A"
   },
   {
+    "index": 308,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Za trajanja svog predsjedničkog mandata, William McKinley je 1898.g. pokrenuo rat protiv kojeg imperija?",
-    "answers": {"A": "Britanskog", "B": "Španjolskog", "C": "Njemačkog"},
+    "answers": {"A": "Španjolskog", "B": "Britanskog", "C": "Njemačkog"},
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
+    "index": 309,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -139,6 +154,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 310,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -148,15 +164,17 @@
     "correct_answer": "B"
   },
   {
+    "index": 311,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Na mjesto američkog predsjednika, William McKinkey je izabran kao kandidat koje stranke?",
-    "answers": {"A": "Demokratske", "B": "Republikanske", "C": "Progresivne"},
+    "answers": {"A": "Demokratske", "B": "Republikanske", "C": "Populističke"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 312,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -166,6 +184,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 313,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -175,15 +194,17 @@
     "correct_answer": "A"
   },
   {
+    "index": 314,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "U vrijeme kojeg američkog predsjednika je zasvijetlila prva električna žarulja u bijeloj kući?",
-    "answers": {"A": "Grovera Clevelanda", "B": "Benjamina Harrisona", "C": "Williama McKinleyja"},
+    "answers": {"A": "Grovera Clevelanda", "B": "Benjamina Harrisona", "C": "Chstera A. Arthura"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 315,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -193,6 +214,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 316,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -202,6 +224,7 @@
     "correct_answer": "A"
   },
   {
+    "index": 317,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -211,6 +234,7 @@
     "correct_answer": "B"
   },
   {
+    "index": 318,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
@@ -220,30 +244,33 @@
     "correct_answer": "A"
   },
   {
+    "index": 319,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koji je američki predsjednik, kao šerif, između ostalog, vješao osuđene kriminalce?",
-    "answers": {"A": "Grover Cleveland", "B": "Theodore Roosevelt", "C": "Rutherford B. Hayes"},
+    "answers": {"A": "Grover Cleveland", "B": "Theodore Roosevelt", "C": "Andrew Johnson"},
     "image": null,
     "correct_answer": "A",
     "qa_note": "Cleveland je kao šerif okruga Erie osobno izvršio najmanje dvije smrtne kazne vješanjem; formulacija 'kao šerif' je prihvatljiva."
   },
   {
+    "index": 320,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "U kojem gradu je ubijen William McKinley, 25. predsjednik SAD-a?",
-    "answers": {"A": "Clevelandu", "B": "Buffalo", "C": "Albanyju"},
+    "answers": {"A": "Clevelandu", "B": "Buffalo", "C": "Pittsburghu"},
     "image": null,
     "correct_answer": "B"
   },
   {
+    "index": 321,
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
     "question": "Koju otočnu skupinu su 1916.g. amerikanci kupili od danaca za 25 milijuna dolara?",
-    "answers": {"A": "Djevičanski Otoci", "B": "Bahami", "C": "Bermudi"},
+    "answers": {"A": "Djevičanski Otoci", "B": "Farski Otoci", "C": "Grenland"},
     "image": null,
     "correct_answer": "A",
     "qa_note": "Ugovor o prodaji potpisan je 1916., a formalni prijenos otoka SAD-u obavljen je 31. ožujka 1917."
