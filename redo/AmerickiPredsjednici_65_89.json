@@ -1,227 +1,27 @@
 [
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kako glasi srednje ime američkog predsjednika Johna Kennedyja?",
-    "answers": {"A": "Joseph", "B": "Fitzgerald", "C": "Francis"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Na koju su karipsku otočnu državu SAD 1983.g. poslale vojsku kako bi tamo srušile komunistički režim?",
-    "answers": {"A": "Kuba", "B": "Dominikanska Republika", "C": "Granada"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki predsjednik glumio u filmovima 'Kraljeva ulica' (Kings Row), 'Laku noć, Bonzo' (Bedtime for Bonzo) i 'Put za Santa Fe' (Santa Fe Trail)?",
-    "answers": {"A": "Ronald Reagan", "B": "Donald Trump", "C": "Gerald Ford"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojem se otočnom gradu rodio Barack Obama?",
-    "answers": {"A": "Hilo", "B": "Honoluluu", "C": "Kailua"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koji je američki predsjednik za posjeta Jugoslaviji, u Banskim Dvorima rekao 'živjela Hrvatska'?",
-    "answers": {"A": "Gerald Ford", "B": "Richard Nixon", "C": "Jimmy Carter"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "George H. W. Bush je na predsjedničkim izborima 1992.g. utrku za Bijelom Kućom izgubio od koga?",
-    "answers": {"A": "Michael Dukakis", "B": "Ross Perot", "C": "Bill Clintona"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "'Na' kojoj se saveznoj američkoj državi rodio Barack Obama?",
-    "answers": {"A": "Havaji", "B": "Aljaska", "C": "Kalifornija"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "John Hinckley Jr. je propali student koji je u atentatu ranio kojeg američkog predsjednika?",
-    "answers": {"A": "Gerald Ford", "B": "Ronalda Reagana", "C": "Harry S. Truman"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojem prijevoznom sredstvu je predsjedničku zakletvu položio Lyndon B. Johnson?",
-    "answers": {"A": "Avionu", "B": "Vlaku", "C": "Brodu"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koja se američka aktivistica povezuje sa Billom Clintonom, gdje je i sam Clinton priznao da je s njom imao aferu?",
-    "answers": {"A": "Paula Jones", "B": "Gennifer Flowers", "C": "Monica Lewinsky"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Hillary Diane Rodham je bila prva dama kojem američkom predsjedniku?",
-    "answers": {"A": "Georgeu H. W. Bushu", "B": "Billu Clintonu", "C": "Georgeu W. Bushu"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koju su nekadašnju republiku s predsjednikom Diemom, u vrijeme Vijetnamskog rata, podržavali amerikanci?",
-    "answers": {"A": "Južni Vijetnam", "B": "Sjeverni Vijetnam", "C": "Laos"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojem glavnom europskom gradu su se sastali Kennedy i Hruščov?",
-    "answers": {"A": "Ženevi", "B": "Parizu", "C": "Beč"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Amerika je na čelu sa Bushom porazila Irak u Trećem Zaljevskom ratu te uhitila i vješanjem 2006.g. pogubila kojeg iračkog vođu?",
-    "answers": {"A": "Tariqa Aziza", "B": "Saddama Husseina", "C": "Alija Hassana al-Majida"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koje je luksuzno odmaralište na Floridi u vlasništvu Donalda Trumpa?",
-    "answers": {"A": "Trump National Doral", "B": "Mar a Lago", "C": "Trump Turnberry"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "'Profiles in Courage' (Profili hrabrosti) je knjiga koja je 1957.g. dobila Pulitzera, a napisao ju je koji američki predsjednik?",
-    "answers": {"A": "Theodore Roosevelt", "B": "Woodrow Wilson", "C": "John F. Kennedy"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kojim imenom nazivamo ekonomski program Ronalda Reagana?",
-    "answers": {"A": "New Deal", "B": "Reaganomics", "C": "Great Society"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Invaziju na koji kubanski zaljev je lansirao JFK 1961.g.?",
-    "answers": {"A": "Zaljev svinja", "B": "Zaljev Guantánamo", "C": "Zaljev Cárdenas"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "U kojoj je pariškoj palači potpisan Daytonski sporazum?",
-    "answers": {"A": "Luksemburškoj palači", "B": "Versajskoj palači", "C": "Elizejskoj palači"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Komunistički režim kojeg vođe je na Kubi pokušao srušiti JFK?",
-    "answers": {"A": "Fulgencija Batiste", "B": "Fidel Castro", "C": "Raúla Castra"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Eisenhower i Kennedy su bili začetnici kojeg svemirskog programa?",
-    "answers": {"A": "Mercury", "B": "Gemini", "C": "Apollo"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Kojeg je vijetnamca, Lyndon B. Johnson nazvao azijskim Winstonom Churchillom?",
-    "answers": {"A": "Ngo Dinh Diem", "B": "Nguyen Van Thieu", "C": "Nguyen Cao Ky"},
-    "image": null,
-    "correct_answer": "A"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je u prepunom Madison Square Gardenu, John F. Kennedyju otpjevao 'Happy Birthday Mr. President'?",
-    "answers": {"A": "Ella Fitzgerald", "B": "Marilyn Monroe", "C": "Peggy Lee"},
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Tko je jedini američki predsjednik u povijesti koji je dao ostavku na mjesto predsjednika?",
-    "answers": {"A": "Andrew Johnson", "B": "Bill Clinton", "C": "Richard Nixon"},
-    "image": null,
-    "correct_answer": "C"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "AmerickiPredsjednici",
-    "question": "Koju je nagradu za 'pisanu riječ' John F. Kennedy dobio 1957.g.?",
-    "answers": {"A": "Pulitzerovu", "B": "National Book Award", "C": "Nobelovu nagradu za književnost"},
-    "image": null,
-    "correct_answer": "A"
-  }
+{"index":65,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kako glasi srednje ime američkog predsjednika Johna Kennedyja?","answers":{"A":"Joseph","B":"Fitzgerald","C":"Francis"},"image":null,"correct_answer":"B"},
+{"index":66,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Na koju su karipsku otočnu državu SAD 1983.g. poslale vojsku kako bi tamo srušile komunistički režim?","answers":{"A":"Kuba","B":"Dominikanska Republika","C":"Granada"},"image":null,"correct_answer":"C"},
+{"index":67,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki predsjednik glumio u filmovima 'Kraljeva ulica' (Kings Row), 'Laku noć, Bonzo' (Bedtime for Bonzo) i 'Put za Santa Fe' (Santa Fe Trail)?","answers":{"A":"Ronald Reagan","B":"George Murphy","C":"Fred Thompson"},"image":null,"correct_answer":"A"},
+{"index":68,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojem se otočnom gradu rodio Barack Obama?","answers":{"A":"Hilo","B":"Honoluluu","C":"Kailua"},"image":null,"correct_answer":"B"},
+{"index":69,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koji je američki predsjednik za posjeta Jugoslaviji, u Banskim Dvorima rekao 'živjela Hrvatska'?","answers":{"A":"Gerald Ford","B":"Richard Nixon","C":"Jimmy Carter"},"image":null,"correct_answer":"B"},
+{"index":70,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"George H. W. Bush je na predsjedničkim izborima 1992.g. utrku za Bijelom Kućom izgubio od koga?","answers":{"A":"Bill Clintona","B":"Ross Perota","C":"Pat Buchanana"},"image":null,"correct_answer":"A"},
+{"index":71,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"'Na' kojoj se saveznoj američkoj državi rodio Barack Obama?","answers":{"A":"Havaji","B":"Aljaska","C":"Kalifornija"},"image":null,"correct_answer":"A"},
+{"index":72,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"John Hinckley Jr. je propali student koji je u atentatu ranio kojeg američkog predsjednika?","answers":{"A":"Gerald Ford","B":"Ronalda Reagana","C":"Harry S. Truman"},"image":null,"correct_answer":"B"},
+{"index":73,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojem prijevoznom sredstvu je predsjedničku zakletvu položio Lyndon B. Johnson?","answers":{"A":"Avionu","B":"Vlaku","C":"Brodu"},"image":null,"correct_answer":"A"},
+{"index":74,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koja se američka aktivistica povezuje sa Billom Clintonom, gdje je i sam Clinton priznao da je s njom imao aferu?","answers":{"A":"Paula Jones","B":"Gennifer Flowers","C":"Monica Lewinsky"},"image":null,"correct_answer":"C"},
+{"index":75,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Hillary Diane Rodham je bila prva dama kojem američkom predsjedniku?","answers":{"A":"Georgeu H. W. Bushu","B":"Billu Clintonu","C":"Georgeu W. Bushu"},"image":null,"correct_answer":"B"},
+{"index":76,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koju su nekadašnju republiku s predsjednikom Diemom, u vrijeme Vijetnamskog rata, podržavali amerikanci?","answers":{"A":"Južni Vijetnam","B":"Sjeverni Vijetnam","C":"Laos"},"image":null,"correct_answer":"A"},
+{"index":77,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojem glavnom europskom gradu su se sastali Kennedy i Hruščov?","answers":{"A":"Ženevi","B":"Parizu","C":"Beč"},"image":null,"correct_answer":"C"},
+{"index":78,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Amerika je na čelu sa Bushom porazila Irak u Trećem Zaljevskom ratu te uhitila i vješanjem 2006.g. pogubila kojeg iračkog vođu?","answers":{"A":"Tariqa Aziza","B":"Saddama Husseina","C":"Alija Hassana al-Majida"},"image":null,"correct_answer":"B"},
+{"index":79,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koje je luksuzno odmaralište na Floridi u vlasništvu Donalda Trumpa?","answers":{"A":"Trump National Doral","B":"Mar a Lago","C":"Trump International Golf Club West Palm Beach"},"image":null,"correct_answer":"B"},
+{"index":80,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"'Profiles in Courage' (Profili hrabrosti) je knjiga koja je 1957.g. dobila Pulitzera, a napisao ju je koji američki predsjednik?","answers":{"A":"Theodore Roosevelt","B":"Woodrow Wilson","C":"John F. Kennedy"},"image":null,"correct_answer":"C"},
+{"index":81,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kojim imenom nazivamo ekonomski program Ronalda Reagana?","answers":{"A":"New Deal","B":"Reaganomics","C":"Great Society"},"image":null,"correct_answer":"B"},
+{"index":82,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Invaziju na koji kubanski zaljev je lansirao JFK 1961.g.?","answers":{"A":"Zaljev svinja","B":"Zaljev Guantánamo","C":"Zaljev Cárdenas"},"image":null,"correct_answer":"A"},
+{"index":83,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"U kojoj je pariškoj palači potpisan Daytonski sporazum?","answers":{"A":"Luksemburškoj palači","B":"Versajskoj palači","C":"Elizejskoj palači"},"image":null,"correct_answer":"C"},
+{"index":84,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Komunistički režim kojeg vođe je na Kubi pokušao srušiti JFK?","answers":{"A":"Fulgencija Batiste","B":"Fidel Castro","C":"Raúla Castra"},"image":null,"correct_answer":"B"},
+{"index":85,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Eisenhower i Kennedy su bili začetnici kojeg svemirskog programa?","answers":{"A":"Mercury","B":"Gemini","C":"Apollo"},"image":null,"correct_answer":"C"},
+{"index":86,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Kojeg je vijetnamca, Lyndon B. Johnson nazvao azijskim Winstonom Churchillom?","answers":{"A":"Ngo Dinh Diem","B":"Nguyen Van Thieu","C":"Nguyen Cao Ky"},"image":null,"correct_answer":"A"},
+{"index":87,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je u prepunom Madison Square Gardenu, John F. Kennedyju otpjevao 'Happy Birthday Mr. President'?","answers":{"A":"Ella Fitzgerald","B":"Marilyn Monroe","C":"Peggy Lee"},"image":null,"correct_answer":"B"},
+{"index":88,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Tko je jedini američki predsjednik u povijesti koji je dao ostavku na mjesto predsjednika?","answers":{"A":"Andrew Johnson","B":"Bill Clinton","C":"Richard Nixon"},"image":null,"correct_answer":"C"},
+{"index":89,"type":"blitz","difficulty":3,"topic":"AmerickiPredsjednici","question":"Koju je nagradu za 'pisanu riječ' John F. Kennedy dobio 1957.g.?","answers":{"A":"Pulitzerovu","B":"National Book Award","C":"Nobelovu nagradu za književnost"},"image":null,"correct_answer":"A"}
 ]
