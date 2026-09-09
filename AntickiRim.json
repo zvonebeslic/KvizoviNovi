@@ -5618,7 +5618,7 @@
     "question": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
     "answers": {
       "A": "Gencije",
-      "B": "Pauci",
+      "B": "Kniva",
       "C": "Fritiger"
     },
     "image": null,
@@ -5643,9 +5643,9 @@
     "topic": "AntickiRim",
     "question": "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?",
     "answers": {
-      "A": "M",
+      "A": "Tigrovi",
       "B": "Pauci",
-      "C": "Fritiger"
+      "C": "Gromovi"
     },
     "image": null,
     "correct_answer": "B"
@@ -6711,7 +6711,7 @@
     "question": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
     "answers": {
       "A": "Bitinijskog",
-      "B": "Kapadocijskog",
+      "B": "Kapadokijskog",
       "C": "Pontskog"
     },
     "image": null,
@@ -7441,7 +7441,7 @@
     "answers": {
       "A": "Berenika",
       "B": "Teuta",
-      "C": "Agronova kći"
+      "C": "Agrona"
     },
     "image": null,
     "correct_answer": "B"
@@ -7492,7 +7492,7 @@
     "question": "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?",
     "answers": {
       "A": "Čovjek u krugu",
-      "B": "Anatomski čovjek",
+      "B": "Ciceronov čovjek",
       "C": "Vitruvijev čovjek"
     },
     "image": null,
@@ -7530,8 +7530,8 @@
     "topic": "AntickiRim",
     "question": "Heraklo iz grčke mitologije se zvao kako u rimskoj mitologiji?",
     "answers": {
-      "A": "Mars",
-      "B": "Merkur",
+      "A": "Herod",
+      "B": "Homer",
       "C": "Herkul"
     },
     "image": null,
