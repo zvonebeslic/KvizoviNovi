@@ -1,0 +1,25 @@
+name: Index Knjizevnost Source
+on:
+  push:
+    paths:
+      - 'scripts/index_knjizevnost_source.py'
+      - '.github/workflows/index-knjizevnost-source.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/index_knjizevnost_source.py
+      - name: Commit index
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add redo/Knjizevnost_source_index.json
+          git diff --cached --quiet || git commit -m "Index Knjizevnost source questions"
+          git push
