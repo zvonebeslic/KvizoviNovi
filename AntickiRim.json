@@ -6632,8 +6632,8 @@
     "topic": "AntickiRim",
     "question": "Tko je otac bogova i bog vremena u rimskoj mitologiji?",
     "answers": {
-      "A": "Kasije",
-      "B": "Teodozije",
+      "A": "Jupiter",
+      "B": "Janus",
       "C": "Saturn"
     },
     "image": null,
@@ -6646,8 +6646,8 @@
     "question": "Koje ime nosi vrhovni bog italskih naroda?",
     "answers": {
       "A": "Jupiter",
-      "B": "Populari",
-      "C": "Minerva"
+      "B": "Mars",
+      "C": "Kvirin"
     },
     "image": null,
     "correct_answer": "A"
@@ -6658,9 +6658,9 @@
     "topic": "AntickiRim",
     "question": "'Zagrebačka lanena knjiga' je rukopis s najduljim sačuvanim tekstom na jeziku kojeg drevnog naroda sa Apeninskog poluotoka?",
     "answers": {
-      "A": "1 godinu",
+      "A": "Samnita",
       "B": "Etruščana",
-      "C": "Pompejevo kazalište"
+      "C": "Latina"
     },
     "image": null,
     "correct_answer": "B"
@@ -6671,8 +6671,8 @@
     "topic": "AntickiRim",
     "question": "Tko je uz Bruta predvodio urotu protiv Julija Cezara u kojoj je Julije i ubijen?",
     "answers": {
-      "A": "Saturn",
-      "B": "Neptun",
+      "A": "Decim Brut",
+      "B": "Trebonije",
       "C": "Kasije"
     },
     "image": null,
@@ -6685,8 +6685,8 @@
     "question": "Koji grad tražimo, ako znamo da se u rimsko doba zvao Tilurium?",
     "answers": {
       "A": "Trilj",
-      "B": "Nikomediji",
-      "C": "Nimesu"
+      "B": "Sinj",
+      "C": "Solin"
     },
     "image": null,
     "correct_answer": "A"
@@ -6697,9 +6697,9 @@
     "topic": "AntickiRim",
     "question": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
     "answers": {
-      "A": "Pontskog",
+      "A": "Marcelovo kazalište",
       "B": "Pompejevo kazalište",
-      "C": "Lari"
+      "C": "Circus Maximus"
     },
     "image": null,
     "correct_answer": "B"
@@ -6710,8 +6710,8 @@
     "topic": "AntickiRim",
     "question": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
     "answers": {
-      "A": "Pompejevo kazalište",
-      "B": "Lari",
+      "A": "Bitinijskog",
+      "B": "Kapadocijskog",
       "C": "Pontskog"
     },
     "image": null,
@@ -6724,8 +6724,8 @@
     "question": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
     "answers": {
       "A": "Lari",
-      "B": "Pontskog",
-      "C": "Kleopatri"
+      "B": "Penati",
+      "C": "Mani"
     },
     "image": null,
     "correct_answer": "A"
@@ -6736,9 +6736,9 @@
     "topic": "AntickiRim",
     "question": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
     "answers": {
-      "A": "Lari",
+      "A": "Bereniki IV.",
       "B": "Kleopatri",
-      "C": "Tunis"
+      "C": "Arsinoji IV."
     },
     "image": null,
     "correct_answer": "B"
@@ -6749,9 +6749,9 @@
     "topic": "AntickiRim",
     "question": "Na teritoriju koje današnje države se nalazila Kartaga?",
     "answers": {
-      "A": "Kleopatri",
-      "B": "Drugog",
-      "C": "Tunis"
+      "A": "Alžira",
+      "B": "Libije",
+      "C": "Tunisa"
     },
     "image": null,
     "correct_answer": "C"
@@ -6763,8 +6763,8 @@
     "question": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
     "answers": {
       "A": "Drugog",
-      "B": "Tunis",
-      "C": "Kleopatri"
+      "B": "Prvog",
+      "C": "Trećeg"
     },
     "image": null,
     "correct_answer": "A"
@@ -6775,9 +6775,9 @@
     "topic": "AntickiRim",
     "question": "Tko je Posejdonov pandan u rimskoj mitologiji?",
     "answers": {
-      "A": "Kasije",
+      "A": "Okean",
       "B": "Neptun",
-      "C": "Claude Rains"
+      "C": "Triton"
     },
     "image": null,
     "correct_answer": "B"
@@ -6788,8 +6788,8 @@
     "topic": "AntickiRim",
     "question": "Koji egipatski faraon je dao pogubiti Pompeja Velikog?",
     "answers": {
-      "A": "Sicilija",
-      "B": "Drugog",
+      "A": "Ptolomej XII.",
+      "B": "Ptolomej XIV.",
       "C": "Ptolomej 13."
     },
     "image": null,
