@@ -3039,8 +3039,8 @@
     "topic": "AntickiRim",
     "question": "Prema ustroju, stari Rim je se kroz povijest dijelio na carstvo, kraljevstvo i što još?",
     "answers": {
-      "A": "Regilskog",
-      "B": "Desetkovanje",
+      "A": "Principat",
+      "B": "Dominat",
       "C": "Republiku"
     },
     "image": null,
@@ -3053,8 +3053,8 @@
     "question": "Koji oblik rimske vojne discipline se provodi ako su svakog desetog vojnika u grupi pogubili članovi njegove kohorte zbog pobune ili dezertiranja.",
     "answers": {
       "A": "Desetkovanje",
-      "B": "Republiku",
-      "C": "Delminij"
+      "B": "Fustuarium",
+      "C": "Degradacija"
     },
     "image": null,
     "correct_answer": "A"
@@ -3065,9 +3065,9 @@
     "topic": "AntickiRim",
     "question": "Koju su utvrdu ilirskog plemena Delmata rimljani osvojili 155.g. pr. Kr.?",
     "answers": {
-      "A": "Desetkovanje",
+      "A": "Andetrij",
       "B": "Delminij",
-      "C": "Francuske"
+      "C": "Promonu"
     },
     "image": null,
     "correct_answer": "B"
@@ -3078,8 +3078,8 @@
     "topic": "AntickiRim",
     "question": "Via Domitia, Via Agrippa i Via Aquitania su starorimske ceste izgrađene na području koje današnje države?",
     "answers": {
-      "A": "Delminij",
-      "B": "Konstantinu 1.",
+      "A": "Italije",
+      "B": "Španjolske",
       "C": "Francuske"
     },
     "image": null,
@@ -3092,8 +3092,8 @@
     "question": "Po kojem rimskom caru ime nosi najveći od svih rimskih slavoluka?",
     "answers": {
       "A": "Konstantinu 1.",
-      "B": "Francuske",
-      "C": "Komod"
+      "B": "Septimiju Severu",
+      "C": "Titu"
     },
     "image": null,
     "correct_answer": "A"
@@ -3104,9 +3104,9 @@
     "topic": "AntickiRim",
     "question": "Koji se rimski car bori s Maximusom u Koloseju u filmu 'Gladijator', ali je i po povijesnim činjenicama ostao poznat kao dobar borac, s preko 700 pobjeda u areni?",
     "answers": {
-      "A": "Konstantinu 1.",
+      "A": "Marko Aurelije",
       "B": "Komod",
-      "C": "Francuske"
+      "C": "Karakala"
     },
     "image": null,
     "correct_answer": "B"
@@ -3117,8 +3117,8 @@
     "topic": "AntickiRim",
     "question": "Koliko je rimskih careva bilo na vlasti tijekom 1. stoljeća?",
     "answers": {
-      "A": "8",
-      "B": "18",
+      "A": "11",
+      "B": "15",
       "C": "13"
     },
     "image": null,
@@ -3131,8 +3131,8 @@
     "question": "Prvi trgovci iz rimskog carstva koji su dospjeli do Kine su poslani za vrijeme careva Antonina Pia i Marka Aurelija, a tada je kinom vladala koja dinastija?",
     "answers": {
       "A": "Han",
-      "B": "Flavijevci",
-      "C": "Severska"
+      "B": "Tang",
+      "C": "Qin"
     },
     "image": null,
     "correct_answer": "A"
@@ -3143,9 +3143,9 @@
     "topic": "AntickiRim",
     "question": "Koji je starogrčki matematičar i astronom živio u Aleksandriji za rimskog upravljanja Egiptom, a najpoznatiji je po svom djelu Almagest?",
     "answers": {
-      "A": "Arhimed",
+      "A": "Hiparh",
       "B": "Ptolomej",
-      "C": "Trajana"
+      "C": "Eratosten"
     },
     "image": null,
     "correct_answer": "B"
@@ -3156,8 +3156,8 @@
     "topic": "AntickiRim",
     "question": "Koji starogrčki fizičar, astronom i matematičar pomaže sa svojim izumima u obrani Sirakuze protiv Rimljana?",
     "answers": {
-      "A": "Ptolomej",
-      "B": "Trajana",
+      "A": "Heron",
+      "B": "Euklid",
       "C": "Arhimed"
     },
     "image": null,
@@ -3170,8 +3170,8 @@
     "question": "Za vrijeme kojeg cara rimsko carstvo poprima najveće teritorijalno proširenje?",
     "answers": {
       "A": "Trajana",
-      "B": "Arhimed",
-      "C": "Maroko"
+      "B": "Hadrijana",
+      "C": "Septimija Severa"
     },
     "image": null,
     "correct_answer": "A"
@@ -3182,9 +3182,9 @@
     "topic": "AntickiRim",
     "question": "Rimska provincija Mauretanija se prostirala teritorijem Alžira i koje još današnje države?",
     "answers": {
-      "A": "Trajana",
-      "B": "Maroko",
-      "C": "Arhimed"
+      "A": "Tunisa",
+      "B": "Maroka",
+      "C": "Libije"
     },
     "image": null,
     "correct_answer": "B"
@@ -3195,8 +3195,8 @@
     "topic": "AntickiRim",
     "question": "Koja dinastija dolazi na vlast, proglašenjem Vespazijana kao rimskog cara?",
     "answers": {
-      "A": "Han",
-      "B": "Severska",
+      "A": "Julijevsko-klaudijevska",
+      "B": "Antoninska",
       "C": "Flavijevci"
     },
     "image": null,
@@ -3209,8 +3209,8 @@
     "question": "Od svih pet dobrih rimskih careva, koji je vladao najkraće, svega 2 godine?",
     "answers": {
       "A": "Nerva",
-      "B": "Maroko",
-      "C": "Latinskog"
+      "B": "Hadrijan",
+      "C": "Antonin Pio"
     },
     "image": null,
     "correct_answer": "A"
@@ -3221,9 +3221,9 @@
     "topic": "AntickiRim",
     "question": "Koji grad, osnovan od strane Aleksandra Velikog, postaje glavno središte rimske provincije Aegyptus nakon pada Ptolomjeskog kraljevstva 30.g. pr. Kr?",
     "answers": {
-      "A": "Zadar",
+      "A": "Memfis",
       "B": "Aleksandrija",
-      "C": "Jeruzalema"
+      "C": "Peluzij"
     },
     "image": null,
     "correct_answer": "B"
@@ -3234,8 +3234,8 @@
     "topic": "AntickiRim",
     "question": "Iz kojeg se jezika razvio talijanski jezik, kakvog danas poznajemo?",
     "answers": {
-      "A": "Vezuva",
-      "B": "Nerva",
+      "A": "Etruščanskog",
+      "B": "Oskanskog",
       "C": "Latinskog"
     },
     "image": null,
@@ -3248,8 +3248,8 @@
     "question": "29.6. 79-e godine se događa erupcija kojeg vulkana u kojoj napuljski zaljev biva dobrim dijelom uništen?",
     "answers": {
       "A": "Vezuva",
-      "B": "Latinskog",
-      "C": "Trajan"
+      "B": "Etne",
+      "C": "Strombolija"
     },
     "image": null,
     "correct_answer": "A"
@@ -3260,9 +3260,9 @@
     "topic": "AntickiRim",
     "question": "'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?",
     "answers": {
-      "A": "Vezuva",
+      "A": "Antonin Pio",
       "B": "Trajan",
-      "C": "Braga"
+      "C": "Nerva"
     },
     "image": null,
     "correct_answer": "B"
@@ -3273,8 +3273,8 @@
     "topic": "AntickiRim",
     "question": "Koji portugalski grad se naziva i portugalskim Rimom, a sami Rimljani su ga osnovali u 1.st. pr. Kr. pod imenom Bracera Augusta?",
     "answers": {
-      "A": "Trajan",
-      "B": "Vezuva",
+      "A": "Porto",
+      "B": "Coimbra",
       "C": "Braga"
     },
     "image": null,
@@ -3287,7 +3287,7 @@
     "question": "Od svih pet dobrih rimskih careva, koji je vladao najduže, čak 23 godine?",
     "answers": {
       "A": "Antonin Pio",
-      "B": "Antonije Prim",
+      "B": "Hadrijan",
       "C": "Marko Aurelije"
     },
     "image": null,
@@ -3299,9 +3299,9 @@
     "topic": "AntickiRim",
     "question": "Rimsko kapitolijsko trojstvo čine božanstva Jupiter, Junona i tko još?",
     "answers": {
-      "A": "Juventas",
+      "A": "Vesta",
       "B": "Minerva",
-      "C": "Tit"
+      "C": "Dijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -3312,9 +3312,9 @@
     "topic": "AntickiRim",
     "question": "U kojem hrvatskom gradu se nalazi najveći rimski forum na istočnoj strani Jadrana?",
     "answers": {
-      "A": "Jeruzalema",
-      "B": "York",
-      "C": "Zadar"
+      "A": "Puli",
+      "B": "Splitu",
+      "C": "Zadru"
     },
     "image": null,
     "correct_answer": "C"
@@ -3326,8 +3326,8 @@
     "question": "Koji su naziv stari Kinezi koristili za antički Rim?",
     "answers": {
       "A": "Daqin",
-      "B": "Kupida",
-      "C": "Eufrat"
+      "B": "Da Yuan",
+      "C": "Anxi"
     },
     "image": null,
     "correct_answer": "A"
@@ -3338,9 +3338,9 @@
     "topic": "AntickiRim",
     "question": "Rimska božica ljubavi je rimskom bogu rata rodila kojeg boga požude i privlačnosti?",
     "answers": {
-      "A": "Daqin",
+      "A": "Himena",
       "B": "Kupida",
-      "C": "Eufrat"
+      "C": "Merkura"
     },
     "image": null,
     "correct_answer": "B"
@@ -3351,8 +3351,8 @@
     "topic": "AntickiRim",
     "question": "Herkulova žena na zemlji je bila Megara, a tko mu je bila žena kada je postao jedan od bogova?",
     "answers": {
-      "A": "Minerva",
-      "B": "Tit",
+      "A": "Heba",
+      "B": "Minerva",
       "C": "Juventas"
     },
     "image": null,
@@ -3365,8 +3365,8 @@
     "question": "Koliko daleko su Rimljani prodirali na istok, govori i činjenica da su upravljali i antičkim gradom Dura-Europos, kojeg su osnovali Seleukidi na kojoj velikoj mezopotamijskoj rijeci?",
     "answers": {
       "A": "Eufrat",
-      "B": "Kupida",
-      "C": "Daqin"
+      "B": "Tigris",
+      "C": "Oront"
     },
     "image": null,
     "correct_answer": "A"
