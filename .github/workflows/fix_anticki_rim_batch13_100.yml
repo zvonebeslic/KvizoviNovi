@@ -1,0 +1,124 @@
+name: Fix AntickiRim batch 13 large
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch13_100.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "'Fiscus Judaicus' je bio nametnuti porez u starom Rimu kojeg je plaćala samo jedna etnoreligijska skupina. Koja?":{"A":"Židovi","B":"Kršćani","C":"Samarićani"},
+          "U kojoj su današnjoj državi stari Rimljani osnovali gradove Emerita Augusta, Tarraco i Hispalis?":{"A":"Portugal","B":"Španjolska","C":"Francuska"},
+          "Vallum Hadriani i Vallum Antonini su zidine koje i danas možemo vidjeti na kojem otoku?":{"A":"Irska","B":"Sicilija","C":"Velika Britanija"},
+          "Koliko je bilo bitki kod Bedrijaka u blizini današnje Cremone, tijekom građanskog rata te sukoba careva Otona, Vitelija i Vespazijana?":{"A":"2","B":"1","C":"3"},
+          "Na ušću u Atlantski ocean koje škotske rijeke se nalazi najveći škotski grad Glasgow te početak starorimskog Antoninova zida?":{"A":"Tay","B":"Clyde","C":"Forth"},
+          "U HTV-ovoj TV seriji 'Ludi rimski carevi', kroz 4 epizode se prikazuju carevi Kaligula, Neron, Komod i koji još?":{"A":"Tiberije","B":"Domicijan","C":"Elagabal"},
+          "Najzapadnija točka kontinentalne Europe je nekada bila i najzapadnija točka rimskog carstva. Rimljani su taj rt poznavali kao Promontorium Magnum, a kako se on danas zove?":{"A":"Cabo de Roca","B":"Cabo da Roca Pequeno","C":"Cabo Espichel"},
+          "Koju zakladu za odgoj i uzdržavanje siromašne djece osniva rimski car Nerva, a kasnije usavršava car Trajan, a njeno ime se i danas slično koristi za jednu zakonsku obvezu jednog od supružnika?":{"A":"Annona","B":"Alimenta","C":"Frumentatio"},
+          "Koji je starorimski grad danas poznat kao Slavonski Brod, a to staro ime i dan danas nosi nogometni klub u kojem su karijeru počeli Madžukić i Olić?":{"A":"Cibalae","B":"Siscia","C":"Marsonia"},
+          "Tko izdaje naredbu da se 'provede popis svega svijeta', malo prije Kristova rođenja?":{"A":"August","B":"Tiberije","C":"Herod Veliki"},
+          "Padom Sirakuze pod rimsku vlast 212.g. pr. Kr. svoj život tragično završava i koji veliki matematičar?":{"A":"Euklid","B":"Arhimed","C":"Eratosten"},
+          "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najduže, točnije 15 godina?":{"A":"Vespazijan","B":"Tit","C":"Domicijan"},
+          "Koji se portugalski grad može dičiti sa jednim od najstarijih sveučilišta u Europi, rimskim ostacima grada Aeminiuma te kao glavni grad Portugala kroz 12. i 13.st?":{"A":"Coimbra","B":"Braga","C":"Évora"},
+          "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?":{"A":"Komod","B":"Ver","C":"Antonin Pio"},
+          "Koji je današnji grad u Velikoj Britaniji, na rijeci Tyne, prvotno nastao kao rimsko naselje Pons Aelius?":{"A":"York","B":"Carlisle","C":"Newcastle"},
+          "Kada je Dioklecijan uspostavio tetrarhiju, središtem rimske moći postaju čak 4 grada. To su danas Trier, Milano, Izmit i koji još grad, smješten na rijeci Savi?":{"A":"Srijemska Mitrovica","B":"Beograd","C":"Sisak"},
+          "Da je ostalo do danas, kako bi se u Rimskom Carstvu napisala godina 2026.?":{"A":"MMXVI","B":"MMXXVI","C":"MMXXIV"},
+          "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63km?":{"A":"Engleskoj","B":"Walesu","C":"Škotskoj"},
+          "Koji je dački kralj ratovao protiv Rimljana kroz sva tri Rimsko-dačka rata te na kraju bio poražen?":{"A":"Decebal","B":"Burebista","C":"Duras"},
+          "Veni, Vidi, Vici, u prijevodu znači: Dođoh, vidjeh, što?":{"A":"Osvojih","B":"Pobjedih","C":"Zavladah"},
+          "U Sarajevu je do danas sačuvano nekoliko kamenih mostova preko kojih se može prijeći, a jedan takav, iako su ga gradili Osmanlije, dobio je ime po carstvu koje je tim prostorom vladalo mnogo prije. Kako se zove taj most?":{"A":"Latinski most","B":"Carev most","C":"Rimski most"},
+          "Vojnici kojeg budućeg rimskog cara s vlasti uklanjaju cara Vitelija?":{"A":"Vespazijana","B":"Tita","C":"Domicijana"},
+          "Koji su grad u Španjolskoj na rijeci Ebro Rimljani osnovali kao Caesaraugusta?":{"A":"Tarragona","B":"Zaragoza","C":"Toledo"},
+          "Koju rimsku božicu rata i Marsovu sestru su naslikali Guercino, Auguste Rodin i Rembrandt?":{"A":"Minervu","B":"Viktoriju","C":"Belonu"},
+          "Prvi trgovci iz rimskog carstva koji su dospjeli do Kine poslani su za vrijeme careva Antonina Pia i Marka Aurelija, a tada je Kinom vladala koja dinastija?":{"A":"Han","B":"Qin","C":"Tang"},
+          "Tko je bio rimski namjesnik cara Tiberija u provinciji Judeji od 26. do 36.g.?":{"A":"Herod Antipa","B":"Poncije Pilat","C":"Feliks"},
+          "Koji antički španjolski grad rimski vojskovođa Scipion Emilian Mlađi osvaja 133.g. pr. Kr. bez direktnih borbi tako što je grad potpuno okružio i čekao da branitelji popadaju od gladi?":{"A":"Sagunt","B":"Tarraco","C":"Numantia"},
+          "Koju rimsku boginju tražimo ako znamo da su joj Mars i Vulkan braća, Diskordija sestra, Prozerpina polusestra, stričevi Neptun i Pluton a muž Herkul?":{"A":"Juventas","B":"Minerva","C":"Venera"},
+          "Koji je španjolski nogometni klub iz Sorie igrao najelitniju španjolsku ligu samo 4 sezone, a ime je dobio po starom keltiberskom gradu sa istog mjesta, kojeg Rimljani osvajaju 133.g. pr. Kr.?":{"A":"Osasuna","B":"Numancija","C":"Zaragoza"},
+          "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120 km?":{"A":"Škotskoj","B":"Walesu","C":"Engleskoj"},
+          "U velikoj erupciji Vezuva 79 g. bivaju uništeni gradovi: Pompeji, Stabije, Oplontis i koji još antički grad?":{"A":"Neapolis","B":"Herkulanej","C":"Capua"},
+          "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120km?":{"A":"Škotskoj","B":"Walesu","C":"Engleskoj"},
+          "Kojem se rimskom kralju pripisuje ustroj luke u Ostiji, izgradnja solana i zatvora te drvenog mosta preko Tibera?":{"A":"Anku Marciju","B":"Tul Hostiliju","C":"Serviju Tuliju"},
+          "Klodija Lijepa, Skribonija i Livija Drusilla su bile žene kojeg rimskog cara?":{"A":"Tiberija","B":"Augusta","C":"Klaudija"},
+          "U rimskom pravu, nijedan rimski general sa svojim jedinicama nije smio prići Rimu bliže od koje rijeke?":{"A":"Tibera","B":"Arna","C":"Rubikona"},
+          "Koji rimski vojskovođa i otac cara Kaligule je pomogao Tiberiju slomiti ilirski ustanak?":{"A":"Germanik","B":"Druz Stariji","C":"Agripa"},
+          "Koji helvetski vođa je vodio helvećane protiv Cezara u bitci kod Bibrakta?":{"A":"Orgetoriks","B":"Divikon","C":"Vercingetoriks"},
+          "Koje ime dobiva Gaj Oktavijan nakon 27.g. pr. Kr.?":{"A":"Cezar","B":"Princeps","C":"August"},
+          "Koji rimski car je svojeg konja želio proglasiti konzulom?":{"A":"Kaligula","B":"Neron","C":"Komod"},
+          "Tko su bili borci u starom Rimu koji su u arenama izvodili borbe do smrti?":{"A":"Legionari","B":"Gladijatori","C":"Pretorijanci"},
+          "Koji su rimski kućni duhovi bili zaštitnici ognjišta i hrane?":{"A":"Lari","B":"Mani","C":"Penati"},
+          "Peti, a ujedno i zadnji rimski car iz Julijevsko - Klaudijevske dinastije je bio tko?":{"A":"Neron","B":"Klaudije","C":"Kaligula"},
+          "Na kojem talijanskom otoku umire rimski car Tiberije?":{"A":"Siciliji","B":"Capriju","C":"Sardiniji"},
+          "Najpoznatiju operu o Gaju Juliju Cezaru, 'Giulio Cesare' je 1724. skladao tko?":{"A":"Antonio Vivaldi","B":"Claudio Monteverdi","C":"Geoege Friderich Handel"},
+          "Veliki požar u kojem gradu izbija za vladavine cara Nerona?":{"A":"Rimu","B":"Ostiji","C":"Neapolisu"},
+          "Na kojem današnjem poluotoku su bile rimske provincije Tarakonska i Betička Hispanija te Luzitanija?":{"A":"Apeninskom","B":"Pirenejskom","C":"Balkanskom"},
+          "Kako se zove kratki mač, glavno oružje rimskog vojnika?":{"A":"Pilum","B":"Pugio","C":"Gladijus"},
+          "Koji rimski car je bio sin Agripine i Gneja Domicija Ahenobarba a vladao je od 54. do 68.g.?":{"A":"Neron","B":"Klaudije","C":"Kaligula"},
+          "Koji rimski bog živi u Etni i ondje izrađuje strijele za Jupitera?":{"A":"Mars","B":"Vulkan","C":"Saturn"},
+          "Ako bi slavnu Via Appiu prešli u cijelosti, onda bi iz Rima došli u koji grad na jugoistoku Italije?":{"A":"Bari","B":"Taranto","C":"Brindisi"},
+          "Bitka kod Herakleje se odvijala između Rima i Epira u blizini kojeg današnjeg talijanskog grada?":{"A":"Policoro","B":"Taranto","C":"Metaponto"},
+          "Pompej, Cezar i Kras su osnovali koji po redu trijumvirat?":{"A":"Drugi","B":"Prvi","C":"Treći"},
+          "Kako se zove rimska božica, zaštitnica doma, obitelji i ognjišta?":{"A":"Junona","B":"Dijana","C":"Vesta"},
+          "Koji se rimski vojskovođa proslavio u drugom Punskom ratu i pobjedi protiv Hanibala?":{"A":"Scipion Stariji","B":"Fabije Maksim","C":"Marko Klaudije Marcel"},
+          "Burdigala, Durocortorum i Lugdunum su bili rimski gradovi čiju bogatu baštinu danas možemo vidjeti u kojoj državi?":{"A":"Italiji","B":"Francuskoj","C":"Španjolskoj"},
+          "Kako se zvala najveća vojna jedinica u okviru rimske vojske?":{"A":"Kohorta","B":"Centurija","C":"Legija"},
+          "U kojem talijanskom gradu se nalaze Karakaline terme, kompleks koji je odjednom mogao primiti 1600 kupača?":{"A":"Rimu","B":"Pompejima","C":"Ostiji"},
+          "Tko je bio vođa britanskih plemena koja su pružala otpor Cezaru za njegova osvajanja britanijom?":{"A":"Karatak","B":"Kasivelaun","C":"Boudika"},
+          "Koji naziv se koristio za konzervativnu frakciju u senatu rimske republike?":{"A":"Populari","B":"Ekviti","C":"Optimati"},
+          "U rečenici 'Veni Vidi Vici', jedna se riječ ne može napisati koristeći samo rimske brojeve, koja?":{"A":"Veni","B":"Vidi","C":"Vici"},
+          "Koje slovo je označavalo broj 1000 u rimskom carstvu?":{"A":"D","B":"C","C":"M"},
+          "Ruski slikar Karl Bryullov je 1833.g. naslikao posljednje dane kojeg grada?":{"A":"Pompeja","B":"Herkulaneja","C":"Rima"},
+          "Kod kojeg mjesta car Valens doživljava veliki poraz od vizigota gdje i sam pogiba, a ta bitka je nagovijestila skori pad zapadnog rimskog carstva?":{"A":"Naissus","B":"Hadrijanopola","C":"Sirmiuma"},
+          "Kako bi stari rimljani napisali broj '410'?":{"A":"DX","B":"CCCCX","C":"CDX"},
+          "Tko je bio posljednji zapadnorimski car?":{"A":"Romul Augustul","B":"Julije Nepot","C":"Glicerije"},
+          "Koje slovo je označavalo broj 1 u rimskom carstvu?":{"A":"V","B":"I","C":"X"},
+          "Koji rimski car proglašava kršćanstvo državnom religijom, a kršćani njemu daju nadimak Veliki?":{"A":"Konstantin I.","B":"Gracijan","C":"Teodozije"},
+          "Koji je germanski narod opljačkao Rim 455.g.?":{"A":"Vandali","B":"Vizigoti","C":"Ostrogoti"},
+          "Koji rimski car je proveo posljednje velike progone kršćana?":{"A":"Decije","B":"Dioklecijan","C":"Valerijan"},
+          "Tko je bio zadnji 'priznati' rimski car, zapadnog rimskog carstva?":{"A":"Romul Augustul","B":"Glicerije","C":"Julije Nepot"},
+          "Ime kojeg rimskog cara se krije u anagramu riječi 'vrane'?":{"A":"Nerva","B":"Neron","C":"Ver"},
+          "Stupivši na prijestolje zajedno sa Maksimijanom, Dioklecijan isprva dijeli carstvo prema odgovornosti na dva dijela, zapadno i Istočno, a kojim je upravljao on?":{"A":"Zapadnim","B":"Istočnim","C":"Oba dijela"},
+          "Treći ekumenski sabor crkve se sazvao u drevnom Efezu, na području današnje Turske, u to vrijeme je na tom području upravljalo istočno rimsko carstvo, a za vrijeme sabora, tim carstvom je upravljao koji car?":{"A":"Marcijan","B":"Valentinijan III.","C":"Teodozije II."},
+          "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje hrvatske je pripalo kojem?":{"A":"Zapadnom","B":"Istočnom","C":"Objema podjednako"},
+          "U kojem engleskom gradu se nalazi brončani kip rimskog cara Konstantina I. Velikog?":{"A":"Londonu","B":"Yorku","C":"Newcastleu"},
+          "Vizigotska, ili Alarikova pljačka Rima dogodila se koje godine?":{"A":"400.","B":"420.","C":"410."},
+          "Teodozijeve zakone, tj. zbirke zakona rimskog carstva iz doba kršćanskih careva sastavio je Teodozije II., car istočnog carstva, a tko je te zakone, godinu poslije, uveo u zapadno?":{"A":"Valentinijan III.","B":"Honorije","C":"Petronije Maksim"},
+          "Koje je igre, rimski car Teodozije, 393.g. odlučio zabraniti jer ih je smatrao kao poganske?":{"A":"Pitijske","B":"Olimpijske","C":"Nemejske"},
+          "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje Srbije je najvećim dijelom pripalo kojem?":{"A":"Zapadnom","B":"Objema podjednako","C":"Istočnom"},
+          "Kroz koliko stoljeća se odvijala vlast cara Dioklecijana nad rimskim carstvom?":{"A":"2","B":"1","C":"3"},
+          "Kojim ediktom car Konstantin I. Veliki službeno označava kraj vjerskih progona u rimskom carstvu?":{"A":"Solunskim","B":"Milanskim","C":"Serdskim"},
+          "Tko je bio car zapadnog rimskog carstva u trenucima kada su vizigoti 410.g. provalili i opljačkali Rim?":{"A":"Valentinijan III.","B":"Konstancije III.","C":"Honorije"},
+          "Vizigoti provalju te pljačkaju Rim 410.g. pod vodstvom kojeg kralja?":{"A":"Alarika","B":"Ataulfa","C":"Teodorika I."},
+          "Koji burgundski kraljević, zajedno sa svojom vojskom izabire Glicerija za cara zapadnog rimskog carstva?":{"A":"Gundahar","B":"Gundobad","C":"Hilderik"},
+          "Koji je 'bič' predvodio Hune u bitci na Katalunskim poljima, kraj današnjeg Orleansa, protiv Zapadnog rimskog carstva i Vizigota?":{"A":"Rimski","B":"Hunski","C":"Božji"},
+          "Na slici Karla Bryullova iz 1836.g. prikazana je Gajzerikova pljačka kojeg grada?":{"A":"Rima","B":"Kartage","C":"Ravenne"},
+          "Na čelu s kojim kraljem, godine 455. vandali ulaze u Rim te ga pljačkaju?":{"A":"Hunerikom","B":"Gajzerikom","C":"Gunderikom"},
+          "Koji narod pobjeđjuje rimsku vojsku u bitci kod rijeke Alije te 390.g pljačka Rim?":{"A":"Etruščani","B":"Samniti","C":"Gali"},
+          "Koje slovo je označavalo broj 10 u rimskom carstvu?":{"A":"X","B":"V","C":"L"}
+          }
+          changed=0
+          for x in data:
+            q=x.get('question')
+            if q in fixes:
+              x['answers']=fixes[q]; changed+=1
+          if changed < 80: raise SystemExit(f'Too few matches: {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed,'questions')
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors large batch 13"
+          git push
