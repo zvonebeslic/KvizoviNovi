@@ -1,0 +1,25 @@
+name: Audit Manual Knjizevnost
+on:
+  push:
+    paths:
+      - 'scripts/audit_manual_knjizevnost.py'
+      - 'redo/Knjizevnost*.json'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/audit_manual_knjizevnost.py
+      - name: Commit audit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add redo/Knjizevnost_manual_audit.json
+          git diff --cached --quiet || git commit -m "Update Knjizevnost manual audit"
+          git push
