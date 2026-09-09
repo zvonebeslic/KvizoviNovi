@@ -1,8 +1,15 @@
-TOTAL=589
-CORRECT={'A': 197, 'B': 196, 'C': 196}
-DUPLICATE_QUESTIONS=2
-DUPQ x2: Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?
-DUPQ x2: U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?
-STRUCTURAL_PROBLEMS=2
-418: topic=Povijest
-419: topic=Povijest
+CURRENT_COUNT=589
+ORIGINAL_COUNT=589
+QUESTION_LIST_IDENTICAL=False
+QUESTION_DIFF_COUNT=2
+DIFF #102
+ORIGINAL: Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?
+CURRENT : Vijencem od koje biljke su u rimskoj tradiciji bili krunjeni pjesnici, vojskovođe i carevi kao znakom časti i pobjede?
+DIFF #112
+ORIGINAL: Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?
+CURRENT : Nakon što je car Valerijan zarobljen od Perzijanaca, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao Crkvi legalan status koji je trajao do početka 4. stoljeća?
+STRUCTURE_ISSUE_COUNT=0
+CORRECT_DISTRIBUTION={'A': 197, 'B': 196, 'C': 196}
+DUPLICATE_QUESTION_COUNT=2
+DUPQ 2x: Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?
+DUPQ 2x: U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?
