@@ -1,0 +1,55 @@
+name: Fix AntickiRim reviewed next 50 12
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_next50_12.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Prema legendi, rat između Rima i Alba Longe je odlučen u dvoboju 3 brata albske obitelji Curiatii protiv 3 brata koje rimske obitelji?":{"A":"Horatii","B":"Fabii","C":"Valerii"},
+          "Koja je rimska božica rodila bogove Marsa i Vulkana?":{"A":"Minerva","B":"Junona","C":"Vesta"},
+          "Koji latinski naziv, preveden kao 'žigosani bakar', koristimo za rane rimske bakrene ingote, preteče kovanog novca?":{"A":"Aes Rude","B":"Aes Grave","C":"Aes Signatum"},
+          "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?":{"A":"Napuljskom","B":"Tarantskom","C":"Salernskom"},
+          "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?":{"A":"Pomona","B":"Egerija","C":"Feronia"},
+          "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?":{"A":"Gladius","B":"Spatha","C":"Pugio"},
+          "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?":{"A":"Teutoburškoj šumi","B":"Ardenskoj šumi","C":"Hercinijskoj šumi"},
+          "Što je Had, Perzefoni, to je Pluton, kome?":{"A":"Cereri","B":"Prozerpini","C":"Dijani"},
+          "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?":{"A":"Augur","B":"Pontifex","C":"Flamen"},
+          "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?":{"A":"Breučkog","B":"Japodskog","C":"Delmatskog"},
+          "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?":{"A":"Trajana","B":"Augusta","C":"Hadrijana"},
+          "Što je bačeno u slavnoj izreci Gaja Julija Cezara?":{"A":"Mač","B":"Koplje","C":"Kocka"},
+          "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?":{"A":"Punski ratovi","B":"Mitridatski ratovi","C":"Samnitski ratovi"},
+          "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?":{"A":"Budimpešta","B":"Beč","C":"Bratislava"},
+          "Koji današnji kanal su rimljani morali preploviti u pohodu na Britaniju?":{"A":"Bristolski kanal","B":"Kanal svetog Jurja","C":"La Manche"},
+          "1120km duga rimska cesta Via Egnatia je svoju početnu točku imala u današnjoj Albaniji, a završavala je u kojoj današnjoj državi?":{"A":"Turskoj","B":"Grčkoj","C":"Bugarskoj"},
+          "Koji naziv se koristio za populističku frakciju u senatu rimske republike?":{"A":"Optimati","B":"Populari","C":"Ekviti"},
+          "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?":{"A":"Aleksandar Mološki","B":"Neoptolem II.","C":"Pir"},
+          "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?":{"A":"Sisak","B":"Petrinja","C":"Karlovac"},
+          "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?":{"A":"Berenika","B":"Teuta","C":"Agronova kći"},
+          "Koji je rimski pisac napisao biografiju 'O dvanaest rimskih careva'?":{"A":"Svetonije","B":"Tacit","C":"Plutarh"},
+          "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?":{"A":"Čovjek u krugu","B":"Anatomski čovjek","C":"Vitruvijev čovjek"}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f:
+              x['answers']=f[q]; n+=1
+          if n!=len(f): raise SystemExit(f'Matched {n}/{len(f)}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix next reviewed AntickiRim ABC answers 12"
+          git push
