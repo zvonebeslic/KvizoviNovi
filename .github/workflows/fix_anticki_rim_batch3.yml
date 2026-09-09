@@ -1,0 +1,60 @@
+name: Fix AntickiRim batch 3
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch3.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Tko je od 260.g. bio prvi car Galskog carstva, tj. pobunjenih provincija Britanije, Galije i Hispanije?":{"A":"Postum","B":"Tetrik I.","C":"Viktorin"},
+          "U drugom krugu Danteova pakla tj. požudi, se nalazi i koja ljubavnica Julija Cezara i Marka Antonija?":{"A":"Servilija","B":"Kleopatra","C":"Fulvija"},
+          "Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?":{"A":"Srebra","B":"Br 🥇once","C":"Zlata"},
+          "Kaptol je u Zagrebu, Kapitol u Washingtonu a Kapitolij u kojeg gradu?":{"A":"Rimu","B":"Ateni","C":"Carigradu"},
+          "Koji veliki kršćanski svetac iz Španjolske biva mučenički ubijen u progonu kršćana pod rimskim carem Valerijanom?":{"A":"Sv. Ciprijan","B":"Sv. Lovro","C":"Sv. Sebastijan"},
+          "Tko ubija Karakalu, te dolazi na njegovo mjesto rimskog cara, na kojem ipak, ne ostaje zadugo jer su i njega pogubili?":{"A":"Geta","B":"Elegabal","C":"Makrin"},
+          "U Danteovoj 'Božanskoj Komediji', u kojem krugu pakla se nalazi Gaj Julije Cezar?":{"A":"Prvom","B":"Drugom","C":"Trećem"},
+          "Ako ćemo vjerovati Herodijanovoj 'Carskoj Povijesti' onda je koji rimski car bio daleko najviši od svih, sa čak 2,4m visine?":{"A":"Komod","B":"Maksimin Tračanin","C":"Septimije Sever"},
+          "Kada kažemo 'Cirkus', danas odmah pomislimo na klaune, dresirane životinje i vratolomije, ali u starom Rimu, 'Circus' je značio mnoge javne igre i utrke dvokolica, najveća građevina za to se nalazila u Rimu i mogla je primiti preko 150 tisuća gledatelja, a kako se ta građevina zove?":{"A":"Kolosej","B":"Stadion Domicijana","C":"Circus Maximus"},
+          "Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?":{"A":"Aleksandar Sever","B":"Maksimin Tračanin","C":"Gordijan I."},
+          "U kojem stoljeću, na mjesto rimskog cara stižu čak tri Gordijana, prvi, drugi i treći?":{"A":"2.","B":"3.","C":"4."},
+          "Koji se rimljanin spominje u apostolskom vjerovanju?":{"A":"Herod Antipa","B":"Kornelije","C":"Poncije Pilat"},
+          "Koji rimski car godine 258. donosi okrutan edikt s ciljem progona kršćana te naređuje da se biskupi, svećenici i đakoni odmah ubiju?":{"A":"Valerijan","B":"Decije","C":"Dioklecijan"},
+          "Kojim pojmom, koji i danas znači 'velik uspjeh' se bilježio svečani ulazak vojskovođe u Rim, nakon velike pobjede?":{"A":"Ovacija","B":"Trijumf","C":"Apoteoza"},
+          "Koji rimski car nastavlja vladati Rimom još 8 godina, nakon što njegova oca Valerijana odvode u zatočeništvo?":{"A":"Klaudije II.","B":"Aurelijan","C":"Galijen"},
+          "Kojeg velikog rimskog pravnika ubija car Karakala jer mu nije htio opravdati ubojstvo brata i suvladara Gete?":{"A":"Emilije Papinijan","B":"Ulpijan","C":"Julije Paulo"},
+          "Kakav oblik vladavine, tj. suradnju cara sa senatom, uvodi prvi rimski car August?":{"A":"Dominat","B":"Principat","C":"Tetrarhija"},
+          "Papa Siksto II., sv. Ciprijan Kartaški i sv. Lovro stradaju u progonima kojeg rimskog cara?":{"A":"Decija","B":"Dioklecijana","C":"Valerijana"},
+          "Koje 'pobunjeno' carstvo se od 260.g. do 273.g. pojavljuje unutar rimskog te obuhvaća provincije Galiju, Britaniju i Hispaniju, gdje 13 godina uživa nezavisnost od središnje rimske vlasti?":{"A":"Galsko","B":"Palmirsko","C":"Britansko"},
+          "Stari rimski grad Singidunum na području Srbije, se razvio u koji moderan grad današnjice?":{"A":"Niš","B":"Beograd","C":"Smederevo"},
+          "Koji svetac i zaštitnik zaljubljenih biva pogubljen za vrijeme rimskog cara Klaudija II. Gotskog?":{"A":"Sebastijan","B":"Lovro","C":"Valentin"},
+          "Koji je rimski car uz Maksimijana jedini u povijesti carstva abdicirao, tj. odrekao se titule cara za svog života?":{"A":"Dioklecijan","B":"Konstantin I.","C":"Galeriје"},
+          "On svojem sinu Galijenu na upravljanje daje zapadni dio carstva dok se on posvećuje istočnom. Tu prvi put vidimo, iako ne službeno, podjelu carstva na zapadno i istočno, a o kojem se rimskom caru radi?":{"A":"Decije","B":"Valerijan","C":"Klaudije II."},
+          "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?":{"A":"Elegabal","B":"Dioklecijan","C":"Aurelijan"},
+          "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?":{"A":"Geta","B":"Makrin","C":"Elegabal"},
+          "Koji rimski car je vjerovao u moći svog boga El-Gabala?":{"A":"Aleksandar Sever","B":"Elegabal","C":"Karakala"},
+          "Godina u kojoj je Septimije Sever postao rimski car ostala je upamćena i kao godina sa koliko careva?":{"A":"Četiri","B":"Šest","C":"Pet"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 3"
+          git push
