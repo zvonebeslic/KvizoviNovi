@@ -6255,8 +6255,8 @@
     "question": "Koji se današnji grad, poznat po modi, u doba rimskog carstva zvao Mediolanum?",
     "answers": {
       "A": "Milano",
-      "B": "Odoakar",
-      "C": "Orleans"
+      "B": "Torino",
+      "C": "Verona"
     },
     "image": null,
     "correct_answer": "A"
@@ -6267,9 +6267,9 @@
     "topic": "AntickiRim",
     "question": "Koji je današnji francuski grad rimski car Aurelijan nazvao po sebi, Aurelianum?",
     "answers": {
-      "A": "Milano",
+      "A": "Lyon",
       "B": "Orleans",
-      "C": "Limes"
+      "C": "Nimes"
     },
     "image": null,
     "correct_answer": "B"
@@ -6280,8 +6280,8 @@
     "topic": "AntickiRim",
     "question": "Koju su riječ stari rimljani koristili za 'granicu'?",
     "answers": {
-      "A": "Orleans",
-      "B": "Milano",
+      "A": "Finis",
+      "B": "Terminus",
       "C": "Limes"
     },
     "image": null,
@@ -6294,8 +6294,8 @@
     "question": "Tko je bio prvi rimski car koji je primio sakramenat krštenja?",
     "answers": {
       "A": "Konstantin",
-      "B": "Zenon",
-      "C": "Dioklecijan"
+      "B": "Teodozije",
+      "C": "Gracijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -6306,9 +6306,9 @@
     "topic": "AntickiRim",
     "question": "S čijim imenom je počelo rimsko kraljevstvo a završilo zapadno rimsko carstvo?",
     "answers": {
-      "A": "Limes",
+      "A": "August",
       "B": "Romul",
-      "C": "Bon"
+      "C": "Konstantin"
     },
     "image": null,
     "correct_answer": "B"
@@ -6319,8 +6319,8 @@
     "topic": "AntickiRim",
     "question": "Vizigoti provaljuju i pljačkaju Rim 410.g., a Vandali to ponavljaju nekoliko desetljeća poslije, koje točno godine?",
     "answers": {
-      "A": "445 .",
-      "B": "465 .",
+      "A": "445.",
+      "B": "465.",
       "C": "455."
     },
     "image": null,
@@ -6333,8 +6333,8 @@
     "question": "Kod kojeg rta su vandali 468.g. na čelu s kraljem Gajzerikom, porazili duplo veću vojsku istočnog rimskog carstva koja je brojala preko 1000 brodova i 100 000 vojnika?",
     "answers": {
       "A": "Bon",
-      "B": "Istanbul",
-      "C": "Romul"
+      "B": "Spartivento",
+      "C": "Farina"
     },
     "image": null,
     "correct_answer": "A"
@@ -6345,9 +6345,9 @@
     "topic": "AntickiRim",
     "question": "Koji današnji grad se prije spominjao kao Bizantij, Konstantinopol i Carigrad?",
     "answers": {
-      "A": "Bon",
+      "A": "Izmir",
       "B": "Istanbul",
-      "C": "Glicerije"
+      "C": "Ankara"
     },
     "image": null,
     "correct_answer": "B"
@@ -6359,8 +6359,8 @@
     "topic": "AntickiRim",
     "question": "U kojem je drevnom gradu, na području današnje Turske, ustoličen Dioklecijan kao rimski car?",
     "answers": {
-      "A": "Trilj",
-      "B": "Rima",
+      "A": "Efezu",
+      "B": "Niceji",
       "C": "Nikomediji"
     },
     "image": null,
@@ -6373,8 +6373,8 @@
     "question": "Ime kojeg rimskog cara, možemo povezati sa jednom bezbojnom, viskoznom tekućinom slatkastog okusa?",
     "answers": {
       "A": "Glicerije",
-      "B": "Teodozija",
-      "C": "Istanbul"
+      "B": "Galba",
+      "C": "Gracijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -6385,9 +6385,9 @@
     "topic": "AntickiRim",
     "question": "Za kojeg rimskog cara, kršćanstvo u cijelom rimskom carstvu postaje jedina dopuštena državna religija?",
     "answers": {
-      "A": "Glicerije",
+      "A": "Konstantina",
       "B": "Teodozija",
-      "C": "Zapadnom"
+      "C": "Gracijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -6398,8 +6398,8 @@
     "topic": "AntickiRim",
     "question": "Nakon podjele rimskog carstva na zapadno i Istočno, područje današnje BiH je pripalo kojem?",
     "answers": {
-      "A": "Teodozija",
-      "B": "Konstantinopola",
+      "A": "Istočnom",
+      "B": "Objema carstvima",
       "C": "Zapadnom"
     },
     "image": null,
@@ -6412,8 +6412,8 @@
     "question": "Rimski car Konstantin I. Veliki je na mjestu starog Bizantija odredio granice kojeg budućeg 'svoga' grada?",
     "answers": {
       "A": "Konstantinopola",
-      "B": "Zapadnom",
-      "C": "V"
+      "B": "Nikomedije",
+      "C": "Hadrijanopola"
     },
     "image": null,
     "correct_answer": "A"
@@ -6424,9 +6424,9 @@
     "topic": "AntickiRim",
     "question": "Koje slovo je označavalo broj 5 u rimskom carstvu?",
     "answers": {
-      "A": "Konstantinopola",
+      "A": "X",
       "B": "V",
-      "C": "Junone"
+      "C": "I"
     },
     "image": null,
     "correct_answer": "B"
@@ -6437,8 +6437,8 @@
     "topic": "AntickiRim",
     "question": "Oko hramova koje rimske boginje su se redovno zadržavala jata gusaka?",
     "answers": {
-      "A": "V",
-      "B": "Konstantinopola",
+      "A": "Veste",
+      "B": "Minerva",
       "C": "Junone"
     },
     "image": null,
@@ -6463,9 +6463,9 @@
     "topic": "AntickiRim",
     "question": "Da se rimski car Konstantin I. Veliki rodio danas, bio bi građanin koje države?",
     "answers": {
-      "A": "Hrvatske",
+      "A": "Bugarske",
       "B": "Srbije",
-      "C": "Francuskoj"
+      "C": "Sjeverne Makedonije"
     },
     "image": null,
     "correct_answer": "B"
@@ -6476,8 +6476,8 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski car sazvao drugi ekumenski crkveni sabor 381.g. koji se sastao u Carigradu?",
     "answers": {
-      "A": "Junone",
-      "B": "V",
+      "A": "Konstantin",
+      "B": "Gracijan",
       "C": "Teodozije"
     },
     "image": null,
@@ -6490,8 +6490,8 @@
     "question": "Kada je Konstancije bio 'junior cezar' , Galerije mu je bio 'senior cezar', a kada je Maksimijan bio 'junior august', 'senior august' mu je bio tko?",
     "answers": {
       "A": "Dioklecijan",
-      "B": "Teodozije",
-      "C": "Saturn"
+      "B": "Galerije",
+      "C": "Konstancije Klor"
     },
     "image": null,
     "correct_answer": "A"
@@ -6502,9 +6502,9 @@
     "topic": "AntickiRim",
     "question": "Koji car je bio posljednji, univarzalni vladar cijelog rimskog carstva, prije službene podjele na zapadno i istočno?",
     "answers": {
-      "A": "Dioklecijan",
+      "A": "Konstantin",
       "B": "Teodozije",
-      "C": "Saturn"
+      "C": "Dioklecijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -6515,8 +6515,8 @@
     "topic": "AntickiRim",
     "question": "Na kojim se poljima odvila najvažnija bitka između Huna i Zapadnorimskog carstva u savezu sa Vizigotima?",
     "answers": {
-      "A": "Hadrijanopola",
-      "B": "Policoro",
+      "A": "Farsalskim",
+      "B": "Filipskim",
       "C": "Katalaunskim"
     },
     "image": null,
@@ -6529,8 +6529,8 @@
     "question": "Koju goru su rimljani zvali Mons Almus, a ostala je poznata kao utvrda Breuka i Dezidijata tjekom rimske okupacije?",
     "answers": {
       "A": "Fruška Gora",
-      "B": "Splitsko Dalmatinske",
-      "C": "Flavije Aecije"
+      "B": "Romanija",
+      "C": "Majevica"
     },
     "image": null,
     "correct_answer": "A"
@@ -6541,9 +6541,9 @@
     "topic": "AntickiRim",
     "question": "U ratu između Julija Cezara i Ptolomeja 13. u jednom od požara zapaljena je i koja glasovita knjižnica?",
     "answers": {
-      "A": "Termopil",
+      "A": "Pergamska",
       "B": "Aleksandrijska",
-      "C": "Kupid"
+      "C": "Celsusova"
     },
     "image": null,
     "correct_answer": "B"
@@ -6554,8 +6554,8 @@
     "topic": "AntickiRim",
     "question": "Koji je uski planinski prolaz u grčkoj uvelike obilježio grčko-perzijske te rimsko-seleukidske ratove?",
     "answers": {
-      "A": "Aleksandrijska",
-      "B": "Kupid",
+      "A": "Korintski",
+      "B": "Tempe",
       "C": "Termopil"
     },
     "image": null,
@@ -6568,8 +6568,8 @@
     "question": "Koji rimski bog je prikazan na Caravaggiovoj slici 'Amor Vincit Omnia'?",
     "answers": {
       "A": "Kupid",
-      "B": "Termopil",
-      "C": "Sabinjani"
+      "B": "Mars",
+      "C": "Apolon"
     },
     "image": null,
     "correct_answer": "A"
@@ -6580,9 +6580,9 @@
     "topic": "AntickiRim",
     "question": "Koji je drevni narod italije prvo ratovao, pa se udružio sa Romulovim narodom nakon što su 'Otete Sabinjanke' zaustavile boj?",
     "answers": {
-      "A": "Kupid",
+      "A": "Etruščani",
       "B": "Sabinjani",
-      "C": "Julijanski"
+      "C": "Latini"
     },
     "image": null,
     "correct_answer": "B"
@@ -6593,8 +6593,8 @@
     "topic": "AntickiRim",
     "question": "Koji kalendar ustanovljuje Julije Cezar, a koristiti će se do 16. st?",
     "answers": {
-      "A": "Sabinjani",
-      "B": "Rimsko",
+      "A": "Rimski",
+      "B": "Gregorijanski",
       "C": "Julijanski"
     },
     "image": null,
@@ -6607,8 +6607,8 @@
     "question": "Koje carstvo je svoje vojnike naoružavalo gladiusom, scutumom, pugiom i pilumom?",
     "answers": {
       "A": "Rimsko",
-      "B": "Julijanski",
-      "C": "1 godinu"
+      "B": "Partsko",
+      "C": "Seleukidsko"
     },
     "image": null,
     "correct_answer": "A"
@@ -6619,9 +6619,9 @@
     "topic": "AntickiRim",
     "question": "Na koje razdoblje da upravljaju, su birani konzuli u starom Rimu?",
     "answers": {
-      "A": "Rimsko",
+      "A": "6 mjeseci",
       "B": "1 godinu",
-      "C": "Julijanski"
+      "C": "2 godine"
     },
     "image": null,
     "correct_answer": "B"
@@ -6802,8 +6802,8 @@
     "question": "Koji je površinom najveći otok koji je u cijelosti bio pod rimskom vlašću?",
     "answers": {
       "A": "Sicilija",
-      "B": "Ptolomej 13.",
-      "C": "Panteon"
+      "B": "Sardinija",
+      "C": "Korzika"
     },
     "image": null,
     "correct_answer": "A"
@@ -6814,9 +6814,9 @@
     "topic": "AntickiRim",
     "question": "Koji se 'Hram svih Bogova' nalazi u Rimu i dan danas a datira iz davne 125.g. i vremena cara Hadrijana?",
     "answers": {
-      "A": "Sicilija",
+      "A": "Saturnov hram",
       "B": "Panteon",
-      "C": "SPQR"
+      "C": "Vestin hram"
     },
     "image": null,
     "correct_answer": "B"
@@ -6827,8 +6827,8 @@
     "topic": "AntickiRim",
     "question": "Koja 4 slova stoje na zastavama rimske republike i rimskog carstva?",
     "answers": {
-      "A": "Panteon",
-      "B": "Sicilija",
+      "A": "ROMA",
+      "B": "SPQV",
       "C": "SPQR"
     },
     "image": null,
@@ -6853,9 +6853,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zvala klasa građana s manjim pravima u starom Rimu, uglavnom seljačkog podrijetla?",
     "answers": {
-      "A": "SPQR",
+      "A": "Patriciji",
       "B": "Plebejci",
-      "C": "Panteon"
+      "C": "Ekviti"
     },
     "image": null,
     "correct_answer": "B"
@@ -6866,8 +6866,8 @@
     "topic": "AntickiRim",
     "question": "Na području koje hrvatske županije se nalaze ostaci Andetriuma, davne ilirske utvrde koju rimljani osvajaju i tako guše ilirski ustanak?",
     "answers": {
-      "A": "Marko Licinije Kras",
-      "B": "Gaj Kluilije",
+      "A": "Šibensko-kninske",
+      "B": "Zadarske",
       "C": "Splitsko Dalmatinske"
     },
     "image": null,
@@ -6880,8 +6880,8 @@
     "question": "'Cezar i Kleopatra' je film iz 1945. u kojem Kleopatru glumi Vivien Leigh a Cezara tko?",
     "answers": {
       "A": "Claude Rains",
-      "B": "Galba",
-      "C": "Marko Antonije"
+      "B": "Rex Harrison",
+      "C": "Laurence Olivier"
     },
     "image": null,
     "correct_answer": "A"
@@ -6892,9 +6892,9 @@
     "topic": "AntickiRim",
     "question": "Koji nadimak na latinskom je dobio posljednji rimski kralj Lucije Tarkvinije, što u prijevodu znači 'oholi'?",
     "answers": {
-      "A": "Tarkvinija 1.",
+      "A": "Magnus",
       "B": "Superbus",
-      "C": "Plebejci"
+      "C": "Maximus"
     },
     "image": null,
     "correct_answer": "B"
@@ -6905,8 +6905,8 @@
     "topic": "AntickiRim",
     "question": "Tko je bio prvi rimski car nakon završetka Julijevsko - Klaudijevske dinastije i njihovih 5 careva?",
     "answers": {
-      "A": "Claude Rains",
-      "B": "Marko Antonije",
+      "A": "Oton",
+      "B": "Vitelije",
       "C": "Galba"
     },
     "image": null,
@@ -6919,8 +6919,8 @@
     "question": "Za vrijeme kojeg rimskog kralja je sagrađen 'Circus Maximus', ogromni hipodrom za utrke dvokolica i gladijatorske borbe?",
     "answers": {
       "A": "Tarkvinija 1.",
-      "B": "Superbus",
-      "C": "1. Punski rat"
+      "B": "Servija Tulija",
+      "C": "Tarkvinija Oholog"
     },
     "image": null,
     "correct_answer": "A"
@@ -6931,9 +6931,9 @@
     "topic": "AntickiRim",
     "question": "Drugi trijumvirat 43.g. pr. Kr. su sklopili Oktavijan (kasnije August), Marko Emilie Lepid i tko još?",
     "answers": {
-      "A": "Galba",
+      "A": "Sekst Pompej",
       "B": "Marko Antonije",
-      "C": "Claude Rains"
+      "C": "Brut"
     },
     "image": null,
     "correct_answer": "B"
@@ -6944,8 +6944,8 @@
     "topic": "AntickiRim",
     "question": "Koji Punski rat je trajao najduže, čak 23 godine?",
     "answers": {
-      "A": "Spartaka",
-      "B": "Tarkvinija 1.",
+      "A": "2. Punski rat",
+      "B": "3. Punski rat",
       "C": "1. Punski rat"
     },
     "image": null,
@@ -6958,8 +6958,8 @@
     "question": "Koga je Karl Marx isticao kao 'najizvrsnijeg heroja cijele antičke povijesti'?",
     "answers": {
       "A": "Spartaka",
-      "B": "1. Punski rat",
-      "C": "Balearsko"
+      "B": "Julija Cezara",
+      "C": "Hanibala"
     },
     "image": null,
     "correct_answer": "A"
@@ -6970,9 +6970,9 @@
     "topic": "AntickiRim",
     "question": "Koje je španjolsko otočje u vrijeme antičkog Rima bilo poznato i cijenjeno po svojim vrsnim strijelcima i praćkašima?",
     "answers": {
-      "A": "Spartaka",
+      "A": "Kanarsko",
       "B": "Balearsko",
-      "C": "Rex"
+      "C": "Cíes"
     },
     "image": null,
     "correct_answer": "B"
@@ -6983,8 +6983,8 @@
     "topic": "AntickiRim",
     "question": "Koji se latinski izraz koristi za titulu koju su nosili kraljevi Rima?",
     "answers": {
-      "A": "Balearsko",
-      "B": "Srebrenice",
+      "A": "Princeps",
+      "B": "Imperator",
       "C": "Rex"
     },
     "image": null,
@@ -6997,8 +6997,8 @@
     "question": "Via Argentaria je starorimska cesta koja je iz današnjeg Solina vodila do kojeg današnjeg grada u BiH?",
     "answers": {
       "A": "Srebrenice",
-      "B": "Rex",
-      "C": "Balearsko"
+      "B": "Sarajeva",
+      "C": "Mostara"
     },
     "image": null,
     "correct_answer": "A"
@@ -7009,9 +7009,9 @@
     "topic": "AntickiRim",
     "question": "Tko je naslijedio carsku titulu od cara Augusta?",
     "answers": {
-      "A": "Cel",
+      "A": "Klaudije",
       "B": "Tiberije",
-      "C": "Marko Antonije"
+      "C": "Kaligula"
     },
     "image": null,
     "correct_answer": "B"
@@ -7022,8 +7022,8 @@
     "topic": "AntickiRim",
     "question": "Koji je slavni rimski vojskovođa poražen i ubijen u bitci kod Harana tijekom borbe sa partskim carstvom?",
     "answers": {
-      "A": "Gaj Kluilije",
-      "B": "Jacques Louis David",
+      "A": "Gnej Pompej",
+      "B": "Lucije Lukul",
       "C": "Marko Licinije Kras"
     },
     "image": null,
@@ -7036,8 +7036,8 @@
     "question": "Kako se zvao veliki starorimski pravokutni štit koji su vojnici nosili u boj?",
     "answers": {
       "A": "Scutum",
-      "B": "Terra",
-      "C": "Srebrenice"
+      "B": "Parma",
+      "C": "Clipeus"
     },
     "image": null,
     "correct_answer": "A"
@@ -7048,9 +7048,9 @@
     "topic": "AntickiRim",
     "question": "Tko je rimski bog neba, pandan grčkom Uranu?",
     "answers": {
-      "A": "Tiberije",
+      "A": "Jupiter",
       "B": "Cel",
-      "C": "Marko Antonije"
+      "C": "Saturn"
     },
     "image": null,
     "correct_answer": "B"
@@ -7061,8 +7061,8 @@
     "topic": "AntickiRim",
     "question": "Koje rimsko božanstvo se smatra i 'majkom zemljom', nastalo iz Kaosa?",
     "answers": {
-      "A": "Scutum",
-      "B": "Tacit",
+      "A": "Ceres",
+      "B": "Tellus Mater",
       "C": "Terra"
     },
     "image": null,
@@ -7075,8 +7075,8 @@
     "question": "Koji je kralj Alba Longe ostao upamćen po kopanju Kluilijeva rova oko Rima te opsjedanjem tog istog grada?",
     "answers": {
       "A": "Gaj Kluilije",
-      "B": "Marko Licinije Kras",
-      "C": "Jacques Louis David"
+      "B": "Numitor",
+      "C": "Metije Fufecije"
     },
     "image": null,
     "correct_answer": "A"
@@ -7087,9 +7087,9 @@
     "topic": "AntickiRim",
     "question": "U kojem se francuskom gradu nalazi Maison Carrée, jedan od najbolje očuvanih hramova iz doba Rimskog Carstva?",
     "answers": {
-      "A": "Trilj",
+      "A": "Arlesu",
       "B": "Nimesu",
-      "C": "Rimu"
+      "C": "Orangeu"
     },
     "image": null,
     "correct_answer": "B"
@@ -7100,8 +7100,8 @@
     "topic": "AntickiRim",
     "question": "Koji starorimski povjesničar u svom djelu 'Annales' spominje kršćane i Isusa?",
     "answers": {
-      "A": "Penati",
-      "B": "Heroda",
+      "A": "Livije",
+      "B": "Svetonije",
       "C": "Tacit"
     },
     "image": null,
@@ -7114,8 +7114,8 @@
     "question": "Rimski kućni duhovi, ključni za obiteljsku religiju, bili su Lari i koji još?",
     "answers": {
       "A": "Penati",
-      "B": "Tacit",
-      "C": "Heroda"
+      "B": "Mani",
+      "C": "Geniji"
     },
     "image": null,
     "correct_answer": "A"
@@ -7126,9 +7126,9 @@
     "topic": "AntickiRim",
     "question": "40-e godine pr. Kr. rimski senat imenuje koga za kralja Judeje?",
     "answers": {
-      "A": "Penati",
+      "A": "Arhelaja",
       "B": "Heroda",
-      "C": "Dupondij"
+      "C": "Antigona II."
     },
     "image": null,
     "correct_answer": "B"
@@ -7139,8 +7139,8 @@
     "topic": "AntickiRim",
     "question": "Koji je starorimski novac kovan od bakra a kasnije i mesinga, vrijedio 2 asa?",
     "answers": {
-      "A": "Heroda",
-      "B": "Penati",
+      "A": "Sestercij",
+      "B": "Semis",
       "C": "Dupondij"
     },
     "image": null,
@@ -7153,8 +7153,8 @@
     "question": "Koji je francuski slikar naslikao 'Zakletvu Horacija' i 'Veneru i tri gracije razoružavaju Marsa'?",
     "answers": {
       "A": "Jacques Louis David",
-      "B": "Aes Signatum",
-      "C": "Gaj Kluilije"
+      "B": "Jean-Auguste-Dominique Ingres",
+      "C": "Eugène Delacroix"
     },
     "image": null,
     "correct_answer": "A"
@@ -7165,9 +7165,9 @@
     "topic": "AntickiRim",
     "question": "Koji je galski poglavica bio vođa galskih plemena u pobuni protiv rimske vlasti na čelu s Julijem Cezarom?",
     "answers": {
-      "A": "Dupondij",
+      "A": "Ambioriks",
       "B": "Vercingetoriks",
-      "C": "Horatii"
+      "C": "Ariovist"
     },
     "image": null,
     "correct_answer": "B"
@@ -7505,8 +7505,8 @@
     "question": "Vitruvije je bio rimski pisac, arhitekt i vojni inženjer koji je živio u vrijeme kojeg rimskog cara?",
     "answers": {
       "A": "Augusta",
-      "B": "Vitruvijev čovjek",
-      "C": "Herkul"
+      "B": "Tiberija",
+      "C": "Klaudija"
     },
     "image": null,
     "correct_answer": "A"
@@ -7517,9 +7517,9 @@
     "topic": "AntickiRim",
     "question": "Nastavi redoslijed: August, Tiberije, Kaligula pa tko onda?",
     "answers": {
-      "A": "Kaligula",
+      "A": "Neron",
       "B": "Klaudije",
-      "C": "Pompej"
+      "C": "Galba"
     },
     "image": null,
     "correct_answer": "B"
@@ -7530,8 +7530,8 @@
     "topic": "AntickiRim",
     "question": "Heraklo iz grčke mitologije se zvao kako u rimskoj mitologiji?",
     "answers": {
-      "A": "Augusta",
-      "B": "Vitruvijev čovjek",
+      "A": "Mars",
+      "B": "Merkur",
       "C": "Herkul"
     },
     "image": null,
@@ -7544,8 +7544,8 @@
     "question": "Cloaca Maxima je najstariji sustav kanalizacije na svijetu nastao za rimskog kraljevstva, a nalazi se u kojem gradu?",
     "answers": {
       "A": "Rimu",
-      "B": "Nimesu",
-      "C": "Trilj"
+      "B": "Ostiji",
+      "C": "Pompejima"
     },
     "image": null,
     "correct_answer": "A"
@@ -7569,8 +7569,8 @@
     "topic": "AntickiRim",
     "question": "Hanibal je u ratnim pohodima na Rimljane koristio i koje velike sisavce?",
     "answers": {
-      "A": "Marsa",
-      "B": "Herkul",
+      "A": "Deve",
+      "B": "Konje",
       "C": "Slonove"
     },
     "image": null,
@@ -7583,8 +7583,8 @@
     "question": "Duž koje rimske ceste je bilo razapeto 6 000 pobunjenih robova na kraju Spartakova rata?",
     "answers": {
       "A": "Via Appije",
-      "B": "La Manche",
-      "C": "Aes Signatum"
+      "B": "Via Flaminije",
+      "C": "Via Aurelije"
     },
     "image": null,
     "correct_answer": "A"
@@ -7595,9 +7595,9 @@
     "topic": "AntickiRim",
     "question": "Kojeg se rimskog boga rata smatra Romulovim ocem, pa tako i praocem rimljana?",
     "answers": {
-      "A": "Julijevaca",
+      "A": "Jupitera",
       "B": "Marsa",
-      "C": "Slonove"
+      "C": "Vulkana"
     },
     "image": null,
     "correct_answer": "B"
@@ -7608,8 +7608,8 @@
     "topic": "AntickiRim",
     "question": "Askanije (drugog imena Jul) je, u rimskoj mitologiji, sin Enejin, osnivač staroitalskog grada Alba Longe te mitski praotac kojeg rimskoga roda iz kojeg potječe i Julije Cezar?",
     "answers": {
-      "A": "Marsa",
-      "B": "Ilirski",
+      "A": "Kornelijevaca",
+      "B": "Klaudijevaca",
       "C": "Julijevaca"
     },
     "image": null,
@@ -7622,8 +7622,8 @@
     "question": "Batonski rat je ujedno značio i čiji 'veliki ustanak' protiv rimljana?",
     "answers": {
       "A": "Ilirski",
-      "B": "Julijevaca",
-      "C": "Marsa"
+      "B": "Galski",
+      "C": "Dački"
     },
     "image": null,
     "correct_answer": "A"
@@ -7634,9 +7634,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zove rimska božica umjetnosti, ratova i mudrosti?",
     "answers": {
-      "A": "Populari",
+      "A": "Bellona",
       "B": "Minerva",
-      "C": "Jupiter"
+      "C": "Dijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -7647,8 +7647,8 @@
     "topic": "AntickiRim",
     "question": "Prvi trijumvirat 60.g. pr. Kr. su sklopili Julije Cezar, Marko Licinije Kras i tko još?",
     "answers": {
-      "A": "Klaudije",
-      "B": "Kaligula",
+      "A": "Marko Antonije",
+      "B": "Lepid",
       "C": "Pompej"
     },
     "image": null,
@@ -7661,8 +7661,8 @@
     "question": "Koje ime je nosio staro-rimski zlatni novac prije Solidusa?",
     "answers": {
       "A": "Aureus",
-      "B": "Solidus",
-      "C": "Pulitzerova nagrada"
+      "B": "Denar",
+      "C": "Argenteus"
     },
     "image": null,
     "correct_answer": "A"
