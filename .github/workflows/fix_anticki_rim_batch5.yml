@@ -1,0 +1,61 @@
+name: Fix AntickiRim batch 5
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch5.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Kakav upravni sustav u rimskom carstvu uvodi car Dioklecijan 293.g.?":{"A":"Principat","B":"Tetrarhiju","C":"Dominat"},
+          "Od kojeg je kemijskog elementa napravljen starorimski novac Aureus?":{"A":"Srebra","B":"Bakra","C":"Zlata"},
+          "U kojem krugu Danteova pakla se nalaze aleksandrijski astronom Ptolomej i rimski govornik Ciceron?":{"A":"Prvom","B":"Drugom","C":"Četvrtom"},
+          "Koji grad u BiH su stari rimljani poznavali kao Domavia?":{"A":"Tuzlu","B":"Srebrenicu","C":"Mostar"},
+          "Koji latinski pojam tražimo, ako znamo da ga kod nas možemo pronaći kao 'državljanstvo' a u engleskoj 'citizenship?":{"A":"Imperium","B":"Libertas","C":"Civitas"},
+          "Tko je bio posljednji rimski car iz perioda znanog kao 'doba 5 rimskih careva'?":{"A":"Marko Aurelije","B":"Antonin Pio","C":"Hadrijan"},
+          "Dioklecijan na početku svoje vladavine, za svog suvladara izabire kojeg ilira s područja današnje Srijemske Mitrovice?":{"A":"Galeriја","B":"Maksimijana","C":"Konstancija Klora"},
+          "Na koliko glavnih razdoblja dijelimo rimsko pravo?":{"A":"Tri","B":"Pet","C":"Četiri"},
+          "Iz čije palače je izrastao današnji grad Split?":{"A":"Dioklecijanove","B":"Konstantinove","C":"Hadrijanove"},
+          "Koji rimski car je spasio carstvo od daljnjeg propadanja te ga ponovno ujedinio u drugoj polovici 3.st., zbog čega su ga prozvali preporoditeljem carstva?":{"A":"Galijen","B":"Aurelijan","C":"Probo"},
+          "Rimljani su osvojene teritorije van Italije organizirali u koje upravne jedinice?":{"A":"Dijeceze","B":"Prefekture","C":"Provincije"},
+          "Krunom od koje biljke su rimski vojskovođe bili krunjeni nakon velikih vojnih trijumfa?":{"A":"Lovora","B":"Masline","C":"Hrasta"},
+          "Koji današnji grad u bugarskoj se nazivao i Philippoupolis, kad su ga rimljani zauzeli dali su mu ime Trimontium, a bio je i središte rimske provincije Trakije?":{"A":"Sofija","B":"Plovdiv","C":"Varna"},
+          "Tko je bio autor knjige 'Commentaria tripartita', koja je predstavljala jedno od prvih tumačenja znamenitog rimskog zakonika 12 ploča?":{"A":"Gaj Ateј Kapiton","B":"Kvint Mucije Scevola","C":"Sekst Elije Pet Kat"},
+          "Koji rimski car je podijelio carstvo na 12 dijeceza, u kojima je se nalazila 101 provincija?":{"A":"Dioklecijan","B":"Konstantin Veliki","C":"Aurelijan"},
+          "Rimski car Decije imao je dva sina koja su se također domogla carske titule, Hrenija i Hostilijana, a koji od njih je navodno umro od kuge?":{"A":"Herenije Etrusk","B":"Hostilijan","C":"Trebonijan Gal"},
+          "Koji filozofski pravac je zagovarao rimski car Marko Aurelije, a osnovao ga je Zenon Kitijski?":{"A":"Epikurejstvo","B":"Cinicizam","C":"Stoicizam"},
+          "Kako su rimljani nazivali stanovnike antičke Kartage?":{"A":"Puni","B":"Numiđani","C":"Feničani"},
+          "Koji njemački grad na rijeci Rajni, stari rimljani osnivaju kao Moguntiacum?":{"A":"Köln","B":"Mainz","C":"Trier"},
+          "Rodom s kojeg kontinenta je rimski car Septimije Sever?":{"A":"Europe","B":"Azije","C":"Afrike"},
+          "Kojom su troslovnom riječju stari rimljani nazivali današnje 'pravo'?":{"A":"Ius","B":"Lex","C":"Fas"},
+          "U kojem krugu Danteova pakla se nalaze Kasije i Brut, izdajnici Julija Cezara?":{"A":"Osmom","B":"Devetom","C":"Sedmom"},
+          "U starim rimskim zapisima, samo se jednog cara spominje da je umro od udara groma, kojeg?":{"A":"Numerijana","B":"Proba","C":"Kara"},
+          "Jotapijan, Pakacijan i Silbanak su bili uzurpatori u rimskom carstvu za vladavine kojeg cara?":{"A":"Filipa Arapina","B":"Decija","C":"Trebonijana Gala"},
+          "Koju su rijeku, stari rimljani poznavali kao Danubius?":{"A":"Rajnu","B":"Dunav","C":"Tibar"},
+          "Kojeg cara tražimo ako znamo da je rođen kao Avit Varije Basijan u Siriji, te postao rimskim carem sa samo 14 godina a pogubljen kad mu je bilo 18g.?":{"A":"Getu","B":"Aleksandra Severa","C":"Elegabala"},
+          "Za vrijeme kojeg rimskog cara je proslavljena tisućugodišnjica od osnutka grada Rima?":{"A":"Filipa Arapina","B":"Decija","C":"Gordijana III."},
+          "Carevi Kar i Karin su vladali kojim carstvom?":{"A":"Palmirskim","B":"Rimskim","C":"Galskim"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 5"
+          git push
