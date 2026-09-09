@@ -1,0 +1,59 @@
+name: Fix AntickiRim batch 8
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch8.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "U starom Rimu, kako se zvalo koplje koje je bilo sastavni dio naoružanog rimskog vojnika?":{"A":"Pilum","B":"Hasta","C":"Pugio"},
+          "Koji latinski naziv, preveden kao 'teški bakar', koristimo za rani rimski ljevani novac?":{"A":"Aes signatum","B":"Aes Grave","C":"Aes rude"},
+          "Koje je ime nosilo naselje Cavtat za vrijeme rimskog carstva?":{"A":"Narona","B":"Salona","C":"Epidaurum"},
+          "Kako se zvala klasa građana s najvećim političkim i društvenim pravima u starom Rimu, plemićkog podrijetla?":{"A":"Patriciji","B":"Plebejci","C":"Ekvestari"},
+          "Koji rimski car u svojim zadnjim sekundama života izgovara čuvene riječi 'Kakav umjetnik umire!'?":{"A":"Kaligula","B":"Neron","C":"Komod"},
+          "Koja riječ je u starom Rimu označavala središnji, javni prostor grada te mjesto gdje se odvijao politički, pravni, gospodarski i društveni život?":{"A":"Bazilika","B":"Kurija","C":"Forum"},
+          "Koja se rimska tvrđava prvotno zvala Hadrijanov mauzolej?":{"A":"Anđeoska tvrđava","B":"Sant'Angelo in Formis","C":"Castel Nuovo"},
+          "U rimskoj religiji, od 15 svećenika Flamena, koliko ih je bilo 'velikih'?":{"A":"Pet","B":"Tri","C":"Sedam"},
+          "Kako se zvao starorimski ratni brod sa tri reda vesala?":{"A":"Birema","B":"Kvadrirema","C":"Trirema"},
+          "U vrijeme znano kao 'godina 4 cara', Rimom su vladali Galba, Oton, Vitelije i tko još?":{"A":"Vespazijan","B":"Tit","C":"Nerva"},
+          "Hanibalovo osvajanje i uništavanje kojeg iberskog grada je označilo početak Drugog Punskog rata?":{"A":"Tarraco","B":"Sagunta","C":"Gades"},
+          "Koji bakreni novac s tankom srebrnom prevlakom uvodi Car Dioklecijan kroz svoju novčanu reformu 294.g.?":{"A":"Antoninijan","B":"Argenteus","C":"Follis"},
+          "U kojem talijanskom gradu se nalazi 30m visok Trajanov stup podignut u čast pobjede cara Trajana nad dačanima?":{"A":"Rimu","B":"Beneventu","C":"Napulju"},
+          "Koji srebrni novac kroz svoju novčanu reformu 294.g. uvodi Car Dioklecijan?":{"A":"Denar","B":"Argenteus","C":"Silikva"},
+          "Kako se u starom rimu zvao bakreni novac srednje veličine?":{"A":"Dupondij","B":"Semis","C":"As"},
+          "Na teritoriju koje današnje države se nalazilo mjesto Zama, poprište odlučujuće bitke tijekom punskih ratova?":{"A":"Tunis","B":"Alžir","C":"Libija"},
+          "U kojem gradu se nalazi Cestijeva piramida, grobnica Gaja Cestija Epulona?":{"A":"Ostiji","B":"Rimu","C":"Pompejima"},
+          "Kako se zvao drugi rimski kralj, Romulov nasljednik?":{"A":"Tul Hostilije","B":"Anko Marcije","C":"Numa Pompilije"},
+          "Hram u čast kojem rimskom bogu podiže posljednji rimski kralj Tarkvinije 2. Oholi?":{"A":"Jupiteru","B":"Marsu","C":"Saturnu"},
+          "Drevni latinski grad Alba Longa je osnovan podno Albanskih Brda nekih 400.g. prije kojeg grada osnovanog na 7 brežuljaka, svega 20km dalje?":{"A":"Tivolija","B":"Rima","C":"Veija"},
+          "Koje godine prije Krista rimski senat proglašava Julija Cezara doživotnim diktatorom?":{"A":"46.","B":"45.","C":"44."},
+          "Uz koji današnji turski grad vežemo 'Bitku kod Magnezije' iz 2.st. pr. Kr. Između rimske republike i seleukidskog carstva?":{"A":"Manisa","B":"Izmir","C":"Bursa"},
+          "Kako se zvala jedinica u rimskoj legiji koja je označavala desetinu od ukupnog broja ratnika?":{"A":"Manipul","B":"Kohorta","C":"Centurija"},
+          "Na koliko su ploča napisani prvi rimski zakoni?":{"A":"Deset","B":"Četrnaest","C":"Dvanaest"},
+          "Koji nadimak rimski car Klaudije daje svom sinu nakon što osvoji Britaniju?":{"A":"Britanik","B":"Germanik","C":"Drusus"},
+          "Kraj kojeg, danas isušenog jezera su Rimljani 496.g. pr. Kr dobili najznačajniju bitku u ratu protiv Latinskih legija?":{"A":"Albanskog","B":"Regilskog","C":"Trasimenskog"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 8"
+          git push
