@@ -1,0 +1,84 @@
+name: Fix AntickiRim batch 1
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix_anticki_rim_batch1.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+
+          path = Path('AntickiRim.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+
+          fixes = {
+            "Kojeg je spola lik prikazan na Da Vincijevu crtežu koji je nastao inspiracijom iz dijela starorimskog arhitekta Vitruvija?": {"A":"Muškog","B":"Ženskog","C":"Neodređenog"},
+            "Na kojem je poluotoku Romul osnovao Rim?": {"A":"Balkanskom","B":"Apeninskom","C":"Pirenejskom"},
+            "Koji rimski car dolazi na vlast 27.g. pr. Kr. i na vlasti ostaje idućih 40 godina?": {"A":"Tiberije","B":"Kaligula","C":"August"},
+            "Kraj kojega se antičkog naselja u današnjoj Grčkoj odvila odlučujuća bitka 31.g. pr. Kr. između Oktavijana i Marka Antonija za vlast nad Rimom?": {"A":"Akcija","B":"Nikopola","C":"Patrasa"},
+            "Bitka kod Drača iz 48.g. pr. Kr. se vodila između dva rimska velikana, Gaja Julija Cezara i koga još?": {"A":"Marka Antonija","B":"Pompeja Velikog","C":"Marka Licinija Krasa"},
+            "Smrt kojeg tračanina gladijatora je 1882.g. naslikao njemački ilustrator Hermann Vogel?": {"A":"Kriksa","B":"Gannika","C":"Spartaka"},
+            "Koji je vojskovođa i kralj Alba Longe bio pogubljen (trganjem na komade potezanjem konja) od strane rimskog kralja Tula Hostilija zbog izdaje na bojištu?": {"A":"Mecije Fufecije","B":"Gaj Kluilije","C":"Numitor"},
+            "Kako se zvala sveta granica grada Rima koju je zidovima utvrdio rimski kralj Servije Tulije?": {"A":"Limes","B":"Pomerium","C":"Agger"},
+            "Koji je starorimski povjesničar u 142 knjige opisao povijest Rima od kraljevine do početaka Rimskog Carstva?": {"A":"Tacit","B":"Svetonije","C":"Tit Livije"},
+            "Koja rijeka je spasila tek rođene Romula i Rema te ih naposlijetku odvela vučici?": {"A":"Tiber","B":"Po","C":"Arno"},
+            "U mitologiji, koji je grad, trojanski junak Eneja, osnovao u današnjoj talijanskoj pokrajini Laciji?": {"A":"Alba Longa","B":"Lavinij","C":"Ostija"},
+            "U kojoj današnjoj državi možemo pronaći ostatke rimskih gradova Pole, Salone i Narone?": {"A":"Italiji","B":"Bosni i Hercegovini","C":"Hrvatskoj"},
+            "U rimskoj mitologiji, kako se zvala djevojka koja je izdala Romulov grad otkrivajući Sabinjanima put do Kapitola, a koju su kasnije sami Sabinjani ubili?": {"A":"Tarpeja","B":"Lukrecija","C":"Hersilija"},
+            "Koju zlatnu kovanicu je rimsko carstvo počelo kovati u 4.st?": {"A":"Aureus","B":"Solidus","C":"Follis"},
+            "Koji rimski bog je glasnik bogova, te bog trgovine i putovanja?": {"A":"Apolon","B":"Mars","C":"Merkur"},
+            "Koje slovo je posljednje dodano u latiničku abecedu kakvu danas poznajemo?": {"A":"W","B":"J","C":"U"},
+            "Koji su rimski duhovi simbolizirali duše mrtvih predaka, štovani uz posebne obrede?": {"A":"Lari","B":"Mani","C":"Penati"},
+            "Za koji se otok borilo tijekom Prvog Punskog rata?": {"A":"Sardiniju","B":"Korziku","C":"Siciliju"},
+            "Koji je slavni talijanski slikar naslikao 'Rođenje Venerino' i 'Minervu i Kentaura'?": {"A":"Botticelli","B":"Rafael","C":"Tizian"},
+            "Kako se zove rimska božica lova, prirode i mjeseca?": {"A":"Minerva","B":"Dijana","C":"Venera"},
+            "Uz koje otočje su rimljani porazili kartažane i njihovu mornaricu i time okončali 1. Punski rat?": {"A":"Liparsko otočje","B":"Pontinsko otočje","C":"Egadsko otočje"},
+            "Početkom kojeg stoljeća je sagrađen Burnum, rimski vojni logor nedaleko od Knina?": {"A":"1. stoljeća","B":"2. stoljeća","C":"3. stoljeća"},
+            "U progonima kojeg rimskog cara stradavaju Isusovi apostoli Petar i Pavao?": {"A":"Domicijana","B":"Nerona","C":"Dioklecijana"},
+            "Najpoznatije književno djelo o Gaju Juliju Cezaru, dramu 'Julije Cezar', je oko 1599. napisao tko?": {"A":"Ben Jonson","B":"Christopher Marlowe","C":"William Shakespeare"},
+            "Kako se latinskim nazivom naziva crta iznad rimskog broja koja se u proširenom sustavu rimskih brojeva koristi za označavanje tisućestruke vrijednosti?": {"A":"Vinculum","B":"Titulus","C":"Virgula"},
+            "Koji je najveći broj koji se može zapisati standardnim rimskim brojevima bez da se isto slovo ponavlja više od tri puta uzastopno?": {"A":"3888","B":"3999","C":"3998"},
+            "Koji je najveći broj koji se može zapisati rimskim brojevima ako se svako rimsko slovo smije upotrijebiti samo jednom?": {"A":"1665","B":"1667","C":"1666"},
+            "Kojeg rimskog cara povezujemo s monumentalnom kadom isklesanom iz jednog komada crvenog carskog porfira koja je nekoć krasila Domus Aureu?": {"A":"Nerona","B":"Hadrijana","C":"Domicijana"},
+            "Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?": {"A":"Kermesni grimiz","B":"Tirski purpur","C":"Indigo"},
+            "Kako se nazivala odaja u Velikoj carskoj palači u Konstantinopolu u kojoj su se rađali legitimni bizantski carevi, po čemu je nastao izraz 'porfirogenit'?": {"A":"Chrysotriklinos","B":"Daphne","C":"Porfira"}
+          }
+
+          changed = 0
+          missing = []
+          for item in data:
+            q = item.get('question')
+            if q in fixes:
+              item['answers'] = fixes[q]
+              changed += 1
+
+          for q in fixes:
+            if not any(item.get('question') == q for item in data):
+              missing.append(q)
+
+          if missing:
+            raise SystemExit(f'Missing questions: {missing}')
+          if changed != len(fixes):
+            raise SystemExit(f'Expected {len(fixes)} changes, got {changed}')
+
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print(f'Updated {changed} questions')
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 1"
+          git push
