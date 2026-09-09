@@ -904,8 +904,8 @@
     "question": "Tko je od 260.g. bio prvi car Galskog carstva, tj. pobunjenih provincija Britanije, Galije i Hispanije?",
     "answers": {
       "A": "Postum",
-      "B": "Makrin",
-      "C": "Antonin Pio"
+      "B": "Tetrik I.",
+      "C": "Viktorin"
     },
     "image": null,
     "correct_answer": "A"
@@ -916,9 +916,9 @@
     "topic": "AntickiRim",
     "question": "U drugom krugu Danteova pakla tj. požudi, se nalazi i koja ljubavnica Julija Cezara i Marka Antonija?",
     "answers": {
-      "A": "Zlata",
+      "A": "Servilija",
       "B": "Kleopatra",
-      "C": "Rimu"
+      "C": "Fulvija"
     },
     "image": null,
     "correct_answer": "B"
@@ -929,8 +929,8 @@
     "topic": "AntickiRim",
     "question": "Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?",
     "answers": {
-      "A": "Kleopatra",
-      "B": "Rimu",
+      "A": "Srebra",
+      "B": "Br 🥇once",
       "C": "Zlata"
     },
     "image": null,
@@ -943,8 +943,8 @@
     "question": "Kaptol je u Zagrebu, Kapitol u Washingtonu a Kapitolij u kojeg gradu?",
     "answers": {
       "A": "Rimu",
-      "B": "Zlata",
-      "C": "Kleopatra"
+      "B": "Ateni",
+      "C": "Carigradu"
     },
     "image": null,
     "correct_answer": "A"
@@ -955,9 +955,9 @@
     "topic": "AntickiRim",
     "question": "Koji veliki kršćanski svetac iz Španjolske biva mučenički ubijen u progonu kršćana pod rimskim carem Valerijanom?",
     "answers": {
-      "A": "Maksimin Tračanin",
+      "A": "Sv. Ciprijan",
       "B": "Sv. Lovro",
-      "C": "Circus Maximus"
+      "C": "Sv. Sebastijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -968,8 +968,8 @@
     "topic": "AntickiRim",
     "question": "Tko ubija Karakalu, te dolazi na njegovo mjesto rimskog cara, na kojem ipak, ne ostaje zadugo jer su i njega pogubili?",
     "answers": {
-      "A": "Postum",
-      "B": "Antonin Pio",
+      "A": "Geta",
+      "B": "Elegabal",
       "C": "Makrin"
     },
     "image": null,
@@ -982,8 +982,8 @@
     "question": "U Danteovoj 'Božanskoj Komediji', u kojem krugu pakla se nalazi Gaj Julije Cezar?",
     "answers": {
       "A": "Prvom",
-      "B": "Rimu",
-      "C": "Zlata"
+      "B": "Drugom",
+      "C": "Trećem"
     },
     "image": null,
     "correct_answer": "A"
@@ -994,9 +994,9 @@
     "topic": "AntickiRim",
     "question": "Ako ćemo vjerovati Herodijanovoj 'Carskoj Povijesti' onda je koji rimski car bio daleko najviši od svih, sa čak 2,4m visine?",
     "answers": {
-      "A": "Circus Maximus",
+      "A": "Komod",
       "B": "Maksimin Tračanin",
-      "C": "Aleksandar Sever"
+      "C": "Septimije Sever"
     },
     "image": null,
     "correct_answer": "B"
@@ -1007,8 +1007,8 @@
     "topic": "AntickiRim",
     "question": "Kada kažemo 'Cirkus', danas odmah pomislimo na klaune, dresirane životinje i vratolomije, ali u starom Rimu, 'Circus' je značio mnoge javne igre i utrke dvokolica, najveća građevina za to se nalazila u Rimu i mogla je primiti preko 150 tisuća gledatelja, a kako se ta građevina zove?",
     "answers": {
-      "A": "Maksimin Tračanin",
-      "B": "Aleksandar Sever",
+      "A": "Kolosej",
+      "B": "Stadion Domicijana",
       "C": "Circus Maximus"
     },
     "image": null,
@@ -1021,8 +1021,8 @@
     "question": "Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?",
     "answers": {
       "A": "Aleksandar Sever",
-      "B": "Circus Maximus",
-      "C": "Maksimin Tračanin"
+      "B": "Maksimin Tračanin",
+      "C": "Gordijan I."
     },
     "image": null,
     "correct_answer": "A"
@@ -1033,9 +1033,9 @@
     "topic": "AntickiRim",
     "question": "U kojem stoljeću, na mjesto rimskog cara stižu čak tri Gordijana, prvi, drugi i treći?",
     "answers": {
-      "A": "2 .",
+      "A": "2.",
       "B": "3.",
-      "C": "4 ."
+      "C": "4."
     },
     "image": null,
     "correct_answer": "B"
@@ -1046,8 +1046,8 @@
     "topic": "AntickiRim",
     "question": "Koji se rimljanin spominje u apostolskom vjerovanju?",
     "answers": {
-      "A": "Aleksandar Sever",
-      "B": "Circus Maximus",
+      "A": "Herod Antipa",
+      "B": "Kornelije",
       "C": "Poncije Pilat"
     },
     "image": null,
@@ -1060,8 +1060,8 @@
     "question": "Koji rimski car godine 258. donosi okrutan edikt s ciljem progona kršćana te naređuje da se biskupi, svećenici i đakoni odmah ubiju?",
     "answers": {
       "A": "Valerijan",
-      "B": "Trijumf",
-      "C": "Galijen"
+      "B": "Decije",
+      "C": "Dioklecijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1072,9 +1072,9 @@
     "topic": "AntickiRim",
     "question": "Kojim pojmom, koji i danas znači 'velik uspjeh' se bilježio svečani ulazak vojskovođe u Rim, nakon velike pobjede?",
     "answers": {
-      "A": "Valerijan",
+      "A": "Ovacija",
       "B": "Trijumf",
-      "C": "Galijen"
+      "C": "Apoteoza"
     },
     "image": null,
     "correct_answer": "B"
@@ -1085,8 +1085,8 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car nastavlja vladati Rimom još 8 godina, nakon što njegova oca Valerijana odvode u zatočeništvo?",
     "answers": {
-      "A": "Trijumf",
-      "B": "Valerijan",
+      "A": "Klaudije II.",
+      "B": "Aurelijan",
       "C": "Galijen"
     },
     "image": null,
@@ -1100,8 +1100,8 @@
     "question": "Kojeg velikog rimskog pravnika ubija car Karakala jer mu nije htio opravdati ubojstvo brata i suvladara Gete?",
     "answers": {
       "A": "Emilije Papinijan",
-      "B": "Poncije Pilat",
-      "C": "Aleksandar Sever"
+      "B": "Ulpijan",
+      "C": "Julije Paulo"
     },
     "image": null,
     "correct_answer": "A"
@@ -1112,9 +1112,9 @@
     "topic": "AntickiRim",
     "question": "Kakav oblik vladavine, tj. suradnju cara sa senatom, uvodi prvi rimski car August?",
     "answers": {
-      "A": "Valerijana",
+      "A": "Dominat",
       "B": "Principat",
-      "C": "Galijen"
+      "C": "Tetrarhija"
     },
     "image": null,
     "correct_answer": "B"
@@ -1125,8 +1125,8 @@
     "topic": "AntickiRim",
     "question": "Papa Siksto II., sv. Ciprijan Kartaški i sv. Lovro stradaju u progonima kojeg rimskog cara?",
     "answers": {
-      "A": "Principat",
-      "B": "Galsko",
+      "A": "Decija",
+      "B": "Dioklecijana",
       "C": "Valerijana"
     },
     "image": null,
@@ -1139,8 +1139,8 @@
     "question": "Koje 'pobunjeno' carstvo se od 260.g. do 273.g. pojavljuje unutar rimskog te obuhvaća provincije Galiju, Britaniju i Hispaniju, gdje 13 godina uživa nezavisnost od središnje rimske vlasti?",
     "answers": {
       "A": "Galsko",
-      "B": "Valerijana",
-      "C": "Beograd"
+      "B": "Palmirsko",
+      "C": "Britansko"
     },
     "image": null,
     "correct_answer": "A"
@@ -1151,9 +1151,9 @@
     "topic": "AntickiRim",
     "question": "Stari rimski grad Singidunum na području Srbije, se razvio u koji moderan grad današnjice?",
     "answers": {
-      "A": "Galsko",
+      "A": "Niš",
       "B": "Beograd",
-      "C": "Valentin"
+      "C": "Smederevo"
     },
     "image": null,
     "correct_answer": "B"
@@ -1164,8 +1164,8 @@
     "topic": "AntickiRim",
     "question": "Koji svetac i zaštitnik zaljubljenih biva pogubljen za vrijeme rimskog cara Klaudija II. Gotskog?",
     "answers": {
-      "A": "Beograd",
-      "B": "Dioklecijan",
+      "A": "Sebastijan",
+      "B": "Lovro",
       "C": "Valentin"
     },
     "image": null,
@@ -1178,8 +1178,8 @@
     "question": "Koji je rimski car uz Maksimijana jedini u povijesti carstva abdicirao, tj. odrekao se titule cara za svog života?",
     "answers": {
       "A": "Dioklecijan",
-      "B": "Valentin",
-      "C": "Valerijan"
+      "B": "Konstantin I.",
+      "C": "Galeriје"
     },
     "image": null,
     "correct_answer": "A"
@@ -1190,9 +1190,9 @@
     "topic": "AntickiRim",
     "question": "On svojem sinu Galijenu na upravljanje daje zapadni dio carstva dok se on posvećuje istočnom. Tu prvi put vidimo, iako ne službeno, podjelu carstva na zapadno i istočno, a o kojem se rimskom caru radi?",
     "answers": {
-      "A": "Dioklecijan",
+      "A": "Decije",
       "B": "Valerijan",
-      "C": "Valentin"
+      "C": "Klaudije II."
     },
     "image": null,
     "correct_answer": "B"
@@ -1203,8 +1203,8 @@
     "topic": "AntickiRim",
     "question": "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?",
     "answers": {
-      "A": "Geta",
-      "B": "Septimije Sever",
+      "A": "Elegabal",
+      "B": "Dioklecijan",
       "C": "Aurelijan"
     },
     "image": null,
@@ -1217,8 +1217,8 @@
     "question": "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?",
     "answers": {
       "A": "Geta",
-      "B": "Aurelijan",
-      "C": "Septimije Sever"
+      "B": "Makrin",
+      "C": "Elegabal"
     },
     "image": null,
     "correct_answer": "A"
@@ -1229,9 +1229,9 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car je vjerovao u moći svog boga El-Gabala?",
     "answers": {
-      "A": "Pet",
+      "A": "Aleksandar Sever",
       "B": "Elegabal",
-      "C": "Dijadumenijan"
+      "C": "Karakala"
     },
     "image": null,
     "correct_answer": "B"
@@ -1242,8 +1242,8 @@
     "topic": "AntickiRim",
     "question": "Godina u kojoj je Septimije Sever postao rimski car ostala je upamćena i kao godina sa koliko careva?",
     "answers": {
-      "A": "Elegabal",
-      "B": "Dijadumenijan",
+      "A": "Četiri",
+      "B": "Šest",
       "C": "Pet"
     },
     "image": null,
