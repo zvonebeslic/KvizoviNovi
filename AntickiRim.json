@@ -2701,8 +2701,8 @@
     "question": "U starom Rimu, kako se zvalo koplje koje je bilo sastavni dio naoružanog rimskog vojnika?",
     "answers": {
       "A": "Pilum",
-      "B": "Corvus",
-      "C": "Sirakuza"
+      "B": "Hasta",
+      "C": "Pugio"
     },
     "image": null,
     "correct_answer": "A"
@@ -2713,9 +2713,9 @@
     "topic": "AntickiRim",
     "question": "Koji latinski naziv, preveden kao 'teški bakar', koristimo za rani rimski ljevani novac?",
     "answers": {
-      "A": "Julija Cezara",
+      "A": "Aes signatum",
       "B": "Aes Grave",
-      "C": "Antonin Pio"
+      "C": "Aes rude"
     },
     "image": null,
     "correct_answer": "B"
@@ -2726,8 +2726,8 @@
     "topic": "AntickiRim",
     "question": "Koje je ime nosilo naselje Cavtat za vrijeme rimskog carstva?",
     "answers": {
-      "A": "Patriciji",
-      "B": "Pilum",
+      "A": "Narona",
+      "B": "Salona",
       "C": "Epidaurum"
     },
     "image": null,
@@ -2740,8 +2740,8 @@
     "question": "Kako se zvala klasa građana s najvećim političkim i društvenim pravima u starom Rimu, plemićkog podrijetla?",
     "answers": {
       "A": "Patriciji",
-      "B": "Epidaurum",
-      "C": "Neron"
+      "B": "Plebejci",
+      "C": "Ekvestari"
     },
     "image": null,
     "correct_answer": "A"
@@ -2752,9 +2752,9 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car u svojim zadnjim sekundama života izgovara čuvene riječi 'Kakav umjetnik umire!'?",
     "answers": {
-      "A": "Patriciji",
+      "A": "Kaligula",
       "B": "Neron",
-      "C": "Epidaurum"
+      "C": "Komod"
     },
     "image": null,
     "correct_answer": "B"
@@ -2765,8 +2765,8 @@
     "topic": "AntickiRim",
     "question": "Koja riječ je u starom Rimu označavala središnji, javni prostor grada te mjesto gdje se odvijao politički, pravni, gospodarski i društveni život?",
     "answers": {
-      "A": "Mediteransko",
-      "B": "Wight",
+      "A": "Bazilika",
+      "B": "Kurija",
       "C": "Forum"
     },
     "image": null,
@@ -2778,9 +2778,9 @@
     "topic": "AntickiRim",
     "question": "Koja se rimska tvrđava prvotno zvala Hadrijanov mauzolej?",
     "answers": {
-      "A": "Anđeoska",
-      "B": "Tri",
-      "C": "Neron"
+      "A": "Anđeoska tvrđava",
+      "B": "Sant'Angelo in Formis",
+      "C": "Castel Nuovo"
     },
     "image": null,
     "correct_answer": "A"
@@ -2791,9 +2791,9 @@
     "topic": "AntickiRim",
     "question": "U rimskoj religiji, od 15 svećenika Flamena, koliko ih je bilo 'velikih'?",
     "answers": {
-      "A": "Anđeoska",
+      "A": "Pet",
       "B": "Tri",
-      "C": "Trirema"
+      "C": "Sedam"
     },
     "image": null,
     "correct_answer": "B"
@@ -2804,8 +2804,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvao starorimski ratni brod sa tri reda vesala?",
     "answers": {
-      "A": "Tri",
-      "B": "Anđeoska",
+      "A": "Birema",
+      "B": "Kvadrirema",
       "C": "Trirema"
     },
     "image": null,
@@ -2818,8 +2818,8 @@
     "question": "U vrijeme znano kao 'godina 4 cara', Rimom su vladali Galba, Oton, Vitelije i tko još?",
     "answers": {
       "A": "Vespazijan",
-      "B": "Kirk Douglas",
-      "C": "Romul"
+      "B": "Tit",
+      "C": "Nerva"
     },
     "image": null,
     "correct_answer": "A"
@@ -2830,9 +2830,9 @@
     "topic": "AntickiRim",
     "question": "Hanibalovo osvajanje i uništavanje kojeg iberskog grada je označilo početak Drugog Punskog rata?",
     "answers": {
-      "A": "Follis",
+      "A": "Tarraco",
       "B": "Sagunta",
-      "C": "Trirema"
+      "C": "Gades"
     },
     "image": null,
     "correct_answer": "B"
@@ -2843,7 +2843,7 @@
     "topic": "AntickiRim",
     "question": "Koji bakreni novac s tankom srebrnom prevlakom uvodi Car Dioklecijan kroz svoju novčanu reformu 294.g.?",
     "answers": {
-      "A": "Sagunta",
+      "A": "Antoninijan",
       "B": "Argenteus",
       "C": "Follis"
     },
@@ -2857,8 +2857,8 @@
     "question": "U kojem talijanskom gradu se nalazi 30m visok Trajanov stup podignut u čast pobjede cara Trajana nad dačanima?",
     "answers": {
       "A": "Rimu",
-      "B": "Rima",
-      "C": "Aleksandrija"
+      "B": "Beneventu",
+      "C": "Napulju"
     },
     "image": null,
     "correct_answer": "A"
@@ -2869,9 +2869,9 @@
     "topic": "AntickiRim",
     "question": "Koji srebrni novac kroz svoju novčanu reformu 294.g. uvodi Car Dioklecijan?",
     "answers": {
-      "A": "As",
+      "A": "Denar",
       "B": "Argenteus",
-      "C": "Follis"
+      "C": "Silikva"
     },
     "image": null,
     "correct_answer": "B"
@@ -2882,8 +2882,8 @@
     "topic": "AntickiRim",
     "question": "Kako se u starom rimu zvao bakreni novac srednje veličine?",
     "answers": {
-      "A": "Argenteus",
-      "B": "Tunis",
+      "A": "Dupondij",
+      "B": "Semis",
       "C": "As"
     },
     "image": null,
@@ -2896,8 +2896,8 @@
     "question": "Na teritoriju koje današnje države se nalazilo mjesto Zama, poprište odlučujuće bitke tijekom punskih ratova?",
     "answers": {
       "A": "Tunis",
-      "B": "As",
-      "C": "Argenteus"
+      "B": "Alžir",
+      "C": "Libija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2908,9 +2908,9 @@
     "topic": "AntickiRim",
     "question": "U kojem gradu se nalazi Cestijeva piramida, grobnica Gaja Cestija Epulona?",
     "answers": {
-      "A": "Rima",
+      "A": "Ostiji",
       "B": "Rimu",
-      "C": "Aleksandrija"
+      "C": "Pompejima"
     },
     "image": null,
     "correct_answer": "B"
@@ -2921,8 +2921,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvao drugi rimski kralj, Romulov nasljednik?",
     "answers": {
-      "A": "Aes Grave",
-      "B": "Julija Cezara",
+      "A": "Tul Hostilije",
+      "B": "Anko Marcije",
       "C": "Numa Pompilije"
     },
     "image": null,
@@ -2936,8 +2936,8 @@
     "question": "Hram u čast kojem rimskom bogu podiže posljednji rimski kralj Tarkvinije 2. Oholi?",
     "answers": {
       "A": "Jupiteru",
-      "B": "Tunis",
-      "C": "Manisa"
+      "B": "Marsu",
+      "C": "Saturnu"
     },
     "image": null,
     "correct_answer": "A"
@@ -2948,9 +2948,9 @@
     "topic": "AntickiRim",
     "question": "Drevni latinski grad Alba Longa je osnovan podno Albanskih Brda nekih 400.g. prije kojeg grada osnovanog na 7 brežuljaka, svega 20km dalje?",
     "answers": {
-      "A": "Rimu",
+      "A": "Tivolija",
       "B": "Rima",
-      "C": "Aleksandrija"
+      "C": "Veija"
     },
     "image": null,
     "correct_answer": "B"
@@ -2961,8 +2961,8 @@
     "topic": "AntickiRim",
     "question": "Koje godine prije Krista rimski senat proglašava Julija Cezara doživotnim diktatorom?",
     "answers": {
-      "A": "39 .",
-      "B": "49 .",
+      "A": "46.",
+      "B": "45.",
       "C": "44."
     },
     "image": null,
@@ -2975,8 +2975,8 @@
     "question": "Uz koji današnji turski grad vežemo 'Bitku kod Magnezije' iz 2.st. pr. Kr. Između rimske republike i seleukidskog carstva?",
     "answers": {
       "A": "Manisa",
-      "B": "Kohorta",
-      "C": "Jupiteru"
+      "B": "Izmir",
+      "C": "Bursa"
     },
     "image": null,
     "correct_answer": "A"
@@ -2987,9 +2987,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zvala jedinica u rimskoj legiji koja je označavala desetinu od ukupnog broja ratnika?",
     "answers": {
-      "A": "Manisa",
+      "A": "Manipul",
       "B": "Kohorta",
-      "C": "Britanik"
+      "C": "Centurija"
     },
     "image": null,
     "correct_answer": "B"
@@ -3000,9 +3000,9 @@
     "topic": "AntickiRim",
     "question": "Na koliko su ploča napisani prvi rimski zakoni?",
     "answers": {
-      "A": "7",
-      "B": "17",
-      "C": "12"
+      "A": "Deset",
+      "B": "Četrnaest",
+      "C": "Dvanaest"
     },
     "image": null,
     "correct_answer": "C"
@@ -3014,8 +3014,8 @@
     "question": "Koji nadimak rimski car Klaudije daje svom sinu nakon što osvoji Britaniju?",
     "answers": {
       "A": "Britanik",
-      "B": "Regilskog",
-      "C": "Kohorta"
+      "B": "Germanik",
+      "C": "Drusus"
     },
     "image": null,
     "correct_answer": "A"
@@ -3026,9 +3026,9 @@
     "topic": "AntickiRim",
     "question": "Kraj kojeg, danas isušenog jezera su Rimljani 496.g. pr. Kr dobili najznačajniju bitku u ratu protiv Latinskih legija?",
     "answers": {
-      "A": "Britanik",
+      "A": "Albanskog",
       "B": "Regilskog",
-      "C": "Republiku"
+      "C": "Trasimenskog"
     },
     "image": null,
     "correct_answer": "B"
