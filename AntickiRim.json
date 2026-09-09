@@ -5787,8 +5787,8 @@
     "question": "Ime kojeg rimskog cara se krije u anagramu riječi 'vrane'?",
     "answers": {
       "A": "Nerva",
-      "B": "Neron",
-      "C": "Ver"
+      "B": "Verna",
+      "C": "Arven"
     },
     "image": null,
     "correct_answer": "A"
@@ -7062,7 +7062,7 @@
     "question": "Koje rimsko božanstvo se smatra i 'majkom zemljom', nastalo iz Kaosa?",
     "answers": {
       "A": "Ceres",
-      "B": "Tellus Mater",
+      "B": "Ops",
       "C": "Terra"
     },
     "image": null,
