@@ -4811,8 +4811,8 @@
     "question": "Koji grad 1870.g. pada pod vlast kralja Viktora Emanuela II.?",
     "answers": {
       "A": "Rim",
-      "B": "Coimbra",
-      "C": "Rimu"
+      "B": "Venecija",
+      "C": "Firenca"
     },
     "image": null,
     "correct_answer": "A"
@@ -4823,9 +4823,9 @@
     "topic": "AntickiRim",
     "question": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
     "answers": {
-      "A": "Longin",
+      "A": "Mramornu",
       "B": "Zlatnu",
-      "C": "Engleskoj"
+      "C": "Carsku"
     },
     "image": null,
     "correct_answer": "B"
@@ -4836,8 +4836,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
     "answers": {
-      "A": "Zlatnu",
-      "B": "Engracija",
+      "A": "Kasije",
+      "B": "Kornelije",
       "C": "Longin"
     },
     "image": null,
@@ -4850,8 +4850,8 @@
     "question": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
     "answers": {
       "A": "Engracija",
-      "B": "Longin",
-      "C": "Zlatnu"
+      "B": "Eulalija",
+      "C": "Leokadija"
     },
     "image": null,
     "correct_answer": "A"
@@ -4875,8 +4875,8 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?",
     "answers": {
-      "A": "Engracija",
-      "B": "Karakala",
+      "A": "Hadrijan",
+      "B": "Domicijan",
       "C": "Trajan"
     },
     "image": null,
@@ -4889,8 +4889,8 @@
     "question": "Koji car iz razdoblja pet dobrih careva nasljeđuje Trajana?",
     "answers": {
       "A": "Hadrijan",
-      "B": "Poncije Pilat",
-      "C": "Gladijatori"
+      "B": "Antonin Pio",
+      "C": "Nerva"
     },
     "image": null,
     "correct_answer": "A"
@@ -4901,7 +4901,7 @@
     "topic": "AntickiRim",
     "question": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
     "answers": {
-      "A": "Jupiter",
+      "A": "Dioklecijan",
       "B": "Karakala",
       "C": "Trajan"
     },
@@ -4914,8 +4914,8 @@
     "topic": "AntickiRim",
     "question": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
     "answers": {
-      "A": "Karakala",
-      "B": "Latona",
+      "A": "Mars",
+      "B": "Saturn",
       "C": "Jupiter"
     },
     "image": null,
@@ -4940,9 +4940,9 @@
     "topic": "AntickiRim",
     "question": "Koja božica je bogu Jupiteru rodila boga Apolona?",
     "answers": {
-      "A": "Jupiter",
+      "A": "Junona",
       "B": "Latona",
-      "C": "Haran"
+      "C": "Dijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -4953,8 +4953,8 @@
     "topic": "AntickiRim",
     "question": "Kojom frazom je Julije Cezar obavijestio rimski senat o munjevitoj pobjedi svoje vojske nad pontskim kraljem Farnakom II.?",
     "answers": {
-      "A": "Anku Marciju",
-      "B": "Srijemska Mitrovica",
+      "A": "Alea iacta est",
+      "B": "Et tu, Brute?",
       "C": "Veni Vidi Vici"
     },
     "image": null,
