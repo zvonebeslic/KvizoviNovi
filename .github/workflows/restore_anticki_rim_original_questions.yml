@@ -1,0 +1,35 @@
+name: Restore AntickiRim original questions
+on:
+  push:
+    paths: ['.github/workflows/restore_anticki_rim_original_questions.yml']
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          repl={
+            "Vijencem od koje biljke su u rimskoj tradiciji bili krunjeni pjesnici, vojskovođe i carevi kao znakom časti i pobjede?":"Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?",
+            "Nakon što je car Valerijan zarobljen od Perzijanaca, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao Crkvi legalan status koji je trajao do početka 4. stoljeća?":"Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?"
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in repl:
+              x['question']=repl[q]
+              n+=1
+          if n!=2: raise SystemExit(f'Restored {n}/2')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Restore original AntickiRim question text"
+          git push
