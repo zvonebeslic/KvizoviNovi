@@ -2349,8 +2349,8 @@
     "question": "Tko se predaje i baca oružje pred Gaja Julija Cezara na slavnoj slici Lionela Royera iz 1899.?",
     "answers": {
       "A": "Vercingetorix",
-      "B": "Romul",
-      "C": "Lucije Junije Brut"
+      "B": "Ariovist",
+      "C": "Ambioriks"
     },
     "image": null,
     "correct_answer": "A"
@@ -2362,9 +2362,9 @@
     "topic": "AntickiRim",
     "question": "Tko je prema rimskoj mitologiji bio osnivač i prvi kralj Rima?",
     "answers": {
-      "A": "Vercingetorix",
+      "A": "Rem",
       "B": "Romul",
-      "C": "Lucije Junije Brut"
+      "C": "Numa Pompilije"
     },
     "image": null,
     "correct_answer": "B"
@@ -2375,8 +2375,8 @@
     "topic": "AntickiRim",
     "question": "U kojoj je kulturno umjetničkoj ustanovi navodno ubijen Julije Cezar?",
     "answers": {
-      "A": "Decemviri",
-      "B": "Numitor",
+      "A": "Amfiteatru",
+      "B": "Odeonu",
       "C": "Kazalištu"
     },
     "image": null,
@@ -2389,8 +2389,8 @@
     "question": "Kojim latinskim izrazom nazivom deseteročlanu komisiju ili kolegij magistrata u Rimskoj Republici?",
     "answers": {
       "A": "Decemviri",
-      "B": "Kazalištu",
-      "C": "Numitor"
+      "B": "Triumviri",
+      "C": "Cenzori"
     },
     "image": null,
     "correct_answer": "A"
@@ -2401,9 +2401,9 @@
     "topic": "AntickiRim",
     "question": "Koji je legendarni i jedan od posljednjih latinskih kraljeva Alba Longe, ujedno i djed osnivača Rima, Romula?",
     "answers": {
-      "A": "Decemviri",
+      "A": "Amulije",
       "B": "Numitor",
-      "C": "Vitruvije"
+      "C": "Latinus"
     },
     "image": null,
     "correct_answer": "B"
@@ -2414,8 +2414,8 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski pisac i arhitekt napisao djelo '10 knjiga o arhitekturi'?",
     "answers": {
-      "A": "Numitor",
-      "B": "Libertin",
+      "A": "Plinije Stariji",
+      "B": "Frontin",
       "C": "Vitruvije"
     },
     "image": null,
@@ -2428,8 +2428,8 @@
     "question": "Koji latinski naziv se koristio za roba u starom Rimu koji je bio oslobođen?",
     "answers": {
       "A": "Libertin",
-      "B": "Vitruvije",
-      "C": "Numitor"
+      "B": "Peregrin",
+      "C": "Kolon"
     },
     "image": null,
     "correct_answer": "A"
@@ -2440,9 +2440,9 @@
     "topic": "AntickiRim",
     "question": "U kojem su talijanskom gradu održane posljednje gladijatorske igre?",
     "answers": {
-      "A": "Rima",
+      "A": "Ravenni",
       "B": "Rimu",
-      "C": "Srebrenica"
+      "C": "Milanu"
     },
     "image": null,
     "correct_answer": "B"
@@ -2453,8 +2453,8 @@
     "topic": "AntickiRim",
     "question": "Na koji se otok sa svojom vojskom iskrcao Julije Cezar 55. i 54.g. pr. Kr.?",
     "answers": {
-      "A": "Antonin Pio",
-      "B": "Julija Cezara",
+      "A": "Siciliju",
+      "B": "Sardiniju",
       "C": "Veliku Britaniju"
     },
     "image": null,
@@ -2467,8 +2467,8 @@
     "question": "Koji se bog u rimskoj i grčkoj mitologiji naziva isto?",
     "answers": {
       "A": "Apolon",
-      "B": "Kvinar",
-      "C": "Libertin"
+      "B": "Merkur",
+      "C": "Neptun"
     },
     "image": null,
     "correct_answer": "A"
@@ -2479,9 +2479,9 @@
     "topic": "AntickiRim",
     "question": "Koje ime su dijelili vođe plemena Dezidijata i Breuka za ilirskog ustanka protiv Rima?",
     "answers": {
-      "A": "Spartak",
+      "A": "Pines",
       "B": "Baton",
-      "C": "Sestercij"
+      "C": "Teuta"
     },
     "image": null,
     "correct_answer": "B"
@@ -2492,8 +2492,8 @@
     "topic": "AntickiRim",
     "question": "Koja je staro-rimska kovanica iznosila pola od vrijednosti jednog denara?",
     "answers": {
-      "A": "Apolon",
-      "B": "Bogud",
+      "A": "Sestercij",
+      "B": "As",
       "C": "Kvinar"
     },
     "image": null,
@@ -2506,8 +2506,8 @@
     "question": "Koji rimski car je bio 4. iz razdoblja 'Pet dobrih careva'?",
     "answers": {
       "A": "Antonin Pio",
-      "B": "Veliku Britaniju",
-      "C": "Julija Cezara"
+      "B": "Hadrijan",
+      "C": "Marko Aurelije"
     },
     "image": null,
     "correct_answer": "A"
@@ -2518,9 +2518,9 @@
     "topic": "AntickiRim",
     "question": "Koji mauritanski kralj je pomogao Juliju Cezaru u bitci kod Munde?",
     "answers": {
-      "A": "Cezarion",
+      "A": "Bokh II.",
       "B": "Bogud",
-      "C": "Kvinar"
+      "C": "Juba I."
     },
     "image": null,
     "correct_answer": "B"
@@ -2531,8 +2531,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvao sin Gaja Julija Cezara kojeg je imao sa posljednjom kraljicom drevnog Egipta, Kleopatrom?",
     "answers": {
-      "A": "Bogud",
-      "B": "Rubikon",
+      "A": "Ptolemej XIII.",
+      "B": "Aleksandar Helios",
       "C": "Cezarion"
     },
     "image": null,
@@ -2545,8 +2545,8 @@
     "question": "Na slici Jacoba Abbota iz 1849., Gaj Julije Cezar sa svojom vojskom prelazi koju rijeku?",
     "answers": {
       "A": "Rubikon",
-      "B": "Cezarion",
-      "C": "Pariz"
+      "B": "Tibar",
+      "C": "Po"
     },
     "image": null,
     "correct_answer": "A"
@@ -2557,9 +2557,9 @@
     "topic": "AntickiRim",
     "question": "Koji je francuski grad za vrijeme rimskog carstva nosio ime Lutecija?",
     "answers": {
-      "A": "Rubikon",
+      "A": "Lyon",
       "B": "Pariz",
-      "C": "Cezarion"
+      "C": "Marseille"
     },
     "image": null,
     "correct_answer": "B"
@@ -2570,9 +2570,9 @@
     "topic": "AntickiRim",
     "question": "Koliko je planeta sunčeva sustava dobilo ime po rimskim božanstvima?",
     "answers": {
-      "A": "5",
-      "B": "7",
-      "C": "6"
+      "A": "Pet",
+      "B": "Sedam",
+      "C": "Šest"
     },
     "image": null,
     "correct_answer": "C"
@@ -2584,8 +2584,8 @@
     "question": "Tko je utjelovio Spartaka u Kubrickovu filmu 'Spartak' iz 1960.?",
     "answers": {
       "A": "Kirk Douglas",
-      "B": "Romul",
-      "C": "Vercingetorix"
+      "B": "Charlton Heston",
+      "C": "Richard Burton"
     },
     "image": null,
     "correct_answer": "A"
@@ -2596,9 +2596,9 @@
     "topic": "AntickiRim",
     "question": "Koji hrvatski grad se nalazi na području nekadašnjeg rimskog naselja Cibalae?",
     "answers": {
-      "A": "Ciceron",
+      "A": "Sisak",
       "B": "Vinkovci",
-      "C": "Pariz"
+      "C": "Osijek"
     },
     "image": null,
     "correct_answer": "B"
@@ -2609,8 +2609,8 @@
     "topic": "AntickiRim",
     "question": "Koji se rimski filozof i jedan od najvećih rimskih govornika rodio 106.g. pr. Kr.?",
     "answers": {
-      "A": "Vinkovci",
-      "B": "Augusta",
+      "A": "Seneka",
+      "B": "Kvintilijan",
       "C": "Ciceron"
     },
     "image": null,
@@ -2623,8 +2623,8 @@
     "question": "Pranećak kojeg slavnog rimskog vojskovođe je bio 1. rimski car August?",
     "answers": {
       "A": "Julija Cezara",
-      "B": "Aes Grave",
-      "C": "Antonin Pio"
+      "B": "Marka Antonija",
+      "C": "Gneja Pompeja"
     },
     "image": null,
     "correct_answer": "A"
@@ -2635,9 +2635,9 @@
     "topic": "AntickiRim",
     "question": "Za vrijeme vladavine kojeg rimskog cara je rođen Isus Krist?",
     "answers": {
-      "A": "Kapitol",
+      "A": "Tiberija",
       "B": "Augusta",
-      "C": "Ciceron"
+      "C": "Klaudija"
     },
     "image": null,
     "correct_answer": "B"
@@ -2648,8 +2648,8 @@
     "topic": "AntickiRim",
     "question": "7 rimskih brežuljaka su: Palatin, Aventin, Celij, Viminal, Kvirinal, Eskvilin i koji još?",
     "answers": {
-      "A": "Augusta",
-      "B": "Antioh 3. Veliki",
+      "A": "Janiculum",
+      "B": "Pincij",
       "C": "Kapitol"
     },
     "image": null,
@@ -2661,9 +2661,9 @@
     "topic": "AntickiRim",
     "question": "Koji je seleukidski kralj ratovao protiv rimskog carstva te naposlijetku izgubio?",
     "answers": {
-      "A": "Antioh 3. Veliki",
-      "B": "Kapitol",
-      "C": "Sirakuza"
+      "A": "Antioh III. Veliki",
+      "B": "Seleuk IV. Filopator",
+      "C": "Antioh IV. Epifan"
     },
     "image": null,
     "correct_answer": "A"
@@ -2674,9 +2674,9 @@
     "topic": "AntickiRim",
     "question": "Koji je antički grad na Siciliji pod rimsku vlast pao 211.g. pr. Kr.?",
     "answers": {
-      "A": "Antioh 3. Veliki",
+      "A": "Agrigent",
       "B": "Sirakuza",
-      "C": "Corvus"
+      "C": "Messana"
     },
     "image": null,
     "correct_answer": "B"
@@ -2687,8 +2687,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvala greda duga 11m i široka do 3m koju su stari Rimljani koristili u pomorskim bitkama za ukrcavanje na neprijateljski brod?",
     "answers": {
-      "A": "Sirakuza",
-      "B": "Pilum",
+      "A": "Rostrum",
+      "B": "Harpax",
       "C": "Corvus"
     },
     "image": null,
