@@ -1,0 +1,41 @@
+name: Fix AntickiRim Nerva Terra
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_nerva_terra.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          changes=0
+          for x in d:
+              q=x.get('question','')
+              if "anagramu riječi 'vrane'" in q:
+                  if x.get('correct_answer')!='A' or x['answers'].get('A')!='Nerva':
+                      raise SystemExit('Unexpected Nerva question state')
+                  x['answers']={'A':'Nerva','B':'Verna','C':'Arven'}
+                  changes+=1
+              elif "'majkom zemljom'" in q:
+                  if x.get('correct_answer')!='C' or x['answers'].get('C')!='Terra':
+                      raise SystemExit('Unexpected Terra question state')
+                  x['answers']={'A':'Ceres','B':'Ops','C':'Terra'}
+                  changes+=1
+          if changes != 2:
+              raise SystemExit(f'Expected 2 changes, got {changes}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changes,'questions')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix Nerva and Terra distractors"
+          git push
