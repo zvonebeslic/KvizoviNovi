@@ -1,0 +1,27 @@
+name: Split AntickiRim candidates
+on:
+  push:
+    paths: ['.github/workflows/split_anticki_candidates.yml']
+permissions:
+  contents: write
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          from pathlib import Path
+          import re
+          txt=Path('ANTICKI_RIM_SEMANTIC_CANDIDATES.txt').read_text(encoding='utf-8')
+          parts=re.split(r'\n(?=#\d+ \|)',txt.strip()) if txt.strip() else []
+          size=20
+          for k in range(0,len(parts),size):
+            Path(f'ANTICKI_CAND_{k//size+1}.txt').write_text('\n\n'.join(parts[k:k+size])+'\n',encoding='utf-8')
+          Path('ANTICKI_CAND_COUNT.txt').write_text(str(len(parts)),encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ANTICKI_CAND_*.txt ANTICKI_CAND_COUNT.txt
+          git commit -m "Split AntickiRim semantic candidates" || exit 0
+          git push
