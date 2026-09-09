@@ -1,0 +1,52 @@
+name: Fix AntickiRim reviewed block 4000
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_block_4000.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?":({"A":"Vespazijan","B":"Tit","C":"Domicijan"},"A"),
+          "Tko je bio posljednji iz plejade rimskih careva koji su vladali u 'godini 4 cara', točnije u 69-oj poslije Krista?":({"A":"Galba","B":"Vitelije","C":"Vespazijan"},"C"),
+          "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?":({"A":"Oton","B":"Galba","C":"Vitelije"},"A"),
+          "Pax Romana na latinskom prevodimo kao Rimski što?":({"A":"Zakon","B":"Mir","C":"Narod"},"B"),
+          "I, V, X, L i C nazivamo kakvim brojevima?":({"A":"Arapskim","B":"Grčkim","C":"Rimskim"},"C"),
+          "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?":({"A":"Lugo","B":"Leon","C":"Astorga"},"A"),
+          "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?":({"A":"Euklid","B":"Arhimed","C":"Pitagora"},"B"),
+          "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?":({"A":"Herkulaneja","B":"Stabija","C":"Pompeja"},"C"),
+          "Opsada kojeg grada na bliskom istoku se događala 70-e, 1099-e i 1187-e godine?":({"A":"Damaska","B":"Jeruzalema","C":"Antiohije"},"B"),
+          "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?":({"A":"Bugarskom","B":"Mađarskom","C":"Srbijom"},"C"),
+          "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?":({"A":"Antoninov zid","B":"Hadrijanov zid","C":"Aurelijanov zid"},"A"),
+          "Najočuvanija te najveća starorimska gradska vrata na svijetu, imena Porta Nigra, se nalaze u kojem njemačkom gradu, gdje su i danas nezaobilazna turistička atrakcija?":({"A":"Mainzu","B":"Trieru","C":"Kölnu"},"B"),
+          "Kako su nekada stari Rimljani nazivali područje današnje Škotske?":({"A":"Britanija","B":"Hibernija","C":"Kaledonija"},"C"),
+          "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?":({"A":"Pliniju","B":"Seneki","C":"Tacitu"},"A"),
+          "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?":({"A":"Savu","B":"Dunav","C":"Dravu"},"B"),
+          "Koji su današnji srpski grad Rimljani poznavali kao Sirmium?":({"A":"Niš","B":"Beograd","C":"Srijemska Mitrovica"},"C"),
+          "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?":({"A":"Trajanov","B":"Augustov","C":"Nervin"},"A")
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f:
+              x['answers'],x['correct_answer']=f[q]
+              n+=1
+          if n!=len(f): raise SystemExit(f'Expected {len(f)}, got {n}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix AntickiRim reviewed distractor block"
+          git push
