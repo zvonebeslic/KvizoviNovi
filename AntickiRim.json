@@ -721,9 +721,9 @@
     "topic": "AntickiRim",
     "question": "Koji car je uveo četverovlađe u rimskom carstvu?",
     "answers": {
-      "A": "Konstantin Veliki",
+      "A": "Maksimijan",
       "B": "Dioklecijan",
-      "C": "Maksimijan"
+      "C": "Konstancije Klor"
     },
     "image": null,
     "correct_answer": "B"
@@ -799,9 +799,9 @@
     "topic": "AntickiRim",
     "question": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
     "answers": {
-      "A": "Trebonijan Gal",
-      "B": "Istok Zapad",
-      "C": "Konstantin Veliki"
+      "A": "Sjever–jug",
+      "B": "Istok–zapad",
+      "C": "Sjeveroistok–jugozapad"
     },
     "image": null,
     "correct_answer": "B"
@@ -826,8 +826,8 @@
     "question": "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?",
     "answers": {
       "A": "Trebonijan Gal",
-      "B": "Istok Zapad",
-      "C": "Sv. Lovro"
+      "B": "Decije",
+      "C": "Emilijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -838,9 +838,9 @@
     "topic": "AntickiRim",
     "question": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
     "answers": {
-      "A": "Severima",
+      "A": "Srebra",
       "B": "Bakra",
-      "C": "Djerba"
+      "C": "Zlata"
     },
     "image": null,
     "correct_answer": "B"
@@ -851,8 +851,8 @@
     "topic": "AntickiRim",
     "question": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
     "answers": {
-      "A": "Bakra",
-      "B": "Djerba",
+      "A": "Flavijevcima",
+      "B": "Antoninima",
       "C": "Severima"
     },
     "image": null,
@@ -865,8 +865,8 @@
     "question": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
     "answers": {
       "A": "Djerba",
-      "B": "Severima",
-      "C": "Bakra"
+      "B": "Kerkennah",
+      "C": "Galite"
     },
     "image": null,
     "correct_answer": "A"
@@ -1203,8 +1203,8 @@
     "topic": "AntickiRim",
     "question": "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?",
     "answers": {
-      "A": "Elegabal",
-      "B": "Dioklecijan",
+      "A": "Probo",
+      "B": "Klaudije II.",
       "C": "Aurelijan"
     },
     "image": null,
@@ -1218,7 +1218,7 @@
     "answers": {
       "A": "Geta",
       "B": "Makrin",
-      "C": "Elegabal"
+      "C": "Dijadumenijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1256,8 +1256,8 @@
     "question": "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?",
     "answers": {
       "A": "Dijadumenijan",
-      "B": "Geta",
-      "C": "Aleksijan"
+      "B": "Aleksandar Sever",
+      "C": "Geta"
     },
     "image": null,
     "correct_answer": "A"
