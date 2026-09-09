@@ -1,0 +1,44 @@
+name: Review AntickiRim next 50a
+on:
+  push:
+    paths: ['.github/workflows/review_anticki_rim_50a.yml']
+permissions:
+  contents: write
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          changes=0
+          old="Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?"
+          new="Vijencem od koje biljke su u rimskoj tradiciji bili krunjeni pjesnici, vojskovođe i carevi kao znakom časti i pobjede?"
+          for x in d:
+            if x.get('question')==old:
+              x['question']=new
+              x['answers']={'A':'Masline','B':'Hrasta','C':'Lovora'}
+              x['correct_answer']='C'
+              changes+=1
+          old2="Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?"
+          new2="Nakon što je car Valerijan zarobljen od Perzijanaca, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao Crkvi legalan status koji je trajao do početka 4. stoljeća?"
+          for x in d:
+            if x.get('question')==old2:
+              x['question']=new2
+              x['answers']={'A':'Galijen','B':'Klaudije II.','C':'Aurelijan'}
+              x['correct_answer']='A'
+              changes+=1
+          if changes!=2:
+            raise SystemExit(f'Expected 2 changes, got {changes}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Changed',changes)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Correct two AntickiRim factual issues" || exit 0
+          git push
