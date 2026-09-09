@@ -1,0 +1,73 @@
+name: Fix AntickiRim batch 2
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix_anticki_rim_batch2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          path = Path('AntickiRim.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          fixes = {
+            "Koja je boja bila toliko luksuzna u antičkom Rimu da je u određenim razdobljima njezino nošenje bilo rezervirano isključivo za careve?": {"A":"Tirski purpur","B":"Egipatsko plavo","C":"Kermesni grimiz"},
+            "Kraj kojeg je mjesta u Frigiji, prema Plutarhu, 74. godine pr. Kr. pad velikog meteora između rimske i pontske vojske natjerao obje strane da odustanu od bitke?": {"A":"Apameje","B":"Otrija","C":"Dorylaeuma"},
+            "Tijekom Trećeg mitridatskog rata sukobile su se vojske kraljevstva Pont i kojeg carstva?": {"A":"Seleukidskog","B":"Partskog","C":"Rimskog"},
+            "Koje je nebesko tijelo, prema Plutarhu, padom kraj Otrije 74. godine pr. Kr. prekinulo predstojeću bitku između rimske i pontske vojske?": {"A":"Meteor","B":"Komet","C":"Asteroid"},
+            "Kako se zove kapa koja je tijekom Rimskog Carstva postala simbol slobode oslobođenih robova, a kasnije i Francuske revolucije?": {"A":"Tračka kapa","B":"Frigijska kapa","C":"Panonska kapa"},
+            "Kako se zvao zapovjednik koji je unutar rimske legije upravljao jedinicom od 100 ratnika?": {"A":"Optio","B":"Vojni tribun","C":"Centurion"},
+            "Koju gardu je osnovao prvi rimski car August sa zadatkom da čuva njega i njegovu obitelj?": {"A":"Pretorijansku","B":"Gradske kohorte","C":"Vigile"},
+            "Koji je keltski narod porazio rimsku vojsku i 390.g. pr. Kr. opljačkao Rim?": {"A":"Samniti","B":"Gali","C":"Etruščani"},
+            "Kako se zove majka legendarnih blizanaca Romula i Rema?": {"A":"Hersilija","B":"Aka Larencija","C":"Rea Silvija"},
+            "Junona, rimska božica i kćer Saturna i Ops, svom mužu Jupiteru je rodila dva sina. Marsa i koga još?": {"A":"Vulkana","B":"Merkura","C":"Apolona"},
+            "Na području koje današnje države se dogodila bitka kod Filipija iz 42.g. pr. Kr.?": {"A":"Sjeverne Makedonije","B":"Grčke","C":"Turske"},
+            "Koji se rimski zid, građen od 142. do 154.g., nalazi sjevernije od Hadrijanova te je duplo kraći od njega?": {"A":"Hadrijanov zid","B":"Aurelijanov zid","C":"Antoninov zid"},
+            "Koji film s Russellom Croweom u glavnoj ulozi prati život Maximusa Decimusa Meridijusa?": {"A":"Gladijator","B":"Troja","C":"Centurion"},
+            "Kako se zvala druga žena Gaja Julija Cezara?": {"A":"Kornelija","B":"Pompeja","C":"Kalpurnija"},
+            "Koji naziv koristimo za ranokršćanske grobnice koje su nastajale kao sustav podzemnih hodnika u vrijeme rimskog carstva?": {"A":"Nekropole","B":"Hipogeji","C":"Katakombe"},
+            "Koji rimski car počinje sa sustavnim progonom kršćana nakon velikog rimskog požara za koji je okrivio upravo kršćane?": {"A":"Neron","B":"Domicijan","C":"Dioklecijan"},
+            "Kraj koje slavonske rijeke Iliri nanose Rimljanima jedan od najtežih vojnih poraza u njihovoj povijesti?": {"A":"Save","B":"Vuke","C":"Drave"},
+            "Rimski bog Jupiter imao je 3 kćeri: Vestu, Junonu i koju još?": {"A":"Dijanu","B":"Minervu","C":"Cereru"},
+            "Tko je rimska božica ljubavi i plodnosti?": {"A":"Venera","B":"Junona","C":"Cerera"},
+            "Koje ime je nosila osnovna novčana jedinica za srebrni novac u starom rimu?": {"A":"Sestercij","B":"Denar","C":"Aureus"},
+            "Nekadašnje rimske provincije Likija, Galatija i Kapadokija su se nalazile na području koje današnje države?": {"A":"Grčke","B":"Sirije","C":"Turske"},
+            "Nadimak kojeg rimskog cara poistovjećujemo sa latinskom riječju za malenu čizmu?": {"A":"Kaligula","B":"Karakala","C":"Klaudije"},
+            "Koji je rimski car započeo zakonom zabranjivati gladijatorske igre od 325.g.?": {"A":"Teodozije I.","B":"Konstantin Veliki","C":"Honorije"},
+            "Koji je današnji srpski grad rodno mjesto rimskog cara Konstantina 1. Velikog?": {"A":"Srijemska Mitrovica","B":"Beograd","C":"Niš"},
+            "Tetrika I. i Tetrika II. koji su vladali odmetnutim Galskim carstvom je porazio koji rimski car, kojeg se nazivalo i obnoviteljem carstva?": {"A":"Aurelijan","B":"Galijen","C":"Klaudije II. Gotski"},
+            "Koji car je uveo četverovlađe u rimskom carstvu?": {"A":"Konstantin Veliki","B":"Dioklecijan","C":"Maksimijan"},
+            "Koji istaknuti rimski liječnik iz Pergama slovi i za najvećeg medicinskog znanstvenika u starom Rimu?": {"A":"Celzo","B":"Soran","C":"Galen"},
+            "Agripina mlađa je bila žena rimskog cara Klaudija i majka cara Nerona, a uspjela je isposlovati da koji današnji grad, a njen rodni, dobije status kolonije, a po 'koloniji' i danas nosi ime?": {"A":"Köln","B":"Trier","C":"Mainz"},
+            "U starim rimskim zapisima, za jednog se cara spominje da je umro ni manje ni više, nego od prekomjernog konzumiranja alpskog sira, a tko je on bio?": {"A":"Klaudije","B":"Antonin Pio","C":"Galba"},
+            "Koja se kratkotrajna država formira na istoku rimskog carstva u vrijeme krize trećeg stoljeća a vladar joj je bio Odenat?": {"A":"Galsko Carstvo","B":"Partsko Carstvo","C":"Palmirsko Carstvo"}
+          }
+          changed = 0
+          for item in data:
+            q = item.get('question')
+            if q in fixes:
+              item['answers'] = fixes[q]
+              changed += 1
+          if changed != len(fixes):
+            missing = [q for q in fixes if not any(i.get('question') == q for i in data)]
+            raise SystemExit(f'Expected {len(fixes)} changes, got {changed}; missing={missing}')
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print(f'Updated {changed} questions')
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 2"
+          git push
