@@ -4967,8 +4967,8 @@
     "question": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
     "answers": {
       "A": "Haran",
-      "B": "Sevillu",
-      "C": "Latona"
+      "B": "Edessa",
+      "C": "Nisibis"
     },
     "image": null,
     "correct_answer": "A"
@@ -4979,9 +4979,9 @@
     "topic": "AntickiRim",
     "question": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
     "answers": {
-      "A": "Haran",
+      "A": "Cordobu",
       "B": "Sevillu",
-      "C": "Ivan"
+      "C": "Cadiz"
     },
     "image": null,
     "correct_answer": "B"
@@ -4992,8 +4992,8 @@
     "topic": "AntickiRim",
     "question": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
     "answers": {
-      "A": "Sevillu",
-      "B": "Carevima",
+      "A": "Matej",
+      "B": "Marko",
       "C": "Ivan"
     },
     "image": null,
@@ -5006,8 +5006,8 @@
     "question": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
     "answers": {
       "A": "Carevima",
-      "B": "Ivan",
-      "C": "Urbs"
+      "B": "Konzulima",
+      "C": "Cenzorima"
     },
     "image": null,
     "correct_answer": "A"
