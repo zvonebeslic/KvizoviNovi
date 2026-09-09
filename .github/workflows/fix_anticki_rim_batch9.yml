@@ -1,0 +1,59 @@
+name: Fix AntickiRim batch 9
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch9.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Prema ustroju, stari Rim je se kroz povijest dijelio na carstvo, kraljevstvo i što još?":{"A":"Principat","B":"Dominat","C":"Republiku"},
+          "Koji oblik rimske vojne discipline se provodi ako su svakog desetog vojnika u grupi pogubili članovi njegove kohorte zbog pobune ili dezertiranja.":{"A":"Desetkovanje","B":"Fustuarium","C":"Degradacija"},
+          "Koju su utvrdu ilirskog plemena Delmata rimljani osvojili 155.g. pr. Kr.?":{"A":"Andetrij","B":"Delminij","C":"Promonu"},
+          "Via Domitia, Via Agrippa i Via Aquitania su starorimske ceste izgrađene na području koje današnje države?":{"A":"Italije","B":"Španjolske","C":"Francuske"},
+          "Po kojem rimskom caru ime nosi najveći od svih rimskih slavoluka?":{"A":"Konstantinu 1.","B":"Septimiju Severu","C":"Titu"},
+          "Koji se rimski car bori s Maximusom u Koloseju u filmu 'Gladijator', ali je i po povijesnim činjenicama ostao poznat kao dobar borac, s preko 700 pobjeda u areni?":{"A":"Marko Aurelije","B":"Komod","C":"Karakala"},
+          "Koliko je rimskih careva bilo na vlasti tijekom 1. stoljeća?":{"A":"11","B":"15","C":"13"},
+          "Prvi trgovci iz rimskog carstva koji su dospjeli do Kine su poslani za vrijeme careva Antonina Pia i Marka Aurelija, a tada je kinom vladala koja dinastija?":{"A":"Han","B":"Tang","C":"Qin"},
+          "Koji je starogrčki matematičar i astronom živio u Aleksandriji za rimskog upravljanja Egiptom, a najpoznatiji je po svom djelu Almagest?":{"A":"Hiparh","B":"Ptolomej","C":"Eratosten"},
+          "Koji starogrčki fizičar, astronom i matematičar pomaže sa svojim izumima u obrani Sirakuze protiv Rimljana?":{"A":"Heron","B":"Euklid","C":"Arhimed"},
+          "Za vrijeme kojeg cara rimsko carstvo poprima najveće teritorijalno proširenje?":{"A":"Trajana","B":"Hadrijana","C":"Septimija Severa"},
+          "Rimska provincija Mauretanija se prostirala teritorijem Alžira i koje još današnje države?":{"A":"Tunisa","B":"Maroka","C":"Libije"},
+          "Koja dinastija dolazi na vlast, proglašenjem Vespazijana kao rimskog cara?":{"A":"Julijevsko-klaudijevska","B":"Antoninska","C":"Flavijevci"},
+          "Od svih pet dobrih rimskih careva, koji je vladao najkraće, svega 2 godine?":{"A":"Nerva","B":"Hadrijan","C":"Antonin Pio"},
+          "Koji grad, osnovan od strane Aleksandra Velikog, postaje glavno središte rimske provincije Aegyptus nakon pada Ptolomjeskog kraljevstva 30.g. pr. Kr?":{"A":"Memfis","B":"Aleksandrija","C":"Peluzij"},
+          "Iz kojeg se jezika razvio talijanski jezik, kakvog danas poznajemo?":{"A":"Etruščanskog","B":"Oskanskog","C":"Latinskog"},
+          "29.6. 79-e godine se događa erupcija kojeg vulkana u kojoj napuljski zaljev biva dobrim dijelom uništen?":{"A":"Vezuva","B":"Etne","C":"Strombolija"},
+          "'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?":{"A":"Antonin Pio","B":"Trajan","C":"Nerva"},
+          "Koji portugalski grad se naziva i portugalskim Rimom, a sami Rimljani su ga osnovali u 1.st. pr. Kr. pod imenom Bracera Augusta?":{"A":"Porto","B":"Coimbra","C":"Braga"},
+          "Od svih pet dobrih rimskih careva, koji je vladao najduže, čak 23 godine?":{"A":"Antonin Pio","B":"Hadrijan","C":"Marko Aurelije"},
+          "Rimsko kapitolijsko trojstvo čine božanstva Jupiter, Junona i tko još?":{"A":"Vesta","B":"Minerva","C":"Dijana"},
+          "U kojem hrvatskom gradu se nalazi najveći rimski forum na istočnoj strani Jadrana?":{"A":"Puli","B":"Splitu","C":"Zadru"},
+          "Koji su naziv stari Kinezi koristili za antički Rim?":{"A":"Daqin","B":"Da Yuan","C":"Anxi"},
+          "Rimska božica ljubavi je rimskom bogu rata rodila kojeg boga požude i privlačnosti?":{"A":"Himena","B":"Kupida","C":"Merkura"},
+          "Herkulova žena na zemlji je bila Megara, a tko mu je bila žena kada je postao jedan od bogova?":{"A":"Heba","B":"Minerva","C":"Juventas"},
+          "Koliko daleko su Rimljani prodirali na istok, govori i činjenica da su upravljali i antičkim gradom Dura-Europos, kojeg su osnovali Seleukidi na kojoj velikoj mezopotamijskoj rijeci?":{"A":"Eufrat","B":"Tigris","C":"Oront"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 9"
+          git push
