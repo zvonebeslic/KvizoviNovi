@@ -1,0 +1,24 @@
+{
+  "source_total": 379,
+  "matched_unique": 379,
+  "missing_count": 0,
+  "duplicate_index_count": 0,
+  "extra_or_changed_count": 0,
+  "files_scanned": [
+    "redo/Nogomet_001_032.json",
+    "redo/Nogomet_033_064.json",
+    "redo/Nogomet_065_096.json",
+    "redo/Nogomet_097_128.json",
+    "redo/Nogomet_129_160.json",
+    "redo/Nogomet_161_192.json",
+    "redo/Nogomet_193_224.json",
+    "redo/Nogomet_225_256.json",
+    "redo/Nogomet_257_288.json",
+    "redo/Nogomet_289_320.json",
+    "redo/Nogomet_321_352.json",
+    "redo/Nogomet_353_379.json"
+  ],
+  "missing": [],
+  "duplicates": [],
+  "extra_or_changed": []
+}
