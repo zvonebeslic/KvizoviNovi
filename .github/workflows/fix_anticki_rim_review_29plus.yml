@@ -1,0 +1,35 @@
+name: Fix AntickiRim reviewed questions 29+
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_29plus.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+            "Kako se zove jedino djelo koje je za života napisao car Marko Aurelije?": {"A":"O kratkoći života","B":"Samomu sebi","C":"Razgovori u Tuskulu"},
+            "Nakš-e Rustam je velika perzijska nekropola uklesana u stijenu gdje se pored grobnica ahemenidskih careva nalaze i sasanidski reljefi, a jedan od njih slavi pobjedu kralja Šapura I. nad kojim carstvom?": {"A":"Partskim","B":"Kušanskim","C":"Rimskim"},
+            "Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?": {"A":"Srebra","B":"Br15 chars truncated"C":"Zlata"}
+          }
+          n=0
+          for x in d:
+            if x.get('question') in fixes:
+              x['answers']=fixes[x['question']]
+              n+=1
+          if n!=3: raise SystemExit(f'Expected 3 matches, got {n}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Fix manually reviewed AntickiRim distractors" || exit 0
+          git push
