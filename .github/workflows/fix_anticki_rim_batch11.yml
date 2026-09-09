@@ -1,0 +1,60 @@
+name: Fix AntickiRim batch 11
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch11.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Antinous je bio mladi simpatizer rimskog cara Hadrijana kojeg je nakon dušenja u Nilu Hadrijan proglasio božanstvom te mu u čast podigao koji grad u srednjem Egiptu?":{"A":"Antinoopolis","B":"Hadrianopolis","C":"Naukratis"},
+          "Ime koje rimske božice mladosti povezujemo sa 'starom damom' iz Torina?":{"A":"Vesta","B":"Juventas","C":"Minerva"},
+          "Koji je rimski vojskovođa osvojio i spalio Jeruzalem 70.g. da bi kasnije postao i carem?":{"A":"Vespazijan","B":"Domicijan","C":"Tit"},
+          "Koji je španjolski grad prvotno osnovan kao vojni logor 6. rimske legije Victix a danas se nalazi i na putu sv. Jakova?":{"A":"Leon","B":"Lugo","C":"Astorga"},
+          "Ako svratimo u Kumrovec, tamo ćemo pronaći ime na spomeniku i u rodnoj kući koje bi nas moglo podsjetiti na kojeg rimskog cara?":{"A":"Nerona","B":"Tita","C":"Augusta"},
+          "Koji je katolički svetac i srijemski biskup pogubljen u vrijeme Dioklecijanovih progona kršćana na antičkom mostu Basentis, u blizini današnje Srijemske Mitrovice?":{"A":"Demetrije","B":"Polion","C":"Irenej"},
+          "'Zar i ti, sine Brute' je uzrečica koju je pri smrti izgovorio koji rimski vojskovođa?":{"A":"Julije Cezar","B":"Gnej Pompej","C":"Marko Antonije"},
+          "Na području kojeg su današnjeg hrvatskog grada rođena dva rimska cara, Valentinijan I. i Valens?":{"A":"Sisak","B":"Vinkovci","C":"Solin"},
+          "Kako nazivamo proces širenja rimskog jezika, prava, kulture i načina života na osvojene narode?":{"A":"Helenizacija","B":"Latinizacija","C":"Romanizam"},
+          "Dan 22.11.1738.g. se smatra rođendanom klasične arheologije jer su tada započela iskapanja kojeg starorimskog grada uništenog u erupciji Vezuva?":{"A":"Herkulaneja","B":"Pompeja","C":"Stabija"},
+          "Rimski carevi Decije, Aurelijan, Prob i Maksimijan su svi rođeni na području kojeg današnjeg srpskog grada?":{"A":"Niša","B":"Srijemske Mitrovice","C":"Beograda"},
+          "Tko je bio prvi rimski car koji je bio ilirskog porijekla, a ujedno i prvi progonitelj kršćana na našim područjima te prvi car koji je poginuo u bitci?":{"A":"Klaudije II.","B":"Aurelijan","C":"Decije"},
+          "Koji su veliki otok u Atlantskom oceanu stari Rimljani zvali Hibernia?":{"A":"Irska","B":"Velika Britanija","C":"Man"},
+          "Koji je katolički svetac i biskup antiohijski bio prognan od strane rimskog cara Trajana te usmrćen u Koloseumu, gdje je bačen lavovima?":{"A":"Polikarp Smirnski","B":"Ignacije Antiohijski","C":"Klement Rimski"},
+          "Koliko je Oscara osvojio 'Gladijator', film Ridleyja Scotta iz 2000.g.?":{"A":"4","B":"6","C":"5"},
+          "Ako sudimo po veličini planeta, koji rimski bog ispada najmanji?":{"A":"Merkur","B":"Mars","C":"Neptun"},
+          "Koji broj dobijemo kad zbrojimo zadatke koje je Herkul morao ispuniti za oprost teških grijeha sa brojem ploča na kojima su pisani prvi rimski zakoni?":{"A":"22","B":"24","C":"26"},
+          "Prvu crkvu na svijetu posvećenu Blaženoj Djevici Mariji sagradio je apostol Jakov u Caesaraugusti, starorimskom gradu na čijem području se danas nalazi koji španjolski grad, inače veliko marijansko svetište?":{"A":"Toledo","B":"Tarragona","C":"Zaragoza"},
+          "2015.g. je osnovana gaming platforma koja svoje ime dijelom duguje kojoj rimskoj božici svađe i razdora?":{"A":"Diskordija","B":"Bellona","C":"Nemesis"},
+          "U kojem stoljeću prije Krista nastaje Rimsko Carstvo?":{"A":"2.","B":"1.","C":"3."},
+          "Koja je utvrda u 1. židovsko - rimskom ratu ostala upamćena po masovnom samoubojstvu njenih branitelja, žena i djece?":{"A":"Herodij","B":"Macheront","C":"Masada"},
+          "Koja ptica se u starom Rimu koristila kao glavni znak rimskih legija?":{"A":"Orao","B":"Sokol","C":"Gavran"},
+          "Pred kojim zidom Židovi oplakuju rimsko razaranje drugog jeruzalemskog hrama koje se dogodilo 70.g.?":{"A":"Zidom Hrama","B":"Zidom plača","C":"Aurelijanovim zidom"},
+          "Na rimskom forumu u Zadru danas se nalazi koja crkva?":{"A":"Sv. Krševana","B":"Sv. Stošije","C":"Sv. Donata"},
+          "Koliko rimskih careva potječe iz flavijevske dinastije?":{"A":"3","B":"2","C":"4"},
+          "U starom Rimu, doručak je bio lentaculum, večera je bila cena, a ručak?":{"A":"Gustatio","B":"Prandium","C":"Secunda mensa"},
+          "Koji je rimski car promijenio ime grada Rima te svih 12 mjeseci u godini, što je ispravljeno i vraćeno na staro odmah nakon njegove smrti?":{"A":"Neron","B":"Domicijan","C":"Komod"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 11"
+          git push
