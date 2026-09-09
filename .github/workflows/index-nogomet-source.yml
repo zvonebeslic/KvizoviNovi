@@ -1,0 +1,25 @@
+name: Index Nogomet Source
+on:
+  push:
+    paths:
+      - 'scripts/index_nogomet_source.py'
+      - '.github/workflows/index-nogomet-source.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/index_nogomet_source.py
+      - name: Commit index
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add redo/Nogomet_source_index.json
+          git diff --cached --quiet || git commit -m "Index Nogomet source questions"
+          git push
