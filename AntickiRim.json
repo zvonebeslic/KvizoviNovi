@@ -396,8 +396,8 @@
     "question": "Koja je boja bila toliko luksuzna u antičkom Rimu da je u određenim razdobljima njezino nošenje bilo rezervirano isključivo za careve?",
     "answers": {
       "A": "Tirski purpur",
-      "B": "Porfira",
-      "C": "Otrija"
+      "B": "Egipatsko plavo",
+      "C": "Kermesni grimiz"
     },
     "image": null,
     "correct_answer": "A"
@@ -409,9 +409,9 @@
     "topic": "AntickiRim",
     "question": "Kraj kojeg je mjesta u Frigiji, prema Plutarhu, 74. godine pr. Kr. pad velikog meteora između rimske i pontske vojske natjerao obje strane da odustanu od bitke?",
     "answers": {
-      "A": "Tirski purpur",
+      "A": "Apameje",
       "B": "Otrija",
-      "C": "Rimsko"
+      "C": "Dorylaeuma"
     },
     "image": null,
     "correct_answer": "B"
@@ -422,9 +422,9 @@
     "topic": "AntickiRim",
     "question": "Tijekom Trećeg mitridatskog rata sukobile su se vojske kraljevstva Pont i kojeg carstva?",
     "answers": {
-      "A": "Otrija",
-      "B": "Meteor",
-      "C": "Rimsko"
+      "A": "Seleukidskog",
+      "B": "Partskog",
+      "C": "Rimskog"
     },
     "image": null,
     "correct_answer": "C"
@@ -436,8 +436,8 @@
     "question": "Koje je nebesko tijelo, prema Plutarhu, padom kraj Otrije 74. godine pr. Kr. prekinulo predstojeću bitku između rimske i pontske vojske?",
     "answers": {
       "A": "Meteor",
-      "B": "Rimsko",
-      "C": "Otrija"
+      "B": "Komet",
+      "C": "Asteroid"
     },
     "image": null,
     "correct_answer": "A"
@@ -448,9 +448,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zove kapa koja je tijekom Rimskog Carstva postala simbol slobode oslobođenih robova, a kasnije i Francuske revolucije?",
     "answers": {
-      "A": "Rea Silvija",
+      "A": "Tračka kapa",
       "B": "Frigijska kapa",
-      "C": "Katakombe"
+      "C": "Panonska kapa"
     },
     "image": null,
     "correct_answer": "B"
@@ -461,8 +461,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zvao zapovjednik koji je unutar rimske legije upravljao jedinicom od 100 ratnika?",
     "answers": {
-      "A": "Pretorijansku",
-      "B": "Meteor",
+      "A": "Optio",
+      "B": "Vojni tribun",
       "C": "Centurion"
     },
     "image": null,
@@ -475,8 +475,8 @@
     "question": "Koju gardu je osnovao prvi rimski car August sa zadatkom da čuva njega i njegovu obitelj?",
     "answers": {
       "A": "Pretorijansku",
-      "B": "Centurion",
-      "C": "Gali"
+      "B": "Gradske kohorte",
+      "C": "Vigile"
     },
     "image": null,
     "correct_answer": "A"
@@ -487,9 +487,9 @@
     "topic": "AntickiRim",
     "question": "Koji je keltski narod porazio rimsku vojsku i 390.g. pr. Kr. opljačkao Rim?",
     "answers": {
-      "A": "Pretorijansku",
+      "A": "Samniti",
       "B": "Gali",
-      "C": "Centurion"
+      "C": "Etruščani"
     },
     "image": null,
     "correct_answer": "B"
@@ -500,8 +500,8 @@
     "topic": "AntickiRim",
     "question": "Kako se zove majka legendarnih blizanaca Romula i Rema?",
     "answers": {
-      "A": "Frigijska kapa",
-      "B": "Katakombe",
+      "A": "Hersilija",
+      "B": "Aka Larencija",
       "C": "Rea Silvija"
     },
     "image": null,
@@ -514,8 +514,8 @@
     "question": "Junona, rimska božica i kćer Saturna i Ops, svom mužu Jupiteru je rodila dva sina. Marsa i koga još?",
     "answers": {
       "A": "Vulkana",
-      "B": "Gali",
-      "C": "Antoninov zid"
+      "B": "Merkura",
+      "C": "Apolona"
     },
     "image": null,
     "correct_answer": "A"
@@ -526,9 +526,9 @@
     "topic": "AntickiRim",
     "question": "Na području koje današnje države se dogodila bitka kod Filipija iz 42.g. pr. Kr.?",
     "answers": {
-      "A": "Pompeja Velikog",
+      "A": "Sjeverne Makedonije",
       "B": "Grčke",
-      "C": "Akcija"
+      "C": "Turske"
     },
     "image": null,
     "correct_answer": "B"
@@ -539,8 +539,8 @@
     "topic": "AntickiRim",
     "question": "Koji se rimski zid, građen od 142. do 154.g., nalazi sjevernije od Hadrijanova te je duplo kraći od njega?",
     "answers": {
-      "A": "Vulkana",
-      "B": "Pompeja",
+      "A": "Hadrijanov zid",
+      "B": "Aurelijanov zid",
       "C": "Antoninov zid"
     },
     "image": null,
@@ -553,8 +553,8 @@
     "question": "Koji film s Russellom Croweom u glavnoj ulozi prati život Maximusa Decimusa Meridijusa?",
     "answers": {
       "A": "Gladijator",
-      "B": "Kum",
-      "C": "Casablanca"
+      "B": "Troja",
+      "C": "Centurion"
     },
     "image": null,
     "correct_answer": "A"
@@ -565,9 +565,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zvala druga žena Gaja Julija Cezara?",
     "answers": {
-      "A": "Antoninov zid",
+      "A": "Kornelija",
       "B": "Pompeja",
-      "C": "Neron"
+      "C": "Kalpurnija"
     },
     "image": null,
     "correct_answer": "B"
@@ -578,8 +578,8 @@
     "topic": "AntickiRim",
     "question": "Koji naziv koristimo za ranokršćanske grobnice koje su nastajale kao sustav podzemnih hodnika u vrijeme rimskog carstva?",
     "answers": {
-      "A": "Rea Silvija",
-      "B": "Frigijska kapa",
+      "A": "Nekropole",
+      "B": "Hipogeji",
       "C": "Katakombe"
     },
     "image": null,
@@ -592,8 +592,8 @@
     "question": "Koji rimski car počinje sa sustavnim progonom kršćana nakon velikog rimskog požara za koji je okrivio upravo kršćane?",
     "answers": {
       "A": "Neron",
-      "B": "Vuke",
-      "C": "Pompeja"
+      "B": "Domicijan",
+      "C": "Dioklecijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -604,9 +604,9 @@
     "topic": "AntickiRim",
     "question": "Kraj koje slavonske rijeke Iliri nanose Rimljanima jedan od najtežih vojnih poraza u njihovoj povijesti?",
     "answers": {
-      "A": "Neron",
+      "A": "Save",
       "B": "Vuke",
-      "C": "Cereru"
+      "C": "Drave"
     },
     "image": null,
     "correct_answer": "B"
@@ -617,8 +617,8 @@
     "topic": "AntickiRim",
     "question": "Rimski bog Jupiter imao je 3 kćeri: Vestu, Junonu i koju još?",
     "answers": {
-      "A": "Vuke",
-      "B": "Neron",
+      "A": "Dijanu",
+      "B": "Minervu",
       "C": "Cereru"
     },
     "image": null,
@@ -631,8 +631,8 @@
     "question": "Tko je rimska božica ljubavi i plodnosti?",
     "answers": {
       "A": "Venera",
-      "B": "Dioklecijan",
-      "C": "Antonin Pio"
+      "B": "Junona",
+      "C": "Cerera"
     },
     "image": null,
     "correct_answer": "A"
@@ -643,9 +643,9 @@
     "topic": "AntickiRim",
     "question": "Koje ime je nosila osnovna novčana jedinica za srebrni novac u starom rimu?",
     "answers": {
-      "A": "Euro",
+      "A": "Sestercij",
       "B": "Denar",
-      "C": "Dolar"
+      "C": "Aureus"
     },
     "image": null,
     "correct_answer": "B"
@@ -656,8 +656,8 @@
     "topic": "AntickiRim",
     "question": "Nekadašnje rimske provincije Likija, Galatija i Kapadokija su se nalazile na području koje današnje države?",
     "answers": {
-      "A": "Kaligula",
-      "B": "Cereru",
+      "A": "Grčke",
+      "B": "Sirije",
       "C": "Turske"
     },
     "image": null,
@@ -670,8 +670,8 @@
     "question": "Nadimak kojeg rimskog cara poistovjećujemo sa latinskom riječju za malenu čizmu?",
     "answers": {
       "A": "Kaligula",
-      "B": "Turske",
-      "C": "Niš"
+      "B": "Karakala",
+      "C": "Klaudije"
     },
     "image": null,
     "correct_answer": "A"
@@ -682,9 +682,9 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski car započeo zakonom zabranjivati gladijatorske igre od 325.g.?",
     "answers": {
-      "A": "Istok Zapad",
+      "A": "Teodozije I.",
       "B": "Konstantin Veliki",
-      "C": "Trebonijan Gal"
+      "C": "Honorije"
     },
     "image": null,
     "correct_answer": "B"
@@ -695,8 +695,8 @@
     "topic": "AntickiRim",
     "question": "Koji je današnji srpski grad rodno mjesto rimskog cara Konstantina 1. Velikog?",
     "answers": {
-      "A": "Aurelijan",
-      "B": "Kaligula",
+      "A": "Srijemska Mitrovica",
+      "B": "Beograd",
       "C": "Niš"
     },
     "image": null,
@@ -709,8 +709,8 @@
     "question": "Tetrika I. i Tetrika II. koji su vladali odmetnutim Galskim carstvom je porazio koji rimski car, kojeg se nazivalo i obnoviteljem carstva?",
     "answers": {
       "A": "Aurelijan",
-      "B": "Niš",
-      "C": "Galen"
+      "B": "Galijen",
+      "C": "Klaudije II. Gotski"
     },
     "image": null,
     "correct_answer": "A"
@@ -721,9 +721,9 @@
     "topic": "AntickiRim",
     "question": "Koji car je uveo četverovlađe u rimskom carstvu?",
     "answers": {
-      "A": "Antonin Pio",
+      "A": "Konstantin Veliki",
       "B": "Dioklecijan",
-      "C": "Venera"
+      "C": "Maksimijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -734,8 +734,8 @@
     "topic": "AntickiRim",
     "question": "Koji istaknuti rimski liječnik iz Pergama slovi i za najvećeg medicinskog znanstvenika u starom Rimu?",
     "answers": {
-      "A": "Köln",
-      "B": "Aurelijan",
+      "A": "Celzo",
+      "B": "Soran",
       "C": "Galen"
     },
     "image": null,
@@ -748,8 +748,8 @@
     "question": "Agripina mlađa je bila žena rimskog cara Klaudija i majka cara Nerona, a uspjela je isposlovati da koji današnji grad, a njen rodni, dobije status kolonije, a po 'koloniji' i danas nosi ime?",
     "answers": {
       "A": "Köln",
-      "B": "Galen",
-      "C": "Palmir"
+      "B": "Trier",
+      "C": "Mainz"
     },
     "image": null,
     "correct_answer": "A"
@@ -760,9 +760,9 @@
     "topic": "AntickiRim",
     "question": "U starim rimskim zapisima, za jednog se cara spominje da je umro ni manje ni više, nego od prekomjernog konzumiranja alpskog sira, a tko je on bio?",
     "answers": {
-      "A": "Dioklecijan",
+      "A": "Klaudije",
       "B": "Antonin Pio",
-      "C": "Venera"
+      "C": "Galba"
     },
     "image": null,
     "correct_answer": "B"
@@ -773,9 +773,9 @@
     "topic": "AntickiRim",
     "question": "Koja se kratkotrajna država formira na istoku rimskog carstva u vrijeme krize trećeg stoljeća a vladar joj je bio Odenat?",
     "answers": {
-      "A": "Köln",
-      "B": "Galen",
-      "C": "Palmir"
+      "A": "Galsko Carstvo",
+      "B": "Partsko Carstvo",
+      "C": "Palmirsko Carstvo"
     },
     "image": null,
     "correct_answer": "C"
