@@ -15,67 +15,70 @@ jobs:
           from pathlib import Path
           p=Path('AntickiRim.json')
           d=json.loads(p.read_text(encoding='utf-8'))
-          fixes={
-          68:['Meditacije','Samomu sebi','Razgovori sa samim sobom'],
-          69:['Partsko','Sasanidsko','Rimsko'],
-          72:['Srebra','Bronce','Zlata'],
-          234:['Monarhiju','Oligarhiju','Republiku'],
-          258:['Omfala','Dejanira','Juventas'],
-          313:['Vespazijan','Tit','Domicijan'],
-          315:['Galba','Vitelije','Vespazijan'],
-          316:['Oton','Galba','Vitelije'],
-          317:['Rat','Mir','Poredak'],
-          318:['Arapskim','Grčkim','Rimskim'],
-          319:['Lugo','León','Astorga'],
-          320:['Euklid','Arhimed','Pitagora'],
-          321:['Herkulanej','Stabije','Pompeja'],
-          323:['Damask','Jeruzalema','Antiohija'],
-          324:['Bugarskom','Mađarskom','Srbijom'],
-          325:['Antoninov zid','Hadrijanov zid','Aurelijanov zid'],
-          326:['Mainz','Trier','Köln'],
-          327:['Britanija','Hibernija','Kaledonija'],
-          328:['Plinije','Seneka','Tacit'],
-          329:['Rajna','Dunav','Tibar'],
-          330:['Beograd','Niš','Srijemska Mitrovica'],
-          331:['Trajanov','Augustov','Nervin'],
-          332:['Augustus','Optimus','Germanicus'],
-          333:['Sinae','Thinae','Seres'],
-          334:['Eufrazija','Melanija Mlađa','Makrina Mlađa'],
-          335:['Svetonije','Plinije stariji','Tacit'],
-          336:['Galba','Oton','Vitelije'],
-          338:['Vespazijana','Tita','Domicijana'],
-          386:['Civitas','Urbs','Oppidum'],
-          387:['Engleskoj','Walesu','Škotskoj'],
-          388:['Lisabon','Braga','Coimbra'],
-          419:['Deset','Nula','Tisuću'],
-          421:['Perzeja','Filipa V.','Andriska'],
-          422:['Scipiona','Hanibala','Hasdrubala'],
-          424:['Gaja Julija Cezara','Pompeja Velikog','Marka Antonija'],
-          425:['Gergoviju','Avarik','Aleziju'],
-          426:['Korint','Numanciju','Kartagu'],
-          427:['Palatinu','Aventinu','Kapitolu'],
-          428:['Galbu','Otona','Vitelija'],
-          429:['Pretor','Cenzor','Konzul'],
-          430:['Tul Hostilije','Anko Marcije','Servije Tulije'],
-          431:['Agron','Gencije','Pleurat III.'],
-          432:['Alarik','Atanariks','Fritiger'],
-          433:['Alarik','Ataulf','Teodorik I.'],
-          572:['Berenika','Teuta','Amanirenas'],
-          575:['Klaudije','Kaligula','Neron'],
-          579:['Mars','Merkur','Herkul']
+          distractors={
+          68:['Meditacije','Razgovori sa samim sobom'],
+          69:['Partskim','Sasanidskim'],
+          72:['Srebra','Bronce'],
+          234:['Monarhiju','Oligarhiju'],
+          258:['Omfala','Dejanira'],
+          313:['Tit','Domicijan'],
+          315:['Galba','Vitelije'],
+          316:['Galba','Vitelije'],
+          317:['Rat','Poredak'],
+          318:['Arapskim','Grčkim'],
+          319:['León','Astorga'],
+          320:['Euklid','Pitagora'],
+          321:['Herkulanej','Stabije'],
+          323:['Damask','Antiohija'],
+          324:['Bugarskom','Mađarskom'],
+          325:['Hadrijanov zid','Aurelijanov zid'],
+          326:['Mainz','Köln'],
+          327:['Britanija','Hibernija'],
+          328:['Seneka','Tacit'],
+          329:['Rajna','Tibar'],
+          330:['Beograd','Niš'],
+          331:['Augustov','Nervin'],
+          332:['Augustus','Germanicus'],
+          333:['Sinae','Thinae'],
+          334:['Melanija Mlađa','Makrina Mlađa'],
+          335:['Svetonije','Tacit'],
+          336:['Galba','Oton'],
+          338:['Vespazijana','Domicijana'],
+          386:['Civitas','Oppidum'],
+          387:['Engleskoj','Walesu'],
+          388:['Braga','Coimbra'],
+          419:['Deset','Tisuću'],
+          421:['Filipa V.','Andriska'],
+          422:['Scipiona','Hasdrubala'],
+          424:['Pompeja Velikog','Marka Antonija'],
+          425:['Gergoviju','Aleziju'],
+          426:['Korint','Numanciju'],
+          427:['Aventinu','Kapitolu'],
+          428:['Galbu','Vitelija'],
+          429:['Pretor','Cenzor'],
+          430:['Anko Marcije','Servije Tulije'],
+          431:['Agron','Pleurat III.'],
+          432:['Alarik','Atanariks'],
+          433:['Ataulf','Teodorik I.'],
+          572:['Berenika','Amanirenas'],
+          575:['Klaudije','Neron'],
+          579:['Mars','Merkur']
           }
           changed=0
-          for idx, vals in fixes.items():
+          for idx, wrongs in distractors.items():
             x=d[idx-1]
             correct=x['correct_answer']
             old_correct=x['answers'][correct]
-            new={'A':vals[0],'B':vals[1],'C':vals[2]}
-            if new[correct].casefold().rstrip('.') != old_correct.casefold().rstrip('.'):
-              raise SystemExit(f'Correct answer mismatch at #{idx}: {old_correct!r} -> {new[correct]!r}')
+            keys=[k for k in ('A','B','C') if k!=correct]
+            new=dict(x['answers'])
+            new[keys[0]]=wrongs[0]
+            new[keys[1]]=wrongs[1]
+            if new[correct] != old_correct:
+              raise SystemExit(f'Correct answer changed at #{idx}')
             x['answers']=new
             changed+=1
           p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-          print('Updated',changed,'sets; questions untouched')
+          print('Updated',changed,'sets; correct answers and questions untouched')
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
