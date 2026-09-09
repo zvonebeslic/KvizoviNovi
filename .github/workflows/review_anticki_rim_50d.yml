@@ -1,0 +1,32 @@
+name: Review AntickiRim next 50d
+on:
+  push:
+    paths: ['.github/workflows/review_anticki_rim_50d.yml']
+permissions:
+  contents: write
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          q="Herkulova žena na zemlji je bila Megara, a tko mu je bila žena kada je postao jedan od bogova?"
+          n=0
+          for x in d:
+            if x.get('question')==q:
+              x['answers']={'A':'Omfala','B':'Minerva','C':'Juventas'}
+              x['correct_answer']='C'
+              n+=1
+          if n!=1: raise SystemExit(f'Expected 1 match, got {n}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Remove ambiguous Herkul distractor" || exit 0
+          git push
