@@ -6033,9 +6033,9 @@
     "topic": "AntickiRim",
     "question": "Koje slovo je označavalo broj 500 u rimskom carstvu?",
     "answers": {
-      "A": "X",
+      "A": "C",
       "B": "D",
-      "C": "Dioklecijanova"
+      "C": "M"
     },
     "image": null,
     "correct_answer": "B"
@@ -6046,8 +6046,8 @@
     "topic": "AntickiRim",
     "question": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
     "answers": {
-      "A": "D",
-      "B": "X",
+      "A": "Augustova",
+      "B": "Hadrijanova",
       "C": "Dioklecijanova"
     },
     "image": null,
@@ -6072,9 +6072,9 @@
     "topic": "AntickiRim",
     "question": "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?",
     "answers": {
-      "A": "Dioklecijanova",
+      "A": "Maksimijana",
       "B": "Konstantina",
-      "C": "C"
+      "C": "Licinija"
     },
     "image": null,
     "correct_answer": "B"
@@ -6085,8 +6085,8 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski vojskovođa uz pomoć Vizigota, porazio Hune u bitci na Katalunskim poljima 451.g.?",
     "answers": {
-      "A": "Fruška Gora",
-      "B": "Tul Hostilije",
+      "A": "Stilihon",
+      "B": "Bonifacije",
       "C": "Flavije Aecije"
     },
     "image": null,
@@ -6099,8 +6099,8 @@
     "question": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
     "answers": {
       "A": "C",
-      "B": "Vepra",
-      "C": "Konstantina"
+      "B": "L",
+      "C": "D"
     },
     "image": null,
     "correct_answer": "A"
@@ -6111,9 +6111,9 @@
     "topic": "AntickiRim",
     "question": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
     "answers": {
-      "A": "C",
+      "A": "Vuka",
       "B": "Vepra",
-      "C": "Konstantinopol"
+      "C": "Bika"
     },
     "image": null,
     "correct_answer": "B"
@@ -6124,8 +6124,8 @@
     "topic": "AntickiRim",
     "question": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
     "answers": {
-      "A": "Vepra",
-      "B": "L",
+      "A": "Nikomedija",
+      "B": "Antiohija",
       "C": "Konstantinopol"
     },
     "image": null,
@@ -6138,8 +6138,8 @@
     "question": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
     "answers": {
       "A": "L",
-      "B": "Konstantinopol",
-      "C": "Zapadom"
+      "B": "C",
+      "C": "V"
     },
     "image": null,
     "correct_answer": "A"
@@ -6150,9 +6150,9 @@
     "topic": "AntickiRim",
     "question": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
     "answers": {
-      "A": "L",
+      "A": "Sjeverom",
       "B": "Zapadom",
-      "C": "Konstantinopol"
+      "C": "Jugom"
     },
     "image": null,
     "correct_answer": "B"
@@ -6164,7 +6164,7 @@
     "question": "Da se rimski car Valens rodio danas, bio bi građanin koje države?",
     "answers": {
       "A": "Srbije",
-      "B": "Francuskoj",
+      "B": "Bugarske",
       "C": "Hrvatske"
     },
     "image": null,
@@ -6177,8 +6177,8 @@
     "question": "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?",
     "answers": {
       "A": "Guske",
-      "B": "Konstantin",
-      "C": "Zapadom"
+      "B": "Golubovi",
+      "C": "Gavrani"
     },
     "image": null,
     "correct_answer": "A"
@@ -6189,9 +6189,9 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
     "answers": {
-      "A": "Guske",
+      "A": "Licinije",
       "B": "Konstantin",
-      "C": "Zapadom"
+      "C": "Konstancije II."
     },
     "image": null,
     "correct_answer": "B"
@@ -6202,8 +6202,8 @@
     "topic": "AntickiRim",
     "question": "Tko je bio car istočnog, u vrijeme kada je zapadno rimsko carstvo prestalo postojati?",
     "answers": {
-      "A": "Konstantin",
-      "B": "Bren",
+      "A": "Lav I.",
+      "B": "Bazilisk",
       "C": "Zenon"
     },
     "image": null,
@@ -6216,8 +6216,8 @@
     "question": "Koji rimski car je sazvao prvi ekumenski crkveni sabor?",
     "answers": {
       "A": "Konstantin",
-      "B": "Honoriju",
-      "C": "Odoakar"
+      "B": "Teodozije I.",
+      "C": "Gracijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -6228,9 +6228,9 @@
     "topic": "AntickiRim",
     "question": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
     "answers": {
-      "A": "Konstantin",
+      "A": "Konstanciju",
       "B": "Honoriju",
-      "C": "Odoakar"
+      "C": "Valentinijanu"
     },
     "image": null,
     "correct_answer": "B"
@@ -6241,8 +6241,8 @@
     "topic": "AntickiRim",
     "question": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
     "answers": {
-      "A": "Honoriju",
-      "B": "Milano",
+      "A": "Orest",
+      "B": "Ricimer",
       "C": "Odoakar"
     },
     "image": null,
