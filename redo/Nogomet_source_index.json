@@ -1,0 +1,2655 @@
+[
+  {
+    "index": 1,
+    "question": "Za koji je klub igrao Luis Suarez Miramontes kada je 1960.g. osvojio Ballon d'Or?",
+    "source_correct": "Barcelona",
+    "difficulty": 3,
+    "rarity": "silver"
+  },
+  {
+    "index": 2,
+    "question": "Koji nogometaš je osvajao Ballon d'Or rekordnih 8 puta?",
+    "source_correct": "Lionel Messi",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 3,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 2002.g. u Japanu i Južnoj Koreji?",
+    "source_correct": "Fevernova",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 4,
+    "question": "Kojeg prezimena su bila polubraća koja su igrala jedan protiv drugog na Svjetskom nogometnom prvenstvu 2010.g.? Jedan za Njemačku a drugi za Ganu.",
+    "source_correct": "Boateng",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 5,
+    "question": "Na kojem nogometnom stadionu svoje domaće utakmice igra Manchester City?",
+    "source_correct": "Etihad",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 6,
+    "question": "Na kojem stadionu svoje domaće nogometne utakmice igra GNK Dinamo Zagreb?",
+    "source_correct": "Maksimiru",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 7,
+    "question": "Kada je Michael Owen osvojio Ballon d'Or, jedan španjolac je 'ostao' na drugom mjestu, a to je bio tko?",
+    "source_correct": "Raul Gonzales",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 8,
+    "question": "Kako se zove tradicionalni dan 26. prosinca (decembra) kada se u Engleskoj igra velik broj nogometnih utakmica?",
+    "source_correct": "Boxing Day",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 9,
+    "question": "Koja je država bila domaćin Europskog nogometnog prvenstva 2024.g.?",
+    "source_correct": "Njemačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 10,
+    "question": "Sa koliko igrača nogometna momčad započinje susret?",
+    "source_correct": "11",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 11,
+    "question": "Koji nogometaš ima točno 5 zlatnih trofeja Ballon d'Or nagrade?",
+    "source_correct": "Cristiano Ronaldo",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 12,
+    "question": "Koji je maksimalan broj igrača koji mogu igrati na jednoj nogometnoj utakmici?",
+    "source_correct": "22",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 13,
+    "question": "Širina od 7,32m i visina na obje strane od 2,44m je dimenzija gola u kojem sportu?",
+    "source_correct": "Nogometu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 14,
+    "question": "Navijačke skupine Curva Nord i Curva Sud zajedno žive u kojem gradu?",
+    "source_correct": "Milanu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 15,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 2014.g. u Brazilu?",
+    "source_correct": "Brazuca",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 16,
+    "question": "Nogometaši kojeg kluba su doživjeli strašnu avionsku nesreću na aerodromu u Munchenu, 1958.g.?",
+    "source_correct": "Manchester Uniteda",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 17,
+    "question": "Koliko igrača nastupa za jedan nogometni klub u jednoj utakmici?",
+    "source_correct": "11",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 18,
+    "question": "Koji je bundesligaški klub, u sezoni 2023/24 ostao neporažen, te tako osvojio nogometno prvenstvo sa 28 pobjeda i 6 remija?",
+    "source_correct": "Bayer Leverkusen",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 19,
+    "question": "Pod kojim je nadimkom poznatiji nogometaš Edson Arantes do Nascimento?",
+    "source_correct": "Pele",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 20,
+    "question": "Koliko igrača više, jedne nogometne utakmice započinje susret u odnosu na broj igrača na početku jedne rukometne utakmice?",
+    "source_correct": "8",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 21,
+    "question": "U utakmici Hajduka i Varaždina, u sklopu 33. kola HNL sezone 2025/26, prvi put se u povijesti lige posložilo da su dva vratara na suprotnim stranama bila braća. Jedan je primio tri gola, a drugi samo jedan. Kako se prezivaju?",
+    "source_correct": "Silić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 22,
+    "question": "Koji ples možemo spojiti s dizajnom jedne Adidasove nogometne lopte, prvi put napravljene za SP 1978. godine u Argentini?",
+    "source_correct": "Tango",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 23,
+    "question": "'Timsah Arena' nogometni je stadion čije ime u prijevodu znači 'Krokodilova Arena', a cijeli kompleks izgrađen je tako da izgleda poput tog predatora. Stadion se nalazi u Aziji, a na njemu igra koji klub?",
+    "source_correct": "Bursaspor",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 24,
+    "question": "U kojem talijanskom gradu je sjedište tvrtke Panini, najpoznatije po nogometnim sličicama?",
+    "source_correct": "Modeni",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 25,
+    "question": "Kako se prezivaju braća koja su 1961. godine u Modeni osnovala tvrtku koja izdaje knjige, časopise, stripove, naljepnice i nogometne sličice?",
+    "source_correct": "Panini",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 26,
+    "question": "Koji je japanski proizvođač i izdavač videoigara na tržište plasirao serijal Pro Evolution Soccer?",
+    "source_correct": "Konami",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 27,
+    "question": "Iz koje zemlje originalno potječe serijal Pro Evolution Soccer?",
+    "source_correct": "Japana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 28,
+    "question": "U imenu serijala nogometnih videoigara poznatog pod kraticom PES, koju riječ označava slovo 'E'?",
+    "source_correct": "Evolution",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 29,
+    "question": "Strastveni navijači kojeg nogometnog kluba su princ William od Walesa i bivši britanski premijer David Cameron?",
+    "source_correct": "Aston Ville",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 30,
+    "question": "Kojeg su irskog nogometaša na Old Traffordu nazivali Crnim Biserom, a na Villa Parku Bogom?",
+    "source_correct": "Paula McGratha",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 31,
+    "question": "Pod kojim je nadimkom poznatiji legendarni brazilski nogometaš José Roberto Gama de Oliveira, a koji je dobio još u djetinjstvu zbog svog niskog rasta?",
+    "source_correct": "Bebeto",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 32,
+    "question": "U kojem je bosansko-hercegovačkom gradu rođen nogometni trener te bivši igrač Sergej Jakirović?",
+    "source_correct": "Mostaru",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 33,
+    "question": "Slaven Bilić je u Premiership 2020. godine uveo West Bromwich Albion, a Sergej Jakirović je 2026. godine u najviši rang engleskog nogometa odveo koji klub?",
+    "source_correct": "Hull City",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 34,
+    "question": "Samo su dva hrvatska trenera u povijesti engleskog Championshipa svoje klubove odveli do promocije u Premiership. Sergej Jakirović je to 2026. godine uspio s Hull Cityjem, a koji je hrvatski strateg 2020. godine isto ostvario s West Bromwich Albionom?",
+    "source_correct": "Slaven Bilić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 35,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2020.g.?",
+    "source_correct": "Italije",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 36,
+    "question": "Koji je njemački nogometni trener osvajao Ligu Prvaka sa dva različita njemačka kluba, Bayernom i Dortmundom?",
+    "source_correct": "Ottmar Hitzfeld",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 37,
+    "question": "Samo su 3 nizozemska kluba u povijesti nogometa osvajala neka od europskih kupova. To su Ajax, PSV i koji još klub?",
+    "source_correct": "Feyenoord",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 38,
+    "question": "Koliko korner zastavica postoji na nogometnom terenu?",
+    "source_correct": "4",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 39,
+    "question": "Koji je dio Signal Iduna Parka najpoznatiji po stojećim mjestima gdje najstrastveniji navijači Borussije izvode velicanstvene koreografije?",
+    "source_correct": "Yellow Wall",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 40,
+    "question": "Koji je engleski nogometaš čak 3 puta bio najbolji strijelac elitnog razreda engleskog nogometa, i to sa 3 različita kluba: Tottenhamom, Evertonom i Leicesterom?",
+    "source_correct": "Gary Lineker",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 41,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 2010.g. u Juznoafričkoj Republici?",
+    "source_correct": "Jabulani",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 42,
+    "question": "Koje ime dijele prvi komercijalni komunikacijski satelit lansiran 1962.g, koji je omogućio prve transatlantske TV prijenose uživo, i legendarna crno-bijela lopta korištena na FIFA SP-u 1970.g. čiji je kontrastni dizajn (crni pentagoni i bijeli heksagoni) posebno osmišljen kako bi bila jasno vidljiva na tadašnjim crno-bijelim televizorima, do kojih su utakmice dolazile, baš zahvaljujući spomenutim satelitima?",
+    "source_correct": "Telstar",
+    "difficulty": 3,
+    "rarity": "golden"
+  },
+  {
+    "index": 43,
+    "question": "Nastavi klupsku karijeru Ronalda Nazaria: Cruzeiro, PSV, Barcelona, Inter Milan, Real Madrid pa onda tko?",
+    "source_correct": "AC Milan",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 44,
+    "question": "Na kojem stadionu svoje domaće utakmice igra FC Bayern Munchen?",
+    "source_correct": "Allianz Arena",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 45,
+    "question": "U koji je talijanski klub iz Crvene Zvezde prešao Dejan Savićević?",
+    "source_correct": "Milan",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 46,
+    "question": "Koliko je puta Ronaldo Nazario osvajao Zlatnu Loptu?",
+    "source_correct": "2",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 47,
+    "question": "'Derbi Srama' iz 2013.g. se odnosi na susret 3. talijanske nogometne lige gdje je gostujućim navijačima bilo zabranjeno ići na utakmicu pa su igračima svojeg kluba prijetili smrću ako tamo zaigraju. Igrači su to shvatili ozbiljno pa su lažirali razne ozljede do te mjere da klub do 21. minute tog susreta više nije imao dovoljno igrača za nastaviti utakmicu. Utakmica je prekinuta a kasnija istraga je rezultirala izbacivanjem gostujućeg kluba iz lige te doživotnom suspenzijom nekih od igrača. Tada je domaćin bila Salernitana a nesretni gost je bila koja ekipa?",
+    "source_correct": "Nocerina",
+    "difficulty": 3,
+    "rarity": "platinum"
+  },
+  {
+    "index": 48,
+    "question": "Samo se jednom u povijesti dogodilo da nagrada Ballon d'Or nije dodijeljena, a to je bilo koje godine?",
+    "source_correct": "2020",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 49,
+    "question": "U sklopu koje se nogometne organizacije odvija svjetsko nogometno prvenstvo?",
+    "source_correct": "FIFA",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 50,
+    "question": "Dvije države koje više ne postoje su nekada osvajale Europsko nogometno prvenstvo, jedna je Sovjetski Savez a druga koja?",
+    "source_correct": "Čehoslovačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 51,
+    "question": "Clarence Seedorf je osvajao Ligu Prvaka sa tri različita kluba, Milanom, Real Madridom i kojim još klubom?",
+    "source_correct": "Ajaxom",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 52,
+    "question": "Roda i Venlo su nogometni klubovi u kojoj državi?",
+    "source_correct": "Nizozemskoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 53,
+    "question": "Koji talijan je u finalu svjetskog nogometnog prvenstva 1994.g. protiv Brazila promašio odlučujući jedanaesterac u raspucavanju?",
+    "source_correct": "Roberto Baggio",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 54,
+    "question": "Koji je nogometni trener vodio Borussiju Dortmund od 2008.g. do 2015.g.?",
+    "source_correct": "Jurgen Klopp",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 55,
+    "question": "Protiv kojeg golmana je Antonín Panenka izveo svoj legendarni penal u finalu EURA-a 1976.g.?",
+    "source_correct": "Sepp Maier",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 56,
+    "question": "Koji je trener vodio Bayer Leverkusen do naslova nogometnih prvaka njemačke Bundeslige u sezoni 2023/24?",
+    "source_correct": "Xabi Alonso",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 57,
+    "question": "Koja se država može pohvaliti da su njeni klubovi osvojili najviše titula Lige Prvaka, njih čak 20?",
+    "source_correct": "Španjolska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 58,
+    "question": "Samo je jedan bugarski nogometaš osvajao Ballon d'Or, a on je bio tko?",
+    "source_correct": "Hristo Stoichkov",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 59,
+    "question": "Koja je njemačka financijska tvrtka svoje ime ugravirala na stadione u Munchenu, Londonu, Sydneyju, Nici, Torinu, Sao Paulu i Beču?",
+    "source_correct": "Allianz",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 60,
+    "question": "Tko je 1956.g. osvojio prvi Ballon d'Or?",
+    "source_correct": "Stanley Matthews",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 61,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 2006.g.?",
+    "source_correct": "Italija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 62,
+    "question": "Alessandro del Piero je u svojoj nogometnoj karijeri talijansku Seriu B igrao sa dva kluba. Dvije sezone s Padovom te jednu s kim?",
+    "source_correct": "Juventusom",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 63,
+    "question": "Koji se ukrajinac nalazi u kući slavnih talijanskog nogometa?",
+    "source_correct": "Andriy Shevchenko",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 64,
+    "question": "Kojeg je igrača Sir Alex Ferguson 2003.g. pogodio kopačkom u glavu, nakon poraza u FA Kupu od Arsenala, nakon čega taj igrač, na ljeto napušta Manchester United i prelazi u redove Real Madrida?",
+    "source_correct": "Davida Beckhama",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 65,
+    "question": "U nogometu, Seviljski derbi se igra između Seville i kojeg još kluba?",
+    "source_correct": "Real Betis",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 66,
+    "question": "Reprezentacija koje je države iznenađujuće osvojila Europsko nogometno prvenstvo 2004.g.?",
+    "source_correct": "Grčke",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 67,
+    "question": "U čemu se nalazi nogometaš kojem se dodaje lopta dok je na protivničkoj polovici iza najzadnjeg braniča?",
+    "source_correct": "Zaleđu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 68,
+    "question": "Jaro i Oulu su nogometni klubovi iz koje države?",
+    "source_correct": "Finske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 69,
+    "question": "Koji je francuz igrajući za Real Madrid, 2022.g. osvojio Ballon d'Or?",
+    "source_correct": "Karim Benzema",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 70,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 2006.g. u Njemačkoj?",
+    "source_correct": "Teamgeist",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 71,
+    "question": "Koliko je Zlatnih lopti osvojio Lionel Messi?",
+    "source_correct": "8",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 72,
+    "question": "U koji je engleski nogometni klub prešao Davor Šuker nakon odlaska iz Real Madrida?",
+    "source_correct": "Arsenal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 73,
+    "question": "Tko je sa 42 gola ostao najbolji strijelac Sovijetske nogometne reprezentacije koja je trajala od 1922.g. do 1991.g.?",
+    "source_correct": "Oleg Blokhin",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 74,
+    "question": "Koji je finski nogometaš osvojio Ligu Prvaka sa Ajaxom 1995.g.?",
+    "source_correct": "Jari Litmanen",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 75,
+    "question": "Pod kojim je imenom poznatiji stadion 'Estádio Jornalista Mário Filho', koji se nalazi u Rio de Jarneiru i na kojem igraju Flamengo te Fluminense?",
+    "source_correct": "Maracana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 76,
+    "question": "Na koliko se poluvremena dijeli jedna nogometna utakmica?",
+    "source_correct": "2",
+    "difficulty": 3,
+    "rarity": "silver"
+  },
+  {
+    "index": 77,
+    "question": "Koje ime dijele nogometaši Van Nistelrooy, Gulit i Krol?",
+    "source_correct": "Ruud",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 78,
+    "question": "Koga je Njemačka pobijedila 7-1 u polufinalu Svjetskog nogometnog prvenstva 2014.g. održanog u Brazilu?",
+    "source_correct": "Brazil",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 79,
+    "question": "Igrajući za koji klub, Cristiano Ronaldo osvaja svoj prvi Ballon d'Or?",
+    "source_correct": "Manchester United",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 80,
+    "question": "Davor Šuker je na EURO-u 1996.g. zabio, između ostalih, i svoja dva legendarna gola, 'lobovao' je Schmeichela, a 'zavaljao' koga?",
+    "source_correct": "Andreasa Kopkea",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 81,
+    "question": "U kojem je klubu Gianluigi Buffon započeo te završio svoju profesionalnu nogometnu karijeru?",
+    "source_correct": "Parma",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 82,
+    "question": "Koji je nogometaš Intera i Italije, sin Valentina Mazzolija, osvojio Europsko prvenstvo 1968.g. i bio dio 'Grande Intera'?",
+    "source_correct": "Sandro Mazzoli",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 83,
+    "question": "Stadion Jose Alvalade se nalazi u kojem portugalskom gradu?",
+    "source_correct": "Lisabonu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 84,
+    "question": "Koja je utjecajna obitelj od 1923.g. većinski vlasnik nogometnog kluba Juventus?",
+    "source_correct": "Agnelli",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 85,
+    "question": "Koji je njemački napadač cijelu karijeru proveo u Hamburger SV-u i zabijao na 4 svjetska prvenstva?",
+    "source_correct": "Uwe Seeler",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 86,
+    "question": "Koja je Unitedova legenda osvojila Ballon d'Or 1966.g.?",
+    "source_correct": "Sir Bobby Charlton",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 87,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2024.g.?",
+    "source_correct": "Španjolske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 88,
+    "question": "Stade Velodrome je multifunkcijski stadion na kojem, između ostalog, svoje domaće utakmice igra i koji francuski klub?",
+    "source_correct": "Marseille",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 89,
+    "question": "U nogometu, Derby della Lanterna se igra između Sampdorie i kojeg još kluba?",
+    "source_correct": "Genoa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 90,
+    "question": "Koji je portugalski nogometaš osvojio Ligu Prvaka sa Portom 2004.g. i sa Barcelonom 2006.g.?",
+    "source_correct": "Deco",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 91,
+    "question": "Koji je nogometaš osvojio Ballon d'Or ispred Ronalda i Griezmanna?",
+    "source_correct": "Luka Modrić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 92,
+    "question": "Kapelica kojeg se katoličkog sveca nalazi u sklopu stadiona na Poljudu?",
+    "source_correct": "Sv. Šarbela",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 93,
+    "question": "Koji se nogometni stadion nekada zvao 'Westfalen'?",
+    "source_correct": "Signal Iduna Park",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 94,
+    "question": "Koji nogometni klub igra na stadionu koji je poznat pod nadimkom De Kuip, što u prijevodu znači Bačva?",
+    "source_correct": "Feyenoord",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 95,
+    "question": "Ako Inter Milan igra kod kuće onda je Giuseppe Meazza, a ako Milan ugošćuje protivnika onda je...?",
+    "source_correct": "San Siro",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 96,
+    "question": "Samo je jedan mađar u povijesti osvojio Ballon d'Or. Dogodilo se to 1967.g. a dobitnik se zove kako?",
+    "source_correct": "Florian Albert",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 97,
+    "question": "Koji je makedonac, 1991.g. dobio Zlatnu Kopačku igrajući za Crvenu Zvezdu?",
+    "source_correct": "Darko Pančev",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 98,
+    "question": "Na kojem kontinentu se, uz Australiju i Antartiku, nikada nije slavilo jedno od prva tri mjesta na nogometnim SP-ima?",
+    "source_correct": "Afrika",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 99,
+    "question": "Za kojeg je nogometaša Sir Alex Ferguson rekao da je 'rođen u zaleđu'?",
+    "source_correct": "Fillipa Inzaghija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 100,
+    "question": "Uz crnu, koja je još boja dominirala njemačkim dresom u polufinalnoj pobjedi 7:1 protiv domaćina Brazila na Svjetskom prvenstvu 2014. godine?",
+    "source_correct": "Crvena",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 101,
+    "question": "Nogometaši Paris Saint-Germaina osvojili su Ligu prvaka dvije godine zaredom, 2025. i 2026. U ta dva finala promijenio se samo vratar. Godine 2025. branio je Gianluigi Donnarumma, a tko je branio 2026.?",
+    "source_correct": "Matvei Safonov",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 102,
+    "question": "Koja se vrsta ptice nalazi na grbu nogometnog kluba ADO Den Haag?",
+    "source_correct": "Roda",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 103,
+    "question": "Susret Japana i Tunisa na Svjetskom prvenstvu 2026. godine ušao je u povijest kao koja po redu jubilarna utakmica ovog natjecanja?",
+    "source_correct": "Tisućita",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 104,
+    "question": "Koja je reprezentacija na Svjetskom prvenstvu 2026. godine smijenila izbornika nakon samo jedne odigrane utakmice?",
+    "source_correct": "Tunis",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 105,
+    "question": "Henryk Kasperczak i Sabri Lamouchi su nogometni treneri koji su otkaz dobili tijekom Svjetskog prvenstva, a obojica su vodila reprezentaciju koje države?",
+    "source_correct": "Tunisa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 106,
+    "question": "Prihvaćanje trenerskog mjesta u kojem je klubu koštalo Julena Lopeteguija mjesta španjolskog izbornika samo dva dana prije Svjetskog prvenstva 2018. godine?",
+    "source_correct": "Real Madrid",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 107,
+    "question": "Koji je španjolski nogometni izbornik dobio otkaz samo dva dana prije prve utakmice Španjolske na Svjetskom prvenstvu 2018. godine, nakon što je prihvatio posao u Real Madridu?",
+    "source_correct": "Julen Lopetegui",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 108,
+    "question": "Pod kojim je nadimkom poznatiji brazilski nogometaš koji je proslavio pogodak na Svjetskom prvenstvu 1994. godine oponašajući njihanje bebe u čast rođenja svog sina?",
+    "source_correct": "Bebeto",
+    "difficulty": 1,
+    "rarity": null
+  },
+  {
+    "index": 109,
+    "question": "Kojeg je talijanskog nogometaša Luis Suárez ugrizao tijekom utakmice na Svjetskom prvenstvu 2014. godine?",
+    "source_correct": "Giorgia Chiellinia",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 110,
+    "question": "Koji je nogometaš postao prvi osvajač Svjetskog prvenstva koji je tijekom svoje karijere nastupao i u Hrvatskoj nogometnoj ligi?",
+    "source_correct": "Dani Olmo",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 111,
+    "question": "Stadion Armando Diego Maradona je dom kojem talijanskom klubu?",
+    "source_correct": "Napoli",
+    "difficulty": 3,
+    "rarity": "silver"
+  },
+  {
+    "index": 112,
+    "question": "Koji je defanzivac AC Milana ostao upamćen u dresu s brojem 3, kao jedan od najboljih Milanovih igrača ikada, a sa tim je klubom osvojio 5 Liga Prvaka te 7 Scudetta?",
+    "source_correct": "Paolo Maldini",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 113,
+    "question": "U kojem se gradu igra nogometni derbi poznatiji pod nazivom 'Interkontinentalni derbi'?",
+    "source_correct": "Istanbulu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 114,
+    "question": "Kako se zove najveći škotski derbi između Celtica i Rangersa?",
+    "source_correct": "Old Firm",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 115,
+    "question": "Kako se naziva tehnika izvođenja penala u kojoj igrač lagano 'potkopa' loptu po sredini gola dok golman pada u stranu?",
+    "source_correct": "Panenka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 116,
+    "question": "Koji je veznjak osvojio Zlatnu loptu 1962.g. i zabio u finalu SP-a iste godine?",
+    "source_correct": "Josef Masopust",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 117,
+    "question": "Koji je nogometni velikan osvajao redom: Svjetsko Prvenstvo, Ballon d'Or, Ligu Prvaka (kao igrač) te Ligu Prvaka (kao trener)?",
+    "source_correct": "Zinedine Zidane",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 118,
+    "question": "Za koji je švicarski klub Karl Heinz Rummenigge odigrao dvije sezone?",
+    "source_correct": "Servette",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 119,
+    "question": "Koji je legendarni talijanski nogometaš bio najbolji strijelac Serie B u sezoni 2006/07?",
+    "source_correct": "Alessandro del Piero",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 120,
+    "question": "Koja je država bila domaćin Europskog nogometnog prvenstva 1996.g.?",
+    "source_correct": "Engleska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 121,
+    "question": "U kojoj se državi nalazi stadion Hampden Park koji se zbog sponzorskih obveza zove i Barclays Hampden?",
+    "source_correct": "Škotskoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 122,
+    "question": "AC Milan je umirovio dres sa brojem 6 u čast koje legende ovog kluba?",
+    "source_correct": "Franca Baresija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 123,
+    "question": "Koliko minuta traje jedno poluvrijeme u nogometu?",
+    "source_correct": "45",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 124,
+    "question": "Stadion 'Ramón Sánchez Pizjuán' je dom kojem nogometnom klubu?",
+    "source_correct": "Sevilla",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 125,
+    "question": "Samo se jedna država može pohvaliti da su čak dva puta njihovi nogometaši zauzeli prve tri pozicije na svečanoj dodjeli Ballon d'Or nagrade. Bilo je to 1972.g. i 1981.g. a država je koja?",
+    "source_correct": "Njemačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 126,
+    "question": "U turskom 'Interkontinentalnom derbiju', koji nogometni klub dolazi sa azijske strane Istanbula?",
+    "source_correct": "Fenerbahce",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 127,
+    "question": "Na prvoj međunarodnoj nogometnoj utakmici koja se odigrala 1872.g., sastale su se reprezentacije Engleske i koje još?",
+    "source_correct": "Škotske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 128,
+    "question": "Reprezentacija koje je države gubila u finalima Europskog nogometnog prvenstva 2024.g. i 2020.g.?",
+    "source_correct": "Engleske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 129,
+    "question": "Koji je nogometni trener osvojio Ligu Prvaka s Ajaxom 1995.g.?",
+    "source_correct": "Louis van Gaal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 130,
+    "question": "Koji je nogometni vratar većinu svoje karijere proveo u Real Madridu te tako postao vratar s najviše nastupa od svih Realovih vratara, u povijesti tog kluba?",
+    "source_correct": "Iker Casillas",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 131,
+    "question": "Na kojem stadionu svoje domaće nogometne utakmice igra NK Hajduk Split?",
+    "source_correct": "Poljudu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 132,
+    "question": "Tko je do danas ostao najbolji strijelac ukrajinske nogometne reprezentacije?",
+    "source_correct": "Andriy Shevchenko",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 133,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 1998.g.?",
+    "source_correct": "Francuska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 134,
+    "question": "Koji je nogometni trener osvojio naslove u svih 5 najjačih liga Europe?",
+    "source_correct": "Carlo Ancelotti",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 135,
+    "question": "Koji je trener jedini u povijesti osvajao domaće nogometno prvenstvo u Rimu, Milanu i Madridu te Torinu (koja je kasnije poništena)?",
+    "source_correct": "Fabio Capello",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 136,
+    "question": "Iako je najveći dio karijere branio u Juventusu, koji je nogometni vratar svoju profesionalnu karijeru započeo i završio u Parmi?",
+    "source_correct": "Gianluigi Buffon",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 137,
+    "question": "Tko je bio izbornik Njemačke nogometne reprezentacije kada je osvojila SP u Brazilu 2014.g.?",
+    "source_correct": "Joachim Low",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 138,
+    "question": "Kako se naziva nogometna utakmica između Real Madrida i Barcelone?",
+    "source_correct": "El Clasico",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 139,
+    "question": "Maksimalan broj igrača na jednoj nogometnoj utakmici je 22, a koji je minimalan broj njih na jednoj utakmici?",
+    "source_correct": "14",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 140,
+    "question": "Gil Vicente i Rio Ave su nogometni klubovi u kojoj državi?",
+    "source_correct": "Portugalu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 141,
+    "question": "Nastavi karijeru Dennisa Bergkampa: Ajax, Inter Milan, pa onda tko?",
+    "source_correct": "Arsenal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 142,
+    "question": "Koji nogometni klub svoje domaće susrete igra na Stamford Bridgeu?",
+    "source_correct": "Chelsea",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 143,
+    "question": "Jimmy Greaves, legenda engleskog nogometa, je preko 100 golova zabijao za dva engleska kluba, jedan je Tottenham, a drugi koji?",
+    "source_correct": "Chelsea",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 144,
+    "question": "U kojem je klubu svoju profesionalnu karijeru počeo Edin Džeko?",
+    "source_correct": "Željezničaru",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 145,
+    "question": "Koji je njemački trener u finalu svjetskog nogometnog prvenstva 2002.g. izgubio od Luiza Felipea Scolarija?",
+    "source_correct": "Rudolf Rudi Voller",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 146,
+    "question": "Uz pobjedu i poraz, jedan nogometni klub može završiti utakmicu i kako još?",
+    "source_correct": "Neriješeno",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 147,
+    "question": "Tko je zabio hat-trick za Bayern Munchen u polufinalu Lige Prvaka 2010.g. protiv Lyona?",
+    "source_correct": "Ivica Olić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 148,
+    "question": "Kojem su engleskom nogometašu pripale Ballon d'Or nagrade 1978 g. I 1979.g.?",
+    "source_correct": "Kevinu Keeganu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 149,
+    "question": "Koju godinu FIFA smatra kao godinu kada je odigran prvi službeni meč između dvije reprezentacije?",
+    "source_correct": "1872",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 150,
+    "question": "Koji je klub osvojio englesku Premier Ligu 2016.g.?",
+    "source_correct": "Leicester",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 151,
+    "question": "U kojem je latinoameričkom klubu Pele ostavio neizbrisiv trag?",
+    "source_correct": "Santos",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 152,
+    "question": "Prezime kojeg se urugvajskog nogometaša krije u anagramu riječi 'naivac'?",
+    "source_correct": "Cavani",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 153,
+    "question": "Koji klub je u sezoni 2003/04.g. osvojio englesku Premier Ligu neporažen, sa 26 pobjeda i 12 remija?",
+    "source_correct": "Arsenal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 154,
+    "question": "Kako se zove stadion na kojem svoje domaće utakmice igra Barcelona?",
+    "source_correct": "Camp Nou",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 155,
+    "question": "U kojem su gradu, Brazilci kao domaćini SP-a, izgubili polufinalnu utakmicu 7-1 protiv Njemaca?",
+    "source_correct": "Belo Horizonte",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 156,
+    "question": "Koji je talijanski branič osvojio Ballon d'Or 2006.g.?",
+    "source_correct": "Fabio Cannavaro",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 157,
+    "question": "Koji je francuz, igrajući za Marseille, osvojio Zlatnu Loptu 1991.g.?",
+    "source_correct": "Jean Pierre Papin",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 158,
+    "question": "Zbog kojeg je igrača Davor Šuker ostao bez Zlatne Lopte 1998.g.?",
+    "source_correct": "Zinedina Zidana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 159,
+    "question": "Velika trojka turskog nogometa su klubovi Besiktas, Galatasaray i Fenerbahce a samo jedan od njih ima stadion na azijskom dijelu grada, a to je koji klub?",
+    "source_correct": "Fenerbahce",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 160,
+    "question": "Poguban klizeći start na Eduarda da Silvu koji mu je promijenio blistavu karijeru, je 2008.g. u Premier Ligi napravio koji branič Birminghama?",
+    "source_correct": "Martin Taylor",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 161,
+    "question": "Kojeg nogometnog trenera poznajemo pod nadimkom 'Special One', majstora taktike i psihologije na terenu koji je osvajao Ligu Prvaka s Portom i Interom?",
+    "source_correct": "Jose Mourinho",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 162,
+    "question": "Johnny Haynes je u svojoj nogometnoj karijeri najviše nastupa zabilježio za koji engleski klub?",
+    "source_correct": "Fulham",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 163,
+    "question": "'Tupras Stadyumu' je nogometni stadion na kojem svoje domaće utakmice igra koji velikan turskog nogometa?",
+    "source_correct": "Besiktas",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 164,
+    "question": "Za koji je francuski klub, legendarni francuski nogometaš Raymond Kopa, u svojoj karijeri upisao najviše nastupa te zabio najviše golova?",
+    "source_correct": "Angers",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 165,
+    "question": "Koji nogometni klub igra na Estadio de Dragao tj. Zmajevom Stadionu?",
+    "source_correct": "Porto",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 166,
+    "question": "Na kojem su nogometnom stadionu otvorene te zatvorene Olimpijske Igre 2016.g.?",
+    "source_correct": "Maracana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 167,
+    "question": "Koje ime dijele jedan legendarni brazilski nogometaš iz prve polovice 20-og stoljeća te jedan legendarni kralj Sparte?",
+    "source_correct": "Leonidas",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 168,
+    "question": "Koji je češki nogometaš 2003.g. osvojio Ballon d'Or?",
+    "source_correct": "Pavel Nedved",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 169,
+    "question": "Koji je trener s talijanskom nogometnom reprezentacijom osvojio Europsko Prvenstvo 2020.g.?",
+    "source_correct": "Roberto Mancini",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 170,
+    "question": "Koja država je prva u povijesti osvojila Svjetsko nogometno prvenstvo?",
+    "source_correct": "Urugvaj",
+    "difficulty": 3,
+    "rarity": "silver"
+  },
+  {
+    "index": 171,
+    "question": "Koja je marka sportske odjeće, obuće i opreme, dizajnirala svaku službenu loptu svjetskih prvenstava od 1970.g. do danas?",
+    "source_correct": "Adidas",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 172,
+    "question": "Na kojem se nogometnom stadionu, prije svake utakmice pjeva 'himna', You'll never walk alone?",
+    "source_correct": "Anfield",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 173,
+    "question": "Tko je jedini englez koji je u ovom tisućljeću osvojio Ballon d'Or?",
+    "source_correct": "Michael Owen",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 174,
+    "question": "Koji je legendarni talijanski golman, s 40 godina, kao kapetan podigao trofej svjetskog prvaka 1982.g.?",
+    "source_correct": "Dino Zoff",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 175,
+    "question": "Samo je jedan danac osvajao Ballon d'Or, bilo je to davne 1977.g. a nogometaš se zove kako?",
+    "source_correct": "Allan Simonsen",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 176,
+    "question": "Pod kojim nadimkom je poznatiji Zvezdin 'Rajko Mitić Stadion'?",
+    "source_correct": "Marakana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 177,
+    "question": "Koji se nogometni derbi igra u Milanu?",
+    "source_correct": "Derby della Madonnina",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 178,
+    "question": "Koji je trener vodio svoj Leicester City do naslova nogometnih prvaka engleske Premier Lige u sezoni 2015/16?",
+    "source_correct": "Claudio Ranieri",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 179,
+    "question": "Koji je nogometni vratar zabijao golove u Ligi Prvaka dok je branio za Hamburg, Leverkusen te Bayern, a sve je zabio protiv istog protivnika, Juventusa?",
+    "source_correct": "Hans Jorg Butt",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 180,
+    "question": "Igrajući za koji njemački klub, Kevin Keegan osvaja svoja dva Ballon d'Ora?",
+    "source_correct": "Hamburger SV",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 181,
+    "question": "Koje slovo se nalazi na početku svake riječi u imenu navijača Dinama iz Zagreba?",
+    "source_correct": "B",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 182,
+    "question": "Koji je trener vratio Juventus iz druge u prvu talijansku nogometnu ligu 2007.g.?",
+    "source_correct": "Didier Deschamps",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 183,
+    "question": "Za koju se talijansku nogometnu legendu kaže da je 'čovjek koji je umro stojeći'?",
+    "source_correct": "Roberta Baggia",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 184,
+    "question": "Zabijajući za koji klub je Lionel Messi čak 6 puta bio najbolji strijelac Lige Prvaka?",
+    "source_correct": "Barcelonu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 185,
+    "question": "Svoja 2 od ukupno 3 Ballon d'Ora, Johan Cruyff je osvojio igrajući za koji klub?",
+    "source_correct": "Barcelonu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 186,
+    "question": "Na prvom svjetskom prvenstvu u nogometu, Urugvaj je osvojio protiv Argentine, a SAD su za treće mjesto pobijedile koga?",
+    "source_correct": "Jugoslaviju",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 187,
+    "question": "Koji je francuz osvojio Ballon d'Or ispred Yamala i Vitinhe?",
+    "source_correct": "Ousmane Dembele",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 188,
+    "question": "Koji nogometni magazin dodjeljuje prestižnu Ballon d'Or nagradu?",
+    "source_correct": "France Football",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 189,
+    "question": "Koji je nogometaš prekinuo desetogodišnji niz Messija i Ronalda u osvajanju Ballon d'Or nagrade?",
+    "source_correct": "Luka Modrić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 190,
+    "question": "Pod kojim je imenom poznatiji nogometni stadion 'Estadio Alberto J. Armando' koji se nalazi u Buenos Airesu i na kojem utakmice igra ekipa Boca Juniorsa?",
+    "source_correct": "La Bombonera",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 191,
+    "question": "Kada je 2022.g. Dinamo Zagreb u Ligi Prvaka sa 1-0 pobijedio protiv Chelsea, odmah idući dan je koji trener Chelsea dobio otkaz?",
+    "source_correct": "Thomas Tuchel",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 192,
+    "question": "Koji je nizozemski nogometaš igrao za Arsenal, Manchester United i Fenerbahce a karijeru počeo i završio u Feyenoordu?",
+    "source_correct": "Robin van Persie",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 193,
+    "question": "Na kojem je nogometnom stadionu ekipa Atletico Madrida uvijek težak domaćin za pobijediti?",
+    "source_correct": "Metropolitano",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 194,
+    "question": "Svi znamo da je Maradona 1986.g. zabio 'Božju ruku' , ali malo tko zna na kojem se stadionu to dogodilo. Danas tu igra ekipa Club Americe te meksička reprezentacija, a stadion se zove kako?",
+    "source_correct": "Azteca Stadium",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 195,
+    "question": "Tko je predvodio reprezentaciju Italije do titule svjetskih nogometnih prvaka 1982.g. sa 6 postignutih golova na turniru?",
+    "source_correct": "Paolo Rossi",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 196,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 2014.g.?",
+    "source_correct": "Brazilu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 197,
+    "question": "'Derby of the Eternal Enemies' ili 'Derbi vječitih neprijatelja' je poslastica grčkog nogometa a igra se između Panathinaikosa i kojeg još kluba?",
+    "source_correct": "Olympiacosa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 198,
+    "question": "Tko je u finalu svjetskog nogometnog prvenstva 1966.g. zabio hat-trick u pobjedi Engleske protiv Zapadne Njemačke 4-2 te tako postao prvi nogometaš koji je zabio 3 gola u nekom od finala SP-a?",
+    "source_correct": "Geoff Hurst",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 199,
+    "question": "U turskom 'Interkontinentalnom derbiju', koji nogometni klub dolazi sa europske strane Istanbula?",
+    "source_correct": "Galatasaray",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 200,
+    "question": "Kako se zovu navijači FK Partizana?",
+    "source_correct": "Grobari",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 201,
+    "question": "Na kojem je stadionu Ajax gostovao, ako je igrao protiv PSV Eindhovena?",
+    "source_correct": "Philips Stadion",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 202,
+    "question": "Na kojem nogometnom stadionu svoje domaće utakmice igra Real Madrid?",
+    "source_correct": "Santiago Bernabeu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 203,
+    "question": "U kojem je klubu Thierry Henry proveo najveći dio svoje karijere?",
+    "source_correct": "Arsenalu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 204,
+    "question": "Pod kojim je nadimkom poznatiji nogometaš Rodrigo Hernández Cascante?",
+    "source_correct": "Rodri",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 205,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2000.g.?",
+    "source_correct": "Francuske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 206,
+    "question": "Samo je jedan golman u povijesti nogometa bio dobitnik prestižne Ballon d'Or nagrade, a on je bio tko?",
+    "source_correct": "Lev Yashin",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 207,
+    "question": "'Sir Matt Busby player of the year' je nagrada za najboljeg igrača godine po izboru navijača u kojem nogometnom klubu?",
+    "source_correct": "Manchester Unitedu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 208,
+    "question": "Dres s kojim brojem je umirovio Manchester City 2003.g. nakon tragične smrti njihovog igrača Marc Vivien Foea?",
+    "source_correct": "23",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 209,
+    "question": "Na kojem nogometnom stadionu Manchester United ugošćuje svoje protivnike?",
+    "source_correct": "Old Trafford",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 210,
+    "question": "Kojim imenom se naziva gol kojeg nogometaš zabija izravno iz kornera bez da itko drugi dodirne loptu?",
+    "source_correct": "Olimpico",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 211,
+    "question": "Tko je 2000-e godine, ispred Zidanea i Shevchenka osvojio Zlatnu Loptu?",
+    "source_correct": "Luis Figo",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 212,
+    "question": "Koji su modni brend 2000-ih osnovali nogometaši Paolo Maldini i Christian Vieri?",
+    "source_correct": "Sweet Dreams",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 213,
+    "question": "Falkirk i Aberdeen su nogometni klubovi u kojoj državi?",
+    "source_correct": "Škotskoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 214,
+    "question": "Koji je nogometaš osvojio Ballon d'Or godinu prije desetogodišnje dominacije Ronalda i Messija?",
+    "source_correct": "Kaka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 215,
+    "question": "Koje ime nosi stadion FC Barcelone?",
+    "source_correct": "Camp Nou",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 216,
+    "question": "Koja je država bila domaćin Europskog nogometnog prvenstva 2016.g.?",
+    "source_correct": "Francuska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 217,
+    "question": "Samo se jednom u povijesti Ballon d'Ora dogodilo to da je dobitnik ove nagrade igrao za klub koji nije iz Europe. Koji je to klub bio?",
+    "source_correct": "Inter Miami",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 218,
+    "question": "Stadion kojeg nogometnog kluba se kroz povijest zvao Papazin Cayiri, Union Club Field, Ittihat Spor Field, Ulker stadion Sukru Saracoglu, a od nedavno i Chobani?",
+    "source_correct": "Fenerbahcea",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 219,
+    "question": "Koja je država imala prva tri mjesta na Ballon d’Oru 1988.g. zahvaljujući igračima poput Marca van Bastena, Ruuda Gullita i Franka Rijkaarda?",
+    "source_correct": "Nizozemska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 220,
+    "question": "Koji je brazilac proglašen najboljim igračem finala svjetskog nogometnog prvenstva 2002.g.?",
+    "source_correct": "Ronaldo Nazario",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 221,
+    "question": "Nogometni stadion kojeg se kluba nalazi najbliže vodi Bospora",
+    "source_correct": "Besiktasa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 222,
+    "question": "Kada je Marco Van Basten osvajao Zlatnu Loptu '88 i '89 na postolju su stajali igrači samo jednog kluba, kojeg?",
+    "source_correct": "Milana",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 223,
+    "question": "Talijanska nogometna legenda, Giacinto Facchetti, u svojoj je karijeri nastupao samo za jedan klub, koji?",
+    "source_correct": "Inter Milan",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 224,
+    "question": "Za koji je nogometni klub Andriy Shevchenko zabio najviše golova u svojoj karijeri?",
+    "source_correct": "Milan",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 225,
+    "question": "Najveći hrvatski nogometni derbi igra Dinamo Zagreb i koji još klub?",
+    "source_correct": "Hajduk Split",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 226,
+    "question": "Koja država je, sa Južnom Korejom, održala svjetsko nogometno prvenstvo 2002.g.?",
+    "source_correct": "Japan",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 227,
+    "question": "Ako je netko zabio hat-trick, onda je u protivničku mrežu poslao koliko lopti?",
+    "source_correct": "3",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 228,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2008.g.?",
+    "source_correct": "Španjolske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 229,
+    "question": "U eri Messija i Ronalda, od 12 uzastopnih sezona Lige Prvaka njih dvoje su naizmjenično bili najbolji strijelci u svima od njih, a jedan je nogometaš bar na kratko uspio razbiti njihovu dominaciju te se u sezoni 2013/14 sa 10 golova izjednačio na vrhu sa ove dvije spomenute legende. Tko je on?",
+    "source_correct": "Neymar",
+    "difficulty": 3,
+    "rarity": "golden"
+  },
+  {
+    "index": 230,
+    "question": "Koji nogometaš je zabio gol poznat po imenu 'Božja ruka'?",
+    "source_correct": "Maradona",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 231,
+    "question": "Koja je posebna sportska obuća dizajnirana za igranje nogometa, ragbija i sličnih sportova na travi?",
+    "source_correct": "Kopačke",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 232,
+    "question": "Od 2010.g. do 2020.g. samo je jedan brazilac završavao na postolju za prestižnu Ballon d'Or nagradu, a to je tko?",
+    "source_correct": "Neymar",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 233,
+    "question": "Koji je nogometni trener sa Barcelonom revolucionirao poznatu 'tiki-taka' strategiju?",
+    "source_correct": "Pep Guardiola",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 234,
+    "question": "Koji je premierligaški klub, u sezoni 2003/04 ostao neporažen, te tako osvojio nogometno prvenstvo sa 26 pobjeda i 12 remija?",
+    "source_correct": "Arsenal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 235,
+    "question": "Derby d'Italia se igra između nogometnih velikana Inter Milana i kojeg još kluba?",
+    "source_correct": "Juventusa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 236,
+    "question": "U kojem švicarskom gradu, svoje domaće utakmice igraju nogometaši Servete FC?",
+    "source_correct": "Ženevi",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 237,
+    "question": "Nastavi klupsku karijeru Michela Platinija: Nancy, Saint-Etienne pa onda koji klub?",
+    "source_correct": "Juventus",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 238,
+    "question": "Koja je reprezentacija osvojila treću poziciju na svjetskom nogometnom prvenstvu 2002.g.?",
+    "source_correct": "Turska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 239,
+    "question": "Koja je najstarija navijačka skupina u Europi, osnovana davne 1950-e godine?",
+    "source_correct": "Torcida Split",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 240,
+    "question": "Thomas Tuchel je s Chelseom osvojio čak i Ligu Prvaka ali je u tom klubu otkaz dobio nakon 1-0 poraza u LP, od kojeg kluba?",
+    "source_correct": "Dinamo Zagreb",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 241,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 2018.g.?",
+    "source_correct": "Francuska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 242,
+    "question": "Koliko minuta traje regularni dio nogometne utakmice?",
+    "source_correct": "90",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 243,
+    "question": "Kako se zovu navijači FK Sarajeva?",
+    "source_correct": "Horde Zla",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 244,
+    "question": "Na kojem su stadionu nogometaši Arsenala uvijek neugodni domaćini?",
+    "source_correct": "Emirates",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 245,
+    "question": "Za koju reprezentaciju je Michel Platini zabio 41 pogodak?",
+    "source_correct": "Francusku",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 246,
+    "question": "Pod kojim je nadimkom ostao poznat dvojac iz Bayern Munchena, Ribery - Robben, koji je činio ubojita krila tog kluba?",
+    "source_correct": "Robbery",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 247,
+    "question": "Kako se zvao skandal s namještanjem utakmica koji je potresao talijanski nogomet 2006.g., zbog kojeg je Juventusu oduzeta titula prvaka te zbog čega je taj klub izbačen u drugu ligu?",
+    "source_correct": "Calciopoli",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 248,
+    "question": "Koji je klub uz Tottenham, Liverpool i Barcelonu, igrao završnicu nogometne Lige Prvaka u sezoni 2018/19?",
+    "source_correct": "Ajax",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 249,
+    "question": "Koji nogometaš drži rekord njemačke Bundeslige s 365 postignutih golova?",
+    "source_correct": "Gerd Muller",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 250,
+    "question": "Kojem je portugalcu, prvom nakon Eusebija, pošlo za 'nogom' osvojiti Ballon d'Or?",
+    "source_correct": "Luisu Figu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 251,
+    "question": "Koji je legendarni njemački nogometaš bio trener njemačke reprezentacije na SP-u 2006.g. te ih odveo do trećeg mjesta na turniru?",
+    "source_correct": "Jurgen Klinsmann",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 252,
+    "question": "Koji je nogometni trener odveo Južnu Koreju do polufinala na SP-u 2002.g., Australiju do osmine finala na SP-u 2006.g. i Rusiju do polufinala na EP-u 2008.g.?",
+    "source_correct": "Guus Hiddink",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 253,
+    "question": "Koji je nogometni vratar primio čak 7 golova u polufinalu Svjetskog Prvenstva 2014.g.?",
+    "source_correct": "Julio Cesar",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 254,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 1998.g. u Francuskoj?",
+    "source_correct": "Tricolore",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 255,
+    "question": "Koje je godine Hrvatska nogometna reprezentacija prvi put nastupila na Europskom prvenstvu?",
+    "source_correct": "1996",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 256,
+    "question": "'Sveto trojstvo' Manchester United čine Sir Bobby Charlton, George Best i tko još?",
+    "source_correct": "Denis Law",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 257,
+    "question": "Koji je nogometaš jedini u povijest igrao El Clasico te Derby della Madonnina za obje strane tih ligaških klasika?",
+    "source_correct": "Ronaldo Nazario",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 258,
+    "question": "Koji je nogometni trener osvojio čak 5 naslova Lige Prvaka, najviše od svih trenera u povijesti a to mu je pošlo za rukom 3 puta sa Real Madridom te 2 puta sa Milanom?",
+    "source_correct": "Carlo Ancelotti",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 259,
+    "question": "Nagrada 'Sir Matt Busby' za najboljeg igrača godine se dodjeljuje u kojem sportu?",
+    "source_correct": "Nogometu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 260,
+    "question": "Koji klub je 1956.g. u svojim redovima imao prvog dobitnika nagrade Ballon d'Or?",
+    "source_correct": "Blackpool",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 261,
+    "question": "Koji je nogometni trener vodio Bayern Munchen u bundesligaškoj sezoni 2012/13 kada je klub osvojio rekordni 91 bod uz gol razliku 80+?",
+    "source_correct": "Jupp Heynckes",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 262,
+    "question": "Koja godina stoji na grbu nogometnog kluba AC Milana?",
+    "source_correct": "1899",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 263,
+    "question": "Ako je nogometna utakmica u ligaškoj ili grupnoj fazi ostala neriješeno, ukupno je se podijelilo koliko bodova?",
+    "source_correct": "2",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 264,
+    "question": "Samo je jedan bosansko-hercegovački nogometaš zabio preko 30 golova u Ligi Prvaka, a to je tko?",
+    "source_correct": "Edin Džeko",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 265,
+    "question": "Koji je nogometaš osvajao Ballon d'Or '83, '84 i '85?",
+    "source_correct": "Michel Platini",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 266,
+    "question": "Merseyside Derby je engleski nogometni derbi koji se igra između Liverpoola i kojeg još kluba?",
+    "source_correct": "Evertona",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 267,
+    "question": "'La Vecchia Signora' je nadimak kojeg talijanskog nogometnog kluba?",
+    "source_correct": "Juventusa",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 268,
+    "question": "Na kojem stadionu PSG dočekuje svoje nogometne protivnike?",
+    "source_correct": "Park Prinčeva",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 269,
+    "question": "Za koji je klub Ferenc Puskas zabio 352 gola u 341-om nastupu?",
+    "source_correct": "Honved",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 270,
+    "question": "Koja je država, uz Nizozemsku, bila domaćin Europskog nogometnog prvenstva 2000.g.?",
+    "source_correct": "Belgija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 271,
+    "question": "U kojem je klubu svoju nogometnu karijeru završio Eric Cantona?",
+    "source_correct": "Manchester Unitedu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 272,
+    "question": "Koji po redu naslov svjetskog nogometnog prvaka je Brazil osvojio u Japanu 2002.g.?",
+    "source_correct": "5",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 273,
+    "question": "Koji je nogometni trener priuštio Atleticu iz Madrida dvije titule španjolskih prvaka u ovom tisućljeću?",
+    "source_correct": "Diego Simeone",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 274,
+    "question": "Koje ime nosi vječiti derbi između Boca Juniorsa i River Platea?",
+    "source_correct": "Superclasico",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 275,
+    "question": "Službena lopta Europskog nogometnog prvenstva u Portugalu iz 2002.g. je dobila ime po dnevniku putovanja Vasca da Game, a zove se kako?",
+    "source_correct": "Roteiro",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 276,
+    "question": "Na kojem se kontinentu nalazi najveći broj stadiona, istanbulskih prvoligaša?",
+    "source_correct": "Europi",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 277,
+    "question": "Čija nadoknada produžava nogometnu utakmicu nakon 45-e i 90-e minute?",
+    "source_correct": "Sudačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 278,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 2010.g.?",
+    "source_correct": "Južno Afričkoj Republici",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 279,
+    "question": "Koji je nogometaš osvajao Ligu Prvaka 4 puta, sa 3 različita kluba?",
+    "source_correct": "Clarence Seedorf",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 280,
+    "question": "Koji je jedini nogometaš koji je zabijao na 6 Svjetskih prvenstava?",
+    "source_correct": "Christiano Ronaldo",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 281,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 2022.g.?",
+    "source_correct": "Argentina",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 282,
+    "question": "Koja je država, uz Švicarsku, bila domaćin Europskog nogometnog prvenstva 2008.g.?",
+    "source_correct": "Austrija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 283,
+    "question": "Liberec i Zlin su nogometni klubovi iz koje države?",
+    "source_correct": "Češke",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 284,
+    "question": "U sklopu koje se nogometne organizacije odvija Liga Prvaka?",
+    "source_correct": "UEFA",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 285,
+    "question": "Radnički Niš i Spartak Subotica su nogometni klubovi u kojoj državi?",
+    "source_correct": "Srbiji",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 286,
+    "question": "Na kojem je stadionu PSV Eindhoven gostovao, ako je tri boda uzeo Ajaxu?",
+    "source_correct": "Johan Cruyff Arena",
+    "difficulty": 3,
+    "rarity": "silver"
+  },
+  {
+    "index": 287,
+    "question": "Koji su broj na dresu u Honvedu umirovili 2000.g. u čast klupskoj legendi, Ferencu Puskasu?",
+    "source_correct": "10",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 288,
+    "question": "Stadion Svjetla, često zvan i Katedrala, je nogometni stadion kojeg kluba?",
+    "source_correct": "Benfice",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 289,
+    "question": "Što se tiče trenera u kući slavnih talijanskog nogometa, svi su oni veliki talijanski treneri osim jednoga, taj jedan je portugalac a zove se kako?",
+    "source_correct": "Jose Mourinho",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 290,
+    "question": "Koja je država bila domaćin Europskog nogometnog prvenstva 2004.g.?",
+    "source_correct": "Portugal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 291,
+    "question": "Tko je proglašen za najboljeg igrača svjetskog nogometnog prvenstva 2002.g.?",
+    "source_correct": "Oliver Kahn",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 292,
+    "question": "Koji nizozemac je zabio 'lob glavom' protiv Španjolske na SP-u u Brazilu, tijekom utakmice u grupnoj fazi natjecanja?",
+    "source_correct": "Robin van Persie",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 293,
+    "question": "Tko je kao kapetan Zapadne Njemačke podigao pobjednički pehar europskog nogometnog prvenstva 1972.g.?",
+    "source_correct": "Franz Beckenbauer",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 294,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2012.g.?",
+    "source_correct": "Španjolske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 295,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 2014.g.?",
+    "source_correct": "Njemačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 296,
+    "question": "Koju je nacionalnu ligu Zinedine Zidane osvajao kao trener?",
+    "source_correct": "La Ligu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 297,
+    "question": "Koji je škot trenirao Manchester United od 1986.g. do 2013.g.?",
+    "source_correct": "Alex Ferguson",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 298,
+    "question": "Kada je Eric Cantona otišao u mirovinu iz Manchester Uniteda 1997.g., dres sa brojem 7 je preuzeo koji legendarni izvođač slobodnjaka?",
+    "source_correct": "David Beckham",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 299,
+    "question": "Koliko golova je zabio nogometaš, ako piše da je zabio Hat-Trick?",
+    "source_correct": "3",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 300,
+    "question": "Na europskom prvenstvu 1976.g. održanom u Jugoslaviji, samo je jedan jugoslavenski reprezentativac završio u najboljih 11 cijelog turnira, a on je tko?",
+    "source_correct": "Dragan Džajić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 301,
+    "question": "Tko je sa Di Stefanom predvodio legendarni napad Real Madrida krajem 50-ih i početkom 60-ih?",
+    "source_correct": "Ferenc Puskas",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 302,
+    "question": "Koji je nogometaš 3 puta bio najbolji strijelac Lige Prvaka, sva tri puta zabijajući za Manchester United?",
+    "source_correct": "Ruud van Nisterlooy",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 303,
+    "question": "Dres sa brojem 10 su u AS Romi umirovili u čast kojoj legendi tog kluba?",
+    "source_correct": "Francescu Tottiju",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 304,
+    "question": "Koji je trener odveo Porto do osvajanja Lige Prvaka 2004.g.?",
+    "source_correct": "Jose Mourinho",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 305,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 1996.g.?",
+    "source_correct": "Njemačka",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 306,
+    "question": "Koji je legendarni nogometni trener osvajao englesku Premier Ligu čak 13 puta?",
+    "source_correct": "Sir Alex Ferguson",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 307,
+    "question": "Koji je brazilski 'čarobnjak' osvojio Zlatnu Loptu 2005.g. ispred engleskih velikana Lamparda i Gerrarda?",
+    "source_correct": "Ronaldinho",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 308,
+    "question": "Koji se nogometni trener nalazi za kormilom Atletico Madrida od 2011.g.?",
+    "source_correct": "Diego Simeone",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 309,
+    "question": "Koji je nogometni trener jedini u povijesti osvajao Ligu Prvaka 3 puta zaredom?",
+    "source_correct": "Zinedine Zidane",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 310,
+    "question": "Koji je brazilski igrač osvojio Ballon d'Or 1999.g. kao igrač Barcelone?",
+    "source_correct": "Rivaldo",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 311,
+    "question": "U nogometu, žuta i žuta daju koju boju?",
+    "source_correct": "Crvenu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 312,
+    "question": "Koja nogometna legenda Real Madrida nosi nadimak 'El Buitre'?",
+    "source_correct": "Emilio Butragueno",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 313,
+    "question": "Sa koliko se metara puca kazneni udarac u nogometu?",
+    "source_correct": "11",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 314,
+    "question": "Koji je hrvatski nogometaš osvajao Ligu Prvaka rekordnih 6 puta?",
+    "source_correct": "Luka Modrić",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 315,
+    "question": "Koji je osvajač Ballon d'Ora kasnije postao i predsjednikom države Liberije?",
+    "source_correct": "George Weah",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 316,
+    "question": "U kojoj je državi odigrano prvo nogometno Svjetsko Prvenstvo već davne 1930.g.?",
+    "source_correct": "Urugvaju",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 317,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 1998.g.?",
+    "source_correct": "Francuskoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 318,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 2018.g.?",
+    "source_correct": "Rusiji",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 319,
+    "question": "Viborg i Randers su nogometni klubovi iz koje države?",
+    "source_correct": "Danske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 320,
+    "question": "'Derby della Capitale' je nogometni klasik kojeg igraju Roma i koji još klub?",
+    "source_correct": "Lazio",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 321,
+    "question": "Nastavi trenersku karijeru Antonija Contea: Chelsea, Inter, Tottenham pa onda koji klub?",
+    "source_correct": "Napoli",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 322,
+    "question": "Koja četveroslovna riječ označava vizualnu koreografiju navijača na sportskim stadionima, najčešće u nogometu, koja uključuje velike zastave, transparente, dimne bombe ili papiriće u bojama kluba?",
+    "source_correct": "Tifo",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 323,
+    "question": "Koji je kamerunski nogometaš igrajući za svoju reprezentaciju protiv Kolumbije 2003.g., doživio srčani udar u 71.minuti susreta, nakon kojeg je i preminuo?",
+    "source_correct": "Marc Vivien Foe",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 324,
+    "question": "Kome u čast je SSC Napoli umirovio dres sa brojem 10?",
+    "source_correct": "Diegu Maradoni",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 325,
+    "question": "Sustav video-tehnologije koji u nogometu pomaže sucu da sudi fer i korektnu utakmicu se skraćeno zove VAR, a slovo R označava koju riječ?",
+    "source_correct": "Referee",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 326,
+    "question": "Tko je zabio panenku koja nije dirala mrežu, u finalu Svjetskog nogometnog prvenstva 2006.g.?",
+    "source_correct": "Zinedine Zidane",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 327,
+    "question": "Koliko je ljudskih figura koje drže globus, ugravirano u FIFA-in pehar svjetskog prvenstva?",
+    "source_correct": "Dvije",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 328,
+    "question": "Koji je nogometni trener vodio Liverpool od 2015.g. do 2024.g.?",
+    "source_correct": "Jurgen Klopp",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 329,
+    "question": "Koja reprezentacija je osvojila SP u nogometu 2010.g.?",
+    "source_correct": "Španjolska",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 330,
+    "question": "Koje godine je prvi put održan izbor za najboljeg nogometaša prošle sezone, po izboru France Footballa?",
+    "source_correct": "1956",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 331,
+    "question": "Koji je nogometaš s kraja starog te početka novog tisućljeća bio jako popularan, što zbog dobre igre ali i zbog dreadlocksa te zaštitnih naočala?",
+    "source_correct": "Edgar Davids",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 332,
+    "question": "Koji je nogometaš 1971.g. svojim fantastičnim igrama za Ajax osvojio svoj prvi Ballon d'Or?",
+    "source_correct": "Johan Cruyff",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 333,
+    "question": "Koji je trener vodio svoj Arsenal do naslova nogometnih prvaka engleske Premier Lige u sezoni 2003/04?",
+    "source_correct": "Arsene Wenger",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 334,
+    "question": "U nogometu, olimpijski gol se postiže iz kakvog prekida na utakmici?",
+    "source_correct": "Kornera",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 335,
+    "question": "Zbog kojeg je igrača Zidane dobio crveni karton u finalu SP-a 2006.g.?",
+    "source_correct": "Marca Materazzija",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 336,
+    "question": "Koji nogometni klub igra svoje utakmice na Olimpijskom stadionu u Londonu, koji je specijalno napravljen za OI 2012.g.?",
+    "source_correct": "West Ham",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 337,
+    "question": "Koji nogometni klub povezujemo za zračnom nesrećom 'Superga' iz 1949.g., gdje se avion sa cijelom ekipom tog kluba zbog magle zabio u Baziliku Superga pri čemu su svi članovi leta poginuli?",
+    "source_correct": "Torino",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 338,
+    "question": "Koga su igrači Manchester Uniteda pobijedili prije tragične avionske nesreće 1958.g. u Munchenu?",
+    "source_correct": "Crvenu Zvezdu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 339,
+    "question": "Kako se naziva Real Madridova generacija koja je dominirala španjolskim nogometom 60-ih, te 1966.g. osvojila Kup prvaka, a bila je sastavljena samo od španjolskih igrača?",
+    "source_correct": "Ye Ye",
+    "difficulty": 3,
+    "rarity": "golden"
+  },
+  {
+    "index": 340,
+    "question": "Koji je europski klub bio prva stanica Ronaldu Nazariu nakon što je napustio Cruzeiro i otišao iz Južne Amerike?",
+    "source_correct": "PSV",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 341,
+    "question": "Na EURU-u se 1968.g. pobjednik odlučivao u dvije utakmice. Prva finalna je završila 1-1 , a druga, ponovljena za 2 dana je završila pobjedom Italije od 2-0 protiv koje reprezentacije?",
+    "source_correct": "Jugoslavije",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 342,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 2006.g.?",
+    "source_correct": "Njemačkoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 343,
+    "question": "United Soccer Association (USA) je bila profesionalna nogometna liga sa klubovima iz SAD-a i Kanade, liga je trajala samo jednu sezonu (1967) a zbog manja profesionalnih ugovora, mnogi europski i latinoamerički klubovi su pozvani da sa cijelim svojim sastavima dođu igrati u ligu, tako je za Chicago Mustange igrala ekipa iz kojeg EU kluba?",
+    "source_correct": "Cagliari",
+    "difficulty": 3,
+    "rarity": "platinum"
+  },
+  {
+    "index": 344,
+    "question": "Koja portugalska riječ označava navijače koji zdušno navijaju za neki klub?",
+    "source_correct": "Torcida",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 345,
+    "question": "Koja je država, uz Poljsku, bila domaćin Europskog nogometnog prvenstva 2012.g.?",
+    "source_correct": "Ukrajina",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 346,
+    "question": "Ako kažemo za nogometaša da je standardni prvotimac, onda on sasvim sigurno ima svoje mjesto među koliko startnih igrača?",
+    "source_correct": "11",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 347,
+    "question": "U kojoj se državi odigralo Svjetsko nogometno prvenstvo 2022.g.?",
+    "source_correct": "Katru",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 348,
+    "question": "Nastavi klupsku karijeru Predraga Mijatovića: Budućnost, Partizan, Valencija pa onda koji klub?",
+    "source_correct": "Real Madrid",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 349,
+    "question": "Na mjestu gdje je izgrađena Groupama Arena 2014.g. nalazio je se stari Ferencvarosov stadion koji se zvao po kojoj legendi tog kluba?",
+    "source_correct": "Florianu Albertu",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 350,
+    "question": "Koji je vratar najviše puta osvajao UEFA-inu nagradu za najboljeg europskog vratara godine, čak 5 puta?",
+    "source_correct": "Manuel Neuer",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 351,
+    "question": "Koji je igrač zabio najviše golova u povijesti najelitnijeg engleskog razreda nogometa?",
+    "source_correct": "Alan Shearer",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 352,
+    "question": "Koji kompleks od 5 zgrada u Abu Dhabiju dijeli ime sa jednim nogometnih stadionom u Manchesteru?",
+    "source_correct": "Etihad",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 353,
+    "question": "Za koju je reprezentaciju, pored Argentinske, nastupao Enrique Omar Sivori?",
+    "source_correct": "Talijansku",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 354,
+    "question": "Tko je 2002.g. na SP-u u Japanu i Južnoj Koreji osvojio zlatnu loptu za najboljeg igrača cijelog turnira?",
+    "source_correct": "Oliver Kahn",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 355,
+    "question": "Koji je trener vodio svoj Juventus do naslova nogometnih prvaka talijanske Serie A u sezoni 2011/12?",
+    "source_correct": "Antonio Conte",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 356,
+    "question": "Na kojem se engleskom nogometnom stadionu održavaju finala FA kupa, Liga Kupa te utakmice Engleske reprezentacije?",
+    "source_correct": "Wembley",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 357,
+    "question": "Koji je talijanski nogometni klub, u sezoni 2011/12 ostao neporažen, te tako osvojio prvenstvo sa 23 pobjeda i 15 remija?",
+    "source_correct": "Juventus",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 358,
+    "question": "Koji je trener osvojio Svjetsko nogometno prvenstvo s Italijom 2006.g.?",
+    "source_correct": "Marcello Lippi",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 359,
+    "question": "Koliko najviše UEFA-inih zvjezdica može dobiti jedan nogometni stadion?",
+    "source_correct": "4",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 360,
+    "question": "U nogometu, koliko linijskih sudaca pomaže glavnom sucu dijeliti pravdu na terenu?",
+    "source_correct": "2",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 361,
+    "question": "Koje ime nosi najveći derbi španjolskog nogometa?",
+    "source_correct": "El Clasico",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 362,
+    "question": "Godina je 1997., na 'Tournoi de France' igraju Brazil i Francuska. Roberto Carlos se sprema izvesti slobodnjak sa nekih 35m i ne sluteći da će taj pogodak postati jedan od najljepših i najnevjerojatnijih golova u povijesti ovog sporta. Barthez je na golu Francuske i namješta živi zid od 4 igrača, a u zidu Vieira, Maurice, Deschamps i tko još?",
+    "source_correct": "Zinedine Zidane",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 363,
+    "question": "Laval i Bastia su nogometni klubovi iz koje države?",
+    "source_correct": "Francuske",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 364,
+    "question": "Koji je legendarni napadač Real Madrida osvojio Ballon d'Or 1957.g.?",
+    "source_correct": "Alfredo Di Stefano",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 365,
+    "question": "Kojeg smo francuskog nogometaša upamtili po dobrim igrama ali i po ožiljku na desnoj strani lica koju je kao dijete zadobio u automobilskoj nesreći?",
+    "source_correct": "Francka Riberyja",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 366,
+    "question": "Tko je bio trener brazilske nogometne reprezentacije 2002.g. na svjetskom prvenstvu u Japanu i Južnoj Koreji?",
+    "source_correct": "Luiz Felipe Scolari",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 367,
+    "question": "Reprezentacija koje je države osvojila Europsko nogometno prvenstvo 2016.g.?",
+    "source_correct": "Portugal",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 368,
+    "question": "Tko je osvojio prvu nagradu za FIFA-ina igrača godine, dodijeljenu 1991.g.?",
+    "source_correct": "Lothar Matthaus",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 369,
+    "question": "Koji je njemac osvojio svjetsko nogometno prvenstvo kao igrač i kao trener?",
+    "source_correct": "Franz Beckenbauer",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 370,
+    "question": "Mura i Koper su nogometni klubovi iz koje države?",
+    "source_correct": "Slovenije",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 371,
+    "question": "Cristiano Ronaldo je čak 7 puta bio najbolji strijelac Lige Prvaka. Od tih 7, šest je puta zabijao za Real Madrid te jednu sezonu za koji klub?",
+    "source_correct": "Manchester United",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 372,
+    "question": "Koji je portugalac, igrajući za Benficu, 1965.g. osvojio Zlatnu Loptu?",
+    "source_correct": "Eusebio",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 373,
+    "question": "Granada i Cadiz su nogometni klubovi u kojoj državi?",
+    "source_correct": "Španjolskoj",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 374,
+    "question": "Kako se zvala službena lopta Svjetskog nogometnog prvenstva 2022.g. u Katru?",
+    "source_correct": "Al Rihla",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 375,
+    "question": "Koji je nogometni trener vodio Španjolsku do naslova svjetskih i europskih prvaka 2010.g. te 2012.g.?",
+    "source_correct": "Vincent del Bosque",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 376,
+    "question": "Kako se zovu navijači FK Crvene Zvezde?",
+    "source_correct": "Delije",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 377,
+    "question": "Na kojem je stadionu Francuska nogometna reprezentacija pobijedila u finalu SP-a 1998.g.?",
+    "source_correct": "Stade de France",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 378,
+    "question": "U finalu svjetskog nogometnog prvenstva 2002.g. Brazil je pobijedio Njemačku 2:0, najbolji igrač utakmice je bio Ronaldo a pravdu na terenu je dijelio tko?",
+    "source_correct": "Pierluigi Collina",
+    "difficulty": 3,
+    "rarity": null
+  },
+  {
+    "index": 379,
+    "question": "Kada je Roberto Carlos 1997.g. zabio slobodnjak Francuzima na 'Tournoi de France', na golu francuza je bio Barthez, a u živom zidu su redom bili Vieira, Deschamps, Maurice i tko još?",
+    "source_correct": "Zinedine Zidane",
+    "difficulty": 3,
+    "rarity": "silver"
+  }
+]
