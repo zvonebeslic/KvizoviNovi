@@ -1,0 +1,28 @@
+#476 | nearby-correct-reuse:478:Konstantin
+Q: Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?
+A: Licinije | B: Konstantin | C: Konstancije II. | correct=B
+
+
+#478 | nearby-correct-reuse:476:Konstantin
+Q: Koji rimski car je sazvao prvi ekumenski crkveni sabor?
+A: Konstantin | B: Teodozije I. | C: Gracijan | correct=A
+
+
+#485 | nearby-correct-reuse:484:Konstantin
+Q: S čijim imenom je počelo rimsko kraljevstvo a završilo zapadno rimsko carstvo?
+A: August | B: Romul | C: Konstantin | correct=B
+
+
+#498 | nearby-correct-reuse:500:Teodozije
+Q: Koji je rimski car sazvao drugi ekumenski crkveni sabor 381.g. koji se sastao u Carigradu?
+A: Konstantin | B: Gracijan | C: Teodozije | correct=C
+
+
+#500 | nearby-correct-reuse:498:Teodozije,499:Dioklecijan
+Q: Koji car je bio posljednji, univarzalni vladar cijelog rimskog carstva, prije službene podjele na zapadno i istočno?
+A: Konstantin | B: Teodozije | C: Dioklecijan | correct=B
+
+
+#510 | nearby-correct-reuse:511:Jupiter
+Q: Tko je otac bogova i bog vremena u rimskoj mitologiji?
+A: Jupiter | B: Janus | C: Saturn | correct=C
