@@ -3717,8 +3717,8 @@
     "question": "Antinous je bio mladi simpatizer rimskog cara Hadrijana kojeg je nakon dušenja u Nilu Hadrijan proglasio božanstvom te mu u čast podigao koji grad u srednjem Egiptu?",
     "answers": {
       "A": "Antinoopolis",
-      "B": "Jeruzalemu",
-      "C": "York"
+      "B": "Hadrianopolis",
+      "C": "Naukratis"
     },
     "image": null,
     "correct_answer": "A"
@@ -3729,9 +3729,9 @@
     "topic": "AntickiRim",
     "question": "Ime koje rimske božice mladosti povezujemo sa 'starom damom' iz Torina?",
     "answers": {
-      "A": "Tit",
+      "A": "Vesta",
       "B": "Juventas",
-      "C": "Pons"
+      "C": "Minerva"
     },
     "image": null,
     "correct_answer": "B"
@@ -3742,8 +3742,8 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski vojskovođa osvojio i spalio Jeruzalem 70.g. da bi kasnije postao i carem?",
     "answers": {
-      "A": "Juventas",
-      "B": "Leon",
+      "A": "Vespazijan",
+      "B": "Domicijan",
       "C": "Tit"
     },
     "image": null,
@@ -3756,8 +3756,8 @@
     "question": "Koji je španjolski grad prvotno osnovan kao vojni logor 6. rimske legije Victix a danas se nalazi i na putu sv. Jakova?",
     "answers": {
       "A": "Leon",
-      "B": "Tit",
-      "C": "Tita"
+      "B": "Lugo",
+      "C": "Astorga"
     },
     "image": null,
     "correct_answer": "A"
@@ -3768,9 +3768,9 @@
     "topic": "AntickiRim",
     "question": "Ako svratimo u Kumrovec, tamo ćemo pronaći ime na spomeniku i u rodnoj kući koje bi nas moglo podsjetiti na kojeg rimskog cara?",
     "answers": {
-      "A": "Leon",
+      "A": "Nerona",
       "B": "Tita",
-      "C": "Irenej"
+      "C": "Augusta"
     },
     "image": null,
     "correct_answer": "B"
@@ -3781,8 +3781,8 @@
     "topic": "AntickiRim",
     "question": "Koji je katolički svetac i srijemski biskup pogubljen u vrijeme Dioklecijanovih progona kršćana na antičkom mostu Basentis, u blizini današnje Srijemske Mitrovice?",
     "answers": {
-      "A": "Tita",
-      "B": "Leon",
+      "A": "Demetrije",
+      "B": "Polion",
       "C": "Irenej"
     },
     "image": null,
@@ -3795,8 +3795,8 @@
     "question": "'Zar i ti, sine Brute' je uzrečica koju je pri smrti izgovorio koji rimski vojskovođa?",
     "answers": {
       "A": "Julije Cezar",
-      "B": "Srijemske Mitrovice",
-      "C": "Ignacije Antiohijski"
+      "B": "Gnej Pompej",
+      "C": "Marko Antonije"
     },
     "image": null,
     "correct_answer": "A"
@@ -3807,9 +3807,9 @@
     "topic": "AntickiRim",
     "question": "Na području kojeg su današnjeg hrvatskog grada rođena dva rimska cara, Valentinijan I. i Valens?",
     "answers": {
-      "A": "Irenej",
+      "A": "Sisak",
       "B": "Vinkovci",
-      "C": "Herkulaneja"
+      "C": "Solin"
     },
     "image": null,
     "correct_answer": "B"
@@ -3820,8 +3820,8 @@
     "topic": "AntickiRim",
     "question": "Kako nazivamo proces širenja rimskog jezika, prava, kulture i načina života na osvojene narode?",
     "answers": {
-      "A": "Rimski most",
-      "B": "August",
+      "A": "Helenizacija",
+      "B": "Latinizacija",
       "C": "Romanizam"
     },
     "image": null,
@@ -3834,8 +3834,8 @@
     "question": "Dan 22.11.1738.g. se smatra rođendanom klasične arheologije jer su tada započela iskapanja kojeg starorimskog grada uništenog u erupciji Vezuva?",
     "answers": {
       "A": "Herkulaneja",
-      "B": "Vinkovci",
-      "C": "Irska"
+      "B": "Pompeja",
+      "C": "Stabija"
     },
     "image": null,
     "correct_answer": "A"
@@ -3846,9 +3846,9 @@
     "topic": "AntickiRim",
     "question": "Rimski carevi Decije, Aurelijan, Prob i Maksimijan su svi rođeni na području kojeg današnjeg srpskog grada?",
     "answers": {
-      "A": "Ignacije Antiohijski",
+      "A": "Niša",
       "B": "Srijemske Mitrovice",
-      "C": "Julije Cezar"
+      "C": "Beograda"
     },
     "image": null,
     "correct_answer": "B"
@@ -3859,8 +3859,8 @@
     "topic": "AntickiRim",
     "question": "Tko je bio prvi rimski car koji je bio ilirskog porijekla, a ujedno i prvi progonitelj kršćana na našim područjima te prvi car koji je poginuo u bitci?",
     "answers": {
-      "A": "Amanirenas",
-      "B": "Vespazijan",
+      "A": "Klaudije II.",
+      "B": "Aurelijan",
       "C": "Decije"
     },
     "image": null,
@@ -3873,8 +3873,8 @@
     "question": "Koji su veliki otok u Atlantskom oceanu stari Rimljani zvali Hibernia?",
     "answers": {
       "A": "Irska",
-      "B": "Herkulaneja",
-      "C": "Merkur"
+      "B": "Velika Britanija",
+      "C": "Man"
     },
     "image": null,
     "correct_answer": "A"
@@ -3885,9 +3885,9 @@
     "topic": "AntickiRim",
     "question": "Koji je katolički svetac i biskup antiohijski bio prognan od strane rimskog cara Trajana te usmrćen u Koloseumu, gdje je bačen lavovima?",
     "answers": {
-      "A": "Srijemske Mitrovice",
+      "A": "Polikarp Smirnski",
       "B": "Ignacije Antiohijski",
-      "C": "Julije Cezar"
+      "C": "Klement Rimski"
     },
     "image": null,
     "correct_answer": "B"
@@ -3912,8 +3912,8 @@
     "question": "Ako sudimo po veličini planeta, koji rimski bog ispada najmanji?",
     "answers": {
       "A": "Merkur",
-      "B": "Zaragoza",
-      "C": "Irska"
+      "B": "Mars",
+      "C": "Neptun"
     },
     "image": null,
     "correct_answer": "A"
@@ -3924,9 +3924,9 @@
     "topic": "AntickiRim",
     "question": "Koji broj dobijemo kad zbrojimo zadatke koje je Herkul morao ispuniti za oprost teških grijeha sa brojem ploča na kojima su pisani prvi rimski zakoni?",
     "answers": {
-      "A": "19",
+      "A": "22",
       "B": "24",
-      "C": "29"
+      "C": "26"
     },
     "image": null,
     "correct_answer": "B"
@@ -3937,8 +3937,8 @@
     "topic": "AntickiRim",
     "question": "Prvu crkvu na svijetu posvećenu Blaženoj Djevici Mariji sagradio je apostol Jakov u Caesaraugusti, starorimskom gradu na čijem području se danas nalazi koji španjolski grad, inače veliko marijansko svetište?",
     "answers": {
-      "A": "Diskordija",
-      "B": "Merkur",
+      "A": "Toledo",
+      "B": "Tarragona",
       "C": "Zaragoza"
     },
     "image": null,
@@ -3951,8 +3951,8 @@
     "question": "2015.g. je osnovana gaming platforma koja svoje ime dijelom duguje kojoj rimskoj božici svađe i razdora?",
     "answers": {
       "A": "Diskordija",
-      "B": "Zaragoza",
-      "C": "Masada"
+      "B": "Bellona",
+      "C": "Nemesis"
     },
     "image": null,
     "correct_answer": "A"
@@ -3963,9 +3963,9 @@
     "topic": "AntickiRim",
     "question": "U kojem stoljeću prije Krista nastaje Rimsko Carstvo?",
     "answers": {
-      "A": "2 .",
+      "A": "2.",
       "B": "1.",
-      "C": "3 ."
+      "C": "3."
     },
     "image": null,
     "correct_answer": "B"
@@ -3976,8 +3976,8 @@
     "topic": "AntickiRim",
     "question": "Koja je utvrda u 1. židovsko - rimskom ratu ostala upamćena po masovnom samoubojstvu njenih branitelja, žena i djece?",
     "answers": {
-      "A": "Diskordija",
-      "B": "Zid plača",
+      "A": "Herodij",
+      "B": "Macheront",
       "C": "Masada"
     },
     "image": null,
@@ -3990,8 +3990,8 @@
     "question": "Koja ptica se u starom Rimu koristila kao glavni znak rimskih legija?",
     "answers": {
       "A": "Orao",
-      "B": "Lav",
-      "C": "Tigar"
+      "B": "Sokol",
+      "C": "Gavran"
     },
     "image": null,
     "correct_answer": "A"
@@ -4002,9 +4002,9 @@
     "topic": "AntickiRim",
     "question": "Pred kojim zidom Židovi oplakuju rimsko razaranje drugog jeruzalemskog hrama koje se dogodilo 70.g.?",
     "answers": {
-      "A": "Masada",
-      "B": "Zid plača",
-      "C": "Prandium"
+      "A": "Zidom Hrama",
+      "B": "Zidom plača",
+      "C": "Aurelijanovim zidom"
     },
     "image": null,
     "correct_answer": "B"
@@ -4015,8 +4015,8 @@
     "topic": "AntickiRim",
     "question": "Na rimskom forumu u Zadru danas se nalazi koja crkva?",
     "answers": {
-      "A": "Ignacije Antiohijski",
-      "B": "Srijemske Mitrovice",
+      "A": "Sv. Krševana",
+      "B": "Sv. Stošije",
       "C": "Sv. Donata"
     },
     "image": null,
@@ -4041,9 +4041,9 @@
     "topic": "AntickiRim",
     "question": "U starom Rimu, doručak je bio lentaculum, večera je bila cena, a ručak?",
     "answers": {
-      "A": "Komod",
+      "A": "Gustatio",
       "B": "Prandium",
-      "C": "Vespazijan"
+      "C": "Secunda mensa"
     },
     "image": null,
     "correct_answer": "B"
@@ -4054,8 +4054,8 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski car promijenio ime grada Rima te svih 12 mjeseci u godini, što je ispravljeno i vraćeno na staro odmah nakon njegove smrti?",
     "answers": {
-      "A": "Prandium",
-      "B": "Vespazijan",
+      "A": "Neron",
+      "B": "Domicijan",
       "C": "Komod"
     },
     "image": null,
