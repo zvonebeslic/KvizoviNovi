@@ -1256,8 +1256,8 @@
     "question": "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?",
     "answers": {
       "A": "Dijadumenijan",
-      "B": "Pet",
-      "C": "Plauta"
+      "B": "Geta",
+      "C": "Aleksijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1268,9 +1268,9 @@
     "topic": "AntickiRim",
     "question": "U rimskoj književnosti, kojeg se autora 'Amfitriona' i 'Hvalisavog vojnika', smatra i najvećim piscem komedija u starom Rimu?",
     "answers": {
-      "A": "Dijadumenijan",
+      "A": "Terencije",
       "B": "Plauta",
-      "C": "Pet"
+      "C": "Seneka"
     },
     "image": null,
     "correct_answer": "B"
@@ -1281,8 +1281,8 @@
     "topic": "AntickiRim",
     "question": "Koje more su stari rimljani poznavali kao Mare Germanicum?",
     "answers": {
-      "A": "Rimskim",
-      "B": "Mediteransko",
+      "A": "Baltičko more",
+      "B": "Jadransko more",
       "C": "Sjeverno more"
     },
     "image": null,
@@ -1295,8 +1295,8 @@
     "question": "'Cardo' je bila jedna od dvije glavne ulice u rimskim gradovima i logorima a pružala se od sjevera prema kojoj strani svijeta?",
     "answers": {
       "A": "Jugu",
-      "B": "Plauta",
-      "C": "Dijadumenijan"
+      "B": "Istoku",
+      "C": "Zapadu"
     },
     "image": null,
     "correct_answer": "A"
@@ -1307,9 +1307,9 @@
     "topic": "AntickiRim",
     "question": "Bitka kod Lugdunuma (današnji Lyon), je ujedno i najveći sukob rimskih vojski u povijesti, a dvije zaraćene strane predvodili su uzurpator Klodije Albin i koji car?",
     "answers": {
-      "A": "Pertinax",
+      "A": "Pescenije Niger",
       "B": "Septimije Sever",
-      "C": "Geta"
+      "C": "Didije Julijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -1320,8 +1320,8 @@
     "topic": "AntickiRim",
     "question": "Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?",
     "answers": {
-      "A": "Hrast",
-      "B": "Maslina",
+      "A": "Masline",
+      "B": "Hrasta",
       "C": "Lovora"
     },
     "image": null,
@@ -1334,8 +1334,8 @@
     "question": "Koji nadimak kao vojskovođa dobiva budući rimski car Klaudije II. nakon pobjede nad gotima u bitci kod Niša iz 268.g.?",
     "answers": {
       "A": "Gotski",
-      "B": "Jugu",
-      "C": "Dioklecijana"
+      "B": "Germanski",
+      "C": "Dački"
     },
     "image": null,
     "correct_answer": "A"
@@ -1346,9 +1346,9 @@
     "topic": "AntickiRim",
     "question": "Tko dolazi na vlast nakon smrti rimskog cara Komoda te na njoj ostaje svega 87 dana?",
     "answers": {
-      "A": "Septimije Sever",
+      "A": "Didije Julijan",
       "B": "Pertinax",
-      "C": "Balbin"
+      "C": "Pescenije Niger"
     },
     "image": null,
     "correct_answer": "B"
@@ -1359,8 +1359,8 @@
     "topic": "AntickiRim",
     "question": "Amfiteatar u El Džemu ponosno nosi titulu najvećeg rimskog amfiteatra u Africi, a nalazi se u kojoj državi?",
     "answers": {
-      "A": "Francuskoj",
-      "B": "Hrvatske",
+      "A": "Libiji",
+      "B": "Alžiru",
       "C": "Tunis"
     },
     "image": null,
@@ -1373,8 +1373,8 @@
     "question": "U kojem današnjem gradu je bilo sjedište Galskog carstva, koje se pod vodstvom Postuma odvojilo od Rima?",
     "answers": {
       "A": "Kölnu",
-      "B": "Puli",
-      "C": "Srebrenica"
+      "B": "Trieru",
+      "C": "Mainzu"
     },
     "image": null,
     "correct_answer": "A"
@@ -1385,9 +1385,9 @@
     "topic": "AntickiRim",
     "question": "Kojeg su rimskog cara pisci nazivali 'Vir Rei Publicae Necessarius', odnosno, 'čovjek neophodan rimskoj državi'?",
     "answers": {
-      "A": "Galijena",
+      "A": "Aurelijana",
       "B": "Dioklecijana",
-      "C": "Zenobiju"
+      "C": "Proba"
     },
     "image": null,
     "correct_answer": "B"
@@ -1398,8 +1398,8 @@
     "topic": "AntickiRim",
     "question": "Kvijet, Musije Emilijan i Aureol su bili uzurpatori u starom Rimu koji su pokušali preuzeti vlast od kojeg cara?",
     "answers": {
-      "A": "Dioklecijana",
-      "B": "Zenobiju",
+      "A": "Valerijana",
+      "B": "Klaudija II.",
       "C": "Galijena"
     },
     "image": null,
@@ -1412,8 +1412,8 @@
     "question": "Koju je kraljicu palmirskog carstva porazio rimski car Aurelijan te je kao taokinju odveo u Rim, a Palmir ponovno priključio rimskom carstvu?",
     "answers": {
       "A": "Zenobiju",
-      "B": "Galijena",
-      "C": "Markomani"
+      "B": "Kleopatru VII.",
+      "C": "Bereniku IV."
     },
     "image": null,
     "correct_answer": "A"
@@ -1424,9 +1424,9 @@
     "topic": "AntickiRim",
     "question": "S kojim germanskim narodom, tj. 'ljudima na granici' , ratuje rimski car Marko Aurelije, doživljava teške poraze te naposlijetu sklapa mir?",
     "answers": {
-      "A": "Zenobiju",
+      "A": "Kvadi",
       "B": "Markomani",
-      "C": "Galijena"
+      "C": "Gepidi"
     },
     "image": null,
     "correct_answer": "B"
@@ -1437,8 +1437,8 @@
     "topic": "AntickiRim",
     "question": "Tko je uz regenta Pupijena vladao Rimom svega 3 mjeseca u godini 238.?",
     "answers": {
-      "A": "Valerijan",
-      "B": "Pertinax",
+      "A": "Gordijan II.",
+      "B": "Maksim Pupijen",
       "C": "Balbin"
     },
     "image": null,
@@ -1451,8 +1451,8 @@
     "question": "Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?",
     "answers": {
       "A": "Galijen",
-      "B": "Šapur 1.",
-      "C": "Markomani"
+      "B": "Klaudije II.",
+      "C": "Aurelijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1463,9 +1463,9 @@
     "topic": "AntickiRim",
     "question": "Koji veliki sasanidsko-perzijski šah u bitci kod Edese nanosi sramotan poraz rimskoj vojsci te kao roba u Perziju odvodi cara Valerijana?",
     "answers": {
-      "A": "Galijen",
-      "B": "Šapur 1.",
-      "C": "Markomani"
+      "A": "Ardašir I.",
+      "B": "Šapur I.",
+      "C": "Narseh"
     },
     "image": null,
     "correct_answer": "B"
@@ -1476,8 +1476,8 @@
     "topic": "AntickiRim",
     "question": "Koja dinastija postaje vladajuća dolaskom Septimija Severa na mjesto rimskog cara?",
     "answers": {
-      "A": "Han",
-      "B": "Flavijevci",
+      "A": "Antoninska",
+      "B": "Flavijevska",
       "C": "Severska"
     },
     "image": null,
@@ -1490,8 +1490,8 @@
     "question": "Najveći rimski amfiteatar u Hrvatskoj se nalazi u kojem gradu?",
     "answers": {
       "A": "Puli",
-      "B": "Kölnu",
-      "C": "Srebrenica"
+      "B": "Saloni",
+      "C": "Zadru"
     },
     "image": null,
     "correct_answer": "A"
@@ -1502,9 +1502,9 @@
     "topic": "AntickiRim",
     "question": "Tko je bio prvi rimski car kojeg su neprijateljske snage odvele u zarobljeništvo?",
     "answers": {
-      "A": "Balbin",
+      "A": "Decije",
       "B": "Valerijan",
-      "C": "Pertinax"
+      "C": "Galijen"
     },
     "image": null,
     "correct_answer": "B"
@@ -1515,8 +1515,8 @@
     "topic": "AntickiRim",
     "question": "U kojem stoljeću se događa velika kriza u rimskom carstvu koja je dovela do 50 godina nestabilnosti i građanskih ratova?",
     "answers": {
-      "A": "2 .",
-      "B": "4 .",
+      "A": "2.",
+      "B": "4.",
       "C": "3."
     },
     "image": null,
@@ -1528,9 +1528,9 @@
     "topic": "AntickiRim",
     "question": "Na području kojeg današnjeg glavnog grada i metropole se rodio veliki rimski car i filozof Marko Aurelije?",
     "answers": {
-      "A": "Beč",
-      "B": "Aurelijan",
-      "C": "Terencije"
+      "A": "Rima",
+      "B": "Atene",
+      "C": "Milana"
     },
     "image": null,
     "correct_answer": "A"
@@ -1541,9 +1541,9 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car je u 3.st. podigao zidine oko Rima koje su okruživale svih 7 brežuljaka te bile duge 19km?",
     "answers": {
-      "A": "Beč",
+      "A": "Probo",
       "B": "Aurelijan",
-      "C": "Terencije"
+      "C": "Dioklecijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -1554,8 +1554,8 @@
     "topic": "AntickiRim",
     "question": "Bitka kod Abrita je vođena u ljeto 251.g. između rimskog carstva s carem Decijem protiv gotskih plemena na čelu s kojim kraljem čije ime označava i jedan oštar predmet?",
     "answers": {
-      "A": "Hvaru",
-      "B": "Grčke",
+      "A": "Ariarh",
+      "B": "Ostrogota",
       "C": "Kniva"
     },
     "image": null,
@@ -1568,8 +1568,8 @@
     "question": "Koji je starorimski komediograf napisao djela 'Samomučitelj' i 'Svekrva'?",
     "answers": {
       "A": "Terencije",
-      "B": "Srebra",
-      "C": "Aurelijan"
+      "B": "Plaut",
+      "C": "Nevije"
     },
     "image": null,
     "correct_answer": "A"
@@ -1580,9 +1580,9 @@
     "topic": "AntickiRim",
     "question": "Od kojeg je kemijskog elementa napravljen starorimski novac Denar?",
     "answers": {
-      "A": "Terencije",
+      "A": "Zlata",
       "B": "Srebra",
-      "C": "Proba"
+      "C": "Bakra"
     },
     "image": null,
     "correct_answer": "B"
@@ -1593,8 +1593,8 @@
     "topic": "AntickiRim",
     "question": "Julije Saturnin, Bonos i Prokul su bili uzurpatori u rimskom carstvu za vrijeme kojeg cara?",
     "answers": {
-      "A": "Srebra",
-      "B": "Latifundija",
+      "A": "Aurelijana",
+      "B": "Kara",
       "C": "Proba"
     },
     "image": null,
@@ -1607,8 +1607,8 @@
     "question": "Kako se u starom Rimu zvao veliki zemljišni posjed u vlasništvu imućnika namjenjen za poljoprivredu?",
     "answers": {
       "A": "Latifundija",
-      "B": "Proba",
-      "C": "Tetrarhiju"
+      "B": "Insula",
+      "C": "Vila rustika"
     },
     "image": null,
     "correct_answer": "A"
