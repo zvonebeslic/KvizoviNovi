@@ -1,0 +1,3230 @@
+{
+  "total": 589,
+  "correct_counts": {
+    "A": 197,
+    "B": 196,
+    "C": 196
+  },
+  "issues": [
+    {
+      "i": 56,
+      "kind": "neighbor_leak",
+      "q": "Koji car je uveo četverovlađe u rimskom carstvu?",
+      "wrong": "Konstantin Veliki",
+      "from_i": 53,
+      "from_q": "Koji je rimski car započeo zakonom zabranjivati gladijatorske igre od 325.g.?",
+      "answers": {
+        "A": "Konstantin Veliki",
+        "B": "Dioklecijan",
+        "C": "Maksimijan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 62,
+      "kind": "neighbor_leak",
+      "q": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
+      "wrong": "Trebonijan Gal",
+      "from_i": 64,
+      "from_q": "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?",
+      "answers": {
+        "A": "Trebonijan Gal",
+        "B": "Istok Zapad",
+        "C": "Konstantin Veliki"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 64,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?",
+      "wrong": "Istok Zapad",
+      "from_i": 62,
+      "from_q": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
+      "answers": {
+        "A": "Trebonijan Gal",
+        "B": "Istok Zapad",
+        "C": "Sv. Lovro"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 65,
+      "kind": "neighbor_leak",
+      "q": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
+      "wrong": "Severima",
+      "from_i": 66,
+      "from_q": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
+      "answers": {
+        "A": "Severima",
+        "B": "Bakra",
+        "C": "Djerba"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 65,
+      "kind": "neighbor_leak",
+      "q": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
+      "wrong": "Djerba",
+      "from_i": 67,
+      "from_q": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
+      "answers": {
+        "A": "Severima",
+        "B": "Bakra",
+        "C": "Djerba"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 66,
+      "kind": "neighbor_leak",
+      "q": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
+      "wrong": "Bakra",
+      "from_i": 65,
+      "from_q": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
+      "answers": {
+        "A": "Bakra",
+        "B": "Djerba",
+        "C": "Severima"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 66,
+      "kind": "neighbor_leak",
+      "q": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
+      "wrong": "Djerba",
+      "from_i": 67,
+      "from_q": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
+      "answers": {
+        "A": "Bakra",
+        "B": "Djerba",
+        "C": "Severima"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 67,
+      "kind": "neighbor_leak",
+      "q": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
+      "wrong": "Severima",
+      "from_i": 66,
+      "from_q": "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?",
+      "answers": {
+        "A": "Djerba",
+        "B": "Severima",
+        "C": "Bakra"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 67,
+      "kind": "neighbor_leak",
+      "q": "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?",
+      "wrong": "Bakra",
+      "from_i": 65,
+      "from_q": "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?",
+      "answers": {
+        "A": "Djerba",
+        "B": "Severima",
+        "C": "Bakra"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 79,
+      "kind": "neighbor_leak",
+      "q": "Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?",
+      "wrong": "Maksimin Tračanin",
+      "from_i": 77,
+      "from_q": "Ako ćemo vjerovati Herodijanovoj 'Carskoj Povijesti' onda je koji rimski car bio daleko najviši od svih, sa čak 2,4m visine?",
+      "answers": {
+        "A": "Aleksandar Sever",
+        "B": "Maksimin Tračanin",
+        "C": "Gordijan I."
+      },
+      "correct": "A"
+    },
+    {
+      "i": 93,
+      "kind": "neighbor_leak",
+      "q": "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?",
+      "wrong": "Elegabal",
+      "from_i": 95,
+      "from_q": "Koji rimski car je vjerovao u moći svog boga El-Gabala?",
+      "answers": {
+        "A": "Elegabal",
+        "B": "Dioklecijan",
+        "C": "Aurelijan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 93,
+      "kind": "neighbor_leak",
+      "q": "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?",
+      "wrong": "Dioklecijan",
+      "from_i": 91,
+      "from_q": "Koji je rimski car uz Maksimijana jedini u povijesti carstva abdicirao, tj. odrekao se titule cara za svog života?",
+      "answers": {
+        "A": "Elegabal",
+        "B": "Dioklecijan",
+        "C": "Aurelijan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 94,
+      "kind": "neighbor_leak",
+      "q": "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?",
+      "wrong": "Elegabal",
+      "from_i": 95,
+      "from_q": "Koji rimski car je vjerovao u moći svog boga El-Gabala?",
+      "answers": {
+        "A": "Geta",
+        "B": "Makrin",
+        "C": "Elegabal"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 97,
+      "kind": "neighbor_leak",
+      "q": "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?",
+      "wrong": "Geta",
+      "from_i": 94,
+      "from_q": "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?",
+      "answers": {
+        "A": "Dijadumenijan",
+        "B": "Geta",
+        "C": "Aleksijan"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 219,
+      "kind": "neighbor_leak",
+      "q": "Koji bakreni novac s tankom srebrnom prevlakom uvodi Car Dioklecijan kroz svoju novčanu reformu 294.g.?",
+      "wrong": "Argenteus",
+      "from_i": 221,
+      "from_q": "Koji srebrni novac kroz svoju novčanu reformu 294.g. uvodi Car Dioklecijan?",
+      "answers": {
+        "A": "Antoninijan",
+        "B": "Argenteus",
+        "C": "Follis"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 251,
+      "kind": "neighbor_leak",
+      "q": "'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?",
+      "wrong": "Antonin Pio",
+      "from_i": 253,
+      "from_q": "Od svih pet dobrih rimskih careva, koji je vladao najduže, čak 23 godine?",
+      "answers": {
+        "A": "Antonin Pio",
+        "B": "Trajan",
+        "C": "Nerva"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 260,
+      "kind": "neighbor_leak",
+      "q": "Titov slavoluk u Rimu slavi uništenje i paljenje kojeg grada u Judeji?",
+      "wrong": "York",
+      "from_i": 261,
+      "from_q": "Septimije Sever i Konstancije I. Klor bili su rimski carevi koji su umrli u kojem današnjem engleskom gradu, ako znamo da se tada zvao Eboracum?",
+      "answers": {
+        "A": "York",
+        "B": "Jeruzalema",
+        "C": "Zadar"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 261,
+      "kind": "neighbor_leak",
+      "q": "Septimije Sever i Konstancije I. Klor bili su rimski carevi koji su umrli u kojem današnjem engleskom gradu, ako znamo da se tada zvao Eboracum?",
+      "wrong": "Jeruzalema",
+      "from_i": 260,
+      "from_q": "Titov slavoluk u Rimu slavi uništenje i paljenje kojeg grada u Judeji?",
+      "answers": {
+        "A": "Jeruzalema",
+        "B": "Zadar",
+        "C": "York"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 262,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?",
+      "wrong": "Tit",
+      "from_i": 263,
+      "from_q": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+      "answers": {
+        "A": "Surena",
+        "B": "Tit",
+        "C": "Jeruzalem"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 262,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?",
+      "wrong": "Jeruzalem",
+      "from_i": 264,
+      "from_q": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+      "answers": {
+        "A": "Surena",
+        "B": "Tit",
+        "C": "Jeruzalem"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 263,
+      "kind": "neighbor_leak",
+      "q": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+      "wrong": "Surena",
+      "from_i": 262,
+      "from_q": "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?",
+      "answers": {
+        "A": "Surena",
+        "B": "Tit",
+        "C": "Jeruzalem"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 263,
+      "kind": "neighbor_leak",
+      "q": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+      "wrong": "Jeruzalem",
+      "from_i": 264,
+      "from_q": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+      "answers": {
+        "A": "Surena",
+        "B": "Tit",
+        "C": "Jeruzalem"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 264,
+      "kind": "neighbor_leak",
+      "q": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+      "wrong": "Tit",
+      "from_i": 263,
+      "from_q": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+      "answers": {
+        "A": "Tit",
+        "B": "Vezuv",
+        "C": "Jeruzalem"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 264,
+      "kind": "neighbor_leak",
+      "q": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+      "wrong": "Vezuv",
+      "from_i": 265,
+      "from_q": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
+      "answers": {
+        "A": "Tit",
+        "B": "Vezuv",
+        "C": "Jeruzalem"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 265,
+      "kind": "neighbor_leak",
+      "q": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
+      "wrong": "Jeruzalem",
+      "from_i": 264,
+      "from_q": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
+      "answers": {
+        "A": "Vezuv",
+        "B": "Jeruzalem",
+        "C": "Tit"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 265,
+      "kind": "neighbor_leak",
+      "q": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
+      "wrong": "Tit",
+      "from_i": 263,
+      "from_q": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
+      "answers": {
+        "A": "Vezuv",
+        "B": "Jeruzalem",
+        "C": "Tit"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 267,
+      "kind": "neighbor_leak",
+      "q": "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?",
+      "wrong": "Beton",
+      "from_i": 268,
+      "from_q": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+      "answers": {
+        "A": "Beton",
+        "B": "Vezuv",
+        "C": "Vespazijana"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 267,
+      "kind": "neighbor_leak",
+      "q": "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?",
+      "wrong": "Vezuv",
+      "from_i": 265,
+      "from_q": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
+      "answers": {
+        "A": "Beton",
+        "B": "Vezuv",
+        "C": "Vespazijana"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 268,
+      "kind": "neighbor_leak",
+      "q": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+      "wrong": "Vespazijana",
+      "from_i": 267,
+      "from_q": "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?",
+      "answers": {
+        "A": "Beton",
+        "B": "Vespazijana",
+        "C": "Dačko"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 268,
+      "kind": "neighbor_leak",
+      "q": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+      "wrong": "Dačko",
+      "from_i": 269,
+      "from_q": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
+      "answers": {
+        "A": "Beton",
+        "B": "Vespazijana",
+        "C": "Dačko"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 269,
+      "kind": "neighbor_leak",
+      "q": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
+      "wrong": "Beton",
+      "from_i": 268,
+      "from_q": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+      "answers": {
+        "A": "Beton",
+        "B": "Dačko",
+        "C": "Cena"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 269,
+      "kind": "neighbor_leak",
+      "q": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
+      "wrong": "Cena",
+      "from_i": 270,
+      "from_q": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
+      "answers": {
+        "A": "Beton",
+        "B": "Dačko",
+        "C": "Cena"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 270,
+      "kind": "neighbor_leak",
+      "q": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
+      "wrong": "Dačko",
+      "from_i": 269,
+      "from_q": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
+      "answers": {
+        "A": "Dačko",
+        "B": "Beton",
+        "C": "Cena"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 270,
+      "kind": "neighbor_leak",
+      "q": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
+      "wrong": "Beton",
+      "from_i": 268,
+      "from_q": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
+      "answers": {
+        "A": "Dačko",
+        "B": "Beton",
+        "C": "Cena"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 272,
+      "kind": "neighbor_leak",
+      "q": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
+      "wrong": "Kuš",
+      "from_i": 273,
+      "from_q": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
+      "answers": {
+        "A": "Kuš",
+        "B": "Anastazija",
+        "C": "Cena"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 272,
+      "kind": "neighbor_leak",
+      "q": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
+      "wrong": "Cena",
+      "from_i": 270,
+      "from_q": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
+      "answers": {
+        "A": "Kuš",
+        "B": "Anastazija",
+        "C": "Cena"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 273,
+      "kind": "neighbor_leak",
+      "q": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
+      "wrong": "Anastazija",
+      "from_i": 272,
+      "from_q": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
+      "answers": {
+        "A": "Anastazija",
+        "B": "Judeji",
+        "C": "Kuš"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 273,
+      "kind": "neighbor_leak",
+      "q": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
+      "wrong": "Judeji",
+      "from_i": 274,
+      "from_q": "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?",
+      "answers": {
+        "A": "Anastazija",
+        "B": "Judeji",
+        "C": "Kuš"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 274,
+      "kind": "neighbor_leak",
+      "q": "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?",
+      "wrong": "Kuš",
+      "from_i": 273,
+      "from_q": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
+      "answers": {
+        "A": "Judeji",
+        "B": "Kuš",
+        "C": "Anastazija"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 274,
+      "kind": "neighbor_leak",
+      "q": "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?",
+      "wrong": "Anastazija",
+      "from_i": 272,
+      "from_q": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
+      "answers": {
+        "A": "Judeji",
+        "B": "Kuš",
+        "C": "Anastazija"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 278,
+      "kind": "neighbor_leak",
+      "q": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
+      "wrong": "Indijskim",
+      "from_i": 279,
+      "from_q": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
+      "answers": {
+        "A": "Indijskim",
+        "B": "Ktezifon",
+        "C": "Dva"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 278,
+      "kind": "neighbor_leak",
+      "q": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
+      "wrong": "Dva",
+      "from_i": 281,
+      "from_q": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+      "answers": {
+        "A": "Indijskim",
+        "B": "Ktezifon",
+        "C": "Dva"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 279,
+      "kind": "neighbor_leak",
+      "q": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
+      "wrong": "Ktezifon",
+      "from_i": 278,
+      "from_q": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
+      "answers": {
+        "A": "Ktezifon",
+        "B": "Dva",
+        "C": "Indijskim"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 279,
+      "kind": "neighbor_leak",
+      "q": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
+      "wrong": "Dva",
+      "from_i": 281,
+      "from_q": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+      "answers": {
+        "A": "Ktezifon",
+        "B": "Dva",
+        "C": "Indijskim"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 281,
+      "kind": "neighbor_leak",
+      "q": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+      "wrong": "Indijskim",
+      "from_i": 279,
+      "from_q": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
+      "answers": {
+        "A": "Indijskim",
+        "B": "Dva",
+        "C": "Ktezifon"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 281,
+      "kind": "neighbor_leak",
+      "q": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+      "wrong": "Ktezifon",
+      "from_i": 278,
+      "from_q": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
+      "answers": {
+        "A": "Indijskim",
+        "B": "Dva",
+        "C": "Ktezifon"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 283,
+      "kind": "neighbor_leak",
+      "q": "Tiša bA'v je najžalosniji dan u židovskom kalendaru tijekom kojeg se, između ostalog, posti i žaluje zbog rimskog spaljivanja 'drugog hrama' u kojem gradu?",
+      "wrong": "Antinoopolis",
+      "from_i": 286,
+      "from_q": "Antinous je bio mladi simpatizer rimskog cara Hadrijana kojeg je nakon dušenja u Nilu Hadrijan proglasio božanstvom te mu u čast podigao koji grad u srednjem Egiptu?",
+      "answers": {
+        "A": "Jeruzalemu",
+        "B": "Antinoopolis",
+        "C": "York"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 284,
+      "kind": "neighbor_leak",
+      "q": "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?",
+      "wrong": "Pons",
+      "from_i": 285,
+      "from_q": "Koju riječ su stari Rimljani koristili za most?",
+      "answers": {
+        "A": "Pons",
+        "B": "Rim",
+        "C": "Dva"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 284,
+      "kind": "neighbor_leak",
+      "q": "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?",
+      "wrong": "Dva",
+      "from_i": 281,
+      "from_q": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
+      "answers": {
+        "A": "Pons",
+        "B": "Rim",
+        "C": "Dva"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 285,
+      "kind": "neighbor_leak",
+      "q": "Koju riječ su stari Rimljani koristili za most?",
+      "wrong": "Rim",
+      "from_i": 284,
+      "from_q": "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?",
+      "answers": {
+        "A": "Rim",
+        "B": "Juventas",
+        "C": "Pons"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 285,
+      "kind": "neighbor_leak",
+      "q": "Koju riječ su stari Rimljani koristili za most?",
+      "wrong": "Juventas",
+      "from_i": 287,
+      "from_q": "Ime koje rimske božice mladosti povezujemo sa 'starom damom' iz Torina?",
+      "answers": {
+        "A": "Rim",
+        "B": "Juventas",
+        "C": "Pons"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 313,
+      "kind": "neighbor_leak",
+      "q": "Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?",
+      "wrong": "Komod",
+      "from_i": 312,
+      "from_q": "Koji je rimski car promijenio ime grada Rima te svih 12 mjeseci u godini, što je ispravljeno i vraćeno na staro odmah nakon njegove smrti?",
+      "answers": {
+        "A": "Vespazijan",
+        "B": "Komod",
+        "C": "Prandium"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 313,
+      "kind": "neighbor_leak",
+      "q": "Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?",
+      "wrong": "Prandium",
+      "from_i": 311,
+      "from_q": "U starom Rimu, doručak je bio lentaculum, večera je bila cena, a ručak?",
+      "answers": {
+        "A": "Vespazijan",
+        "B": "Komod",
+        "C": "Prandium"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 316,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "wrong": "Mir",
+      "from_i": 317,
+      "from_q": "Pax Romana na latinskom prevodimo kao Rimski što?",
+      "answers": {
+        "A": "Oton",
+        "B": "Mir",
+        "C": "Rimskim"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 316,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "wrong": "Rimskim",
+      "from_i": 318,
+      "from_q": "I, V, X, L i C nazivamo kakvim brojevima?",
+      "answers": {
+        "A": "Oton",
+        "B": "Mir",
+        "C": "Rimskim"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 317,
+      "kind": "neighbor_leak",
+      "q": "Pax Romana na latinskom prevodimo kao Rimski što?",
+      "wrong": "Oton",
+      "from_i": 316,
+      "from_q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "answers": {
+        "A": "Oton",
+        "B": "Mir",
+        "C": "Rimskim"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 317,
+      "kind": "neighbor_leak",
+      "q": "Pax Romana na latinskom prevodimo kao Rimski što?",
+      "wrong": "Rimskim",
+      "from_i": 318,
+      "from_q": "I, V, X, L i C nazivamo kakvim brojevima?",
+      "answers": {
+        "A": "Oton",
+        "B": "Mir",
+        "C": "Rimskim"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 318,
+      "kind": "neighbor_leak",
+      "q": "I, V, X, L i C nazivamo kakvim brojevima?",
+      "wrong": "Mir",
+      "from_i": 317,
+      "from_q": "Pax Romana na latinskom prevodimo kao Rimski što?",
+      "answers": {
+        "A": "Mir",
+        "B": "Lugo",
+        "C": "Rimskim"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 318,
+      "kind": "neighbor_leak",
+      "q": "I, V, X, L i C nazivamo kakvim brojevima?",
+      "wrong": "Lugo",
+      "from_i": 319,
+      "from_q": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+      "answers": {
+        "A": "Mir",
+        "B": "Lugo",
+        "C": "Rimskim"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 319,
+      "kind": "neighbor_leak",
+      "q": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+      "wrong": "Rimskim",
+      "from_i": 318,
+      "from_q": "I, V, X, L i C nazivamo kakvim brojevima?",
+      "answers": {
+        "A": "Lugo",
+        "B": "Rimskim",
+        "C": "Arhimed"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 319,
+      "kind": "neighbor_leak",
+      "q": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+      "wrong": "Arhimed",
+      "from_i": 320,
+      "from_q": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
+      "answers": {
+        "A": "Lugo",
+        "B": "Rimskim",
+        "C": "Arhimed"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 320,
+      "kind": "neighbor_leak",
+      "q": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
+      "wrong": "Lugo",
+      "from_i": 319,
+      "from_q": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+      "answers": {
+        "A": "Lugo",
+        "B": "Arhimed",
+        "C": "Pompeja"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 320,
+      "kind": "neighbor_leak",
+      "q": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
+      "wrong": "Pompeja",
+      "from_i": 321,
+      "from_q": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
+      "answers": {
+        "A": "Lugo",
+        "B": "Arhimed",
+        "C": "Pompeja"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 321,
+      "kind": "neighbor_leak",
+      "q": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
+      "wrong": "Arhimed",
+      "from_i": 320,
+      "from_q": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
+      "answers": {
+        "A": "Arhimed",
+        "B": "Lugo",
+        "C": "Pompeja"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 321,
+      "kind": "neighbor_leak",
+      "q": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
+      "wrong": "Lugo",
+      "from_i": 319,
+      "from_q": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
+      "answers": {
+        "A": "Arhimed",
+        "B": "Lugo",
+        "C": "Pompeja"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 323,
+      "kind": "neighbor_leak",
+      "q": "Opsada kojeg grada na bliskom istoku se događala 70-e, 1099-e i 1187-e godine?",
+      "wrong": "Trier",
+      "from_i": 326,
+      "from_q": "Najočuvanija te najveća starorimska gradska vrata na svijetu, imena Porta Nigra, se nalaze u kojem njemačkom gradu, gdje su i danas nezaobilazna turistička atrakcija?",
+      "answers": {
+        "A": "Trier",
+        "B": "Jeruzalema",
+        "C": "Coimbra"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 324,
+      "kind": "neighbor_leak",
+      "q": "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?",
+      "wrong": "Antoninov zid",
+      "from_i": 325,
+      "from_q": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
+      "answers": {
+        "A": "Antoninov zid",
+        "B": "Pompeja",
+        "C": "Srbijom"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 324,
+      "kind": "neighbor_leak",
+      "q": "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?",
+      "wrong": "Pompeja",
+      "from_i": 321,
+      "from_q": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
+      "answers": {
+        "A": "Antoninov zid",
+        "B": "Pompeja",
+        "C": "Srbijom"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 325,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
+      "wrong": "Srbijom",
+      "from_i": 324,
+      "from_q": "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?",
+      "answers": {
+        "A": "Antoninov zid",
+        "B": "Srbijom",
+        "C": "Kaledonija"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 325,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
+      "wrong": "Kaledonija",
+      "from_i": 327,
+      "from_q": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+      "answers": {
+        "A": "Antoninov zid",
+        "B": "Srbijom",
+        "C": "Kaledonija"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 326,
+      "kind": "neighbor_leak",
+      "q": "Najočuvanija te najveća starorimska gradska vrata na svijetu, imena Porta Nigra, se nalaze u kojem njemačkom gradu, gdje su i danas nezaobilazna turistička atrakcija?",
+      "wrong": "Jeruzalema",
+      "from_i": 323,
+      "from_q": "Opsada kojeg grada na bliskom istoku se događala 70-e, 1099-e i 1187-e godine?",
+      "answers": {
+        "A": "Jeruzalema",
+        "B": "Trier",
+        "C": "Coimbra"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 327,
+      "kind": "neighbor_leak",
+      "q": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+      "wrong": "Plinije",
+      "from_i": 328,
+      "from_q": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Antoninov zid",
+        "C": "Kaledonija"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 327,
+      "kind": "neighbor_leak",
+      "q": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+      "wrong": "Antoninov zid",
+      "from_i": 325,
+      "from_q": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Antoninov zid",
+        "C": "Kaledonija"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 328,
+      "kind": "neighbor_leak",
+      "q": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
+      "wrong": "Kaledonija",
+      "from_i": 327,
+      "from_q": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Kaledonija",
+        "C": "Dunav"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 328,
+      "kind": "neighbor_leak",
+      "q": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
+      "wrong": "Dunav",
+      "from_i": 329,
+      "from_q": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Kaledonija",
+        "C": "Dunav"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 329,
+      "kind": "neighbor_leak",
+      "q": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
+      "wrong": "Plinije",
+      "from_i": 328,
+      "from_q": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Dunav",
+        "C": "Kaledonija"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 329,
+      "kind": "neighbor_leak",
+      "q": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
+      "wrong": "Kaledonija",
+      "from_i": 327,
+      "from_q": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
+      "answers": {
+        "A": "Plinije",
+        "B": "Dunav",
+        "C": "Kaledonija"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 331,
+      "kind": "neighbor_leak",
+      "q": "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?",
+      "wrong": "Optimus",
+      "from_i": 332,
+      "from_q": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
+      "answers": {
+        "A": "Trajanov",
+        "B": "Optimus",
+        "C": "Dunav"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 331,
+      "kind": "neighbor_leak",
+      "q": "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?",
+      "wrong": "Dunav",
+      "from_i": 329,
+      "from_q": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
+      "answers": {
+        "A": "Trajanov",
+        "B": "Optimus",
+        "C": "Dunav"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 332,
+      "kind": "neighbor_leak",
+      "q": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
+      "wrong": "Trajanov",
+      "from_i": 331,
+      "from_q": "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?",
+      "answers": {
+        "A": "Trajanov",
+        "B": "Optimus",
+        "C": "Seres"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 332,
+      "kind": "neighbor_leak",
+      "q": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
+      "wrong": "Seres",
+      "from_i": 333,
+      "from_q": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
+      "answers": {
+        "A": "Trajanov",
+        "B": "Optimus",
+        "C": "Seres"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 333,
+      "kind": "neighbor_leak",
+      "q": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
+      "wrong": "Optimus",
+      "from_i": 332,
+      "from_q": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
+      "answers": {
+        "A": "Optimus",
+        "B": "Eufrazija",
+        "C": "Seres"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 333,
+      "kind": "neighbor_leak",
+      "q": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
+      "wrong": "Eufrazija",
+      "from_i": 334,
+      "from_q": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+      "answers": {
+        "A": "Optimus",
+        "B": "Eufrazija",
+        "C": "Seres"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 334,
+      "kind": "neighbor_leak",
+      "q": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+      "wrong": "Seres",
+      "from_i": 333,
+      "from_q": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
+      "answers": {
+        "A": "Eufrazija",
+        "B": "Seres",
+        "C": "Plinije stariji"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 334,
+      "kind": "neighbor_leak",
+      "q": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+      "wrong": "Plinije stariji",
+      "from_i": 335,
+      "from_q": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
+      "answers": {
+        "A": "Eufrazija",
+        "B": "Seres",
+        "C": "Plinije stariji"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 335,
+      "kind": "neighbor_leak",
+      "q": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
+      "wrong": "Eufrazija",
+      "from_i": 334,
+      "from_q": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+      "answers": {
+        "A": "Eufrazija",
+        "B": "Plinije stariji",
+        "C": "Vitelije"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 335,
+      "kind": "neighbor_leak",
+      "q": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
+      "wrong": "Vitelije",
+      "from_i": 336,
+      "from_q": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
+      "answers": {
+        "A": "Eufrazija",
+        "B": "Plinije stariji",
+        "C": "Vitelije"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 336,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
+      "wrong": "Plinije stariji",
+      "from_i": 335,
+      "from_q": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
+      "answers": {
+        "A": "Plinije stariji",
+        "B": "Eufrazija",
+        "C": "Vitelije"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 336,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
+      "wrong": "Eufrazija",
+      "from_i": 334,
+      "from_q": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
+      "answers": {
+        "A": "Plinije stariji",
+        "B": "Eufrazija",
+        "C": "Vitelije"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 338,
+      "kind": "neighbor_leak",
+      "q": "Za vladavine kojeg rimskog cara se dogodila velika erupcija Vezuva u kojoj su Pompeji totalno uništeni?",
+      "wrong": "Vitelije",
+      "from_i": 336,
+      "from_q": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
+      "answers": {
+        "A": "Vitelije",
+        "B": "Tita",
+        "C": "Židovi"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 338,
+      "kind": "neighbor_leak",
+      "q": "Za vladavine kojeg rimskog cara se dogodila velika erupcija Vezuva u kojoj su Pompeji totalno uništeni?",
+      "wrong": "Židovi",
+      "from_i": 340,
+      "from_q": "'Fiscus Judaicus' je bio nametnuti porez u starom Rimu kojeg je plaćala samo jedna etnoreligijska skupina. Koja?",
+      "answers": {
+        "A": "Vitelije",
+        "B": "Tita",
+        "C": "Židovi"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 371,
+      "kind": "neighbor_leak",
+      "q": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
+      "wrong": "Longin",
+      "from_i": 372,
+      "from_q": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
+      "answers": {
+        "A": "Longin",
+        "B": "Zlatnu",
+        "C": "Engleskoj"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 371,
+      "kind": "neighbor_leak",
+      "q": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
+      "wrong": "Engleskoj",
+      "from_i": 369,
+      "from_q": "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120 km?",
+      "answers": {
+        "A": "Longin",
+        "B": "Zlatnu",
+        "C": "Engleskoj"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 372,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
+      "wrong": "Zlatnu",
+      "from_i": 371,
+      "from_q": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
+      "answers": {
+        "A": "Zlatnu",
+        "B": "Engracija",
+        "C": "Longin"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 372,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
+      "wrong": "Engracija",
+      "from_i": 373,
+      "from_q": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
+      "answers": {
+        "A": "Zlatnu",
+        "B": "Engracija",
+        "C": "Longin"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 373,
+      "kind": "neighbor_leak",
+      "q": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
+      "wrong": "Longin",
+      "from_i": 372,
+      "from_q": "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?",
+      "answers": {
+        "A": "Engracija",
+        "B": "Longin",
+        "C": "Zlatnu"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 373,
+      "kind": "neighbor_leak",
+      "q": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
+      "wrong": "Zlatnu",
+      "from_i": 371,
+      "from_q": "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?",
+      "answers": {
+        "A": "Engracija",
+        "B": "Longin",
+        "C": "Zlatnu"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 375,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?",
+      "wrong": "Engracija",
+      "from_i": 373,
+      "from_q": "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?",
+      "answers": {
+        "A": "Engracija",
+        "B": "Karakala",
+        "C": "Trajan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 375,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?",
+      "wrong": "Karakala",
+      "from_i": 377,
+      "from_q": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
+      "answers": {
+        "A": "Engracija",
+        "B": "Karakala",
+        "C": "Trajan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 377,
+      "kind": "neighbor_leak",
+      "q": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
+      "wrong": "Jupiter",
+      "from_i": 378,
+      "from_q": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
+      "answers": {
+        "A": "Jupiter",
+        "B": "Karakala",
+        "C": "Trajan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 377,
+      "kind": "neighbor_leak",
+      "q": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
+      "wrong": "Trajan",
+      "from_i": 375,
+      "from_q": "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?",
+      "answers": {
+        "A": "Jupiter",
+        "B": "Karakala",
+        "C": "Trajan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 378,
+      "kind": "neighbor_leak",
+      "q": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
+      "wrong": "Karakala",
+      "from_i": 377,
+      "from_q": "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?",
+      "answers": {
+        "A": "Karakala",
+        "B": "Latona",
+        "C": "Jupiter"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 378,
+      "kind": "neighbor_leak",
+      "q": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
+      "wrong": "Latona",
+      "from_i": 380,
+      "from_q": "Koja božica je bogu Jupiteru rodila boga Apolona?",
+      "answers": {
+        "A": "Karakala",
+        "B": "Latona",
+        "C": "Jupiter"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 380,
+      "kind": "neighbor_leak",
+      "q": "Koja božica je bogu Jupiteru rodila boga Apolona?",
+      "wrong": "Jupiter",
+      "from_i": 378,
+      "from_q": "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?",
+      "answers": {
+        "A": "Jupiter",
+        "B": "Latona",
+        "C": "Haran"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 380,
+      "kind": "neighbor_leak",
+      "q": "Koja božica je bogu Jupiteru rodila boga Apolona?",
+      "wrong": "Haran",
+      "from_i": 382,
+      "from_q": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
+      "answers": {
+        "A": "Jupiter",
+        "B": "Latona",
+        "C": "Haran"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 382,
+      "kind": "neighbor_leak",
+      "q": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
+      "wrong": "Sevillu",
+      "from_i": 383,
+      "from_q": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
+      "answers": {
+        "A": "Haran",
+        "B": "Sevillu",
+        "C": "Latona"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 382,
+      "kind": "neighbor_leak",
+      "q": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
+      "wrong": "Latona",
+      "from_i": 380,
+      "from_q": "Koja božica je bogu Jupiteru rodila boga Apolona?",
+      "answers": {
+        "A": "Haran",
+        "B": "Sevillu",
+        "C": "Latona"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 383,
+      "kind": "neighbor_leak",
+      "q": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
+      "wrong": "Haran",
+      "from_i": 382,
+      "from_q": "U blizini kojeg drevnog grada u turskoj je Partsko carstvo 53.g. pr. Kr. nanijelo Rimljanima jedan od najvećih vojnih poraza u njihovoj povijesti?",
+      "answers": {
+        "A": "Haran",
+        "B": "Sevillu",
+        "C": "Ivan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 383,
+      "kind": "neighbor_leak",
+      "q": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
+      "wrong": "Ivan",
+      "from_i": 384,
+      "from_q": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
+      "answers": {
+        "A": "Haran",
+        "B": "Sevillu",
+        "C": "Ivan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 384,
+      "kind": "neighbor_leak",
+      "q": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
+      "wrong": "Sevillu",
+      "from_i": 383,
+      "from_q": "Koji današnji španjolski grad Rimljani razaraju te ponovno uspostavljaju pod imenom Hispalis, a pored njega i grad Italicu, danas jedan od najvećih rimskih arheoloških lokaliteta u toj zemlji?",
+      "answers": {
+        "A": "Sevillu",
+        "B": "Carevima",
+        "C": "Ivan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 384,
+      "kind": "neighbor_leak",
+      "q": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
+      "wrong": "Carevima",
+      "from_i": 385,
+      "from_q": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
+      "answers": {
+        "A": "Sevillu",
+        "B": "Carevima",
+        "C": "Ivan"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 385,
+      "kind": "neighbor_leak",
+      "q": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
+      "wrong": "Ivan",
+      "from_i": 384,
+      "from_q": "Koji je evanđelist bio prognan od strane rimskog cara Domicijana na zatvorski otok Patmos, gdje je u špilji napisao Knjigu Otkrivenja?",
+      "answers": {
+        "A": "Carevima",
+        "B": "Ivan",
+        "C": "Urbs"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 385,
+      "kind": "neighbor_leak",
+      "q": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
+      "wrong": "Urbs",
+      "from_i": 386,
+      "from_q": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
+      "answers": {
+        "A": "Carevima",
+        "B": "Ivan",
+        "C": "Urbs"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 386,
+      "kind": "neighbor_leak",
+      "q": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
+      "wrong": "Carevima",
+      "from_i": 385,
+      "from_q": "Titule 'Princeps, Imperator, Caesar i Augustus' su se pripisivale kojim rimskim dužnosnicima?",
+      "answers": {
+        "A": "Carevima",
+        "B": "Urbs",
+        "C": "Škotskoj"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 386,
+      "kind": "neighbor_leak",
+      "q": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
+      "wrong": "Škotskoj",
+      "from_i": 387,
+      "from_q": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+      "answers": {
+        "A": "Carevima",
+        "B": "Urbs",
+        "C": "Škotskoj"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 387,
+      "kind": "neighbor_leak",
+      "q": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+      "wrong": "Urbs",
+      "from_i": 386,
+      "from_q": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
+      "answers": {
+        "A": "Urbs",
+        "B": "Lisabon",
+        "C": "Škotskoj"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 387,
+      "kind": "neighbor_leak",
+      "q": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+      "wrong": "Lisabon",
+      "from_i": 388,
+      "from_q": "Koji su portugalski grad stari Rimljani poznavali kao Olissipo?",
+      "answers": {
+        "A": "Urbs",
+        "B": "Lisabon",
+        "C": "Škotskoj"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 388,
+      "kind": "neighbor_leak",
+      "q": "Koji su portugalski grad stari Rimljani poznavali kao Olissipo?",
+      "wrong": "Škotskoj",
+      "from_i": 387,
+      "from_q": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+      "answers": {
+        "A": "Lisabon",
+        "B": "Škotskoj",
+        "C": "Herkulanej"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 388,
+      "kind": "neighbor_leak",
+      "q": "Koji su portugalski grad stari Rimljani poznavali kao Olissipo?",
+      "wrong": "Herkulanej",
+      "from_i": 389,
+      "from_q": "U velikoj erupciji Vezuva 79 g. bivaju uništeni gradovi: Pompeji, Stabije, Oplontis i koji još antički grad?",
+      "answers": {
+        "A": "Lisabon",
+        "B": "Škotskoj",
+        "C": "Herkulanej"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 390,
+      "kind": "neighbor_leak",
+      "q": "U kojoj se današnjoj državi nalazi zid rimskog cara Hadrijana, dugačak 120km?",
+      "wrong": "Škotskoj",
+      "from_i": 387,
+      "from_q": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
+      "answers": {
+        "A": "Škotskoj",
+        "B": "Walesu",
+        "C": "Engleskoj"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 397,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car je svojeg konja želio proglasiti konzulom?",
+      "wrong": "Neron",
+      "from_i": 400,
+      "from_q": "Peti, a ujedno i zadnji rimski car iz Julijevsko - Klaudijevske dinastije je bio tko?",
+      "answers": {
+        "A": "Kaligula",
+        "B": "Neron",
+        "C": "Komod"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 400,
+      "kind": "neighbor_leak",
+      "q": "Peti, a ujedno i zadnji rimski car iz Julijevsko - Klaudijevske dinastije je bio tko?",
+      "wrong": "Kaligula",
+      "from_i": 397,
+      "from_q": "Koji rimski car je svojeg konja želio proglasiti konzulom?",
+      "answers": {
+        "A": "Neron",
+        "B": "Klaudije",
+        "C": "Kaligula"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 419,
+      "kind": "neighbor_leak",
+      "q": "Koji broj stari Rimljani nisu poznavali?",
+      "wrong": "Veni",
+      "from_i": 418,
+      "from_q": "U rečenici 'Veni Vidi Vici', jedna se riječ ne može napisati koristeći samo rimske brojeve, koja?",
+      "answers": {
+        "A": "Veni",
+        "B": "Nula",
+        "C": "Perzeja"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 419,
+      "kind": "neighbor_leak",
+      "q": "Koji broj stari Rimljani nisu poznavali?",
+      "wrong": "Perzeja",
+      "from_i": 421,
+      "from_q": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
+      "answers": {
+        "A": "Veni",
+        "B": "Nula",
+        "C": "Perzeja"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 421,
+      "kind": "neighbor_leak",
+      "q": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
+      "wrong": "Hanibala",
+      "from_i": 422,
+      "from_q": "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?",
+      "answers": {
+        "A": "Perzeja",
+        "B": "Hanibala",
+        "C": "Nula"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 421,
+      "kind": "neighbor_leak",
+      "q": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
+      "wrong": "Nula",
+      "from_i": 419,
+      "from_q": "Koji broj stari Rimljani nisu poznavali?",
+      "answers": {
+        "A": "Perzeja",
+        "B": "Hanibala",
+        "C": "Nula"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 422,
+      "kind": "neighbor_leak",
+      "q": "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?",
+      "wrong": "Perzeja",
+      "from_i": 421,
+      "from_q": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
+      "answers": {
+        "A": "Perzeja",
+        "B": "Hanibala",
+        "C": "Nula"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 422,
+      "kind": "neighbor_leak",
+      "q": "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?",
+      "wrong": "Nula",
+      "from_i": 419,
+      "from_q": "Koji broj stari Rimljani nisu poznavali?",
+      "answers": {
+        "A": "Perzeja",
+        "B": "Hanibala",
+        "C": "Nula"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 425,
+      "kind": "neighbor_leak",
+      "q": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
+      "wrong": "Kartagu",
+      "from_i": 426,
+      "from_q": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
+      "answers": {
+        "A": "Kartagu",
+        "B": "Avarik",
+        "C": "Palatinu"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 425,
+      "kind": "neighbor_leak",
+      "q": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
+      "wrong": "Palatinu",
+      "from_i": 427,
+      "from_q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "answers": {
+        "A": "Kartagu",
+        "B": "Avarik",
+        "C": "Palatinu"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 426,
+      "kind": "neighbor_leak",
+      "q": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
+      "wrong": "Avarik",
+      "from_i": 425,
+      "from_q": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
+      "answers": {
+        "A": "Avarik",
+        "B": "Palatinu",
+        "C": "Kartagu"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 426,
+      "kind": "neighbor_leak",
+      "q": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
+      "wrong": "Palatinu",
+      "from_i": 427,
+      "from_q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "answers": {
+        "A": "Avarik",
+        "B": "Palatinu",
+        "C": "Kartagu"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 427,
+      "kind": "neighbor_leak",
+      "q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "wrong": "Kartagu",
+      "from_i": 426,
+      "from_q": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
+      "answers": {
+        "A": "Palatinu",
+        "B": "Kartagu",
+        "C": "Oton"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 427,
+      "kind": "neighbor_leak",
+      "q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "wrong": "Oton",
+      "from_i": 428,
+      "from_q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "answers": {
+        "A": "Palatinu",
+        "B": "Kartagu",
+        "C": "Oton"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 428,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "wrong": "Palatinu",
+      "from_i": 427,
+      "from_q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "answers": {
+        "A": "Palatinu",
+        "B": "Oton",
+        "C": "Konzul"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 428,
+      "kind": "neighbor_leak",
+      "q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "wrong": "Konzul",
+      "from_i": 429,
+      "from_q": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
+      "answers": {
+        "A": "Palatinu",
+        "B": "Oton",
+        "C": "Konzul"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 429,
+      "kind": "neighbor_leak",
+      "q": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
+      "wrong": "Oton",
+      "from_i": 428,
+      "from_q": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
+      "answers": {
+        "A": "Oton",
+        "B": "Palatinu",
+        "C": "Konzul"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 429,
+      "kind": "neighbor_leak",
+      "q": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
+      "wrong": "Palatinu",
+      "from_i": 427,
+      "from_q": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
+      "answers": {
+        "A": "Oton",
+        "B": "Palatinu",
+        "C": "Konzul"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 431,
+      "kind": "neighbor_leak",
+      "q": "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?",
+      "wrong": "Fritiger",
+      "from_i": 432,
+      "from_q": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
+      "answers": {
+        "A": "Fritiger",
+        "B": "Gencije",
+        "C": "Konzul"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 431,
+      "kind": "neighbor_leak",
+      "q": "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?",
+      "wrong": "Konzul",
+      "from_i": 429,
+      "from_q": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
+      "answers": {
+        "A": "Fritiger",
+        "B": "Gencije",
+        "C": "Konzul"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 432,
+      "kind": "neighbor_leak",
+      "q": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
+      "wrong": "Gencije",
+      "from_i": 431,
+      "from_q": "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?",
+      "answers": {
+        "A": "Gencije",
+        "B": "Pauci",
+        "C": "Fritiger"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 432,
+      "kind": "neighbor_leak",
+      "q": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
+      "wrong": "Pauci",
+      "from_i": 434,
+      "from_q": "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?",
+      "answers": {
+        "A": "Gencije",
+        "B": "Pauci",
+        "C": "Fritiger"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 434,
+      "kind": "neighbor_leak",
+      "q": "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?",
+      "wrong": "M",
+      "from_i": 435,
+      "from_q": "Koje slovo je označavalo broj 1000 u rimskom carstvu?",
+      "answers": {
+        "A": "M",
+        "B": "Pauci",
+        "C": "Fritiger"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 434,
+      "kind": "neighbor_leak",
+      "q": "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?",
+      "wrong": "Fritiger",
+      "from_i": 432,
+      "from_q": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
+      "answers": {
+        "A": "M",
+        "B": "Pauci",
+        "C": "Fritiger"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 464,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 500 u rimskom carstvu?",
+      "wrong": "X",
+      "from_i": 463,
+      "from_q": "Koje slovo je označavalo broj 10 u rimskom carstvu?",
+      "answers": {
+        "A": "X",
+        "B": "D",
+        "C": "Dioklecijanova"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 464,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 500 u rimskom carstvu?",
+      "wrong": "Dioklecijanova",
+      "from_i": 465,
+      "from_q": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
+      "answers": {
+        "A": "X",
+        "B": "D",
+        "C": "Dioklecijanova"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 465,
+      "kind": "neighbor_leak",
+      "q": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
+      "wrong": "D",
+      "from_i": 464,
+      "from_q": "Koje slovo je označavalo broj 500 u rimskom carstvu?",
+      "answers": {
+        "A": "D",
+        "B": "X",
+        "C": "Dioklecijanova"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 465,
+      "kind": "neighbor_leak",
+      "q": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
+      "wrong": "X",
+      "from_i": 463,
+      "from_q": "Koje slovo je označavalo broj 10 u rimskom carstvu?",
+      "answers": {
+        "A": "D",
+        "B": "X",
+        "C": "Dioklecijanova"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 467,
+      "kind": "neighbor_leak",
+      "q": "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?",
+      "wrong": "Dioklecijanova",
+      "from_i": 465,
+      "from_q": "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?",
+      "answers": {
+        "A": "Dioklecijanova",
+        "B": "Konstantina",
+        "C": "C"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 467,
+      "kind": "neighbor_leak",
+      "q": "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?",
+      "wrong": "C",
+      "from_i": 469,
+      "from_q": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
+      "answers": {
+        "A": "Dioklecijanova",
+        "B": "Konstantina",
+        "C": "C"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 469,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
+      "wrong": "Vepra",
+      "from_i": 470,
+      "from_q": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
+      "answers": {
+        "A": "C",
+        "B": "Vepra",
+        "C": "Konstantina"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 469,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
+      "wrong": "Konstantina",
+      "from_i": 467,
+      "from_q": "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?",
+      "answers": {
+        "A": "C",
+        "B": "Vepra",
+        "C": "Konstantina"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 470,
+      "kind": "neighbor_leak",
+      "q": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
+      "wrong": "C",
+      "from_i": 469,
+      "from_q": "Koje slovo je označavalo broj 100 u rimskom carstvu?",
+      "answers": {
+        "A": "C",
+        "B": "Vepra",
+        "C": "Konstantinopol"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 470,
+      "kind": "neighbor_leak",
+      "q": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
+      "wrong": "Konstantinopol",
+      "from_i": 471,
+      "from_q": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+      "answers": {
+        "A": "C",
+        "B": "Vepra",
+        "C": "Konstantinopol"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 471,
+      "kind": "neighbor_leak",
+      "q": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+      "wrong": "Vepra",
+      "from_i": 470,
+      "from_q": "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?",
+      "answers": {
+        "A": "Vepra",
+        "B": "L",
+        "C": "Konstantinopol"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 471,
+      "kind": "neighbor_leak",
+      "q": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+      "wrong": "L",
+      "from_i": 472,
+      "from_q": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
+      "answers": {
+        "A": "Vepra",
+        "B": "L",
+        "C": "Konstantinopol"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 472,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
+      "wrong": "Konstantinopol",
+      "from_i": 471,
+      "from_q": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+      "answers": {
+        "A": "L",
+        "B": "Konstantinopol",
+        "C": "Zapadom"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 472,
+      "kind": "neighbor_leak",
+      "q": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
+      "wrong": "Zapadom",
+      "from_i": 473,
+      "from_q": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+      "answers": {
+        "A": "L",
+        "B": "Konstantinopol",
+        "C": "Zapadom"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 473,
+      "kind": "neighbor_leak",
+      "q": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+      "wrong": "L",
+      "from_i": 472,
+      "from_q": "Koje slovo je označavalo broj 50 u rimskom carstvu?",
+      "answers": {
+        "A": "L",
+        "B": "Zapadom",
+        "C": "Konstantinopol"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 473,
+      "kind": "neighbor_leak",
+      "q": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+      "wrong": "Konstantinopol",
+      "from_i": 471,
+      "from_q": "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?",
+      "answers": {
+        "A": "L",
+        "B": "Zapadom",
+        "C": "Konstantinopol"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 475,
+      "kind": "neighbor_leak",
+      "q": "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?",
+      "wrong": "Konstantin",
+      "from_i": 476,
+      "from_q": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+      "answers": {
+        "A": "Guske",
+        "B": "Konstantin",
+        "C": "Zapadom"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 475,
+      "kind": "neighbor_leak",
+      "q": "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?",
+      "wrong": "Zapadom",
+      "from_i": 473,
+      "from_q": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+      "answers": {
+        "A": "Guske",
+        "B": "Konstantin",
+        "C": "Zapadom"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 476,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+      "wrong": "Guske",
+      "from_i": 475,
+      "from_q": "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?",
+      "answers": {
+        "A": "Guske",
+        "B": "Konstantin",
+        "C": "Zapadom"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 476,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+      "wrong": "Zapadom",
+      "from_i": 473,
+      "from_q": "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?",
+      "answers": {
+        "A": "Guske",
+        "B": "Konstantin",
+        "C": "Zapadom"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 477,
+      "kind": "neighbor_leak",
+      "q": "Tko je bio car istočnog, u vrijeme kada je zapadno rimsko carstvo prestalo postojati?",
+      "wrong": "Konstantin",
+      "from_i": 476,
+      "from_q": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Bren",
+        "C": "Zenon"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 478,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car je sazvao prvi ekumenski crkveni sabor?",
+      "wrong": "Honoriju",
+      "from_i": 479,
+      "from_q": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Honoriju",
+        "C": "Odoakar"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 478,
+      "kind": "neighbor_leak",
+      "q": "Koji rimski car je sazvao prvi ekumenski crkveni sabor?",
+      "wrong": "Odoakar",
+      "from_i": 480,
+      "from_q": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Honoriju",
+        "C": "Odoakar"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 479,
+      "kind": "neighbor_leak",
+      "q": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
+      "wrong": "Konstantin",
+      "from_i": 476,
+      "from_q": "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Honoriju",
+        "C": "Odoakar"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 479,
+      "kind": "neighbor_leak",
+      "q": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
+      "wrong": "Odoakar",
+      "from_i": 480,
+      "from_q": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Honoriju",
+        "C": "Odoakar"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 480,
+      "kind": "neighbor_leak",
+      "q": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
+      "wrong": "Honoriju",
+      "from_i": 479,
+      "from_q": "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?",
+      "answers": {
+        "A": "Honoriju",
+        "B": "Milano",
+        "C": "Odoakar"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 480,
+      "kind": "neighbor_leak",
+      "q": "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?",
+      "wrong": "Milano",
+      "from_i": 481,
+      "from_q": "Koji se današnji grad, poznat po modi, u doba rimskog carstva zvao Mediolanum?",
+      "answers": {
+        "A": "Honoriju",
+        "B": "Milano",
+        "C": "Odoakar"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 485,
+      "kind": "neighbor_leak",
+      "q": "S čijim imenom je počelo rimsko kraljevstvo a završilo zapadno rimsko carstvo?",
+      "wrong": "Konstantin",
+      "from_i": 484,
+      "from_q": "Tko je bio prvi rimski car koji je primio sakramenat krštenja?",
+      "answers": {
+        "A": "August",
+        "B": "Romul",
+        "C": "Konstantin"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 500,
+      "kind": "neighbor_leak",
+      "q": "Koji car je bio posljednji, univarzalni vladar cijelog rimskog carstva, prije službene podjele na zapadno i istočno?",
+      "wrong": "Dioklecijan",
+      "from_i": 499,
+      "from_q": "Kada je Konstancije bio 'junior cezar' , Galerije mu je bio 'senior cezar', a kada je Maksimijan bio 'junior august', 'senior august' mu je bio tko?",
+      "answers": {
+        "A": "Konstantin",
+        "B": "Teodozije",
+        "C": "Dioklecijan"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 510,
+      "kind": "neighbor_leak",
+      "q": "Tko je otac bogova i bog vremena u rimskoj mitologiji?",
+      "wrong": "Kasije",
+      "from_i": 513,
+      "from_q": "Tko je uz Bruta predvodio urotu protiv Julija Cezara u kojoj je Julije i ubijen?",
+      "answers": {
+        "A": "Kasije",
+        "B": "Teodozije",
+        "C": "Saturn"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 512,
+      "kind": "neighbor_leak",
+      "q": "'Zagrebačka lanena knjiga' je rukopis s najduljim sačuvanim tekstom na jeziku kojeg drevnog naroda sa Apeninskog poluotoka?",
+      "wrong": "1 godinu",
+      "from_i": 509,
+      "from_q": "Na koje razdoblje da upravljaju, su birani konzuli u starom Rimu?",
+      "answers": {
+        "A": "1 godinu",
+        "B": "Etruščana",
+        "C": "Pompejevo kazalište"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 512,
+      "kind": "neighbor_leak",
+      "q": "'Zagrebačka lanena knjiga' je rukopis s najduljim sačuvanim tekstom na jeziku kojeg drevnog naroda sa Apeninskog poluotoka?",
+      "wrong": "Pompejevo kazalište",
+      "from_i": 515,
+      "from_q": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
+      "answers": {
+        "A": "1 godinu",
+        "B": "Etruščana",
+        "C": "Pompejevo kazalište"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 513,
+      "kind": "neighbor_leak",
+      "q": "Tko je uz Bruta predvodio urotu protiv Julija Cezara u kojoj je Julije i ubijen?",
+      "wrong": "Saturn",
+      "from_i": 510,
+      "from_q": "Tko je otac bogova i bog vremena u rimskoj mitologiji?",
+      "answers": {
+        "A": "Saturn",
+        "B": "Neptun",
+        "C": "Kasije"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 515,
+      "kind": "neighbor_leak",
+      "q": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
+      "wrong": "Pontskog",
+      "from_i": 516,
+      "from_q": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
+      "answers": {
+        "A": "Pontskog",
+        "B": "Pompejevo kazalište",
+        "C": "Lari"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 515,
+      "kind": "neighbor_leak",
+      "q": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
+      "wrong": "Lari",
+      "from_i": 517,
+      "from_q": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+      "answers": {
+        "A": "Pontskog",
+        "B": "Pompejevo kazalište",
+        "C": "Lari"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 516,
+      "kind": "neighbor_leak",
+      "q": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
+      "wrong": "Pompejevo kazalište",
+      "from_i": 515,
+      "from_q": "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?",
+      "answers": {
+        "A": "Pompejevo kazalište",
+        "B": "Lari",
+        "C": "Pontskog"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 516,
+      "kind": "neighbor_leak",
+      "q": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
+      "wrong": "Lari",
+      "from_i": 517,
+      "from_q": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+      "answers": {
+        "A": "Pompejevo kazalište",
+        "B": "Lari",
+        "C": "Pontskog"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 517,
+      "kind": "neighbor_leak",
+      "q": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+      "wrong": "Pontskog",
+      "from_i": 516,
+      "from_q": "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?",
+      "answers": {
+        "A": "Lari",
+        "B": "Pontskog",
+        "C": "Kleopatri"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 517,
+      "kind": "neighbor_leak",
+      "q": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+      "wrong": "Kleopatri",
+      "from_i": 518,
+      "from_q": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+      "answers": {
+        "A": "Lari",
+        "B": "Pontskog",
+        "C": "Kleopatri"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 518,
+      "kind": "neighbor_leak",
+      "q": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+      "wrong": "Lari",
+      "from_i": 517,
+      "from_q": "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?",
+      "answers": {
+        "A": "Lari",
+        "B": "Kleopatri",
+        "C": "Tunis"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 518,
+      "kind": "neighbor_leak",
+      "q": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+      "wrong": "Tunis",
+      "from_i": 519,
+      "from_q": "Na teritoriju koje današnje države se nalazila Kartaga?",
+      "answers": {
+        "A": "Lari",
+        "B": "Kleopatri",
+        "C": "Tunis"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 519,
+      "kind": "neighbor_leak",
+      "q": "Na teritoriju koje današnje države se nalazila Kartaga?",
+      "wrong": "Kleopatri",
+      "from_i": 518,
+      "from_q": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+      "answers": {
+        "A": "Kleopatri",
+        "B": "Drugog",
+        "C": "Tunis"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 519,
+      "kind": "neighbor_leak",
+      "q": "Na teritoriju koje današnje države se nalazila Kartaga?",
+      "wrong": "Drugog",
+      "from_i": 520,
+      "from_q": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
+      "answers": {
+        "A": "Kleopatri",
+        "B": "Drugog",
+        "C": "Tunis"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 520,
+      "kind": "neighbor_leak",
+      "q": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
+      "wrong": "Tunis",
+      "from_i": 519,
+      "from_q": "Na teritoriju koje današnje države se nalazila Kartaga?",
+      "answers": {
+        "A": "Drugog",
+        "B": "Tunis",
+        "C": "Kleopatri"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 520,
+      "kind": "neighbor_leak",
+      "q": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
+      "wrong": "Kleopatri",
+      "from_i": 518,
+      "from_q": "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?",
+      "answers": {
+        "A": "Drugog",
+        "B": "Tunis",
+        "C": "Kleopatri"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 522,
+      "kind": "neighbor_leak",
+      "q": "Koji egipatski faraon je dao pogubiti Pompeja Velikog?",
+      "wrong": "Sicilija",
+      "from_i": 523,
+      "from_q": "Koji je površinom najveći otok koji je u cijelosti bio pod rimskom vlašću?",
+      "answers": {
+        "A": "Sicilija",
+        "B": "Drugog",
+        "C": "Ptolomej 13."
+      },
+      "correct": "C"
+    },
+    {
+      "i": 522,
+      "kind": "neighbor_leak",
+      "q": "Koji egipatski faraon je dao pogubiti Pompeja Velikog?",
+      "wrong": "Drugog",
+      "from_i": 520,
+      "from_q": "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?",
+      "answers": {
+        "A": "Sicilija",
+        "B": "Drugog",
+        "C": "Ptolomej 13."
+      },
+      "correct": "C"
+    },
+    {
+      "i": 553,
+      "kind": "neighbor_leak",
+      "q": "Prema legendi, rat između Rima i Alba Longe je odlučen u dvoboju 3 brata albske obitelji Curiatii protiv 3 brata koje rimske obitelji?",
+      "wrong": "Junona",
+      "from_i": 554,
+      "from_q": "Koja je rimska božica rodila bogove Marsa i Vulkana?",
+      "answers": {
+        "A": "Horatii",
+        "B": "Junona",
+        "C": "Vercingetoriks"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 553,
+      "kind": "neighbor_leak",
+      "q": "Prema legendi, rat između Rima i Alba Longe je odlučen u dvoboju 3 brata albske obitelji Curiatii protiv 3 brata koje rimske obitelji?",
+      "wrong": "Vercingetoriks",
+      "from_i": 551,
+      "from_q": "Koji je galski poglavica bio vođa galskih plemena u pobuni protiv rimske vlasti na čelu s Julijem Cezarom?",
+      "answers": {
+        "A": "Horatii",
+        "B": "Junona",
+        "C": "Vercingetoriks"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 554,
+      "kind": "neighbor_leak",
+      "q": "Koja je rimska božica rodila bogove Marsa i Vulkana?",
+      "wrong": "Horatii",
+      "from_i": 553,
+      "from_q": "Prema legendi, rat između Rima i Alba Longe je odlučen u dvoboju 3 brata albske obitelji Curiatii protiv 3 brata koje rimske obitelji?",
+      "answers": {
+        "A": "Horatii",
+        "B": "Junona",
+        "C": "Napuljskom"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 554,
+      "kind": "neighbor_leak",
+      "q": "Koja je rimska božica rodila bogove Marsa i Vulkana?",
+      "wrong": "Napuljskom",
+      "from_i": 556,
+      "from_q": "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?",
+      "answers": {
+        "A": "Horatii",
+        "B": "Junona",
+        "C": "Napuljskom"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 556,
+      "kind": "neighbor_leak",
+      "q": "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?",
+      "wrong": "Egerija",
+      "from_i": 557,
+      "from_q": "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?",
+      "answers": {
+        "A": "Napuljskom",
+        "B": "Egerija",
+        "C": "Junona"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 556,
+      "kind": "neighbor_leak",
+      "q": "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?",
+      "wrong": "Junona",
+      "from_i": 554,
+      "from_q": "Koja je rimska božica rodila bogove Marsa i Vulkana?",
+      "answers": {
+        "A": "Napuljskom",
+        "B": "Egerija",
+        "C": "Junona"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 557,
+      "kind": "neighbor_leak",
+      "q": "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?",
+      "wrong": "Napuljskom",
+      "from_i": 556,
+      "from_q": "Starorimski akvadukt Serino je bila mreža vodovoda koja je stoljećima poskrbljivala 8 drevnih gradova u kojem talijanskom zaljevu?",
+      "answers": {
+        "A": "Napuljskom",
+        "B": "Egerija",
+        "C": "Pugio"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 557,
+      "kind": "neighbor_leak",
+      "q": "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?",
+      "wrong": "Pugio",
+      "from_i": 558,
+      "from_q": "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?",
+      "answers": {
+        "A": "Napuljskom",
+        "B": "Egerija",
+        "C": "Pugio"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 558,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?",
+      "wrong": "Egerija",
+      "from_i": 557,
+      "from_q": "U rimskoj mitologiji, kako se zvala žena drugog rimskog kralja Nume Pompilija, ujedno i božica izvornosti i poroda?",
+      "answers": {
+        "A": "Egerija",
+        "B": "Teutoburškoj šumi",
+        "C": "Pugio"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 558,
+      "kind": "neighbor_leak",
+      "q": "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?",
+      "wrong": "Teutoburškoj šumi",
+      "from_i": 559,
+      "from_q": "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?",
+      "answers": {
+        "A": "Egerija",
+        "B": "Teutoburškoj šumi",
+        "C": "Pugio"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 559,
+      "kind": "neighbor_leak",
+      "q": "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?",
+      "wrong": "Pugio",
+      "from_i": 558,
+      "from_q": "Kako se zvao bodež koji je vojnicima starog Rima služio kao dodatno oružje, u slučaju iznenadnih situacija?",
+      "answers": {
+        "A": "Teutoburškoj šumi",
+        "B": "Pugio",
+        "C": "Prozerpini"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 559,
+      "kind": "neighbor_leak",
+      "q": "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?",
+      "wrong": "Prozerpini",
+      "from_i": 560,
+      "from_q": "Što je Had, Perzefoni, to je Pluton, kome?",
+      "answers": {
+        "A": "Teutoburškoj šumi",
+        "B": "Pugio",
+        "C": "Prozerpini"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 560,
+      "kind": "neighbor_leak",
+      "q": "Što je Had, Perzefoni, to je Pluton, kome?",
+      "wrong": "Teutoburškoj šumi",
+      "from_i": 559,
+      "from_q": "U kojoj su šumi, germani u svega 3 dana u potpunosti uništili 3 rimske legije?",
+      "answers": {
+        "A": "Teutoburškoj šumi",
+        "B": "Prozerpini",
+        "C": "Flamen"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 560,
+      "kind": "neighbor_leak",
+      "q": "Što je Had, Perzefoni, to je Pluton, kome?",
+      "wrong": "Flamen",
+      "from_i": 561,
+      "from_q": "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?",
+      "answers": {
+        "A": "Teutoburškoj šumi",
+        "B": "Prozerpini",
+        "C": "Flamen"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 561,
+      "kind": "neighbor_leak",
+      "q": "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?",
+      "wrong": "Prozerpini",
+      "from_i": 560,
+      "from_q": "Što je Had, Perzefoni, to je Pluton, kome?",
+      "answers": {
+        "A": "Prozerpini",
+        "B": "Breučkog",
+        "C": "Flamen"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 561,
+      "kind": "neighbor_leak",
+      "q": "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?",
+      "wrong": "Breučkog",
+      "from_i": 562,
+      "from_q": "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?",
+      "answers": {
+        "A": "Prozerpini",
+        "B": "Breučkog",
+        "C": "Flamen"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 562,
+      "kind": "neighbor_leak",
+      "q": "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?",
+      "wrong": "Flamen",
+      "from_i": 561,
+      "from_q": "U rimskoj religiji, kako se zvao jedan od petnaestorice svećenika dodijeljenih kultovima petnaestero bogova?",
+      "answers": {
+        "A": "Breučkog",
+        "B": "Flamen",
+        "C": "Augusta"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 562,
+      "kind": "neighbor_leak",
+      "q": "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?",
+      "wrong": "Augusta",
+      "from_i": 563,
+      "from_q": "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?",
+      "answers": {
+        "A": "Breučkog",
+        "B": "Flamen",
+        "C": "Augusta"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 563,
+      "kind": "neighbor_leak",
+      "q": "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?",
+      "wrong": "Breučkog",
+      "from_i": 562,
+      "from_q": "U vrijeme velikog ilirskog ustanka protiv Rima, Baton Dezidijat je zarobio i pogubio Batona kojeg?",
+      "answers": {
+        "A": "Breučkog",
+        "B": "Augusta",
+        "C": "Kocka"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 563,
+      "kind": "neighbor_leak",
+      "q": "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?",
+      "wrong": "Kocka",
+      "from_i": 564,
+      "from_q": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+      "answers": {
+        "A": "Breučkog",
+        "B": "Augusta",
+        "C": "Kocka"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 564,
+      "kind": "neighbor_leak",
+      "q": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+      "wrong": "Augusta",
+      "from_i": 563,
+      "from_q": "'Oltar veličanstvenog mira' je monumentali oltar napravljen u čast kojeg rimskog cara?",
+      "answers": {
+        "A": "Augusta",
+        "B": "Punski ratovi",
+        "C": "Kocka"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 564,
+      "kind": "neighbor_leak",
+      "q": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+      "wrong": "Punski ratovi",
+      "from_i": 565,
+      "from_q": "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?",
+      "answers": {
+        "A": "Augusta",
+        "B": "Punski ratovi",
+        "C": "Kocka"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 565,
+      "kind": "neighbor_leak",
+      "q": "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?",
+      "wrong": "Kocka",
+      "from_i": 564,
+      "from_q": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+      "answers": {
+        "A": "Punski ratovi",
+        "B": "Kocka",
+        "C": "Beč"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 565,
+      "kind": "neighbor_leak",
+      "q": "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?",
+      "wrong": "Beč",
+      "from_i": 566,
+      "from_q": "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?",
+      "answers": {
+        "A": "Punski ratovi",
+        "B": "Kocka",
+        "C": "Beč"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 566,
+      "kind": "neighbor_leak",
+      "q": "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?",
+      "wrong": "Punski ratovi",
+      "from_i": 565,
+      "from_q": "Kojim imenom zovemo 3 rata vođena između Rimske republike i feničkog grada Kartage?",
+      "answers": {
+        "A": "Punski ratovi",
+        "B": "Beč",
+        "C": "Kocka"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 566,
+      "kind": "neighbor_leak",
+      "q": "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?",
+      "wrong": "Kocka",
+      "from_i": 564,
+      "from_q": "Što je bačeno u slavnoj izreci Gaja Julija Cezara?",
+      "answers": {
+        "A": "Punski ratovi",
+        "B": "Beč",
+        "C": "Kocka"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 568,
+      "kind": "neighbor_leak",
+      "q": "1120km duga rimska cesta Via Egnatia je svoju početnu točku imala u današnjoj Albaniji, a završavala je u kojoj današnjoj državi?",
+      "wrong": "Beč",
+      "from_i": 566,
+      "from_q": "Koji je današnji grad, za vrijeme rimskog carstva bio poznat pod imenom Vindobona?",
+      "answers": {
+        "A": "Turskoj",
+        "B": "Beč",
+        "C": "Pir"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 568,
+      "kind": "neighbor_leak",
+      "q": "1120km duga rimska cesta Via Egnatia je svoju početnu točku imala u današnjoj Albaniji, a završavala je u kojoj današnjoj državi?",
+      "wrong": "Pir",
+      "from_i": 570,
+      "from_q": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+      "answers": {
+        "A": "Turskoj",
+        "B": "Beč",
+        "C": "Pir"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 570,
+      "kind": "neighbor_leak",
+      "q": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+      "wrong": "Sisak",
+      "from_i": 571,
+      "from_q": "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Turskoj",
+        "C": "Pir"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 570,
+      "kind": "neighbor_leak",
+      "q": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+      "wrong": "Turskoj",
+      "from_i": 568,
+      "from_q": "1120km duga rimska cesta Via Egnatia je svoju početnu točku imala u današnjoj Albaniji, a završavala je u kojoj današnjoj državi?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Turskoj",
+        "C": "Pir"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 571,
+      "kind": "neighbor_leak",
+      "q": "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?",
+      "wrong": "Pir",
+      "from_i": 570,
+      "from_q": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Pir",
+        "C": "Teuta"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 571,
+      "kind": "neighbor_leak",
+      "q": "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?",
+      "wrong": "Teuta",
+      "from_i": 572,
+      "from_q": "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Pir",
+        "C": "Teuta"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 572,
+      "kind": "neighbor_leak",
+      "q": "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?",
+      "wrong": "Sisak",
+      "from_i": 571,
+      "from_q": "Koji se hrvatski grad nalazi na mjestu gdje je nekoć bila rimska Siscija?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Teuta",
+        "C": "Pir"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 572,
+      "kind": "neighbor_leak",
+      "q": "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?",
+      "wrong": "Pir",
+      "from_i": 570,
+      "from_q": "Koji je epirski kralj, ratujući sa rimljanima ostao upamćen po rečenici 'Još jedna ovakva pobjeda i izgubio sam'?",
+      "answers": {
+        "A": "Sisak",
+        "B": "Teuta",
+        "C": "Pir"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 574,
+      "kind": "neighbor_leak",
+      "q": "Koji je rimski pisac napisao biografiju 'O dvanaest rimskih careva'?",
+      "wrong": "Teuta",
+      "from_i": 572,
+      "from_q": "Koja ilirska kraljica je uzrokovala početak Rimsko - Ilirskih ratova?",
+      "answers": {
+        "A": "Svetonije",
+        "B": "Teuta",
+        "C": "Vitruvijev čovjek"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 574,
+      "kind": "neighbor_leak",
+      "q": "Koji je rimski pisac napisao biografiju 'O dvanaest rimskih careva'?",
+      "wrong": "Vitruvijev čovjek",
+      "from_i": 576,
+      "from_q": "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?",
+      "answers": {
+        "A": "Svetonije",
+        "B": "Teuta",
+        "C": "Vitruvijev čovjek"
+      },
+      "correct": "A"
+    },
+    {
+      "i": 575,
+      "kind": "neighbor_leak",
+      "q": "Tko je bio 3. rimski car, poznat po rastrošnosti i luđačkom umu?",
+      "wrong": "Klaudije",
+      "from_i": 578,
+      "from_q": "Nastavi redoslijed: August, Tiberije, Kaligula pa tko onda?",
+      "answers": {
+        "A": "Klaudije",
+        "B": "Kaligula",
+        "C": "Pompej"
+      },
+      "correct": "B"
+    },
+    {
+      "i": 576,
+      "kind": "neighbor_leak",
+      "q": "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?",
+      "wrong": "Augusta",
+      "from_i": 577,
+      "from_q": "Vitruvije je bio rimski pisac, arhitekt i vojni inženjer koji je živio u vrijeme kojeg rimskog cara?",
+      "answers": {
+        "A": "Augusta",
+        "B": "Svetonije",
+        "C": "Vitruvijev čovjek"
+      },
+      "correct": "C"
+    },
+    {
+      "i": 576,
+      "kind": "neighbor_leak",
+      "q": "Koji poznati crtež Leonarda Da Vincija iz 1487.g. govori o idealnim proporcijama i geometrijom ljudskog tijela, a ime nosi po jednom starorimskom arhitektu?",
+      "wrong": "Svetonije",
+      "from_i": 574,
+      "from_q": "Koji je rimski pisac napisao biografiju 'O dvanaest rimskih careva'?",
+      "answers": {
+        "A": "Augusta",
+        "B": "Svetonije",
+        "C": "Vitruvijev čovjek"
+      },
+      "correct": "C"
+    }
+  ]
+}
