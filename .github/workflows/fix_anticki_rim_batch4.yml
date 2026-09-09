@@ -1,0 +1,61 @@
+name: Fix AntickiRim batch 4
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch4.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?":{"A":"Dijadumenijan","B":"Geta","C":"Aleksijan"},
+          "U rimskoj književnosti, kojeg se autora 'Amfitriona' i 'Hvalisavog vojnika', smatra i najvećim piscem komedija u starom Rimu?":{"A":"Terencije","B":"Plauta","C":"Seneka"},
+          "Koje more su stari rimljani poznavali kao Mare Germanicum?":{"A":"Baltičko more","B":"Jadransko more","C":"Sjeverno more"},
+          "'Cardo' je bila jedna od dvije glavne ulice u rimskim gradovima i logorima a pružala se od sjevera prema kojoj strani svijeta?":{"A":"Jugu","B":"Istoku","C":"Zapadu"},
+          "Bitka kod Lugdunuma (današnji Lyon), je ujedno i najveći sukob rimskih vojski u povijesti, a dvije zaraćene strane predvodili su uzurpator Klodije Albin i koji car?":{"A":"Pescenije Niger","B":"Septimije Sever","C":"Didije Julijan"},
+          "Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?":{"A":"Masline","B":"Hrasta","C":"Lovora"},
+          "Koji nadimak kao vojskovođa dobiva budući rimski car Klaudije II. nakon pobjede nad gotima u bitci kod Niša iz 268.g.?":{"A":"Gotski","B":"Germanski","C":"Dački"},
+          "Tko dolazi na vlast nakon smrti rimskog cara Komoda te na njoj ostaje svega 87 dana?":{"A":"Didije Julijan","B":"Pertinax","C":"Pescenije Niger"},
+          "Amfiteatar u El Džemu ponosno nosi titulu najvećeg rimskog amfiteatra u Africi, a nalazi se u kojoj državi?":{"A":"Libiji","B":"Alžiru","C":"Tunis"},
+          "U kojem današnjem gradu je bilo sjedište Galskog carstva, koje se pod vodstvom Postuma odvojilo od Rima?":{"A":"Kölnu","B":"Trieru","C":"Mainzu"},
+          "Kojeg su rimskog cara pisci nazivali 'Vir Rei Publicae Necessarius', odnosno, 'čovjek neophodan rimskoj državi'?":{"A":"Aurelijana","B":"Dioklecijana","C":"Proba"},
+          "Kvijet, Musije Emilijan i Aureol su bili uzurpatori u starom Rimu koji su pokušali preuzeti vlast od kojeg cara?":{"A":"Valerijana","B":"Klaudija II.","C":"Galijena"},
+          "Koju je kraljicu palmirskog carstva porazio rimski car Aurelijan te je kao taokinju odveo u Rim, a Palmir ponovno priključio rimskom carstvu?":{"A":"Zenobiju","B":"Kleopatru VII.","C":"Bereniku IV."},
+          "S kojim germanskim narodom, tj. 'ljudima na granici' , ratuje rimski car Marko Aurelije, doživljava teške poraze te naposlijetu sklapa mir?":{"A":"Kvadi","B":"Markomani","C":"Gepidi"},
+          "Tko je uz regenta Pupijena vladao Rimom svega 3 mjeseca u godini 238.?":{"A":"Gordijan II.","B":"Maksim Pupijen","C":"Balbin"},
+          "Nakon što je car Valerijan ubijen, koji je car proglasio edikt o toleranciji, zaustavio progone kršćana i dao crkvi legalan status, koji je trajao do 310.g.?":{"A":"Galijen","B":"Klaudije II.","C":"Aurelijan"},
+          "Koji veliki sasanidsko-perzijski šah u bitci kod Edese nanosi sramotan poraz rimskoj vojsci te kao roba u Perziju odvodi cara Valerijana?":{"A":"Ardašir I.","B":"Šapur I.","C":"Narseh"},
+          "Koja dinastija postaje vladajuća dolaskom Septimija Severa na mjesto rimskog cara?":{"A":"Antoninska","B":"Flavijevska","C":"Severska"},
+          "Najveći rimski amfiteatar u Hrvatskoj se nalazi u kojem gradu?":{"A":"Puli","B":"Saloni","C":"Zadru"},
+          "Tko je bio prvi rimski car kojeg su neprijateljske snage odvele u zarobljeništvo?":{"A":"Decije","B":"Valerijan","C":"Galijen"},
+          "U kojem stoljeću se događa velika kriza u rimskom carstvu koja je dovela do 50 godina nestabilnosti i građanskih ratova?":{"A":"2.","B":"4.","C":"3."},
+          "Na području kojeg današnjeg glavnog grada i metropole se rodio veliki rimski car i filozof Marko Aurelije?":{"A":"Rima","B":"Atene","C":"Milana"},
+          "Koji rimski car je u 3.st. podigao zidine oko Rima koje su okruživale svih 7 brežuljaka te bile duge 19km?":{"A":"Probo","B":"Aurelijan","C":"Dioklecijan"},
+          "Bitka kod Abrita je vođena u ljeto 251.g. između rimskog carstva s carem Decijem protiv gotskih plemena na čelu s kojim kraljem čije ime označava i jedan oštar predmet?":{"A":"Ariarh","B":"Ostrogota","C":"Kniva"},
+          "Koji je starorimski komediograf napisao djela 'Samomučitelj' i 'Svekrva'?":{"A":"Terencije","B":"Plaut","C":"Nevije"},
+          "Od kojeg je kemijskog elementa napravljen starorimski novac Denar?":{"A":"Zlata","B":"Srebra","C":"Bakra"},
+          "Julije Saturnin, Bonos i Prokul su bili uzurpatori u rimskom carstvu za vrijeme kojeg cara?":{"A":"Aurelijana","B":"Kara","C":"Proba"},
+          "Kako se u starom Rimu zvao veliki zemljišni posjed u vlasništvu imućnika namjenjen za poljoprivredu?":{"A":"Latifundija","B":"Insula","C":"Vila rustika"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 4"
+          git push
