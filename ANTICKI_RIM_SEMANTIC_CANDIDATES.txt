@@ -1,0 +1,183 @@
+#29 | nearby-correct-reuse:31:Tirski purpur
+Q: Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?
+A: Kermesni grimiz | B: Tirski purpur | C: Indigo | correct=B
+
+#31 | nearby-correct-reuse:29:Tirski purpur
+Q: Koja je boja bila toliko luksuzna u antičkom Rimu da je u određenim razdobljima njezino nošenje bilo rezervirano isključivo za careve?
+A: Tirski purpur | B: Egipatsko plavo | C: Kermesni grimiz | correct=A
+
+#72 | artifact
+Q: Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?
+A: Srebra | B: Br 🥇once | C: Zlata | correct=C
+
+#79 | nearby-correct-reuse:77:Maksimin Tračanin
+Q: Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?
+A: Aleksandar Sever | B: Maksimin Tračanin | C: Gordijan I. | correct=A
+
+#251 | nearby-correct-reuse:253:Antonin Pio
+Q: 'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?
+A: Nerva | B: Trajan | C: Antonin Pio | correct=B
+
+#313 | nearby-correct-reuse:311:Prandium,312:Komod,315:Vespazijan
+Q: Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?
+A: Vespazijan | B: Komod | C: Prandium | correct=A
+
+#315 | nearby-correct-reuse:313:Vespazijan
+Q: Tko je bio posljednji iz plejade rimskih careva koji su vladali u 'godini 4 cara', točnije u 69-oj poslije Krista?
+A: Decije | B: Amanirenas | C: Vespazijan | correct=C
+
+#316 | nearby-correct-reuse:317:Mir,318:Rimskim
+Q: U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?
+A: Oton | B: Mir | C: Rimskim | correct=A
+
+#317 | nearby-correct-reuse:316:Oton,318:Rimskim
+Q: Pax Romana na latinskom prevodimo kao Rimski što?
+A: Oton | B: Mir | C: Rimskim | correct=B
+
+#318 | nearby-correct-reuse:317:Mir,319:Lugo
+Q: I, V, X, L i C nazivamo kakvim brojevima?
+A: Mir | B: Lugo | C: Rimskim | correct=C
+
+#319 | nearby-correct-reuse:318:Rimskim,320:Arhimed
+Q: Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?
+A: Lugo | B: Rimskim | C: Arhimed | correct=A
+
+#320 | nearby-correct-reuse:319:Lugo,321:Pompeja
+Q: 'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?
+A: Lugo | B: Arhimed | C: Pompeja | correct=B
+
+#321 | nearby-correct-reuse:319:Lugo,320:Arhimed
+Q: Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?
+A: Arhimed | B: Lugo | C: Pompeja | correct=C
+
+#324 | nearby-correct-reuse:325:Antoninov zid
+Q: Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?
+A: Antoninov zid | B: Pompeja | C: Srbijom | correct=C
+
+#325 | nearby-correct-reuse:324:Srbijom,327:Kaledonija
+Q: Koji rimski zid spaja Firth of Forth sa Firth of Clyde?
+A: Antoninov zid | B: Srbijom | C: Kaledonija | correct=A
+
+#327 | nearby-correct-reuse:325:Antoninov zid,328:Plinije
+Q: Kako su nekada stari Rimljani nazivali područje današnje Škotske?
+A: Plinije | B: Antoninov zid | C: Kaledonija | correct=C
+
+#328 | nearby-correct-reuse:327:Kaledonija,329:Dunav
+Q: Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?
+A: Plinije | B: Kaledonija | C: Dunav | correct=A
+
+#329 | nearby-correct-reuse:327:Kaledonija,328:Plinije
+Q: Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?
+A: Plinije | B: Dunav | C: Kaledonija | correct=B
+
+#331 | nearby-correct-reuse:329:Dunav,332:Optimus
+Q: Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?
+A: Trajanov | B: Optimus | C: Dunav | correct=A
+
+#332 | nearby-correct-reuse:331:Trajanov,333:Seres
+Q: Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?
+A: Trajanov | B: Optimus | C: Seres | correct=B
+
+#333 | nearby-correct-reuse:332:Optimus,334:Eufrazija
+Q: Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?
+A: Optimus | B: Eufrazija | C: Seres | correct=C
+
+#334 | nearby-correct-reuse:333:Seres,335:Plinije stariji
+Q: Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?
+A: Eufrazija | B: Seres | C: Plinije stariji | correct=A
+
+#335 | nearby-correct-reuse:334:Eufrazija,336:Vitelije
+Q: Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?
+A: Eufrazija | B: Plinije stariji | C: Vitelije | correct=B
+
+#336 | nearby-correct-reuse:334:Eufrazija,335:Plinije stariji
+Q: U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?
+A: Plinije stariji | B: Eufrazija | C: Vitelije | correct=C
+
+#338 | nearby-correct-reuse:336:Vitelije,340:Židovi
+Q: Za vladavine kojeg rimskog cara se dogodila velika erupcija Vezuva u kojoj su Pompeji totalno uništeni?
+A: Vitelije | B: Tita | C: Židovi | correct=B
+
+#375 | nearby-correct-reuse:376:Hadrijan
+Q: Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?
+A: Hadrijan | B: Domicijan | C: Trajan | correct=C
+
+#377 | nearby-correct-reuse:375:Trajan
+Q: Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?
+A: Dioklecijan | B: Karakala | C: Trajan | correct=B
+
+#386 | nearby-correct-reuse:385:Carevima,387:Škotskoj
+Q: Koju su latinsku riječ stari Rimljani koristili za 'grad'?
+A: Carevima | B: Urbs | C: Škotskoj | correct=B
+
+#387 | nearby-correct-reuse:386:Urbs,388:Lisabon
+Q: U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?
+A: Urbs | B: Lisabon | C: Škotskoj | correct=C
+
+#388 | nearby-correct-reuse:387:Škotskoj,389:Herkulanej
+Q: Koji su portugalski grad stari Rimljani poznavali kao Olissipo?
+A: Lisabon | B: Škotskoj | C: Herkulanej | correct=A
+
+#419 | nearby-correct-reuse:418:Veni,421:Perzeja
+Q: Koji broj stari Rimljani nisu poznavali?
+A: Veni | B: Nula | C: Perzeja | correct=B
+
+#421 | nearby-correct-reuse:419:Nula,422:Hanibala
+Q: Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?
+A: Perzeja | B: Hanibala | C: Nula | correct=A
+
+#422 | nearby-correct-reuse:421:Perzeja
+Q: Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?
+A: Perzeja | B: Hanibala | C: Nula | correct=B
+
+#425 | nearby-correct-reuse:426:Kartagu,427:Palatinu
+Q: Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?
+A: Kartagu | B: Avarik | C: Palatinu | correct=B
+
+#426 | nearby-correct-reuse:425:Avarik,427:Palatinu
+Q: Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?
+A: Avarik | B: Palatinu | C: Kartagu | correct=C
+
+#427 | nearby-correct-reuse:426:Kartagu,428:Oton
+Q: Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?
+A: Palatinu | B: Kartagu | C: Oton | correct=A
+
+#428 | nearby-correct-reuse:427:Palatinu,429:Konzul
+Q: U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?
+A: Palatinu | B: Oton | C: Konzul | correct=B
+
+#429 | nearby-correct-reuse:427:Palatinu,428:Oton
+Q: U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?
+A: Oton | B: Palatinu | C: Konzul | correct=C
+
+#431 | nearby-correct-reuse:429:Konzul,432:Fritiger
+Q: Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?
+A: Fritiger | B: Gencije | C: Konzul | correct=B
+
+#432 | nearby-correct-reuse:431:Gencije
+Q: Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?
+A: Gencije | B: Kniva | C: Fritiger | correct=C
+
+#476 | nearby-correct-reuse:478:Konstantin
+Q: Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?
+A: Licinije | B: Konstantin | C: Konstancije II. | correct=B
+
+#478 | nearby-correct-reuse:476:Konstantin
+Q: Koji rimski car je sazvao prvi ekumenski crkveni sabor?
+A: Konstantin | B: Teodozije I. | C: Gracijan | correct=A
+
+#485 | nearby-correct-reuse:484:Konstantin
+Q: S čijim imenom je počelo rimsko kraljevstvo a završilo zapadno rimsko carstvo?
+A: August | B: Romul | C: Konstantin | correct=B
+
+#498 | nearby-correct-reuse:500:Teodozije
+Q: Koji je rimski car sazvao drugi ekumenski crkveni sabor 381.g. koji se sastao u Carigradu?
+A: Konstantin | B: Gracijan | C: Teodozije | correct=C
+
+#500 | nearby-correct-reuse:498:Teodozije,499:Dioklecijan
+Q: Koji car je bio posljednji, univarzalni vladar cijelog rimskog carstva, prije službene podjele na zapadno i istočno?
+A: Konstantin | B: Teodozije | C: Dioklecijan | correct=B
+
+#510 | nearby-correct-reuse:511:Jupiter
+Q: Tko je otac bogova i bog vremena u rimskoj mitologiji?
+A: Jupiter | B: Janus | C: Saturn | correct=C
