@@ -1,0 +1,61 @@
+name: Fix AntickiRim batch 6
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch6.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Koji atletičar i hrvač ubija rimskog cara Komoda?":{"A":"Kleit","B":"Eklekto","C":"Narcis"},
+          "Kakav oblik vladavine, tj. apsolutnu carsku vlast u rimskom carstvu uvodi Dioklecijan?":{"A":"Dominat","B":"Principat","C":"Tetrarhija"},
+          "U rimskoj religiji, duše mrtvih koje noću lutaju kao sablasti te plaše ljude se nazivaju kako?":{"A":"Mani","B":"Lemuri","C":"Lari"},
+          "Ingenije, Regalijan te Makrijan Stariji su bili uzurpatori u starom Rimu koji su pokušali preuzeti vlast od kojeg cara?":{"A":"Valerijana","B":"Klaudija II.","C":"Galijena"},
+          "Ime kojeg rimskog cara potječe iz grčke mitologije, točnije od heroja grada Megare, Dioklesa?":{"A":"Dioklecijana","B":"Aurelijana","C":"Maksimijana"},
+          "Na cesti Via Appia, Petar susreće Krista i pita ga 'Quo Vadis, Domine?', na što Krist odgovara da ide u Rim, gdje u to vrijeme vlada koji car i progonitelj kršćana":{"A":"Klaudije","B":"Neron","C":"Domicijan"},
+          "U Rimskom Carstvu, nakon uvođenja kršćanstva kao službene religije, koji je simbol zamijenio orla na carskom žezlu?":{"A":"Chi-Rho","B":"Labarium","C":"Križ"},
+          "Koji rimski zid dug 120km spaja Irsko i Sjeverno more?":{"A":"Hadrijanov zid","B":"Antoninov zid","C":"Aurelijanov zid"},
+          "Koje more su stari rimljani zvali 'našim morem'?":{"A":"Jadransko","B":"Mediteransko","C":"Crno"},
+          "Titov slavoluk u Rimu nije podigao sam Tit, već njegov nasljednik i brat, car koji?":{"A":"Vespazijan","B":"Nerva","C":"Domicijan"},
+          "U mitridatskim ratovima protiv rimljana, kraljevstvo Pont je predvodio koji njihov kralj?":{"A":"Mitridat VI.","B":"Nikomedes IV.","C":"Tigran II."},
+          "Za vrijeme kojeg rimskog cara se dogodio veliki požar u Rimu, nakon kojega se bog Vulkan počeo značajnije štovati?":{"A":"Klaudija","B":"Nerona","C":"Vespazijana"},
+          "Kako prevodimo starorimsku uzrečicu 'Panem et circenses'?":{"A":"Došao, vidio, pobijedio","B":"Kocka je bačena","C":"Kruha i igara"},
+          "Nakon podjele rimskog caratva na zapadno i istočno, otok Malta je pripao kojem?":{"A":"Istočnom","B":"Zapadnom","C":"Ni jednom"},
+          "Koji su današnji grad stari rimljani osnovali kao Londinium?":{"A":"York","B":"London","C":"Bath"},
+          "Koliko su ratova Rimljani vodili protiv Samnita?":{"A":"Dva","B":"Četiri","C":"Tri"},
+          "Koji tračanski gladijator je bio vođa ustanka robova protiv rimske republike?":{"A":"Spartak","B":"Kriks","C":"Enomaj"},
+          "Na kojem se hrvatskom otoku, odigrala odlučujuća bitka 2. Rimsko - Ilirskog rata?":{"A":"Visu","B":"Hvaru","C":"Korčuli"},
+          "Tko je uz Lucija Tarkvinija Kolatina postao prvi konzul Rimske Republike 509.g. pr. Kr.?":{"A":"Publije Valerije Publikola","B":"Marko Junije Brut","C":"Lucije Junije Brut"},
+          "Kojeg se rimskog boga smatra bogom podzemlja?":{"A":"Plutona","B":"Saturna","C":"Jana"},
+          "Starorimska cesta Via Gabiniana spajala je Andetrium sa kojim rimskim gradom uz obale Jadrana?":{"A":"Naronom","B":"Salonom","C":"Jaderom"},
+          "Slavoluk kojeg rimskog cara se nalazi u Beneventu?":{"A":"Tita","B":"Septimija Severa","C":"Trajana"},
+          "U rimskoj mitologiji, Saturn ima 3 sina: Jupitera, Neptuna i koga još?":{"A":"Plutona","B":"Marsa","C":"Merkura"},
+          "Koji je talijanski grad, kao luka i važno uporište na Siciliji, u vrijeme rimske republike bio poznat pod imenom Lilibej?":{"A":"Sirakuza","B":"Marsala","C":"Messina"},
+          "Kako se zove rimski bog vina, pandan grčkom Dionizu?":{"A":"Liber","B":"Saturn","C":"Bakus"},
+          "Kojem su starorimskom rodu pripadali Julije Cezar i Oktavijan?":{"A":"Julijevcima","B":"Kornelijevcima","C":"Klaudijevcima"},
+          "Koje ime je nosio najveći brončani novac kovan za vrijeme rimskog caratva?":{"A":"As","B":"Sestercij","C":"Dupondij"},
+          "Koje ime povezuje nogometne klubove iz Trnave i Moskve te jednog tračkog gladijatora?":{"A":"Dinamo","B":"Lokomotiv","C":"Spartak"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 6"
+          git push
