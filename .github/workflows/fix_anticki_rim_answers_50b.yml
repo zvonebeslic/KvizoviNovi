@@ -1,0 +1,33 @@
+name: Fix AntickiRim answers 50b
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_answers_50b.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          q="Kako se zove rimski bog vina, pandan grčkom Dionizu?"
+          changed=0
+          for x in d:
+            if x.get('question')==q:
+              x['answers']={'A':'Merkur','B':'Saturn','C':'Bakus'}
+              x['correct_answer']='C'
+              changed+=1
+          if changed!=1:
+            raise SystemExit(f'Expected 1 change, got {changed}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Fix ambiguous Bacchus distractor" || exit 0
+          git push
