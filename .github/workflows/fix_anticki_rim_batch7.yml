@@ -1,0 +1,60 @@
+name: Fix AntickiRim batch 7
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch7.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Tko se predaje i baca oružje pred Gaja Julija Cezara na slavnoj slici Lionela Royera iz 1899.?":{"A":"Vercingetorix","B":"Ariovist","C":"Ambioriks"},
+          "Tko je prema rimskoj mitologiji bio osnivač i prvi kralj Rima?":{"A":"Rem","B":"Romul","C":"Numa Pompilije"},
+          "U kojoj je kulturno umjetničkoj ustanovi navodno ubijen Julije Cezar?":{"A":"Amfiteatru","B":"Odeonu","C":"Kazalištu"},
+          "Kojim latinskim izrazom nazivom deseteročlanu komisiju ili kolegij magistrata u Rimskoj Republici?":{"A":"Decemviri","B":"Triumviri","C":"Cenzori"},
+          "Koji je legendarni i jedan od posljednjih latinskih kraljeva Alba Longe, ujedno i djed osnivača Rima, Romula?":{"A":"Amulije","B":"Numitor","C":"Latinus"},
+          "Koji je rimski pisac i arhitekt napisao djelo '10 knjiga o arhitekturi'?":{"A":"Plinije Stariji","B":"Frontin","C":"Vitruvije"},
+          "Koji latinski naziv se koristio za roba u starom Rimu koji je bio oslobođen?":{"A":"Libertin","B":"Peregrin","C":"Kolon"},
+          "U kojem su talijanskom gradu održane posljednje gladijatorske igre?":{"A":"Ravenni","B":"Rimu","C":"Milanu"},
+          "Na koji se otok sa svojom vojskom iskrcao Julije Cezar 55. i 54.g. pr. Kr.?":{"A":"Siciliju","B":"Sardiniju","C":"Veliku Britaniju"},
+          "Koji se bog u rimskoj i grčkoj mitologiji naziva isto?":{"A":"Apolon","B":"Merkur","C":"Neptun"},
+          "Koje ime su dijelili vođe plemena Dezidijata i Breuka za ilirskog ustanka protiv Rima?":{"A":"Pines","B":"Baton","C":"Teuta"},
+          "Koja je staro-rimska kovanica iznosila pola od vrijednosti jednog denara?":{"A":"Sestercij","B":"As","C":"Kvinar"},
+          "Koji rimski car je bio 4. iz razdoblja 'Pet dobrih careva'?":{"A":"Antonin Pio","B":"Hadrijan","C":"Marko Aurelije"},
+          "Koji mauritanski kralj je pomogao Juliju Cezaru u bitci kod Munde?":{"A":"Bokh II.","B":"Bogud","C":"Juba I."},
+          "Kako se zvao sin Gaja Julija Cezara kojeg je imao sa posljednjom kraljicom drevnog Egipta, Kleopatrom?":{"A":"Ptolemej XIII.","B":"Aleksandar Helios","C":"Cezarion"},
+          "Na slici Jacoba Abbota iz 1849., Gaj Julije Cezar sa svojom vojskom prelazi koju rijeku?":{"A":"Rubikon","B":"Tibar","C":"Po"},
+          "Koji je francuski grad za vrijeme rimskog carstva nosio ime Lutecija?":{"A":"Lyon","B":"Pariz","C":"Marseille"},
+          "Koliko je planeta sunčeva sustava dobilo ime po rimskim božanstvima?":{"A":"Pet","B":"Sedam","C":"Šest"},
+          "Tko je utjelovio Spartaka u Kubrickovu filmu 'Spartak' iz 1960.?":{"A":"Kirk Douglas","B":"Charlton Heston","C":"Richard Burton"},
+          "Koji hrvatski grad se nalazi na području nekadašnjeg rimskog naselja Cibalae?":{"A":"Sisak","B":"Vinkovci","C":"Osijek"},
+          "Koji se rimski filozof i jedan od najvećih rimskih govornika rodio 106.g. pr. Kr.?":{"A":"Seneka","B":"Kvintilijan","C":"Ciceron"},
+          "Pranećak kojeg slavnog rimskog vojskovođe je bio 1. rimski car August?":{"A":"Julija Cezara","B":"Marka Antonija","C":"Gneja Pompeja"},
+          "Za vrijeme vladavine kojeg rimskog cara je rođen Isus Krist?":{"A":"Tiberija","B":"Augusta","C":"Klaudija"},
+          "7 rimskih brežuljaka su: Palatin, Aventin, Celij, Viminal, Kvirinal, Eskvilin i koji još?":{"A":"Janiculum","B":"Pincij","C":"Kapitol"},
+          "Koji je seleukidski kralj ratovao protiv rimskog carstva te naposlijetku izgubio?":{"A":"Antioh III. Veliki","B":"Seleuk IV. Filopator","C":"Antioh IV. Epifan"},
+          "Koji je antički grad na Siciliji pod rimsku vlast pao 211.g. pr. Kr.?":{"A":"Agrigent","B":"Sirakuza","C":"Messana"},
+          "Kako se zvala greda duga 11m i široka do 3m koju su stari Rimljani koristili u pomorskim bitkama za ukrcavanje na neprijateljski brod?":{"A":"Rostrum","B":"Harpax","C":"Corvus"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 7"
+          git push
