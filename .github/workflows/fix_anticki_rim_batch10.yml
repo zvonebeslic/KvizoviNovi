@@ -1,0 +1,59 @@
+name: Fix AntickiRim batch 10
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_batch10.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite reviewed ABC answers
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); data=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+          "Titov slavoluk u Rimu slavi uništenje i paljenje kojeg grada u Judeji?":{"A":"Cezareje","B":"Jeruzalema","C":"Masade"},
+          "Septimije Sever i Konstancije I. Klor bili su rimski carevi koji su umrli u kojem današnjem engleskom gradu, ako znamo da se tada zvao Eboracum?":{"A":"London","B":"Bath","C":"York"},
+          "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?":{"A":"Surena","B":"Pacor I.","C":"Orodes II."},
+          "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?":{"A":"Vespazijan","B":"Tit","C":"Domicijan"},
+          "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?":{"A":"Cezareja","B":"Antiohija","C":"Jeruzalem"},
+          "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?":{"A":"Vezuv","B":"Etna","C":"Monte Cassino"},
+          "Koji je rimski vojskovođa najzaslužniji za pobjedu nad legijama cara Vitelija te za Vespazijanov dolazak na vlast?":{"A":"Mucijan","B":"Antonije Prim","C":"Petilije Cerial"},
+          "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?":{"A":"Tit","B":"Domicijan","C":"Vespazijana"},
+          "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?":{"A":"Beton","B":"Terakotu","C":"Mort"},
+          "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?":{"A":"Partsko","B":"Dačko","C":"Nabatejsko"},
+          "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?":{"A":"Reigns","B":"Johnson","C":"Cena"},
+          "Tko je bio prvi rimski car koji je titulu naslijedio izravno od svog biološkog oca, cara Vespazijana?":{"A":"Tit","B":"Domicijan","C":"Tiberije"},
+          "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?":{"A":"Irena","B":"Anastazija","C":"Agata"},
+          "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?":{"A":"Aksum","B":"Nabatija","C":"Kuš"},
+          "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?":{"A":"Judeji","B":"Siriji","C":"Arabiji Petreji"},
+          "Kojeg su rimskog cara, iz doba dobrih careva, nazivali i carem-filozofom?":{"A":"Hadrijana","B":"Marka Aurelija","C":"Antonina Pija"},
+          "U kojem stoljeću Rimljani grade Hadrijanov i Antoninov zid u Britaniji?":{"A":"1.","B":"3.","C":"2."},
+          "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?":{"A":"Lucije Ver","B":"Komod","C":"Antonin Pio"},
+          "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?":{"A":"Seleukiju","B":"Ktezifon","C":"Hatra"},
+          "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?":{"A":"Arktičkim","B":"Tihim","C":"Indijskim"},
+          "Koji otok 43.godine iza Krista anektira vojskovođa i budući car Vespazijan, a danas je poznat kao najveći otok pod upravom države Engleske?":{"A":"Wight","B":"Man","C":"Anglesey"},
+          "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?":{"A":"Jedan","B":"Dva","C":"Tri"},
+          "Koja kraljica iz kraljevstva Kuš (današnji Sudan) je odbijala rimske napade te naposlijetu s njima sklopila mir?":{"A":"Kleopatra Selene","B":"Berenika","C":"Amanirenas"},
+          "Tiša bA'v je najžalosniji dan u židovskom kalendaru tijekom kojeg se, između ostalog, posti i žaluje zbog rimskog spaljivanja 'drugog hrama' u kojem gradu?":{"A":"Jeruzalemu","B":"Hebronu","C":"Cezareji"},
+          "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?":{"A":"Konstantinopol","B":"Rim","C":"Aleksandrija"},
+          "Koju riječ su stari Rimljani koristili za most?":{"A":"Porta","B":"Via","C":"Pons"}
+          }
+          changed=0
+          for x in data:
+            if x.get('question') in fixes: x['answers']=fixes[x['question']]; changed+=1
+          if changed!=len(fixes): raise SystemExit(f'Expected {len(fixes)}, got {changed}')
+          p.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',changed)
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Improve AntickiRim ABC distractors batch 10"
+          git push
