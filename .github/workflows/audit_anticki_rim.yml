@@ -11,33 +11,32 @@ jobs:
       - uses: actions/checkout@v4
       - shell: python
         run: |
-          import json, collections
+          import json
           from pathlib import Path
-          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
-          counts=collections.Counter(x.get('correct_answer') for x in d)
-          qs=collections.Counter(x.get('question') for x in d)
-          problems=[]
-          for i,x in enumerate(d,1):
-            a=x.get('answers',{}); c=x.get('correct_answer')
-            if set(a)!={'A','B','C'}: problems.append(f'{i}: answer keys {list(a)}')
-            if c not in a: problems.append(f'{i}: invalid correct_answer {c}')
-            vals=[str(v).strip() for v in a.values()]
-            if any(not v for v in vals): problems.append(f'{i}: empty answer')
-            if len(set(v.casefold() for v in vals))<3: problems.append(f'{i}: duplicate answer values {vals}')
-            if x.get('type')!='blitz': problems.append(f'{i}: type={x.get("type")}')
-            if x.get('topic')!='AntickiRim': problems.append(f'{i}: topic={x.get("topic")}')
-          dupq=[(q,n) for q,n in qs.items() if n>1]
-          out=[]
-          out.append(f'TOTAL={len(d)}')
-          out.append('CORRECT='+repr(dict(counts)))
-          out.append(f'DUPLICATE_QUESTIONS={len(dupq)}')
-          for q,n in dupq: out.append(f'DUPQ x{n}: {q}')
-          out.append(f'STRUCTURAL_PROBLEMS={len(problems)}')
-          out.extend(problems)
-          Path('ANTICKI_RIM_AUDIT.txt').write_text('\n'.join(out)+'\n',encoding='utf-8')
+          d=json.loads(Path('AntickiRim.json').read_text(encoding='utf-8'))
+          issues=[]; counts={'A':0,'B':0,'C':0}
+          for i,x in enumerate(d):
+            ca=x.get('correct_answer'); ans=x.get('answers',{})
+            if ca in counts: counts[ca]+=1
+            if set(ans)!={'A','B','C'}: issues.append({'i':i+1,'kind':'bad_keys','q':x.get('question'),'answers':ans,'correct':ca})
+            if ca not in ans: issues.append({'i':i+1,'kind':'bad_correct_key','q':x.get('question'),'answers':ans,'correct':ca})
+            vals=[str(v).strip() for v in ans.values()]
+            if len(set(v.casefold() for v in vals))<3: issues.append({'i':i+1,'kind':'duplicate_answers','q':x.get('question'),'answers':ans,'correct':ca})
+            for k,v in ans.items():
+              if k==ca: continue
+              for j in range(max(0,i-3),min(len(d),i+4)):
+                if j==i: continue
+                y=d[j]; yca=y.get('correct_answer'); yans=y.get('answers',{})
+                if yca in yans and str(v).strip().casefold()==str(yans[yca]).strip().casefold():
+                  issues.append({'i':i+1,'kind':'neighbor_leak','q':x.get('question'),'wrong':v,'from_i':j+1,'from_q':y.get('question'),'answers':ans,'correct':ca})
+                  break
+          out={'total':len(d),'correct_counts':counts,'issues':issues}
+          Path('AntickiRim_audit.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('total',len(d),'counts',counts,'issues',len(issues))
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ANTICKI_RIM_AUDIT.txt
-          git commit -m "Audit AntickiRim JSON integrity" || exit 0
+          git add AntickiRim_audit.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Audit AntickiRim distractors"
           git push
