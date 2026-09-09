@@ -1,0 +1,40 @@
+name: Fix AntickiRim audit cluster 1
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_audit_1.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Koji car je uveo četverovlađe u rimskom carstvu?":{"A":"Maksimijan","B":"Dioklecijan","C":"Konstancije Klor"},
+          "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?":{"A":"Sjever–jug","B":"Istok–zapad","C":"Sjeveroistok–jugozapad"},
+          "Koji rimski car je dogovorio sramotno primirje s galskim plemenima kojima je pustio da sa sobom ponesu plijen iz opljačkanih rimskih provincija te im nakon toga plaćao i novčanu naknadu?":{"A":"Trebonijan Gal","B":"Decije","C":"Emilijan"},
+          "Od kojeg je kemijskog elementa primarno bio kovan rimski novac Sestercij?":{"A":"Srebra","B":"Bakra","C":"Zlata"},
+          "Kojoj su dinastiji pripadali rimski carevi Geta, Karakala i Elagabal?":{"A":"Flavijevcima","B":"Antoninima","C":"Severima"},
+          "Rimski je car Emilijan vladao svega 2 mjeseca, svrgnuo je cara Trebonija Gala, bio ubijen od svoje vojske u Spoletiumu a rodio se na najvećem Tuniškom otoku, koji se zove kako?":{"A":"Djerba","B":"Kerkennah","C":"Galite"},
+          "Kojeg rimskog cara 235.g. ubija njegova vojska u vojnom logoru u blizini današnjeg Mainza?":{"A":"Aleksandar Sever","B":"Maksimin Tračanin","C":"Gordijan I."},
+          "Tko je jedinstvo rimskog carstva nastojao je učvrstiti i uvođenjem kulta nepobjedivoga boga Sunca (Sol invictus), a sebe dao nazivati gospodinom i bogom (dominus et deus)?":{"A":"Probo","B":"Klaudije II.","C":"Aurelijan"},
+          "Tko je do svoje smrti bio suvladar svog brata i rimskog cara Karakale?":{"A":"Geta","B":"Makrin","C":"Dijadumenijan"},
+          "Rimski uzurpator i car Makrin, kao svog suvladara postavlja svog 10-ogodišnjeg sina koji biva ubijen nedugo nakon očeva ubojstva, a zvao se kako?":{"A":"Dijadumenijan","B":"Aleksandar Sever","C":"Geta"}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f: x['answers']=f[q]; n+=1
+          print('updated',n)
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Fix audited AntickiRim leaks 56-97" || exit 0
+          git push
