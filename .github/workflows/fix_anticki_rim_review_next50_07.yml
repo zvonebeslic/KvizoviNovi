@@ -1,0 +1,45 @@
+name: Fix AntickiRim reviewed next 50 07
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_next50_07.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Koji broj stari Rimljani nisu poznavali?":{"A":"Negativne brojeve","B":"Nula","C":"Razlomke"},
+          "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?":{"A":"Perzeja","B":"Filipa V.","C":"Andriska"},
+          "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?":{"A":"Hasdrubala","B":"Hanibala","C":"Magona"},
+          "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?":{"A":"Gergoviju","B":"Avarik","C":"Aleziju"},
+          "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?":{"A":"Korint","B":"Sirakuzu","C":"Kartagu"},
+          "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?":{"A":"Palatinu","B":"Aventinu","C":"Kapitolu"},
+          "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?":{"A":"Galba","B":"Oton","C":"Vitelije"},
+          "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?":{"A":"Pretor","B":"Cenzor","C":"Konzul"},
+          "Koji legendarni rimski kralj, ruši i spaljuje grad Alba Longu oko 665.g. pr. Kr. a njegove stanovnike preseljava u Rim?":{"A":"Tul Hostilije","B":"Anko Marcije","C":"Servije Tulije"},
+          "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?":{"A":"Pleurat III.","B":"Gencije","C":"Agron"},
+          "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?":{"A":"Alarik","B":"Atanariks","C":"Fritiger"},
+          "Rimski car Konstantin I. Veliki pobjeđuje Maksencija u bitci kod Mulvijeva mosta i postaje vladar zapada, a pobjedu mu je navodno donio kristogram s natpisom 'In Hoc Signo Vinces' kojeg je vidio na nebu, što u prijevodu znači 'pod ovim ćeš znakom pobijediti', a isti taj natpis se nalazi na zastavi koje hrvatske gardijske brigade?":{"A":"Tigrovi","B":"Pauci","C":"Gromovi"}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f:
+              x['answers']=f[q]; n+=1
+          if n!=len(f): raise SystemExit(f'Matched {n}/{len(f)}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix next reviewed AntickiRim ABC answers 07"
+          git push
