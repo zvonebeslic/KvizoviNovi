@@ -1,0 +1,25 @@
+{
+  "source_total": 405,
+  "matched_unique": 405,
+  "missing_count": 0,
+  "duplicate_index_count": 0,
+  "extra_or_changed_count": 0,
+  "files_scanned": [
+    "redo/Knjizevnost_001_032.json",
+    "redo/Knjizevnost_033_064.json",
+    "redo/Knjizevnost_065_096.json",
+    "redo/Knjizevnost_097_128.json",
+    "redo/Knjizevnost_129_160.json",
+    "redo/Knjizevnost_161_192.json",
+    "redo/Knjizevnost_193_224.json",
+    "redo/Knjizevnost_225_256.json",
+    "redo/Knjizevnost_257_288.json",
+    "redo/Knjizevnost_289_320.json",
+    "redo/Knjizevnost_321_352.json",
+    "redo/Knjizevnost_353_384.json",
+    "redo/Knjizevnost_385_405.json"
+  ],
+  "missing": [],
+  "duplicates": [],
+  "extra_or_changed": []
+}
