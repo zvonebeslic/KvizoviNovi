@@ -1619,9 +1619,9 @@
     "topic": "AntickiRim",
     "question": "Kakav upravni sustav u rimskom carstvu uvodi car Dioklecijan 293.g.?",
     "answers": {
-      "A": "Latifundija",
+      "A": "Principat",
       "B": "Tetrarhiju",
-      "C": "Zlata"
+      "C": "Dominat"
     },
     "image": null,
     "correct_answer": "B"
@@ -1632,8 +1632,8 @@
     "topic": "AntickiRim",
     "question": "Od kojeg je kemijskog elementa napravljen starorimski novac Aureus?",
     "answers": {
-      "A": "Tetrarhiju",
-      "B": "Prvom",
+      "A": "Srebra",
+      "B": "Bakra",
       "C": "Zlata"
     },
     "image": null,
@@ -1646,8 +1646,8 @@
     "question": "U kojem krugu Danteova pakla se nalaze aleksandrijski astronom Ptolomej i rimski govornik Ciceron?",
     "answers": {
       "A": "Prvom",
-      "B": "Zlata",
-      "C": "Tetrarhiju"
+      "B": "Drugom",
+      "C": "Četvrtom"
     },
     "image": null,
     "correct_answer": "A"
@@ -1658,9 +1658,9 @@
     "topic": "AntickiRim",
     "question": "Koji grad u BiH su stari rimljani poznavali kao Domavia?",
     "answers": {
-      "A": "Puli",
-      "B": "Srebrenica",
-      "C": "Kölnu"
+      "A": "Tuzlu",
+      "B": "Srebrenicu",
+      "C": "Mostar"
     },
     "image": null,
     "correct_answer": "B"
@@ -1671,8 +1671,8 @@
     "topic": "AntickiRim",
     "question": "Koji latinski pojam tražimo, ako znamo da ga kod nas možemo pronaći kao 'državljanstvo' a u engleskoj 'citizenship?",
     "answers": {
-      "A": "Prvom",
-      "B": "Maksimijana",
+      "A": "Imperium",
+      "B": "Libertas",
       "C": "Civitas"
     },
     "image": null,
@@ -1685,8 +1685,8 @@
     "question": "Tko je bio posljednji rimski car iz perioda znanog kao 'doba 5 rimskih careva'?",
     "answers": {
       "A": "Marko Aurelije",
-      "B": "Sekst Pet Kat",
-      "C": "Valerijan"
+      "B": "Antonin Pio",
+      "C": "Hadrijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1697,9 +1697,9 @@
     "topic": "AntickiRim",
     "question": "Dioklecijan na početku svoje vladavine, za svog suvladara izabire kojeg ilira s područja današnje Srijemske Mitrovice?",
     "answers": {
-      "A": "Civitas",
+      "A": "Galeriја",
       "B": "Maksimijana",
-      "C": "Dioklecijanove"
+      "C": "Konstancija Klora"
     },
     "image": null,
     "correct_answer": "B"
@@ -1710,9 +1710,9 @@
     "topic": "AntickiRim",
     "question": "Na koliko glavnih razdoblja dijelimo rimsko pravo?",
     "answers": {
-      "A": "3",
-      "B": "5",
-      "C": "4"
+      "A": "Tri",
+      "B": "Pet",
+      "C": "Četiri"
     },
     "image": null,
     "correct_answer": "C"
@@ -1724,8 +1724,8 @@
     "question": "Iz čije palače je izrastao današnji grad Split?",
     "answers": {
       "A": "Dioklecijanove",
-      "B": "Aurelijan",
-      "C": "Maksimijana"
+      "B": "Konstantinove",
+      "C": "Hadrijanove"
     },
     "image": null,
     "correct_answer": "A"
@@ -1736,9 +1736,9 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car je spasio carstvo od daljnjeg propadanja te ga ponovno ujedinio u drugoj polovici 3.st., zbog čega su ga prozvali preporoditeljem carstva?",
     "answers": {
-      "A": "Dioklecijanove",
+      "A": "Galijen",
       "B": "Aurelijan",
-      "C": "Provincije"
+      "C": "Probo"
     },
     "image": null,
     "correct_answer": "B"
@@ -1749,8 +1749,8 @@
     "topic": "AntickiRim",
     "question": "Rimljani su osvojene teritorije van Italije organizirali u koje upravne jedinice?",
     "answers": {
-      "A": "Aurelijan",
-      "B": "Dioklecijanove",
+      "A": "Dijeceze",
+      "B": "Prefekture",
       "C": "Provincije"
     },
     "image": null,
@@ -1763,8 +1763,8 @@
     "question": "Krunom od koje biljke su rimski vojskovođe bili krunjeni nakon velikih vojnih trijumfa?",
     "answers": {
       "A": "Lovora",
-      "B": "Hrast",
-      "C": "Maslina"
+      "B": "Masline",
+      "C": "Hrasta"
     },
     "image": null,
     "correct_answer": "A"
@@ -1775,9 +1775,9 @@
     "topic": "AntickiRim",
     "question": "Koji današnji grad u bugarskoj se nazivao i Philippoupolis, kad su ga rimljani zauzeli dali su mu ime Trimontium, a bio je i središte rimske provincije Trakije?",
     "answers": {
-      "A": "Provincije",
+      "A": "Sofija",
       "B": "Plovdiv",
-      "C": "Dioklecijan"
+      "C": "Varna"
     },
     "image": null,
     "correct_answer": "B"
@@ -1789,9 +1789,9 @@
     "topic": "AntickiRim",
     "question": "Tko je bio autor knjige 'Commentaria tripartita', koja je predstavljala jedno od prvih tumačenja znamenitog rimskog zakonika 12 ploča?",
     "answers": {
-      "A": "Marko Aurelije",
-      "B": "Neron",
-      "C": "Sekst Pet Kat"
+      "A": "Gaj Ateј Kapiton",
+      "B": "Kvint Mucije Scevola",
+      "C": "Sekst Elije Pet Kat"
     },
     "image": null,
     "correct_answer": "C"
@@ -1803,8 +1803,8 @@
     "question": "Koji rimski car je podijelio carstvo na 12 dijeceza, u kojima je se nalazila 101 provincija?",
     "answers": {
       "A": "Dioklecijan",
-      "B": "Hostilijan",
-      "C": "Plovdiv"
+      "B": "Konstantin Veliki",
+      "C": "Aurelijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -1815,9 +1815,9 @@
     "topic": "AntickiRim",
     "question": "Rimski car Decije imao je dva sina koja su se također domogla carske titule, Hrenija i Hostilijana, a koji od njih je navodno umro od kuge?",
     "answers": {
-      "A": "Dioklecijan",
+      "A": "Herenije Etrusk",
       "B": "Hostilijan",
-      "C": "Stoicizam"
+      "C": "Trebonijan Gal"
     },
     "image": null,
     "correct_answer": "B"
@@ -1828,8 +1828,8 @@
     "topic": "AntickiRim",
     "question": "Koji filozofski pravac je zagovarao rimski car Marko Aurelije, a osnovao ga je Zenon Kitijski?",
     "answers": {
-      "A": "Hostilijan",
-      "B": "Puni",
+      "A": "Epikurejstvo",
+      "B": "Cinicizam",
       "C": "Stoicizam"
     },
     "image": null,
@@ -1842,8 +1842,8 @@
     "question": "Kako su rimljani nazivali stanovnike antičke Kartage?",
     "answers": {
       "A": "Puni",
-      "B": "Stoicizam",
-      "C": "Mainz"
+      "B": "Numiđani",
+      "C": "Feničani"
     },
     "image": null,
     "correct_answer": "A"
@@ -1854,9 +1854,9 @@
     "topic": "AntickiRim",
     "question": "Koji njemački grad na rijeci Rajni, stari rimljani osnivaju kao Moguntiacum?",
     "answers": {
-      "A": "Puni",
+      "A": "Köln",
       "B": "Mainz",
-      "C": "Afrika"
+      "C": "Trier"
     },
     "image": null,
     "correct_answer": "B"
@@ -1867,9 +1867,9 @@
     "topic": "AntickiRim",
     "question": "Rodom s kojeg kontinenta je rimski car Septimije Sever?",
     "answers": {
-      "A": "Mainz",
-      "B": "Ius",
-      "C": "Afrika"
+      "A": "Europe",
+      "B": "Azije",
+      "C": "Afrike"
     },
     "image": null,
     "correct_answer": "C"
@@ -1881,8 +1881,8 @@
     "question": "Kojom su troslovnom riječju stari rimljani nazivali današnje 'pravo'?",
     "answers": {
       "A": "Ius",
-      "B": "Afrika",
-      "C": "Devetom"
+      "B": "Lex",
+      "C": "Fas"
     },
     "image": null,
     "correct_answer": "A"
@@ -1893,9 +1893,9 @@
     "topic": "AntickiRim",
     "question": "U kojem krugu Danteova pakla se nalaze Kasije i Brut, izdajnici Julija Cezara?",
     "answers": {
-      "A": "Ius",
+      "A": "Osmom",
       "B": "Devetom",
-      "C": "Kara"
+      "C": "Sedmom"
     },
     "image": null,
     "correct_answer": "B"
@@ -1906,8 +1906,8 @@
     "topic": "AntickiRim",
     "question": "U starim rimskim zapisima, samo se jednog cara spominje da je umro od udara groma, kojeg?",
     "answers": {
-      "A": "Devetom",
-      "B": "Ius",
+      "A": "Numerijana",
+      "B": "Proba",
       "C": "Kara"
     },
     "image": null,
@@ -1920,8 +1920,8 @@
     "question": "Jotapijan, Pakacijan i Silbanak su bili uzurpatori u rimskom carstvu za vladavine kojeg cara?",
     "answers": {
       "A": "Filipa Arapina",
-      "B": "Veliku Britaniju",
-      "C": "Antonin Pio"
+      "B": "Decija",
+      "C": "Trebonijana Gala"
     },
     "image": null,
     "correct_answer": "A"
@@ -1932,9 +1932,9 @@
     "topic": "AntickiRim",
     "question": "Koju su rijeku, stari rimljani poznavali kao Danubius?",
     "answers": {
-      "A": "Elegabal",
+      "A": "Rajnu",
       "B": "Dunav",
-      "C": "Kara"
+      "C": "Tibar"
     },
     "image": null,
     "correct_answer": "B"
@@ -1945,9 +1945,9 @@
     "topic": "AntickiRim",
     "question": "Kojeg cara tražimo ako znamo da je rođen kao Avit Varije Basijan u Siriji, te postao rimskim carem sa samo 14 godina a pogubljen kad mu je bilo 18g.?",
     "answers": {
-      "A": "Dunav",
-      "B": "Rimskim",
-      "C": "Elegabal"
+      "A": "Getu",
+      "B": "Aleksandra Severa",
+      "C": "Elegabala"
     },
     "image": null,
     "correct_answer": "C"
@@ -1959,8 +1959,8 @@
     "question": "Za vrijeme kojeg rimskog cara je proslavljena tisućugodišnjica od osnutka grada Rima?",
     "answers": {
       "A": "Filipa Arapina",
-      "B": "Veliku Britaniju",
-      "C": "Antonin Pio"
+      "B": "Decija",
+      "C": "Gordijana III."
     },
     "image": null,
     "correct_answer": "A"
@@ -1971,9 +1971,9 @@
     "topic": "AntickiRim",
     "question": "Carevi Kar i Karin su vladali kojim carstvom?",
     "answers": {
-      "A": "Narcis",
+      "A": "Palmirskim",
       "B": "Rimskim",
-      "C": "Elegabal"
+      "C": "Galskim"
     },
     "image": null,
     "correct_answer": "B"
