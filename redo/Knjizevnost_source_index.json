@@ -1,0 +1,2837 @@
+[
+  {
+    "index": 1,
+    "question": "Na kojem brodu Edmund, Lucy i Eustace sa Kaspijanom plove do na kraj Narnijskog Svijeta?",
+    "source_correct": "Zorogazu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 2,
+    "question": "Na čijem planetu, podno tri vulkani, rastu razni cvjetovi, korisne biljke ali i opasni baobabi?",
+    "source_correct": "Malog Princa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 3,
+    "question": "Ulicama kojeg grada fiktivni dječak Emil sa svojim prijateljima postaje detektiv i traga, te na kraju hvata lopova koji mu je ukrao novac?",
+    "source_correct": "Berlina",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 4,
+    "question": "Ep o kojem je legendarnom sumerskom kralju napisan na glinenim pločama, klinastim pismom?",
+    "source_correct": "Gilgamešu",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 5,
+    "question": "Kako se nazivaju slikovni znakovi koji su prethodili razvoju prvih pisama, poput sumerskog klinastog pisma i egipatskih hijeroglifa?",
+    "source_correct": "Piktogrami",
+    "difficulty": 2,
+    "rarity": null
+  },
+  {
+    "index": 6,
+    "question": "Koji je njemački pisac za djecu između ostalog, napisao 'Leteći razred', 'Trojica u snijegu' i 'Konferencija životinja'?",
+    "source_correct": "Erich Kästner",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 7,
+    "question": "Prvo izdanje kojeg je književnog djela iz repertoara Antoina de Saint Exuperyja objavljeno u New Yorku 1943.g. na engleskom i francuskom jeziku?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 8,
+    "question": "Radi boljeg razumijevanja cijelih Narnijskih Kronika, njihov autor C. S. Lewis čitateljima je ostavio redoslijed po kojem bi knjige bilo najbolje pročitati. Prva knjiga ovakvim redoslijedom je Čarobnjakov Nećak, a posljednja koja?",
+    "source_correct": "Posljednja bitka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 9,
+    "question": "Čitajući pustolovine Petra Pana saznajemo da je on odsjekao šaku Kapetanu Kuki te je dao jednoj životinji da je pojede. Ta je životinja uživajući u jelu, od tada stalno slijedila Kuku kako bi pojela ostatak njega, no pri hvatanju šake, pojela je i sat pa tako kad god Kuka čuje tik-tik-tik-tik, zna da je ta strašna neman blizu te se uvijek prestraši. Koja to životinja prati ovog kapetana te mu utjeriva strah u kosti?",
+    "source_correct": "Krokodil",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 10,
+    "question": "Koji roman Frances Hodgson Burnett prati djevojčicu koja od bogate učenice postaje služavka u londonskom internatu?",
+    "source_correct": "Mala Princeza",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 11,
+    "question": "Koji je britanski pisac u jednoj od svojih knjiga izmislio fiktivnog američkog predsjednika Lancelota R. Gilligrassa?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 12,
+    "question": "Koja životinja iz Šume od sto jutara, tj. Pustolovina medvjedića Winnieja, koristi vlastiti rep poput opruge za skakanje?",
+    "source_correct": "Tigger",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 13,
+    "question": "U dobro poznatoj bajci braće Grimm, koja životinja pokušava ući u kuću u kojoj se nalazi 7 kozlića?",
+    "source_correct": "Vuk",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 14,
+    "question": "Koji je francuski pisac napisao knjigu pripovjedaka 'Zemlja ljudi'?",
+    "source_correct": "Antoine de Saint Exupery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 15,
+    "question": "U kojem stvarnom gradu 1900. godine kronološki počinje radnja The Chronicles of Narnia?",
+    "source_correct": "Londonu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 16,
+    "question": "Iz čijeg su pera nastale Alisine avanture u Zemlji čudesa?",
+    "source_correct": "Lewisa Carolla",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 17,
+    "question": "Iz pera kojeg je književnika nastao Oliver Twist?",
+    "source_correct": "Charlesa Dickensa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 18,
+    "question": "Kućicu u šumi sa koliko patuljaka je pronašla Snjeguljica?",
+    "source_correct": "7",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 19,
+    "question": "Sa kojim fiktivnim likom Roalda Dahla u divovskoj breskvi putuju stonoga, skakavac, gusjenica, pauk i bubamara?",
+    "source_correct": "Jamesom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 20,
+    "question": "Koji je francuski pisac ostao najviše upamćen po zapisanoj bajci o Pepeljugi?",
+    "source_correct": "Charles Perrault",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 21,
+    "question": "U čijim pustolovinama susrećemo tigra, magarca, klokanicu i njeno mladunče, zeca, sovu i praščića?",
+    "source_correct": "Winnieja the Pooha",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 22,
+    "question": "Svi znaju da su mnoge najljepše bajke svijeta napisala braća Grimm, no ne znaju im svi imena. Jedan se zvao Wilhelm, a drugi kako?",
+    "source_correct": "Jacob",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 23,
+    "question": "'I živjeli su sretno do kraja života' je rečenica kojom završava mnogo, kakvih književnih vrsta?",
+    "source_correct": "Bajki",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 24,
+    "question": "Koja je spisateljica za djecu napisala pustolovine Pipi Duge Čarape?",
+    "source_correct": "Astrid Lindgren",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 25,
+    "question": "Koje se ime nalazi u naslovima dvaju knjiga Roalda Dahla koje pričaju o tvornici čokolade te borbi s vanzemaljcima?",
+    "source_correct": "Charlie",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 26,
+    "question": "U bajci o Crvenkapici, tko biva prvi pojeden od strane vuka?",
+    "source_correct": "Baka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 27,
+    "question": "U knjizi 'Vještice' autora Roalda Dahla, u koju životinju vještice pretvore dječaka pripovjedača?",
+    "source_correct": "Miša",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 28,
+    "question": "Koja je spisateljica napisala 'Tajni Vrt'?",
+    "source_correct": "Frances Hodgson Burnett",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 29,
+    "question": "Maleno mjesto u kojem je rođen jedan od najslavnijih američkih pisaca dijeli ime sa jednom američkom saveznom državom, a ono se zove kako?",
+    "source_correct": "Florida",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 30,
+    "question": "Na kojem je jeziku spisateljica Astrid Lindgren izvorno napisala knjigu Pipi Duga Čarapa?",
+    "source_correct": "Švedskom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 31,
+    "question": "Koji je britanac napisao knjigu o Matildi, nadprosječno pametnoj djevojčici koja ima i telekinetičke sposobnosti?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 32,
+    "question": "Iako ga je redatelj pri ekranizaciji 'Male Princeze' smjestio u New York, u kojem se gradu, u knjizi, nalazi internat koji Sara Crewe tj Mala Princeza, pohađa?",
+    "source_correct": "London",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 33,
+    "question": "'Vjerujem u vile! Vjerujem, vjerujem!' je poznata izreka iz koje Barrieve bajke?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 34,
+    "question": "Iz bajke braće Grimm doznajemo da je vuk, od ukupno 7 kozlića pojeo njih koliko?",
+    "source_correct": "6",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 35,
+    "question": "U kojoj bajci možemo pročitati da je u laži dug nos?",
+    "source_correct": "Pinokiju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 36,
+    "question": "Kojeg su fiktivnog lika, kojeg je napisao škotski romanopisac J. M. Barrie, letjeti učile ptice i vile?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 37,
+    "question": "U kojoj bajci smo čitali 'ogledalce, ogledalce reci mi tko je najljepši na čitavom.svijetu'?",
+    "source_correct": "Snjeguljica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 38,
+    "question": "Snjeguljica i sedam patuljaka iz 1937.g. prvi je dugometražni crtani film Walt Disneya, a koji je drugi, napravljen 1940.g.?",
+    "source_correct": "Pinokijo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 39,
+    "question": "U kojoj knjizi za djecu se pojavljuju nespretni policajci Kling i Klang te lopovi Gromovnik Karlson i Bloom, koji svi pokušavaju uhvatiti jednu nestašnu djevojčicu?",
+    "source_correct": "Pipi Duga Čarapa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 40,
+    "question": "Koju hranu Winnie Pooh najviše voli?",
+    "source_correct": "Med",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 41,
+    "question": "Koji se budući engleski kralj pojavljuje kao jedan od dvojice glavnih likova romana Kraljević i Prosjak?",
+    "source_correct": "Edward VI",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 42,
+    "question": "'Samo sretne misli!' je poznata izreka iz kojeg romana za djecu?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 43,
+    "question": "Koja bajka priča o pohlepi i umišljenosti jednog cara te njegovoj opsjednutosti lijepom odjećom.",
+    "source_correct": "Carevo novo ruho",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 44,
+    "question": "Koji je slavni engleski pisac pod pseudonimom Boz objavljivao svoje prve književne radove?",
+    "source_correct": "Charles Dickens",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 45,
+    "question": "Koji je engleski spisatelj napisao Božićnu priču (A Christmas Carol)?",
+    "source_correct": "Charles Dickens",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 46,
+    "question": "Kojem se fiktivnom liku nos poveća za svaku laž koju izgovori?",
+    "source_correct": "Pinokiju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 47,
+    "question": "Kako se zove fiktivni medvjed koji Mowglija podučava Zakonu džungle?",
+    "source_correct": "Baloo",
+    "difficulty": 5,
+    "rarity": "silver"
+  },
+  {
+    "index": 48,
+    "question": "Dovrši jako poznatu rečenicu: 'i tako su živjeli sretno do kraja...' čega?",
+    "source_correct": "Života",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 49,
+    "question": "Likove iz koje društvene igre Alisa susreće u svojoj drugoj pustolovini, iza ogledala?",
+    "source_correct": "Šaha",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 50,
+    "question": "Koji roman kao svoj podnaslov ima 'The Parish Boy's Progress'?",
+    "source_correct": "Oliver Twist",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 51,
+    "question": "Koja se bajkovita djevojka vozila u kočiji od bundeve te imala staklene cipelice?",
+    "source_correct": "Pepeljuga",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 52,
+    "question": "U knjizi Charlie i tvornica čokolade, koliko je zlatnih karata pronađeno u omotima Wonkinih čokoladica?",
+    "source_correct": "5",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 53,
+    "question": "U fiktivnoj 'Šumi od sto jutara' s medvjedićem Winniejem Poohom žive mnoge životinje a koja je od njih najmudrija i najpametnija?",
+    "source_correct": "Sova",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 54,
+    "question": "Kako se zove Andersenova bajka koja se često tumači kao priča o prihvaćanju različitosti i pronalasku vlastitog identiteta?",
+    "source_correct": "Ružno Pače",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 55,
+    "question": "Tommy i Annika Settergren su brat i sestra koji u knjizi Astrid Lindgren zajedno prolaze kroz pustolovine koje, vrlo neobične djevojčice?",
+    "source_correct": "Pipi Duge Čarape",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 56,
+    "question": "Koja riječ iz naslova prve objavljene knjige Narnijskih Kronika ne spada u živu prirodu?",
+    "source_correct": "Ormar",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 57,
+    "question": "Iz mašte kojeg je pisca za djecu nastao 'Fantastični gospodin Lisac?",
+    "source_correct": "Roalda Dahla",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 58,
+    "question": "U kojoj mitskoj zemlji svoje beskrajno djetinjstvo provodi Petar Pan?",
+    "source_correct": "Nigdjezemska",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 59,
+    "question": "O kome čitamo ako znamo da je španjolski prijevod Cenicienta a njemački Aschenputtel?",
+    "source_correct": "Pepeljugi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 60,
+    "question": "Tko je u svojoj knjizi 'Pud'dnhead Wilson' među prvima u književnosti prikazao rješavanje zločina pomoću forenzičke metode uzimanja otisaka prstiju, koja će tek kasnije postati standardna u policijskom radu?",
+    "source_correct": "Mark Twain",
+    "difficulty": 5,
+    "rarity": "golden"
+  },
+  {
+    "index": 61,
+    "question": "Po kojem je fiktivnom književnom liku najviše ostao upamćen pisac James Matthew Barrie?",
+    "source_correct": "Petru Panu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 62,
+    "question": "Iako ga većina pamti po jednom sasvim drugom djelu, koji je francuski pisac također napisao 'Noćni let', 'Pošta za jug' i 'Zrakoplovac'?",
+    "source_correct": "Antoine de Saint Exupery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 63,
+    "question": "U kojoj se fiktivnoj zemlji nalaze dvorci ‘Castle of Miraz’ i ‘Cair Paravel’?",
+    "source_correct": "Narniji",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 64,
+    "question": "Koji je američki pisac osim što je napisao, sam i ilustrirao Vesele pustolovine Robina Hooda?",
+    "source_correct": "Howard Pyle",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 65,
+    "question": "Tko je osmislio izmišljenog književnog lika Petra Pana?",
+    "source_correct": "James Matthew Barrie",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 66,
+    "question": "Pseudonim kojeg je američkog pisca zapravo mornarski izraz s rijeke Mississippi koji označava dubinu od dva hvata (oko 3,7 metara), što je značilo da je voda dovoljno sigurna za plovidbu?",
+    "source_correct": "Marka Twaina",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 67,
+    "question": "U kojem književnom djelu glavni lik posjećuje više planeta na kojima susreće kralja, hvalisavca, pijanca, poslovnog čovjeka, fenjerdžiju i geografa?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 68,
+    "question": "Kako se zove fiktivni dječak kojega su odgojili vukovi u bajci 'Knjiga o džungli?",
+    "source_correct": "Mowgli",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 69,
+    "question": "Kako se zove bajka u kojoj glavni lik cijelo djetinjstvo trpi ruganje zbog svojeg izgleda, a na kraju otkriva da je labud?",
+    "source_correct": "Ružno Pače",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 70,
+    "question": "U kojoj dječjoj knjizi fantastike možemo pročitati besmislenu pjesmu Jabberwocky (Hudodrakija)?",
+    "source_correct": "Alisa s one strane ogledala",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 71,
+    "question": "U bajci o kojoj djevojci, svi bivaju uspavani na 100 godina, sve dok kraljević nije došao i poljupcem probudio djevoju pa tako i sve ostale stanovnike kraljevstva?",
+    "source_correct": "Trnoružici",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 72,
+    "question": "Braća Edmund i Peter i sestre Lucy i Susan kroz ormar dospijevaju u koju fiktivnu zemlju?",
+    "source_correct": "Narniju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 73,
+    "question": "Svaki put kada neko dijete kaže 'Ja ne vjerujem u vile', jedna vila negdje padne mrtva.... Poznata je izreka kojeg fiktivnog lika?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 74,
+    "question": "Koji je pisac, ujedno i pilot, poletio s Korzike 31. srpnja 1944. godine u izviđačkom avionu P-38 i nestao negdje iznad Sredozemlja kod Marseillea?",
+    "source_correct": "Antoine de Saint Exupery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 75,
+    "question": "Koji je pisac osmislio Vermicious Knidse tj. Gamadljivu Kljidad, izvanzemaljska bića sposobna mijenjati oblik koja se pojavljuju u romanu Charlie i veličanstveno stakleno dizalo?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 76,
+    "question": "Kojim je voćem zla maćeha otrovala Snjeguljicu?",
+    "source_correct": "Jabukom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 77,
+    "question": "Kako se prezivaju braća Jacob i Wilhelm, slavni autori mnogih njemačkih bajki?",
+    "source_correct": "Grimm",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 78,
+    "question": "Kako se zove najpoznatija vila iz priča o Petru Panu?",
+    "source_correct": "Zvončica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 79,
+    "question": "Koji je pisac osmislio Veliku vrhovnu vješticu i njezin plan protiv djece?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 80,
+    "question": "Na kojem broju na satu se kazaljke trebaju spojiti kako bi pepeljugina čarolija prestala postojati?",
+    "source_correct": "12",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 81,
+    "question": "Koji je lav pjevajući stvorio Narniju?",
+    "source_correct": "Aslan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 82,
+    "question": "Iako je Disney ekranizirao ovaj lik bez suprotne šake, u knjizi o Petru Panu šaku koje ruke nema Kapetan Kuka?",
+    "source_correct": "Desne",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 83,
+    "question": "U kojoj se knjizi Roalda Dahla pojavljuje pripravak 'Formula 86 Delayed Action Mouse-Maker'?",
+    "source_correct": "Vještice",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 84,
+    "question": "Emil, Mali Utorak, Gustav s torbom i Profesor su dječaci koji postaju detektivi u kojem gradu?",
+    "source_correct": "Berlinu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 85,
+    "question": "Kako se zvao princ iz romana Kraljević i Prosjak, koji nakon zamjene odjeće s prosjakom završava na ulicama Londona među siromašnima?",
+    "source_correct": "Edward",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 86,
+    "question": "Iako nikako nisu povezani u stvarnosti, prezime kojeg bismo pisca ipak mogli povezati sa eufamizmom za vraga ili neku zlu silu? Shakespeare je tu riječ koristio u svojem djelu kao izraz sličan današnjem 'what the hell', a pisac koji dijeli prezime s tom riječu se pojavio tek 200 godina kasnije. Dakle, riječ koju tražimo u Shakespeareovoj knjizi se pojavila kao prezime 2 stoljeća poslije a taj stari izraz bi zapisali kao 'what the ....' što?",
+    "source_correct": "Dickens",
+    "difficulty": 5,
+    "rarity": "platinum"
+  },
+  {
+    "index": 87,
+    "question": "Na kojem je engleskom sveučilištu matematiku predavao pisac Lewis Caroll, tvorac Alise u Zemlji čudesa?",
+    "source_correct": "Oxford",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 88,
+    "question": "Tko je Kapetanu Kuki odsjekao šaku desne ruke?",
+    "source_correct": "Petar Pan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 89,
+    "question": "Koji je talijanski književnik napisao Pinokijeve avanture?",
+    "source_correct": "Carlo Collodi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 90,
+    "question": "Tko je napisao pustolovine Toma Sawyera?",
+    "source_correct": "Mark Twain",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 91,
+    "question": "U Andersenovoj bajci, koji je dio tijela Mala Sirena dobila umjesto repa?",
+    "source_correct": "Noge",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 92,
+    "question": "Koja fiktivna djevojčica u svojoj kući živi zajedno sa svojim pjegavim konjem Lilla gubben (Malim prijateljem) i majmunom Gospodinom Nilssonom?",
+    "source_correct": "Pipi Duga Čarapa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 93,
+    "question": "Koja bi se fiktivna djevojčica posebno trebala paziti Jaberwocka, Jubjub ptice i Bandersnatcha?",
+    "source_correct": "Alisa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 94,
+    "question": "Kako se zove najpoznatije književno djelo pisca i zrakoplovca Antoinea de Saint Exuperyja?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 95,
+    "question": "O kome čitamo ako znamo da je španjolski prijevod Blancanieves a njemački Schneewittchen?",
+    "source_correct": "Snjeguljici",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 96,
+    "question": "Koji gusar je najveći neprijatelj Petru Panu?",
+    "source_correct": "Kapetan Kuka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 97,
+    "question": "Mudrijaš, Ljutko, Srećko, Pospanko, Kihavko, Stidljivko i Glupko pripadaju kojoj skupini fiktivnih bića?",
+    "source_correct": "Patuljcima",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 98,
+    "question": "Ako čitamo da su vrtlari pikovi, vojnici trefovi, dvorjani karo a kraljevska obitelj herc onda čitamo koju knjigu?",
+    "source_correct": "Alisa u Zemlji čudesa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 99,
+    "question": "U kojem romanu Marka Twaina kraljević završava na londonskim ulicama, a prosjak u kraljevskoj palači?",
+    "source_correct": "Kraljević i Prosjak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 100,
+    "question": "U Dahlovoj knjizi The BFG, koga Sophie ugleda kroz prozor svoje sobe kako nosi veliku torbu i trubu?",
+    "source_correct": "Diva",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 101,
+    "question": "Koji se roman Charlesa Dickensa često navodi kao prvi roman na engleskom jeziku čiji je glavni lik dijete?",
+    "source_correct": "Oliver Twist",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 102,
+    "question": "Koji je američki književnik mnogo svoga vremena provodio u labaratoriju Nikole Tesle?",
+    "source_correct": "Mark Twain",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 103,
+    "question": "Koji znak u igraćim kartama nose Kraljica i Kralj iz Alisine prve pustolovine u Zemlji Čudesa?",
+    "source_correct": "Srce",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 104,
+    "question": "Tko je glavni lik u fiktivnoj 'Šumi od 100 jutara'?",
+    "source_correct": "Winnie the Pooh",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 105,
+    "question": "U knjizi Charlie i tvornica čokolade, koja je životinja procjenjivala jesu li orasi dovoljno dobri za Wonkine proizvode?",
+    "source_correct": "Vjeverica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 106,
+    "question": "Kako se zove vitez koji pomaže pravom princu u knjizi Kraljević i Prosjak, tijekom njegovih pustolovina izvan dvora?",
+    "source_correct": "Miles Hendon",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 107,
+    "question": "Jolly Roger je gusarski brod, Dugi Tom je najveći top na tom brodu, Mr. Smee je najodaniji član posade a kapetan svemu spomenutom je tko?",
+    "source_correct": "Kapetan Kuka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 108,
+    "question": "U čijim pustolovinama susrećemo tigra koji skače na svom repu te magarca koji svoj rep stalno gubi?",
+    "source_correct": "Winnieja the Pooha",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 109,
+    "question": "Čudotvorne pripravke Wonka-Vite i Vita-Wonk koji pomlađuju, odnosno postaruju posjeduje koji fikrivni lik Roalda Dahla?",
+    "source_correct": "Willy Wonka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 110,
+    "question": "Koja je junakinja bajki braće Grimm postala i junakinjom prvog Disneyjevog dugometražnog animiranog filma?",
+    "source_correct": "Snjeguljica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 111,
+    "question": "O kakvom mjestu je knjigu napisao engleski pisac Rudyard Kipling?",
+    "source_correct": "Džungli",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 112,
+    "question": "U kojoj knjizi glavna junakinja susreće zeca koji uvijek negdje kasni?",
+    "source_correct": "Alisa u Zemlji čudesa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 113,
+    "question": "U fiktivnoj 'Šumi od sto jutara' s medvjedićem Winniejem Poohom žive mnoge životinje a koja bi od njih, promatrano u stvarnom svijetu, bila najveći grabežljivac?",
+    "source_correct": "Tigar",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 114,
+    "question": "Koji je dječji roman Roalda Dahla ekraniziran 1990. i ponovno 2020. godine?",
+    "source_correct": "Vještice",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 115,
+    "question": "U kojoj se europskoj zemlji nalazi domovina Velike vrhovne vještice, fiktivnog lika iz knjige Roalda Dahla 'Vještice'?",
+    "source_correct": "Norveškoj",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 116,
+    "question": "Od drveta kojeg stabla je napravljen ormar kroz koji su djeca ušla u Narniju?",
+    "source_correct": "Jabuke",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 117,
+    "question": "Koju je djevojku kraljević prepoznao po savršenom pristajanju njezina stopala u izgubljenu staklenu cipelicu?",
+    "source_correct": "Pepeljugu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 118,
+    "question": "Roald Dahl je smislio i napisao mnoge maštovite stvari i događaje u svojim knjigama a u jednoj od njih je izmislio i rijeku kojom teče što točno?",
+    "source_correct": "Čokolada",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 119,
+    "question": "Kako se zove glavni antagonist dječjeg romana Emil i detektivi?",
+    "source_correct": "Max Grundeis",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 120,
+    "question": "Koja životinja je glavni antagonisti bajke o Crvenkapici?",
+    "source_correct": "Vuk",
+    "difficulty": 5,
+    "rarity": "silver"
+  },
+  {
+    "index": 121,
+    "question": "Koja je fiktivna princeza osuđena kletvom da se ubode na vreteno i utone u dubok san?",
+    "source_correct": "Trnoružica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 122,
+    "question": "Knjigu o kojoj je nadprosječno inteligentnoj djevojčici napisao britanski književnik Roald Dahl?",
+    "source_correct": "Matildi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 123,
+    "question": "Koja bića u Dahlovu romanu prepoznajemo po kandžama, perikama i odbojnosti prema dječjem mirisu?",
+    "source_correct": "Vještice",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 124,
+    "question": "Čega se odrekla Mala Sirena iz Andersenove bajke kako bi dobila ljudske noge?",
+    "source_correct": "Glasa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 125,
+    "question": "Koji je dio tijela Pinokiju najbrže rastao?",
+    "source_correct": "Nos",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 126,
+    "question": "Koji opisni pridjev stoji u naslovu Andersenove bajke o morskoj princezi koja se odrekla glasa kako bi dobila ljudske noge?",
+    "source_correct": "Mala",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 127,
+    "question": "U knjizi Kraljević i Prosjak Edward Tudor je bio tko?",
+    "source_correct": "Kraljević",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 128,
+    "question": "Koji je francuz napisao najpoznatiju verziju Mačka u Čizmama?",
+    "source_correct": "Charles Perrault",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 129,
+    "question": "Koje bi oružje Robina Hooda svaki hrvat mogao pronaći u svojem vrtu?",
+    "source_correct": "Luk",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 130,
+    "question": "Ono što Nijemci svojoj djeci za laku noć pričaju o Hanselu i Gretel, Hrvati svojoj djeci za laku noć pričaju o kome?",
+    "source_correct": "Ivici i Marici",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 131,
+    "question": "U pustolovinama kojeg fiktivnog lika upoznajemo dječake Bezubog, Gospodičića, Mrvicu i Kovrčavka?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 132,
+    "question": "U kojoj se engleskoj grofoviji odvija većina radnje Veselih pustolovina Robina Hooda, koje je napisao Howard Pyle?",
+    "source_correct": "Nottinghamshire",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 133,
+    "question": "Koji je britanski pisac planirao i treći nastavak svoje knjige pod imenom 'Charlie u Bijeloj Kući', ali je nikada nije dovršio?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 134,
+    "question": "Tko je napisao dječiji roman 'Anne od Zelenih Zabata' (Anne of Green Gables)?",
+    "source_correct": "Lucy Maud Montgomery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 135,
+    "question": "U kojem romanu za djecu glavna junakinja tvrdi da su sve djevojčice princeze, bez obzira na to žive li u bogatstvu ili siromaštvu?",
+    "source_correct": "Mala Princeza",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 136,
+    "question": "U knjizi Kraljević i Prosjak, Tom Canty je bio tko?",
+    "source_correct": "Prosjak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 137,
+    "question": "Kako se zove najpoznatiji prijatelj Robina Hooda, poznat po svojoj velikoj snazi?",
+    "source_correct": "Mali John",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 138,
+    "question": "Koja djevojčica živi u svom fiktivnom dvorcu zvanom Villa Villekulla?",
+    "source_correct": "Pipi Duga Čarapa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 139,
+    "question": "Kako se zove fiktivna crna pantera koja je Mowgliju bila zaštitnik i prijatelj?",
+    "source_correct": "Bagheera",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 140,
+    "question": "Koja bajka počinje rečenicom 'bila jednom jedna djevojčica koja je nosila crvenu kapu'?",
+    "source_correct": "Crvenkapica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 141,
+    "question": "U knjizi 'Alisa s one strane ogledala' kako se zove brat debeljuškastog Tweedledeeja? Jako su nalik jedno drugom kako izgledom tako i karakterom a uprizorio ih je i Tim Burton u filmu iz 2010.g.",
+    "source_correct": "Tweedledum",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 142,
+    "question": "Logo tvrtke Apple sugerira da je jabuku netko zagrizao, a kada bismo upitali braću Grimm tko je to bio oni bi sasvim sigurno spomenuli koju ljepoticu?",
+    "source_correct": "Snjeguljicu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 143,
+    "question": "U knjizi Marka Twaina, kraljević mijenja svoju odjeću s kime?",
+    "source_correct": "Prosjakom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 144,
+    "question": "Tko je napisao pustolovine medvjedića Winniea Pooha?",
+    "source_correct": "Alan Alexander Milne",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 145,
+    "question": "S kojim kemijskim elementom možemo povezati pet karata koje su sretni pronalazači pronašli u čokoladicama i tako osvojili ulazak u Wonkinu tvornicu čokolade?",
+    "source_correct": "Zlato",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 146,
+    "question": "S kojeg su kontinenta Oompa-Loompe dovedene da rade u Wonkinoj tvornici čokolade?",
+    "source_correct": "Afrika",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 147,
+    "question": "Koja je švicarska književnica stvorila lik i djelo malene Heidi?",
+    "source_correct": "Johanne Spyri",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 148,
+    "question": "U kojoj bajci možemo susresti ‘Monstra’, divovsko morsko čudovište koje guta brodove i njihove posade?",
+    "source_correct": "Pinokiju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 149,
+    "question": "Koje je voće pisac Roald Dahl u svojoj knjizi pretvorio u golemo prijevozno sredstvo za dječaka Jamesa Henryja Trottera?",
+    "source_correct": "Breskvu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 150,
+    "question": "Kako se zvao prosjak koji je zamijenio mjesto s mladim princem u romanu Kraljević i Prosjak?",
+    "source_correct": "Tom Canty",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 151,
+    "question": "Scrooge je glavni lik u kojem romanu Charlesa Dickensa kojeg tijekom Božićnih praznika posjećuju tri duha: prošlosti, sadašnjosti i budućnosti?",
+    "source_correct": "Božićna Priča",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 152,
+    "question": "Koji je danski pisac napisao bajku o Maloj Sireni?",
+    "source_correct": "Hans Christian Andersen",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 153,
+    "question": "Koji je predmet Alisi omogućio odlazak u Zemlju Čudesa a zloj maćehi otkrivao da je Snjeguljica i dalje živa te najljepša?",
+    "source_correct": "Ogledalo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 154,
+    "question": "Tko je iz 'komada čarobnog drveta' isklesao Pinokija?",
+    "source_correct": "Gepetto",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 155,
+    "question": "Koji je slavni engleski pisac, uz pomoć filantropkinje Angele Burdett-Coutts, osnovao Urania Cottage, dom namijenjen rehabilitaciji i novom početku mladih žena u viktorijanskom Londonu?",
+    "source_correct": "Charles Dickens",
+    "difficulty": 5,
+    "rarity": "golden"
+  },
+  {
+    "index": 156,
+    "question": "Koju su djevojku jako duge kose u svojim bajkama spominjala braća Grimm?",
+    "source_correct": "Zlatokosa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 157,
+    "question": "Tko je napisao knjigu Charlie i tvornica čokolade?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 158,
+    "question": "Kovčeg koje djevojčice sadrži točno 43.162 zlatnika koje joj je ostavio njezin otac, kapetan Efraim?",
+    "source_correct": "Pipi Duge Čarape",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 159,
+    "question": "Tko je napisao 'Vlak u snijegu'?",
+    "source_correct": "Mato Lovrak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 160,
+    "question": "U kojem je gradu rođen Jules Verne, francuski romanopisac, pjesnik i dramatičar?",
+    "source_correct": "Nantesu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 161,
+    "question": "Za koliko je dana Verne-ov fiktivni lik Fogg uspio proputovati svijet te se vratiti u London?",
+    "source_correct": "80",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 162,
+    "question": "Koji fiktivni šegrt ostavlja pismo majstoru da odlazi u svijet razgaziti čizmice i da će mu ih vratiti kada više nebudu tijesne?",
+    "source_correct": "Šegrt Hlapić",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 163,
+    "question": "Koja se životinja često povezuje s Long Johnom Silverom, gusarom iz romana Otok s blagom, jer mu sjedi na ramenu?",
+    "source_correct": "Papiga",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 164,
+    "question": "Kada su šegrt Hlapić i Gita odrasli, vjenčali su se i imali koliko djece?",
+    "source_correct": "4",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 165,
+    "question": "Kako se zove djevojčica iz romana 'Vlak u snijegu' koja s Ljubanom i Perom u školu ide iz zaseoka Jabukovac?",
+    "source_correct": "Draga",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 166,
+    "question": "Koji mladić živi u fiktivnoj obitelji sa djedom Vjestom i braćom Ljutišom i Marunom?",
+    "source_correct": "Potjeh",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 167,
+    "question": "Čija je putovanja u svojoj knjizi opisao Jonathan Swift?",
+    "source_correct": "Gulliverova",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 168,
+    "question": "U kojem je stoljeću većinu svog života proživio francuski pisac Jules Verne?",
+    "source_correct": "19-om",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 169,
+    "question": "Na dno kojeg oceana tone fiktivni brod Pequod u romanu Moby Dick?",
+    "source_correct": "Tihog",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 170,
+    "question": "Šegrt kojem okrutnom majstoru je bio maleni Hlapić?",
+    "source_correct": "Majstoru Mrkonji",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 171,
+    "question": "U bajci Ivane Brlić Mažuranić, kako se zove domaći koji je najviše pomagao majci da opameti svog sina?",
+    "source_correct": "Malik Tintilinić",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 172,
+    "question": "Tko je autor romana Percy Jackson i kradljivac munje?",
+    "source_correct": "Rick Riordan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 173,
+    "question": "U romanu Julesa Verna 'Put oko svijeta u 80 dana' na kojem kontinentu Phileas Fogg spašava Aoudu, u koju se zaljubi te je kasnije oženi?",
+    "source_correct": "Aziji",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 174,
+    "question": "U bajci Ivane Brlić Mažuranić, kojim imenom su se predstavila sitna stvorenja koja su izašla iz vatre na ognjištu?",
+    "source_correct": "Domaći",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 175,
+    "question": "Koja je spisateljica napisala roman za djecu 'Pollyanna' koji govori o istoimenoj djevojčici koja nakon očeve smrti odlazi u Vermont živjeti sa svojom strogom tetom Polly?",
+    "source_correct": "Eleanor Emily Hodgman Porter",
+    "difficulty": 5,
+    "rarity": "silver"
+  },
+  {
+    "index": 176,
+    "question": "Koje je svoje djelo Herman Melville posvetio svom suvremeniku, piscu Nathanielu Hawthorneu?",
+    "source_correct": "Moby Dick",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 177,
+    "question": "U Gulliverovim putovanjima, kako se zove leteći otok nastanjen znanstvenicima i glazbenicima?",
+    "source_correct": "Laputa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 178,
+    "question": "Jerry Yang i David Filo su osnivači koje internetske tražilice za čije su ime inspiraciju dobili iz knjige Gulliverova putovanja?",
+    "source_correct": "Yahoo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 179,
+    "question": "Pequod, Zorogaz i Jolly Roger su sve redom fiktivni..., što?",
+    "source_correct": "Brodovi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 180,
+    "question": "U Gulliverovim putovanjima, kako se zovu divlji ljudi nalik životinjama koje Houyhnhnmi smatraju nižom vrstom?",
+    "source_correct": "Yahoos",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 181,
+    "question": "Koji bi broj dobili kada bi zbrojili milje i dane iz dva možda i najpoznatija romana Julesa Verna?",
+    "source_correct": "20 080",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 182,
+    "question": "Fiktivne države Lilliput i Blefuscu Jonathan Swift je smjestio na istočne obale koje velike, stvarne države?",
+    "source_correct": "Indije",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 183,
+    "question": "Američki književnik Edgar Rice Burroughs ostao je upamćen po kojem svom izmišljenom fiktivnom liku?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 184,
+    "question": "Iz čijeg je pera nastao 'Bistri vitez Don Quijote od Manche'?",
+    "source_correct": "Miguela de Cervantesa Saavedre",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 185,
+    "question": "Tko se od članova družbe Pere Kvržice onesvijestio u bunaru čisteći ga?",
+    "source_correct": "Medo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 186,
+    "question": "Kako se zove fiktivni kapetan koji je u susretu s Moby Dickom izgubio nogu?",
+    "source_correct": "Ahab",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 187,
+    "question": "Na kojem je oceanu Robinson Crusoe doživio brodolom?",
+    "source_correct": "Atlantskom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 188,
+    "question": "Koji je hrvatski književnik napisao dječije romane 'Zagonetni dječak', 'Domaća zadaća' i 'Lažeš, Melita'?",
+    "source_correct": "Ivan Kušan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 189,
+    "question": "U kojem je koncetracijskom logoru umrla Anna Frank?",
+    "source_correct": "Bergen Belsen",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 190,
+    "question": "Tko je napisao 'Dnevnik Anne Frank'?",
+    "source_correct": "Anna Frank",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 191,
+    "question": "U bajci Ivane Brlić Mažuranić, ako je mladoženja Oleh, mlada Neva Nevinčica, onda je djever tko?",
+    "source_correct": "Sunce",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 192,
+    "question": "Kako se zove pravedni starac sa kojim žive njegova tri unuka: Ljutiša, Marun i Potjeh?",
+    "source_correct": "Vjest",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 193,
+    "question": "Koje novine je u svojoj knjizi Jules Verne naveo kao one koje su objavile priču o okladi Phileasa Fogga kako će uspjeti proputovati svijet u 80 dana?",
+    "source_correct": "The Daily Telegraph",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 194,
+    "question": "Kako se zove književni oblik u kojem se ismijava pojedinac, skupina, država ili vlast a često je korišten kao sredstvo političke borbe?",
+    "source_correct": "Satira",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 195,
+    "question": "Kako se zove vjerni štitonoša Don Quijotea?",
+    "source_correct": "Sancho Panza",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 196,
+    "question": "Koju je svjetski poznatu zbirku od 8 pripovjetki napisala Ivana Brlić Mažuranić?",
+    "source_correct": "Priče iz davnine",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 197,
+    "question": "U bajci Ivane Brlić Mažuranić, djed čarobnjak Neumijko u oblake odvodi 9 župančića i koga još?",
+    "source_correct": "Lutonjicu Toporka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 198,
+    "question": "U potrazi za mjestom koje bi mu olakšalo zdravstvene tegobe, na kojem je otočju posljednje godine života proveo Robert Louis Stevenson, autor 'Otoka s blagom' i 'Neobičnog slučaja dr. Jekylla i gospodina Hydea'?",
+    "source_correct": "Samoa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 199,
+    "question": "U trenutku kada Gulliver na svom putovanju stiže u Lilliput, koliko je već mjeseci trajao rat između država Lilliputa i Blefuscua?",
+    "source_correct": "36",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 200,
+    "question": "Kojeg sisavca lovi posada sa fiktivnog broda Pequoda?",
+    "source_correct": "Kita",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 201,
+    "question": "Ako je glavnom protagonistu Swiftove knjige prezime Gulliver, onda mu je ime koje?",
+    "source_correct": "Lemuel",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 202,
+    "question": "Tko je napisao fantastični roman o malenoj djevojčici Momo i misterioznim osobama u sivom koji se hrane vremenom ljudskim vremenom?",
+    "source_correct": "Michael Ende",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 203,
+    "question": "Koji fiktivni lik otkriva kako su dvije moćne države Lilliput i Blefuscu u ratu, jer je vjerovanje u jednoj da se jajetu razbija dno, a u drugoj da se razbija vrh?",
+    "source_correct": "Gulliver",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 204,
+    "question": "U kojem je glavnom gradu rođen Jonathan Swift, autor Gulliverovih putovanja?",
+    "source_correct": "Dublin",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 205,
+    "question": "U kojoj je zimskoj pojavi zapeo Lovrakov fiktivni vlak?",
+    "source_correct": "Snijegu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 206,
+    "question": "'Ostanite na krčevini i ne ostavljajte djeda, dok on vas ne ostavi, i ne idite u svijet ni za dobrim ni za lošim poslom, dok ne vratite ljubav djedu.' Riječi su kojih se Potjeh tijekom svoje potrage za istinom pokušava prisjetiti a izrekao mu ih je tko?",
+    "source_correct": "Svarožić",
+    "difficulty": 5,
+    "rarity": "golden"
+  },
+  {
+    "index": 207,
+    "question": "Kako se zovu razumna bića u obliku konja koja Gulliver upoznaje na svom posljednjem putovanju?",
+    "source_correct": "Houyhnhnms",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 208,
+    "question": "U knjizi 'Put oko svijeta u 80 dana' koju Indijku glavni protagonist romana Phileas Fogg spašava od ritualnog spaljivanja i kasnije se njome oženi?",
+    "source_correct": "Aoudu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 209,
+    "question": "Koji je fiktivni ribar Ivane Brlić Mažuranić došao do dvora Kralja Morskoga te postao njegova dvorska luda?",
+    "source_correct": "Palunko",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 210,
+    "question": "Koji je fiktivni lik zaljubljen u amerikanku Jane Porter?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 211,
+    "question": "Koji je naslov romana Roberta Louisa Stevensona zaslužan za popularizaciju motiva karte s označenim blagom i gusarskih pustolovina?",
+    "source_correct": "Otok s Blagom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 212,
+    "question": "Koji je gusarski kapetan sakrio blago te ga označio na zemljovidnoj karti, a koja je kasnije u ruke došla Jimu Hawkinsu u knjizi 'Otok s blagom'?",
+    "source_correct": "Kapetan Flint",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 213,
+    "question": "Protiv čega se Don Quijote bori misleći da su divovi?",
+    "source_correct": "Vjetrenjača",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 214,
+    "question": "U romanu '20 000 milja pod morem' koji američki ratni brod kreće u lov na navodno morsko čudovište, ne znajući da je riječ o tehnološki naprednoj podmornici Nautilus?",
+    "source_correct": "Abraham Lincoln",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 215,
+    "question": "Koji je američki pisac izmislio Tarzana te napisao priče o njemu?",
+    "source_correct": "Edgar Rice Burroughs",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 216,
+    "question": "Tko je napisao pustolovni roman u kojem je glavni lik brodolomac Robinson Crusoe?",
+    "source_correct": "Daniel Defoe",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 217,
+    "question": "Koji je književni lik Roberta Louisa Stevensona, poznat po svojoj mračnoj alter-ego osobnosti?",
+    "source_correct": "Dr. Henry Jeykll",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 218,
+    "question": "Fiktivni bračni par Greystoke je dobio sina kojeg su odgojili majmuni a znamo ga po kojem imenu?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 219,
+    "question": "Kopno kojeg kontinenta Robinson Crusoe povremeno vidi sa otoka na kojem je završio nakon brodoloma?",
+    "source_correct": "Južne Amerike",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 220,
+    "question": "Koji fiktivni profesor prirodnih znanosti iz pariškog muzeja postaje pripovjedač romana Dvadeset tisuća milja pod morem?",
+    "source_correct": "Pierre Aronnax",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 221,
+    "question": "Kojeg se engleskog pisca, autora jednog od najpoznatijih fiktivnih brodolomaca na svijetu, smatra ocem engleskog modernog romana?",
+    "source_correct": "Daniela Defoea",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 222,
+    "question": "Koji europski grad označava početak ali i kraj romana Julesa Verna 'Put oko svijeta u 80 dana?",
+    "source_correct": "London",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 223,
+    "question": "Koji je fantastični svijet Michael Ende stvorio u svom romanu 'Beskrajna priča'?",
+    "source_correct": "Fantasia",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 224,
+    "question": "Buran život kojeg bi španjolskog književnika mogao poslužiti za proučavanje čovjeka na razmeđu dviju epoha, renesanse i baroka?",
+    "source_correct": "Miguela de Cervantesa Saavedre",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 225,
+    "question": "Koji je američki književnik napisao roman Moby Dick?",
+    "source_correct": "Herman Melville",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 226,
+    "question": "U kojoj europskoj metropoli fiktivni lik Ivana Kušana, Koko Milić istražuje slučaj pokušaja otmice slike Mona Lise?",
+    "source_correct": "Parizu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 227,
+    "question": "Koji div nije imao nikakvog drugog posla osim brojanja kamenja po razrusenom Legen gradu?",
+    "source_correct": "Regoč",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 228,
+    "question": "Koji je francuski pisac napisao roman 'Put oko svijeta u 80 dana'?",
+    "source_correct": "Jules Verne",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 229,
+    "question": "Mitologiju kojeg je starog europskog naroda Ivana Brlić Mažuranić koristila u pisanju svojih 'Priča iz davnina'?",
+    "source_correct": "Slavena",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 230,
+    "question": "J. M. Barrie je stvorio gusara bez šake  a R. L. Stevenson gusara bez kojeg dijela tijela?",
+    "source_correct": "Noge",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 231,
+    "question": "Koji je nadimak dobio John Clayton nakon što su ga odgojili majmuni u afričkoj džungli?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 232,
+    "question": "Kako se zove vjerni sluga koji prati Phileasa Fogga u Verne-ovoj knjizi 'Putovanje oko svijeta u 80 dana?",
+    "source_correct": "Passepartout",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 233,
+    "question": "U kojem je licu napisana knjiga 'Lovac u žitu' (The Catcher in the Rye), američkog pisca J. D. Salingera?",
+    "source_correct": "Prvom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 234,
+    "question": "'Diary of a Wimpy Kid' je knjiga koja se u hrvatskoj prevodi kao 'Gregov dnevnik' a kroz ruke kojeg je američkog pisca ovaj dnevnik napisao Greg Heffley?",
+    "source_correct": "Jeff Kinney",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 235,
+    "question": "Koji kanadski harpunar, poznat po svojoj snazi i vještini lova na kitove, postaje jedan od prisilnih putnika na Nautilusu, fiktivnoj Verne-ovoj podmornici?",
+    "source_correct": "Ned Land",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 236,
+    "question": "Tko je napisao Čudnovate zgode šegrta Hlapića?",
+    "source_correct": "Ivana Brlić Mažuranić",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 237,
+    "question": "Koji je poznati španjolski pisac bio ranjen u velikoj bitci kod Lepanta iz 1571.g. između Svete Lige i Osmanskog Carstva?",
+    "source_correct": "Miguel de Cervantes Saavedra",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 238,
+    "question": "U bajci Ivane Brlić Mažuranić, kako se zvao starješina začarane šume, po kojem je šuma i dobila ime?",
+    "source_correct": "Stribor",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 239,
+    "question": "Koji od trojice unuka djeda Vjesta na kraju bajke Ivane Brlić Mažuranić, zajedno s njim odlazi na Svarožićev dvor?",
+    "source_correct": "Potjeh",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 240,
+    "question": "Don Quijote jaše konja a Sancho Panza ga prati jašući koju životinju?",
+    "source_correct": "Magarca",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 241,
+    "question": "Koja voda je potopila dva sela u bajci Regoč?",
+    "source_correct": "Zlovoda",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 242,
+    "question": "Kako se zove kitolovački brod na kojem plove Ahab i Išmael u potrazi za Moby Dickom?",
+    "source_correct": "Pequod",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 243,
+    "question": "Na Jabukovcu u kojem selu žive Lovrakova tri đaka četvrtog razreda osnovne škole: Ljuban, Draga i Pero.  Velikom Selu Veliko Selo ",
+    "source_correct": "Velikom Selu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 244,
+    "question": "Kako se zove konj Don Quijotea?",
+    "source_correct": "Rocinante",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 245,
+    "question": "Niz od 62 romana pod skupnim nazivom 'Neobična putovanja' (Voyages extraordinaires) napisao je koji francuski pisac?",
+    "source_correct": "Jules Verne",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 246,
+    "question": "Kako se zove fiktivni pripovjedač romana 'Moby-Dick' koji se u knjizi predstavlja na samom početku?",
+    "source_correct": "Ishmael",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 247,
+    "question": "U kojoj fiktivnoj šumi, nakon prestanka čarolije, nestaje dvor, starješina, domaći i snaha a ostaju samo majka i sin?",
+    "source_correct": "Šumi Striborovoj",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 248,
+    "question": "Koja je američka spisateljica napisala 'Most za Terabithiu'?",
+    "source_correct": "Katherine Paterson",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 249,
+    "question": "Kako se zove brod kojim se u knjizi Roberta Louisa Stevensona plovi prema Otoku s blagom?",
+    "source_correct": "Hispaniola",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 250,
+    "question": "Kako se zove fiktivna zemlja divova koju Gulliver na svojim putovanjima posjećuje nakon Lilliputa?",
+    "source_correct": "Brobdingnag",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 251,
+    "question": "Iako je roman objavljen 1870.g., koje prijevozno sredstvo Jules Verne opisuje kao električno pogonjeno i sposobno za dugotrajnu plovidbu ispod površine mora?",
+    "source_correct": "Podmornica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 252,
+    "question": "Zahvaljujući kojem irskom piscu je internetska tražilica Yahoo! dobila ime?",
+    "source_correct": "Jonathanu Swiftu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 253,
+    "question": "Koja knjiga uvodi čitatelja u svijet lova na kitove s polazištem na otoku Nantucketu u Novoj Engleskoj.  Moby Dick Bijeli kit Mobi dik The Wale D Vejl ",
+    "source_correct": "Moby Dick",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 254,
+    "question": "U Verne-ovom romanu 'Put oko svijeta u 80 dana', tijekom putovanja kroz Indiju, koje su životinje korištene za prijevoz nakon što željeznička pruga nije bila dovršena?",
+    "source_correct": "Slonovi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 255,
+    "question": "U romanu 'Momo', pisca Michaela Endea, što misteriozni ljudi u sivom kradu, tj. nagovaraju ljude da štede u posebno dizajniranoj banci baš za to?",
+    "source_correct": "Vrijeme",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 256,
+    "question": "Fiktivni lik John Clayton je svima poznatiji pod kojim fiktivnim nadimkom?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 257,
+    "question": "O kojem je ribaru priču zapisala Ivana Brlić Mažuranić u svojim Pričama iz davnine, a koji je tragao za bogatstvom i boljim životom?",
+    "source_correct": "Palunku",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 258,
+    "question": "Zbog kroničnih zdravstvenih problema i potrage za klimom koja bi mu olakšala tegobe, koji se pisac, tvorac Otoka s blagom, nastanio u Tihom Oceanu te preminuo 1894. godine na otoku Upolu u Samoi?",
+    "source_correct": "Robert Louis Stevenson",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 259,
+    "question": "U Gulliverovim putovanjima, glavni protagonist otkriva moćnu državu Lilliput te njen, koji glavni grad?",
+    "source_correct": "Mildendo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 260,
+    "question": "Iz koje je engleske luke Robinson Crusoe isplovio na svoje prvo putovanje, ni ne sluteći da se kući neće vratiti idućih 28 godina?",
+    "source_correct": "Hull",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 261,
+    "question": "Koje Cervantesovo djelo danas živi i kao balet Ludwiga Minkusa te kao opera Julesa Masseneta?",
+    "source_correct": "Bistri vitez Don Quijote od Manche",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 262,
+    "question": "Koji je autor napisao više od 20 romana o Tarzanu?",
+    "source_correct": "Edgar Rice Burroughs",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 263,
+    "question": "Tko je malen kao lakat, veseo kao ptica, hrabar kao Kraljević Marko, mudar kao knjiga, a dobar kao sunce?",
+    "source_correct": "Šegrt Hlapić",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 264,
+    "question": "Kako se zove engleski gospodin i fiktivni lik Julesa Verna koji se kladi da može obići svijet za 80 dana?",
+    "source_correct": "Phileas Fogg",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 265,
+    "question": "Ime koje internetske tražilice i web-portala potječe od naziva divljih humanoidnih bića iz 'Guliverovih putovanja'?",
+    "source_correct": "Yahoo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 266,
+    "question": "Kako se zove fiktivna podmornica kapetana Neme?",
+    "source_correct": "Nautilus",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 267,
+    "question": "Kako se zove Verne-ov fiktivni kapetan podmornice Nautilus?",
+    "source_correct": "Nemo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 268,
+    "question": "Kako se zove žena u koju se Tarzan zaljubljuje i koja postaje njegova supruga?",
+    "source_correct": "Jane Porter",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 269,
+    "question": "U romanu '20 000 milja pod morem' koje legendarno izgubljeno otočno kraljevstvo kapetan Nemo pokazuje svojim gostima tijekom podmorske šetnje?",
+    "source_correct": "Atlantidu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 270,
+    "question": "Koji je autor stvorio i Tarzana i junaka Johna Cartera s Marsa?",
+    "source_correct": "Edgar Rice Burroughs",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 271,
+    "question": "Koji je škotski književnik napisao pustolovni roman 'Brodski kuhar' koji je kasnije preimenovan u 'Otok s blagom'?",
+    "source_correct": "Robert Louis Stevenson",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 272,
+    "question": "Kako se zove vladar svih šumskih bjesova u bajci Kako je Potjeh tražio istinu?",
+    "source_correct": "Bjesomar",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 273,
+    "question": "Kako se zove djevojčica koja se pridružuje šegrtu Hlapiću na njegovim pustolovinama?",
+    "source_correct": "Gita",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 274,
+    "question": "Koje se slovo nalazi na karti kapetana Flinta i označava mjesto zakopanog blaga u romanu 'Otok s blagom'?",
+    "source_correct": "X",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 275,
+    "question": "Kako se zove mladi protagonist Stevensonova romana 'Otok s blagom' u čije ruke dospijeva karta s označenim mjestom skrivenog blaga?",
+    "source_correct": "Jim Hawkins",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 276,
+    "question": "Tko je napisao knjigu 'Lovac u žitu' (The Catcher in the Rye)?",
+    "source_correct": "Jerome David Salinger",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 277,
+    "question": "Dvadeset tisuća milja pod čime je naslovljen jedan od pustolovnih romana Julesa Verna?",
+    "source_correct": "Morem",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 278,
+    "question": "Koji je oblik biografije, Daniel Defoe koristio u svom romanu Robinson Crusoe?",
+    "source_correct": "Autobiografiju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 279,
+    "question": "Koji se naziv koristi za tradicionalnu zastavu europskih i američkih pirata tijekom 18. stoljeća a danas se prikazuje općenito kao crna zastava s bijelom lubanjom i prekriženim kostima? Isto to ime je dano jednom fiktivnom gusarskom brodu dok se u One Pieceu takvo ime koristi za općenite nazive piratskih zastava.  Jolly Roger Džoli Rodžer Joli Roger ",
+    "source_correct": "Jolly Roger",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 280,
+    "question": "Kako se zove jednonožni gusar nastao iz pera Roberta Louisa Stevensona koji je postao jedan od najpoznatijih negativaca u svjetskoj književnosti?",
+    "source_correct": "Long John Silver",
+    "difficulty": 5,
+    "rarity": "legendary"
+  },
+  {
+    "index": 281,
+    "question": "Kako se zove pas koji sa šegrtom Hlapićem prolazi kroz njegove avanture?",
+    "source_correct": "Bundaš",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 282,
+    "question": "U kojoj se europskoj državi odvija većina radnje romana 'Don Quijote'?",
+    "source_correct": "Španjolska",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 283,
+    "question": "Tko je bio prvi pisac na engleskom jeziku koji je dobio Nobelovu nagradu za književnost 1907.g., a ujedno i najmlađi dobitnik te nagrade do danas sa 41.g. života?",
+    "source_correct": "Rudyard Kipling",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 284,
+    "question": "Kojeg je fiktivnog ribara posjetila vila po imenu Zora Djevojka?",
+    "source_correct": "Palunka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 285,
+    "question": "Pretvarajući se u djevojku, u Šumi Striborovoj, zmija potpuno mijenja svoj izgled osim jednog dijela tijela, kojeg?",
+    "source_correct": "Jezika",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 286,
+    "question": "U Gulliverovim putovanjima, glavni lik na početku pomaže stanovnicima Lilliputa u ratu protiv koje susjedne države?",
+    "source_correct": "Belfuscu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 287,
+    "question": "Kako se zvala kćerka mlinara i mlinarice iz Priča iz davnine, spisateljice Ivane Brlić Mažuranić?",
+    "source_correct": "Neva Nevinčica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 288,
+    "question": "U svojoj fiktivnoj autobiografiji, Robinson Crusoe spašava jednog domoroca i daje mu ime po kojem danu u tjednu?",
+    "source_correct": "Petak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 289,
+    "question": "Kako se zvala vila koja je 7 dana i 7 noći jahala konja vranca, te u Legen gradu upoznala Regoča?",
+    "source_correct": "Kosjenka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 290,
+    "question": "Kako se zove odani sluga profesora Aronnaxa iz knjige '20 tisuća milja pod morem' koji je poznat po svojoj navici da sve živo razvrstava u znanstvene kategorije?",
+    "source_correct": "Conseil",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 291,
+    "question": "Kako se zove kornjača iz romana Momo koja vodi glavnu junakinju do Majstora Hore, može vidjeti točno 30 minuta u budućnost te komunicira riječima koje se pojavljuju na njezinu oklopu?",
+    "source_correct": "Kasiopeja",
+    "difficulty": 5,
+    "rarity": "golden"
+  },
+  {
+    "index": 292,
+    "question": "Iz kojeg se grada u Veliko Selo vraća Lovrakov 'Vlak u snijegu'?",
+    "source_correct": "Zagreba",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 293,
+    "question": "Kako se u teoriji književnosti naziva podvrsta avanturističkog romana koja prati preživljavanje junaka na pustom otoku, a u modernom turizmu označava specifičnu vrstu odmora u potpunoj izolaciji i divljini?",
+    "source_correct": "Robinzonijada",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 294,
+    "question": "Koliko je godina Robinson Crusoe proveo na pustom otoku prije nego što je spašen?",
+    "source_correct": "28",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 295,
+    "question": "U knjizi 'Otok s blagom' koje prijevozno sredstvo Jim Hawkins i njegovi suputnici koriste kako bi stigli do Otoka s blagom?",
+    "source_correct": "Brod",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 296,
+    "question": "S kojom bi riječi na jeziku majmuna Mangani opisali 'bijelog čovjeka'?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 297,
+    "question": "Koji je fiktivni lik odrastao među majmunima nakon brodoloma svojih roditelja na afričkoj obali?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 298,
+    "question": "'Ali bijahu u jednom selu šukunbaba i šukundjed, koji pamćahu sve, što je ikada bilo u oba sela. Oni su govorili: Pustite, ljudi, djecu. Boljim će plodom uroditi dječja igra po planini, negoli vaše žito po poljima'. Ovaj ćemo poznati citat pročitati u kojoj bajci Ivane Brlić Mažuranić?",
+    "source_correct": "Regoč",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 299,
+    "question": "J. M. Barrie stvorio je Kapetana Kuku bez šake, a Robert Louis Stevenson Dugog Johna Silvera bez kojeg dijela tijela?",
+    "source_correct": "Noge",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 300,
+    "question": "Koje kraljevstvo izmišljaju Leslie Burke i Jesse Aarons, fiktivni likovi izišli iz pera američke spisateljice Katherine Paterson?",
+    "source_correct": "Terabithiju",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 301,
+    "question": "Koji je škotski književnik, autor slavnog pustolovnog romana 'Otok s blagom' iz 1883.g, stvorio lik Long Johna Silvera i time trajno oblikovao moderni pop-kulturni stereotip o piratima s drvenom nogom?",
+    "source_correct": "Robert Louis Stevenson",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 302,
+    "question": "Kojim prijevoznim sredstvom Fogg i Passepartout prelaze velik dio SAD-a u romanu 'Put oko svijeta u 80 dana'?",
+    "source_correct": "Vlakom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 303,
+    "question": "Koju je životinju Robinson Crusoe pripitomio kako bi na otoku imao stalan izvor mlijeka i mesa?",
+    "source_correct": "Kozu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 304,
+    "question": "Tko je napisao Gulliverova putovanja?",
+    "source_correct": "Jonathan Swift",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 305,
+    "question": "Koja je namirnica u 'Guliverovim putovanjima' postala povod višegodišnjem sukobu između Lilliputa i Belfuscua zbog spora treba li je razbijati s tupog ili šiljastog kraja?",
+    "source_correct": "Jajeta",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 306,
+    "question": "Koji se književni junak često naziva 'gospodarom džungle'?",
+    "source_correct": "Tarzan",
+    "difficulty": 5,
+    "rarity": "silver"
+  },
+  {
+    "index": 307,
+    "question": "Koji je škotski pisac svojim avanturističkim romanom 'Otok s blagom' najzaslužniji za popularizaciju ideje da se na karti s blagom mjesto zakopanog blaga označava slovom X?",
+    "source_correct": "Robert Louis Stevenson",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 308,
+    "question": "Tko je napisao bajku o princezi na zrnu graška?",
+    "source_correct": "Hans Christian Andersen",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 309,
+    "question": "Koju je stvar gospođa Darling oduzela Petru Panu tijekom njegova posjeta dječjoj sobi, a Wendy mu je kasnije vratila i pričvrstila za stopala?",
+    "source_correct": "Sjenu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 310,
+    "question": "Koji je poznati pisac za djecu sudjelovao u razvoju medicinskog uređaja poznatog kao Wade-Dahl-Till ventil?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 311,
+    "question": "Kako se zove fiktivni tigar koji je glavni protivnik Mowgliju?",
+    "source_correct": "Shere Khan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 312,
+    "question": "Koji fiktivni medvjedić živi u drvetu iznad čijih ulaznih vrata piše 'Mr. Sanders'?",
+    "source_correct": "Winnie the Pooh",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 313,
+    "question": "Koja knjiga, od njih 7, koliko ih je napisano o Narniji i zbivanjima u njoj, čitatelju dočarava stvaranje te zemlje od godine prve?",
+    "source_correct": "Čarobnjakov nećak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 314,
+    "question": "Čije fiktivno dizalo slučajno odlazi u svemir te stižu do svemirskog hotela 'Space Hotel U.S.A'?",
+    "source_correct": "Willyja Wonke",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 315,
+    "question": "U koju se životinju Pinokio pretvorio, a simbolizirala je djecu koja izbjegavaju školu i bježe od odgovornosti?",
+    "source_correct": "Magarca",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 316,
+    "question": "Uz konja, koja još životinja živi u kući Pipi Duge Čarape?",
+    "source_correct": "Majmun",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 317,
+    "question": "Koju je književnu ‘medalju’, koja se dodjeljuje piscima za djecu i mlade odrasle, C. S. Lewis 1956.g. dobio za posljednju knjigu iz franšize Kronike iz Narnije: Posljednja bitka?",
+    "source_correct": "Carnegie Medal",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 318,
+    "question": "Kojeg se američkog književnika i jednog od nekolicine dobrih prijatelja Nikole Tesle, naziva ocem američke književnosti?",
+    "source_correct": "Marka Twaina",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 319,
+    "question": "Pod kojim imenom nam je poznatiji književnik Samuel Langhorne Clemens?",
+    "source_correct": "Mark Twain",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 320,
+    "question": "Tvorac Gospodara Prstenova je bio veliki prijatelj kojeg pisca, također tvorca fantastičnih knjiga koje su kasnije ekranizirane?",
+    "source_correct": "Clive Staples Lewisa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 321,
+    "question": "Pored koje rijeke su odrastali Tom Sawyer i Huckleberry Finn?",
+    "source_correct": "Mississippi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 322,
+    "question": "Koji je pisac za djecu u svojoj knjizi osmislio dobroćudnog diva koji u torbu skuplja lijepe snove te ih dijeli djeci dok spavaju, a noćne more uništava?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 323,
+    "question": "Koja se knjiga otvara proglasom: 'Sva djeca odrastu, osim jednog djeteta.'?",
+    "source_correct": "Pustolovine Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 324,
+    "question": "Snjeguljica i Trnoružica poznate su bajke koje su zapisala koja braća?",
+    "source_correct": "Grimm",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 325,
+    "question": "Jedna od najpopularnijih svjetskih bajki, ona o Ivici i Marici, nastala je iz pera koje braće?",
+    "source_correct": "Grimm",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 326,
+    "question": "Nastavak knjige 'Alisa u Zemlji Čudesa' nosi ime 'Alisa s one strane...' čega?",
+    "source_correct": "Ogledala",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 327,
+    "question": "Iz koje je države potjecao autor Ružnog pačeta?",
+    "source_correct": "Danske",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 328,
+    "question": "S kojim oružjem Robin Hood otima bogatima i daje siromašnima?",
+    "source_correct": "Luk i strijela",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 329,
+    "question": "'Nobelova' nagrada za dječiju književnost, kako joj tepaju, zapravo nosi ime po kojem slavnom piscu za djecu?",
+    "source_correct": "Hans Christian Andersenu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 330,
+    "question": "U kojoj se državi nalaze Heidiland i Heididorf?",
+    "source_correct": "Švicarska",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 331,
+    "question": "Koji je slavni pisac za djecu tijekom Drugog svjetskog rata bio pilot RAF-a, a potom radio na britanskim obavještajnim zadacima u Washingtonu?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 332,
+    "question": "Kako su se prezivala braća koja su napisala najpoznatiju verziju o Crvenkapici?",
+    "source_correct": "Grimm",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 333,
+    "question": "Koji je popularni fiktivni lik iz dječjih priča u originalnoj verziji priče završio obješen o drvo od strane Lisice i Mačka, dvojice razbojnika? Iako je pisac prvotno zamislio tragičan kraj, zbog velikog broja šokiranih čitatelja i djece bio je primoran promijeniti završetak i nastaviti priču sretnijim sa krajem.",
+    "source_correct": "Pinokijo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 334,
+    "question": "Koja je spisateljica napisala roman 'Mala Princeza'?",
+    "source_correct": "Frances Hodgson Burnett",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 335,
+    "question": "Koja je zla kraljica začarala Narniju na 100 godina zime?",
+    "source_correct": "Jadis",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 336,
+    "question": "Kako se zvao narod sitnih radnika koji su radili u Wonkinoj tvornici čokolade?",
+    "source_correct": "Oompa Loopme",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 337,
+    "question": "Čije pustolovine je napisao Mark Twain, 9 godina nakon što su iz njegova pera izašle pustolovine Toma Sawyera?",
+    "source_correct": "Huckleberryja Finna",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 338,
+    "question": "Kako se zove fiktivna zemlja u knjizi Charlie i veličanstveno stakleno dizalo, mračna i maglovita čistina te svojevrsno čistilište u kojem duhovi ljudi, poznati kao Minusi, čekaju ponovno rođenje, a koja je naseljena nevidljivim čudovištima zvanima Gnoolies?",
+    "source_correct": "Minusland",
+    "difficulty": 5,
+    "rarity": "platinum"
+  },
+  {
+    "index": 339,
+    "question": "U knjizi 'The BFG', pisca Roalda Dahla, slovo G označava koje fiktivno biće?",
+    "source_correct": "Giant",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 340,
+    "question": "U knjizi Ericha Kästnera, putujući vlakom za Berlin, Max Grundeis krade novac kojem dječaku?",
+    "source_correct": "Emilu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 341,
+    "question": "Koja je nestašna rasa fiktivnih stvorenja iz pilotskog folklora postala naslov i tema prve dječje knjige Roalda Dahla, a poznata je po izazivanju kvarova na avionima?",
+    "source_correct": "Gremlini",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 342,
+    "question": "Koji je fiktivni lik nastao iz pera Carla Collodija 1881.g.?",
+    "source_correct": "Pinokijo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 343,
+    "question": "U pustolovinama kojeg se fiktivnog lika pojavljuju teta Polly, Becky Thatcher i Injun Joe?",
+    "source_correct": "Toma Sawyera",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 344,
+    "question": "U prvoj knjizi, Alisa odlazi u Čudnovati svijet padom kroz zečju rupu, a u drugoj knjizi u takav svijet dospijeva prolaskom kroz što?",
+    "source_correct": "Ogledalo",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 345,
+    "question": "Koju su životinju u pustolovinama Winnieja Pooha predstavljali Kanga i njeno mladunče Roo?",
+    "source_correct": "Klokana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 346,
+    "question": "Dadilja Nana u originalnoj knjizi o Petru Panu je zapravo koja životinja koja se brine o djeci obitelji Darling?",
+    "source_correct": "Pas",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 347,
+    "question": "O kojem je slavnom odmetniku iz trinaestog stoljeća Howard Pyle napisao roman?",
+    "source_correct": "Robinu Hoodu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 348,
+    "question": "U kojoj se knjizi pripovjedač nađe usred pustinje nakon što mu se pokvari avion, te usred nje susreće dječaka koji želi da mu se nacrta ovca?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 349,
+    "question": "Koji odjevni predmet Pipi Duga Čarapa nosi za mnogo brojeva veći nego što joj stvarno treba?",
+    "source_correct": "Cipele",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 350,
+    "question": "Mačka u čemu je u svojoj bajci opisao francuski pisac Charles Perrault?",
+    "source_correct": "Čizmama",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 351,
+    "question": "Iz kojeg romana potječu likovi Fagin, Artful Dodger i Mr. Bumble?",
+    "source_correct": "Oliver Twist",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 352,
+    "question": "U kojem je stoljeću Mark Twain napisao svoja najuspješnija književna djela?",
+    "source_correct": "19.st",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 353,
+    "question": "Padom kroz zečju rupu, Alisa Lewisa Carolla se našla u zemlji prepunoj čega?",
+    "source_correct": "Čudesa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 354,
+    "question": "U čijim se pustolovinama prvi put pojavljuje Huckleberry Finn?",
+    "source_correct": "Toma Sawyera",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 355,
+    "question": "U koju se prekrasnu pticu na kraju pretvorilo Andersenovo 'Ružno pače'?",
+    "source_correct": "Labuda",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 356,
+    "question": "Koji je engleski književnik napisao Knjigu o Džungli?",
+    "source_correct": "Rudyard Kipling",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 357,
+    "question": "Koji je roman Charlesa Dickensa oživio u mjuziklu Oliver! ?",
+    "source_correct": "Oliver Twist",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 358,
+    "question": "U čijim pustolovinama susrećemo Malog Johna, Brata Tucka, Willa Scarleta i Marian?",
+    "source_correct": "Robina Hooda",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 359,
+    "question": "Koji je danski pisac napisao bajku Ružno pače?",
+    "source_correct": "Hans Christian Andersen",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 360,
+    "question": "U seriji od koliko romana je C. S. Lewis napisao Kronike iz Narnije?",
+    "source_correct": "7",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 361,
+    "question": "Koji glazbeni instrument spaja bajku braće Grimm u kojoj svirač odvodi štakore i djecu iz grada te Mozartovu operu punu fantastičnih likova?",
+    "source_correct": "Frula",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 362,
+    "question": "U kojem se gradu odvija najveći dio radnje romana u kojem pratimo siroče Olivera Twista?",
+    "source_correct": "Londonu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 363,
+    "question": "Koji opisni pridjev stoji u naslovu Andersenove bajke o pačetu koje se na kraju pretvori u labuda?",
+    "source_correct": "Ružno",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 364,
+    "question": "U kojoj knjizi spisateljice Frances Hodgson Burnett pratimo živote djevojčice Mary Lennox i dječaka Colina Cravena koji postupno ozdravljuju i mijenjaju svoje loše karaktere u dobre, uređujući zapušteni vrt Colinove preminule majke?",
+    "source_correct": "Tajni Vrt",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 365,
+    "question": "'The Inklings' bila je utjecajna grupa pisaca koji su se sastajali u Oxfordu oko vremena 2.svj. rata, a među njima je bio tvorac Gospodara Prstenova te koji još pisac, tvorac Kronika iz Narnije?",
+    "source_correct": "Clive Staples Lewis",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 366,
+    "question": "Sudeći po bajci braće Grimm, magarac, pas, mačka i pijetao odlaze u koji grad da u njemu postanu svirači?",
+    "source_correct": "Bremen",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 367,
+    "question": "Kako se zove družica te velika ljubavi Robina Hooda iz knjige o njegovim pustolovinama, autora Howarda Pylea?",
+    "source_correct": "Marian",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 368,
+    "question": "Koji je francuski pisac poznat pod nadimkom Saint Ex?",
+    "source_correct": "Antoine de Saint Exupery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 369,
+    "question": "Kojim još imenom nazivamo fiktivnu 'uspavanu ljepoticu?",
+    "source_correct": "Trnoružica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 370,
+    "question": "Koji je njemački književnik napisao dječiji roman 'Emil i detektivi'?",
+    "source_correct": "Erich Kästner",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 371,
+    "question": "Kako se zove glavni protagonist u književnom djelu Roalda Dahla koji posjećuje tvornicu čokolade vlasnika Willyja Wonke?",
+    "source_correct": "Charlie",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 372,
+    "question": "Koji fiktivni dječak može letjeti te nikada ne odrasta?",
+    "source_correct": "Petar Pan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 373,
+    "question": "Pod obroncima kojeg je planinskog lanca sa djedom živjela malena Heidi?",
+    "source_correct": "Alpa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 374,
+    "question": "Kojeg je mladog engleskog kralja Mark Twain stavio u središte zbivanja svojeg romana Kraljević i Prosjak?",
+    "source_correct": "Edwarda VI",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 375,
+    "question": "U kojem se danskom gradu nalazi poznati kip Andersenove Male sirene?",
+    "source_correct": "Kopenhagenu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 376,
+    "question": "Kako se zove fiktivna djevojčica koja je glavna junakinja romana 'Mala princeza', autorice Frances Hodgson Burnett?",
+    "source_correct": "Sara Crewe",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 377,
+    "question": "Svi znamo za Fantastičnog gospodina Lisca i istoimeni film iz 2009. godine u režiji Wesa Andersona, no znate li prema knjizi kojeg je pisca snimljen?",
+    "source_correct": "Roalda Dahla",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 378,
+    "question": "Koji je dječji roman autorice Tajnog Vrta smješten velikim dijelom u londonski internat?",
+    "source_correct": "Mala Princeza",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 379,
+    "question": "Kako se zove najpoznatiji kraljević iz Narnijskih Kronika čije se ime nalazi u naslovu jedne od 7 knjiga ove franšize?",
+    "source_correct": "Kaspijan",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 380,
+    "question": "Kako se zvao vlasnik Dahlove fiktivne tvornice čokolade?",
+    "source_correct": "Willy Wonka",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 381,
+    "question": "'Druga zvijezda zdesna i ravno do jutra!' je poznata izreka iz koje dječije bajke?",
+    "source_correct": "Petra Pana",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 382,
+    "question": "Druga knjiga, a ujedno i nastavak one o tvornici čokolade pisca Roalda Dahla, prati pustolovine Charlieja, njegove obitelji i Willyja Wonke koji putuju u dizalu načinjenom od čega?",
+    "source_correct": "Stakla",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 383,
+    "question": "Dječak Christopher Robin, najbolji je prijatelj kojeg fiktivnog medvjedića?",
+    "source_correct": "Winnieja the Pooha",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 384,
+    "question": "Na kojem je jeziku švicarska spisateljica Johanna Spyri izvorno napisala knjigu Heidi?",
+    "source_correct": "Njemačkom",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 385,
+    "question": "Pod kojim nadimkom bolje poznajemo malenu Adelheid, fiktivnu djevojčicu koja odlazi u Alpe živjeti s djedom?",
+    "source_correct": "Heidi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 386,
+    "question": "Kako se zove djevojčica koja kroz zečju rupu upada u fantastični svijet prepun čudnovatih stvorenja?",
+    "source_correct": "Alisa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 387,
+    "question": "Na prvoj stranici kojeg djela, pisac kaže da knjigu posvećuje Leonu Vertu kad je bio mali dječak?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 388,
+    "question": "U kojem književnom djelu Lisica glavnom protagonistu govori 'Čovjek samo srcem dobro vidi. Bitno je očima nevidljivo'?",
+    "source_correct": "Mali Princ",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 389,
+    "question": "Koji roman Marka Twaina na kraju prepričava kako je jedan od dva glavna lika živio dug život dok je drugi umro u petnaestoj godini života?",
+    "source_correct": "Kraljević i Prosjak",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 390,
+    "question": "Na kraju knjige Roalda Dahla, Charlie Bucket u nasljeđe dobiva tvornicu čega?",
+    "source_correct": "Čokolade",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 391,
+    "question": "Pod kojim je pseudonimom poznatiji engleski književnik Charles Lutwidge Dodgson?",
+    "source_correct": "Lewis Caroll",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 392,
+    "question": "U kojem se svjetskom ratu, kao član britanskih kraljevskih zračnih snaga borio Roald Dahl, čuveni spisatelj i književnik?",
+    "source_correct": "Drugom svjetskom ratu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 393,
+    "question": "Iako je najpoznatija ona verzija braće Grimm, koji je francuski pisac napisao svoju inačicu Crvenkapice?",
+    "source_correct": "Charles Perrault",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 394,
+    "question": "'Bako, bako, zašto imaš tako velike oči?' Je poznata rečenica iz koje bajke?",
+    "source_correct": "Crvenkapica",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 395,
+    "question": "Kako se zove hotel iz Dahlove knjige 'Vještice' u kojem vještice održavaju svoj sastanak?",
+    "source_correct": "Hotel Magnificent",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 396,
+    "question": "Radnja knjige 'Alisa u Zemlji Čudesa' smještena je u ljeto, a njen nastavak 'Alisa s one strane ogledala' u koje godišnje doba?",
+    "source_correct": "Zimu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 397,
+    "question": "Koja se šuma nalazi u engleskoj grofoviji Nottinghamshire te je glavno poprište pustolovina Robina Hooda iz knjige Howarda Pylea?",
+    "source_correct": "Sherwoodska šuma",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 398,
+    "question": "Kraljicu koje boje, uz bijelu, Alisa susreće u svojoj pustolovini s one strane ogledala?",
+    "source_correct": "Crvenu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 399,
+    "question": "Djedova koliba iznad sela Mainefeld, na planinskom pašnjaku Alm, bila je dom kojoj fiktivnoj djevojčici?",
+    "source_correct": "Heidi",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 400,
+    "question": "Koja fiktivna curica ima pjege, crvene pletenice i najjača je djevojčica na svijetu?",
+    "source_correct": "Pipi Duga Čarapa",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 401,
+    "question": "Na kojem se švedskom otoku nalazi Villa Villekulla, čuvena kuća Pipi Duge Čarape, koja danas služi kao muzej?",
+    "source_correct": "Gotland",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 402,
+    "question": "Da je Robin Hood sada živi, sasvim sigurno bi nastupao u kojem olimpijskom sportu?",
+    "source_correct": "Streličarstvu",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 403,
+    "question": "Koji je pisac za svog fiktivnog lika tvrdio da se nalazi između asteroida 325, 326, 327, 328, 329 i 330?",
+    "source_correct": "Antoine de Saint Exupery",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 404,
+    "question": "Likove iz koje društvene igre Alisa susreće u svojoj prvoj pustolovini u Zemlji čudesa?",
+    "source_correct": "Kartanja",
+    "difficulty": 5,
+    "rarity": null
+  },
+  {
+    "index": 405,
+    "question": "Tko je napisao fantastičnu knjigu za djecu o dječaku Jamesu i divovskoj breskvi?",
+    "source_correct": "Roald Dahl",
+    "difficulty": 5,
+    "rarity": "silver"
+  }
+]
