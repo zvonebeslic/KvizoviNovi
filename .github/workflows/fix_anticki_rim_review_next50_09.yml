@@ -1,0 +1,30 @@
+name: Fix AntickiRim reviewed next 50 09
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_next50_09.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          q="Tko je bio na čelu galske vojske kada su 390.g. provalili i opljačkali Rim?"
+          n=0
+          for x in d:
+            if x.get('question')==q:
+              x['answers']={'A':'Bren','B':'Vercingetoriks','C':'Ambioriks'}; n+=1
+          if n!=1: raise SystemExit(f'Matched {n}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix Brennus distractors"
+          git push
