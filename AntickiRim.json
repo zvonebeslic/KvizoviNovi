@@ -2844,7 +2844,7 @@
     "question": "Koji bakreni novac s tankom srebrnom prevlakom uvodi Car Dioklecijan kroz svoju novčanu reformu 294.g.?",
     "answers": {
       "A": "Antoninijan",
-      "B": "Argenteus",
+      "B": "Nummus",
       "C": "Follis"
     },
     "image": null,
@@ -3260,9 +3260,9 @@
     "topic": "AntickiRim",
     "question": "'Italica' je danas važan rimski arheološki lokalitet u Španjolskoj, a malo je poznato da iz tog drevnog grada potječu čak 2 rimska cara, Hadrijan i koji još?",
     "answers": {
-      "A": "Antonin Pio",
+      "A": "Nerva",
       "B": "Trajan",
-      "C": "Nerva"
+      "C": "Antonin Pio"
     },
     "image": null,
     "correct_answer": "B"
@@ -3377,9 +3377,9 @@
     "topic": "AntickiRim",
     "question": "Titov slavoluk u Rimu slavi uništenje i paljenje kojeg grada u Judeji?",
     "answers": {
-      "A": "York",
+      "A": "Cezareje",
       "B": "Jeruzalema",
-      "C": "Zadar"
+      "C": "Jafe"
     },
     "image": null,
     "correct_answer": "B"
@@ -3390,9 +3390,9 @@
     "topic": "AntickiRim",
     "question": "Septimije Sever i Konstancije I. Klor bili su rimski carevi koji su umrli u kojem današnjem engleskom gradu, ako znamo da se tada zvao Eboracum?",
     "answers": {
-      "A": "Jeruzalema",
-      "B": "Zadar",
-      "C": "York"
+      "A": "Londonu",
+      "B": "Chesteru",
+      "C": "Yorku"
     },
     "image": null,
     "correct_answer": "C"
@@ -3404,8 +3404,8 @@
     "question": "Kako se zvao veliki vojskovođa Partskog carstva koji je u bitci kod Harana 53.g. pr. Kr. porazio Marka Licinija Krasa i Rimu nanio katastrofalan poraz?",
     "answers": {
       "A": "Surena",
-      "B": "Tit",
-      "C": "Jeruzalem"
+      "B": "Pacor I.",
+      "C": "Orodes II."
     },
     "image": null,
     "correct_answer": "A"
@@ -3416,9 +3416,9 @@
     "topic": "AntickiRim",
     "question": "Koji je od trojice rimskih careva iz flavijevske dinastije vladao najkraće, točnije 2 godine?",
     "answers": {
-      "A": "Surena",
+      "A": "Vespazijan",
       "B": "Tit",
-      "C": "Jeruzalem"
+      "C": "Domicijan"
     },
     "image": null,
     "correct_answer": "B"
@@ -3429,8 +3429,8 @@
     "topic": "AntickiRim",
     "question": "Koji današnji grad su Rimljani prvo razorili 70.g. te ga ponovno uspostavili 135.g. i dali mu ime Aelia Capitolina?",
     "answers": {
-      "A": "Tit",
-      "B": "Vezuv",
+      "A": "Cezareja",
+      "B": "Antiohija",
       "C": "Jeruzalem"
     },
     "image": null,
@@ -3443,8 +3443,8 @@
     "question": "Uz koju talijansku planinu vežemo Spartakov robovski ustanak i uništenje grada Pompeja?",
     "answers": {
       "A": "Vezuv",
-      "B": "Jeruzalem",
-      "C": "Tit"
+      "B": "Etna",
+      "C": "Monte Cassino"
     },
     "image": null,
     "correct_answer": "A"
@@ -3455,9 +3455,9 @@
     "topic": "AntickiRim",
     "question": "Koji je rimski vojskovođa najzaslužniji za pobjedu nad legijama cara Vitelija te za Vespazijanov dolazak na vlast?",
     "answers": {
-      "A": "Marko Aurelije",
+      "A": "Mucijan",
       "B": "Antonije Prim",
-      "C": "Antonin Pio"
+      "C": "Petilije Cerial"
     },
     "image": null,
     "correct_answer": "B"
@@ -3468,8 +3468,8 @@
     "topic": "AntickiRim",
     "question": "Za vladavine kojeg rimskog cara je započeta izgradnja Koloseuma?",
     "answers": {
-      "A": "Beton",
-      "B": "Vezuv",
+      "A": "Tit",
+      "B": "Domicijan",
       "C": "Vespazijana"
     },
     "image": null,
@@ -3482,8 +3482,8 @@
     "question": "Koji su građevni materijal stari Rimljani dobivali miješajući vulkanski pepeo sa gašenim vapnom, čija je čvrstoća očuvala mnoge rimske građevine do danas, a padom tog carstva se na tehniku zaboravilo sve do 18-og stoljeća?",
     "answers": {
       "A": "Beton",
-      "B": "Vespazijana",
-      "C": "Dačko"
+      "B": "Mort",
+      "C": "Terakotu"
     },
     "image": null,
     "correct_answer": "A"
@@ -3495,9 +3495,9 @@
     "topic": "AntickiRim",
     "question": "Koje kraljevstvo je porazio car Trajan kada je kao plijen sa sobom u Rim odvezao 165 tona zlata i 331 tonu srebra, koje je bilo skriveno ispod rijeke Strei?",
     "answers": {
-      "A": "Beton",
+      "A": "Partsko",
       "B": "Dačko",
-      "C": "Cena"
+      "C": "Nabatejsko"
     },
     "image": null,
     "correct_answer": "B"
@@ -3508,8 +3508,8 @@
     "topic": "AntickiRim",
     "question": "Prezime kojeg američkog glumca i hrvača možemo poistovjetiti sa večernjim objedom iz starog Rima?",
     "answers": {
-      "A": "Dačko",
-      "B": "Beton",
+      "A": "Reigns",
+      "B": "Johnson",
       "C": "Cena"
     },
     "image": null,
@@ -3522,8 +3522,8 @@
     "question": "Tko je bio prvi rimski car koji je titulu naslijedio izravno od svog biološkog oca, cara Vespazijana?",
     "answers": {
       "A": "Tit",
-      "B": "Ver",
-      "C": "Amanirenas"
+      "B": "Domicijan",
+      "C": "Tiberije"
     },
     "image": null,
     "correct_answer": "A"
@@ -3534,9 +3534,9 @@
     "topic": "AntickiRim",
     "question": "Koja se srijemska svetica i mučenica, spaljena na lomači za Dioklecijanova progona kršćana, u Zadru slavi kao sv. Stošija?",
     "answers": {
-      "A": "Kuš",
+      "A": "Irena",
       "B": "Anastazija",
-      "C": "Cena"
+      "C": "Agata"
     },
     "image": null,
     "correct_answer": "B"
@@ -3547,8 +3547,8 @@
     "topic": "AntickiRim",
     "question": "S kojim su kraljevstvom na području današnjeg Sudana stari rimljani imali niz vojnih sukoba prije nego je car August sklopio mir?",
     "answers": {
-      "A": "Anastazija",
-      "B": "Judeji",
+      "A": "Aksum",
+      "B": "Nabatija",
       "C": "Kuš"
     },
     "image": null,
@@ -3561,8 +3561,8 @@
     "question": "Prvi židovsko - rimski rat se odvijao u kojoj tadašnjoj rimskoj provinciji?",
     "answers": {
       "A": "Judeji",
-      "B": "Kuš",
-      "C": "Anastazija"
+      "B": "Siriji",
+      "C": "Arabiji Petreji"
     },
     "image": null,
     "correct_answer": "A"
@@ -3573,9 +3573,9 @@
     "topic": "AntickiRim",
     "question": "Kojeg su rimskog cara, iz doba dobrih careva, nazivali i carem-filozofom?",
     "answers": {
-      "A": "Antonije Prim",
-      "B": "Marko Aurelije",
-      "C": "Julije Cezar"
+      "A": "Hadrijana",
+      "B": "Marka Aurelija",
+      "C": "Antonina Pija"
     },
     "image": null,
     "correct_answer": "B"
@@ -3586,8 +3586,8 @@
     "topic": "AntickiRim",
     "question": "U kojem stoljeću Rimljani grade Hadrijanov i Antoninov zid u Britaniji?",
     "answers": {
-      "A": "1 .",
-      "B": "3 .",
+      "A": "1.",
+      "B": "3.",
       "C": "2."
     },
     "image": null,
@@ -3599,8 +3599,8 @@
     "topic": "AntickiRim",
     "question": "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?",
     "answers": {
-      "A": "Komod",
-      "B": "Ver",
+      "A": "Lucije Ver",
+      "B": "Komod",
       "C": "Antonin Pio"
     },
     "image": null,
@@ -3612,9 +3612,9 @@
     "topic": "AntickiRim",
     "question": "Koju prijestolnicu partskog kraljevstva na rijeci Tigris rimski car Trajan osvaja 116.g.?",
     "answers": {
-      "A": "Indijskim",
+      "A": "Seleukiju",
       "B": "Ktezifon",
-      "C": "Dva"
+      "C": "Hatra"
     },
     "image": null,
     "correct_answer": "B"
@@ -3625,8 +3625,8 @@
     "topic": "AntickiRim",
     "question": "Rimsko carstvo je imalo doticaj sa čak dva oceana, Atlantskim i kojim još?",
     "answers": {
-      "A": "Ktezifon",
-      "B": "Dva",
+      "A": "Arktičkim",
+      "B": "Tihim",
       "C": "Indijskim"
     },
     "image": null,
@@ -3639,8 +3639,8 @@
     "question": "Koji otok 43.godine iza Krista anektira vojskovođa i budući car Vespazijan, a danas je poznat kao najveći otok pod upravom države Engleske?",
     "answers": {
       "A": "Wight",
-      "B": "Velika Britanija",
-      "C": "Forum"
+      "B": "Man",
+      "C": "Anglesey"
     },
     "image": null,
     "correct_answer": "A"
@@ -3651,9 +3651,9 @@
     "topic": "AntickiRim",
     "question": "Koliko je sinova rimskog cara Vespazijana nakon njegove smrti postalo carevima?",
     "answers": {
-      "A": "Indijskim",
+      "A": "Jedan",
       "B": "Dva",
-      "C": "Ktezifon"
+      "C": "Tri"
     },
     "image": null,
     "correct_answer": "B"
@@ -3664,8 +3664,8 @@
     "topic": "AntickiRim",
     "question": "Koja kraljica iz kraljevstva Kuš (današnji Sudan) je odbijala rimske napade te naposlijetu s njima sklopila mir?",
     "answers": {
-      "A": "Ver",
-      "B": "Tit",
+      "A": "Kandaka Amanitore",
+      "B": "Šanakdakhete",
       "C": "Amanirenas"
     },
     "image": null,
@@ -3678,8 +3678,8 @@
     "question": "Tiša bA'v je najžalosniji dan u židovskom kalendaru tijekom kojeg se, između ostalog, posti i žaluje zbog rimskog spaljivanja 'drugog hrama' u kojem gradu?",
     "answers": {
       "A": "Jeruzalemu",
-      "B": "Antinoopolis",
-      "C": "York"
+      "B": "Hebronu",
+      "C": "Cezareji"
     },
     "image": null,
     "correct_answer": "A"
@@ -3690,9 +3690,9 @@
     "topic": "AntickiRim",
     "question": "Koji su grad Rimljani nazivali 'urbs aeterna' i 'caput mundi'?",
     "answers": {
-      "A": "Pons",
+      "A": "Konstantinopol",
       "B": "Rim",
-      "C": "Dva"
+      "C": "Aleksandriju"
     },
     "image": null,
     "correct_answer": "B"
@@ -3703,8 +3703,8 @@
     "topic": "AntickiRim",
     "question": "Koju riječ su stari Rimljani koristili za most?",
     "answers": {
-      "A": "Rim",
-      "B": "Juventas",
+      "A": "Porta",
+      "B": "Via",
       "C": "Pons"
     },
     "image": null,
@@ -4589,8 +4589,8 @@
     "topic": "AntickiRim",
     "question": "Tko je osam godina bio suvladar rimskog carstva s carem Markom Aurelijem?",
     "answers": {
-      "A": "Komod",
-      "B": "Ver",
+      "A": "Lucije Ver",
+      "B": "Komod",
       "C": "Antonin Pio"
     },
     "image": null,
