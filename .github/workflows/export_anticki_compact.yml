@@ -1,0 +1,28 @@
+name: Export AntickiRim compact review
+on:
+  push:
+    paths: ['.github/workflows/export_anticki_compact.yml']
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          d=json.loads(Path('AntickiRim.json').read_text(encoding='utf-8'))
+          lines=[]
+          for i,x in enumerate(d,1):
+            a=x['answers']; c=x['correct_answer']
+            q=x['question'].replace('\n',' ')
+            lines.append(f"{i}\t{q}\tA={a.get('A')}\tB={a.get('B')}\tC={a.get('C')}\tCOR={c}")
+          Path('ANTICKI_RIM_COMPACT_REVIEW.tsv').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ANTICKI_RIM_COMPACT_REVIEW.tsv
+          git commit -m "Export compact AntickiRim review" || exit 0
+          git push
