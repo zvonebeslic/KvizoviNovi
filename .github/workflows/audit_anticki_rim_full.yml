@@ -1,0 +1,58 @@
+name: Audit AntickiRim full
+on:
+  push:
+    paths: ['.github/workflows/audit_anticki_rim_full.yml']
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: curl -LfsS https://raw.githubusercontent.com/zvonebeslic/balkanska_pub_prica/main/AntickiRim.json -o /tmp/original.json
+      - shell: python
+        run: |
+          import json, collections
+          from pathlib import Path
+          cur=json.loads(Path('AntickiRim.json').read_text(encoding='utf-8'))
+          orig=json.loads(Path('/tmp/original.json').read_text(encoding='utf-8'))
+          lines=[]
+          lines.append(f'CURRENT_COUNT={len(cur)}')
+          lines.append(f'ORIGINAL_COUNT={len(orig)}')
+          cq=[x.get('question') for x in cur]
+          oq=[x.get('question') for x in orig]
+          lines.append(f'QUESTION_LIST_IDENTICAL={cq==oq}')
+          diffs=[]
+          for i in range(max(len(cq),len(oq))):
+            a=oq[i] if i<len(oq) else '<MISSING ORIGINAL>'
+            b=cq[i] if i<len(cq) else '<MISSING CURRENT>'
+            if a!=b: diffs.append((i+1,a,b))
+          lines.append(f'QUESTION_DIFF_COUNT={len(diffs)}')
+          for i,a,b in diffs:
+            lines += [f'DIFF #{i}',f'ORIGINAL: {a}',f'CURRENT : {b}']
+          bad=[]
+          for i,x in enumerate(cur,1):
+            ans=x.get('answers')
+            ca=x.get('correct_answer')
+            if not isinstance(ans,dict) or set(ans.keys())!={'A','B','C'}:
+              bad.append((i,'answers_structure',ans))
+            if ca not in {'A','B','C'}:
+              bad.append((i,'correct_answer_value',ca))
+            elif isinstance(ans,dict) and ca not in ans:
+              bad.append((i,'correct_answer_missing_key',ca))
+            if isinstance(ans,dict) and len(set(map(str,ans.values())))<3:
+              bad.append((i,'duplicate_answer_values',ans))
+          lines.append(f'STRUCTURE_ISSUE_COUNT={len(bad)}')
+          for row in bad: lines.append('STRUCT '+repr(row))
+          cc=collections.Counter(x.get('correct_answer') for x in cur)
+          lines.append('CORRECT_DISTRIBUTION='+repr(dict(cc)))
+          dupq=[(q,n) for q,n in collections.Counter(cq).items() if q and n>1]
+          lines.append(f'DUPLICATE_QUESTION_COUNT={len(dupq)}')
+          for q,n in dupq: lines.append(f'DUPQ {n}x: {q}')
+          Path('ANTICKI_RIM_AUDIT.txt').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ANTICKI_RIM_AUDIT.txt
+          git commit -m "Audit AntickiRim against original" || exit 0
+          git push
