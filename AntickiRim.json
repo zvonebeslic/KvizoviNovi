@@ -6,8 +6,8 @@
     "question": "Kojeg je spola lik prikazan na Da Vincijevu crtežu koji je nastao inspiracijom iz dijela starorimskog arhitekta Vitruvija?",
     "answers": {
       "A": "Muškog",
-      "B": "Apeninskom",
-      "C": "August"
+      "B": "Ženskog",
+      "C": "Neodređenog"
     },
     "image": null,
     "correct_answer": "A"
@@ -18,9 +18,9 @@
     "topic": "AntickiRim",
     "question": "Na kojem je poluotoku Romul osnovao Rim?",
     "answers": {
-      "A": "Muškog",
+      "A": "Balkanskom",
       "B": "Apeninskom",
-      "C": "August"
+      "C": "Pirenejskom"
     },
     "image": null,
     "correct_answer": "B"
@@ -31,8 +31,8 @@
     "topic": "AntickiRim",
     "question": "Koji rimski car dolazi na vlast 27.g. pr. Kr. i na vlasti ostaje idućih 40 godina?",
     "answers": {
-      "A": "Apeninskom",
-      "B": "Muškog",
+      "A": "Tiberije",
+      "B": "Kaligula",
       "C": "August"
     },
     "image": null,
@@ -45,8 +45,8 @@
     "question": "Kraj kojega se antičkog naselja u današnjoj Grčkoj odvila odlučujuća bitka 31.g. pr. Kr. između Oktavijana i Marka Antonija za vlast nad Rimom?",
     "answers": {
       "A": "Akcija",
-      "B": "Pompeja Velikog",
-      "C": "Grčke"
+      "B": "Nikopola",
+      "C": "Patrasa"
     },
     "image": null,
     "correct_answer": "A"
@@ -57,9 +57,9 @@
     "topic": "AntickiRim",
     "question": "Bitka kod Drača iz 48.g. pr. Kr. se vodila između dva rimska velikana, Gaja Julija Cezara i koga još?",
     "answers": {
-      "A": "Akcija",
+      "A": "Marka Antonija",
       "B": "Pompeja Velikog",
-      "C": "Grčke"
+      "C": "Marka Licinija Krasa"
     },
     "image": null,
     "correct_answer": "B"
@@ -70,8 +70,8 @@
     "topic": "AntickiRim",
     "question": "Smrt kojeg tračanina gladijatora je 1882.g. naslikao njemački ilustrator Hermann Vogel?",
     "answers": {
-      "A": "Pomerium",
-      "B": "August",
+      "A": "Kriksa",
+      "B": "Gannika",
       "C": "Spartaka"
     },
     "image": null,
@@ -84,8 +84,8 @@
     "question": "Koji je vojskovođa i kralj Alba Longe bio pogubljen (trganjem na komade potezanjem konja) od strane rimskog kralja Tula Hostilija zbog izdaje na bojištu?",
     "answers": {
       "A": "Mecije Fufecije",
-      "B": "Konstantin Veliki",
-      "C": "Istok Zapad"
+      "B": "Gaj Kluilije",
+      "C": "Numitor"
     },
     "image": null,
     "correct_answer": "A"
@@ -96,9 +96,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zvala sveta granica grada Rima koju je zidovima utvrdio rimski kralj Servije Tulije?",
     "answers": {
-      "A": "Tit livije",
+      "A": "Limes",
       "B": "Pomerium",
-      "C": "Spartaka"
+      "C": "Agger"
     },
     "image": null,
     "correct_answer": "B"
@@ -109,9 +109,9 @@
     "topic": "AntickiRim",
     "question": "Koji je starorimski povjesničar u 142 knjige opisao povijest Rima od kraljevine do početaka Rimskog Carstva?",
     "answers": {
-      "A": "Pomerium",
-      "B": "Lavinij",
-      "C": "Tit livije"
+      "A": "Tacit",
+      "B": "Svetonije",
+      "C": "Tit Livije"
     },
     "image": null,
     "correct_answer": "C"
@@ -123,8 +123,8 @@
     "question": "Koja rijeka je spasila tek rođene Romula i Rema te ih naposlijetku odvela vučici?",
     "answers": {
       "A": "Tiber",
-      "B": "Rimskim",
-      "C": "Sjeverno more"
+      "B": "Po",
+      "C": "Arno"
     },
     "image": null,
     "correct_answer": "A"
@@ -135,9 +135,9 @@
     "topic": "AntickiRim",
     "question": "U mitologiji, koji je grad, trojanski junak Eneja, osnovao u današnjoj talijanskoj pokrajini Laciji?",
     "answers": {
-      "A": "Hrvatskoj",
+      "A": "Alba Longa",
       "B": "Lavinij",
-      "C": "Tit livije"
+      "C": "Ostija"
     },
     "image": null,
     "correct_answer": "B"
@@ -148,8 +148,8 @@
     "topic": "AntickiRim",
     "question": "U kojoj današnjoj državi možemo pronaći ostatke rimskih gradova Pole, Salone i Narone?",
     "answers": {
-      "A": "Lavinij",
-      "B": "Tarpeja",
+      "A": "Italiji",
+      "B": "Bosni i Hercegovini",
       "C": "Hrvatskoj"
     },
     "image": null,
@@ -162,8 +162,8 @@
     "question": "U rimskoj mitologiji, kako se zvala djevojka koja je izdala Romulov grad otkrivajući Sabinjanima put do Kapitola, a koju su kasnije sami Sabinjani ubili?",
     "answers": {
       "A": "Tarpeja",
-      "B": "Hrvatskoj",
-      "C": "Lavinij"
+      "B": "Lukrecija",
+      "C": "Hersilija"
     },
     "image": null,
     "correct_answer": "A"
@@ -176,7 +176,7 @@
     "answers": {
       "A": "Aureus",
       "B": "Solidus",
-      "C": "Pulitzerova nagrada"
+      "C": "Follis"
     },
     "image": null,
     "correct_answer": "B"
@@ -187,8 +187,8 @@
     "topic": "AntickiRim",
     "question": "Koji rimski bog je glasnik bogova, te bog trgovine i putovanja?",
     "answers": {
-      "A": "W",
-      "B": "Tarpeja",
+      "A": "Apolon",
+      "B": "Mars",
       "C": "Merkur"
     },
     "image": null,
@@ -201,8 +201,8 @@
     "question": "Koje slovo je posljednje dodano u latiničku abecedu kakvu danas poznajemo?",
     "answers": {
       "A": "W",
-      "B": "Merkur",
-      "C": "Mani"
+      "B": "J",
+      "C": "U"
     },
     "image": null,
     "correct_answer": "A"
@@ -213,9 +213,9 @@
     "topic": "AntickiRim",
     "question": "Koji su rimski duhovi simbolizirali duše mrtvih predaka, štovani uz posebne obrede?",
     "answers": {
-      "A": "W",
+      "A": "Lari",
       "B": "Mani",
-      "C": "Siciliju"
+      "C": "Penati"
     },
     "image": null,
     "correct_answer": "B"
@@ -226,8 +226,8 @@
     "topic": "AntickiRim",
     "question": "Za koji se otok borilo tijekom Prvog Punskog rata?",
     "answers": {
-      "A": "Mani",
-      "B": "Botticelli",
+      "A": "Sardiniju",
+      "B": "Korziku",
       "C": "Siciliju"
     },
     "image": null,
@@ -240,8 +240,8 @@
     "question": "Koji je slavni talijanski slikar naslikao 'Rođenje Venerino' i 'Minervu i Kentaura'?",
     "answers": {
       "A": "Botticelli",
-      "B": "Siciliju",
-      "C": "Mani"
+      "B": "Rafael",
+      "C": "Tizian"
     },
     "image": null,
     "correct_answer": "A"
@@ -252,9 +252,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zove rimska božica lova, prirode i mjeseca?",
     "answers": {
-      "A": "Frigijska kapa",
+      "A": "Minerva",
       "B": "Dijana",
-      "C": "Rea Silvija"
+      "C": "Venera"
     },
     "image": null,
     "correct_answer": "B"
@@ -265,8 +265,8 @@
     "topic": "AntickiRim",
     "question": "Uz koje otočje su rimljani porazili kartažane i njihovu mornaricu i time okončali 1. Punski rat?",
     "answers": {
-      "A": "1. Stoljeća",
-      "B": "Botticelli",
+      "A": "Liparsko otočje",
+      "B": "Pontinsko otočje",
       "C": "Egadsko otočje"
     },
     "image": null,
@@ -278,9 +278,9 @@
     "topic": "AntickiRim",
     "question": "Početkom kojeg stoljeća je sagrađen Burnum, rimski vojni logor nedaleko od Knina?",
     "answers": {
-      "A": "1. Stoljeća",
-      "B": "Egadsko otočje",
-      "C": "Nerona"
+      "A": "1. stoljeća",
+      "B": "2. stoljeća",
+      "C": "3. stoljeća"
     },
     "image": null,
     "correct_answer": "A"
@@ -291,9 +291,9 @@
     "topic": "AntickiRim",
     "question": "U progonima kojeg rimskog cara stradavaju Isusovi apostoli Petar i Pavao?",
     "answers": {
-      "A": "1. Stoljeća",
+      "A": "Domicijana",
       "B": "Nerona",
-      "C": "Egadsko otočje"
+      "C": "Dioklecijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -304,8 +304,8 @@
     "topic": "AntickiRim",
     "question": "Najpoznatije književno djelo o Gaju Juliju Cezaru, dramu 'Julije Cezar', je oko 1599. napisao tko?",
     "answers": {
-      "A": "Venera",
-      "B": "Dioklecijan",
+      "A": "Ben Jonson",
+      "B": "Christopher Marlowe",
       "C": "William Shakespeare"
     },
     "image": null,
@@ -318,8 +318,8 @@
     "question": "Kako se latinskim nazivom naziva crta iznad rimskog broja koja se u proširenom sustavu rimskih brojeva koristi za označavanje tisućestruke vrijednosti?",
     "answers": {
       "A": "Vinculum",
-      "B": "Nerona",
-      "C": "1. Stoljeća"
+      "B": "Titulus",
+      "C": "Virgula"
     },
     "image": null,
     "correct_answer": "A"
@@ -330,9 +330,9 @@
     "topic": "AntickiRim",
     "question": "Koji je najveći broj koji se može zapisati standardnim rimskim brojevima bez da se isto slovo ponavlja više od tri puta uzastopno?",
     "answers": {
-      "A": "3995",
+      "A": "3888",
       "B": "3999",
-      "C": "4003"
+      "C": "3998"
     },
     "image": null,
     "correct_answer": "B"
@@ -343,8 +343,8 @@
     "topic": "AntickiRim",
     "question": "Koji je najveći broj koji se može zapisati rimskim brojevima ako se svako rimsko slovo smije upotrijebiti samo jednom?",
     "answers": {
-      "A": "1662",
-      "B": "1670",
+      "A": "1665",
+      "B": "1667",
       "C": "1666"
     },
     "image": null,
@@ -357,8 +357,8 @@
     "question": "Kojeg rimskog cara povezujemo s monumentalnom kadom isklesanom iz jednog komada crvenog carskog porfira koja je nekoć krasila Domus Aureu?",
     "answers": {
       "A": "Nerona",
-      "B": "Tirski purpur",
-      "C": "Porfira"
+      "B": "Hadrijana",
+      "C": "Domicijana"
     },
     "image": null,
     "correct_answer": "A"
@@ -369,9 +369,9 @@
     "topic": "AntickiRim",
     "question": "Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?",
     "answers": {
-      "A": "Nerona",
+      "A": "Kermesni grimiz",
       "B": "Tirski purpur",
-      "C": "Porfira"
+      "C": "Indigo"
     },
     "image": null,
     "correct_answer": "B"
@@ -382,8 +382,8 @@
     "topic": "AntickiRim",
     "question": "Kako se nazivala odaja u Velikoj carskoj palači u Konstantinopolu u kojoj su se rađali legitimni bizantski carevi, po čemu je nastao izraz 'porfirogenit'?",
     "answers": {
-      "A": "Tirski purpur",
-      "B": "Nerona",
+      "A": "Chrysotriklinos",
+      "B": "Daphne",
       "C": "Porfira"
     },
     "image": null,
