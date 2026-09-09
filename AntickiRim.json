@@ -877,9 +877,9 @@
     "topic": "AntickiRim",
     "question": "Kako se zove jedino djelo koje je za života napisao car Marko Aurelije?",
     "answers": {
-      "A": "Katakombe",
+      "A": "Meditacije",
       "B": "Samomu sebi",
-      "C": "Rea Silvija"
+      "C": "Razgovori sa samim sobom"
     },
     "image": null,
     "correct_answer": "B"
@@ -890,8 +890,8 @@
     "topic": "AntickiRim",
     "question": "Nakš-e Rustam je velika perzijska nekropola uklesana u stijenu gdje se pored grobnica ahemenidskih careva nalaze i sasanidski reljefi, a jedan od njih slavi pobjedu kralja Šapura I. nad kojim carstvom?",
     "answers": {
-      "A": "Sjeverno more",
-      "B": "Tiber",
+      "A": "Partskim",
+      "B": "Sasanidskim",
       "C": "Rimskim"
     },
     "image": null,
@@ -930,7 +930,7 @@
     "question": "Od kojeg plemenitog metala je bila rađena muralna kruna, kojom se nagrađivalo vojnika u starom rimu, koji se u boju prvi popeo i stao na neprijateljske zidine?",
     "answers": {
       "A": "Srebra",
-      "B": "Br 🥇once",
+      "B": "Bronce",
       "C": "Zlata"
     },
     "image": null,
@@ -3039,8 +3039,8 @@
     "topic": "AntickiRim",
     "question": "Prema ustroju, stari Rim je se kroz povijest dijelio na carstvo, kraljevstvo i što još?",
     "answers": {
-      "A": "Principat",
-      "B": "Dominat",
+      "A": "Monarhiju",
+      "B": "Oligarhiju",
       "C": "Republiku"
     },
     "image": null,
@@ -3352,7 +3352,7 @@
     "question": "Herkulova žena na zemlji je bila Megara, a tko mu je bila žena kada je postao jedan od bogova?",
     "answers": {
       "A": "Omfala",
-      "B": "Minerva",
+      "B": "Dejanira",
       "C": "Juventas"
     },
     "image": null,
@@ -4069,8 +4069,8 @@
     "question": "Neron je prvi uveo porez na otkup urina iz javnih rimskih toaleta, a koji je car iza njega tu politiku nastavio koristeći uzrečicu 'pecunia non olet', što u prijevodu znači 'novac ne smrdi'?",
     "answers": {
       "A": "Vespazijan",
-      "B": "Komod",
-      "C": "Prandium"
+      "B": "Tit",
+      "C": "Domicijan"
     },
     "image": null,
     "correct_answer": "A"
@@ -4094,8 +4094,8 @@
     "topic": "AntickiRim",
     "question": "Tko je bio posljednji iz plejade rimskih careva koji su vladali u 'godini 4 cara', točnije u 69-oj poslije Krista?",
     "answers": {
-      "A": "Decije",
-      "B": "Amanirenas",
+      "A": "Galba",
+      "B": "Vitelije",
       "C": "Vespazijan"
     },
     "image": null,
@@ -4108,8 +4108,8 @@
     "question": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
     "answers": {
       "A": "Oton",
-      "B": "Mir",
-      "C": "Rimskim"
+      "B": "Galba",
+      "C": "Vitelije"
     },
     "image": null,
     "correct_answer": "A"
@@ -4120,9 +4120,9 @@
     "topic": "AntickiRim",
     "question": "Pax Romana na latinskom prevodimo kao Rimski što?",
     "answers": {
-      "A": "Oton",
+      "A": "Rat",
       "B": "Mir",
-      "C": "Rimskim"
+      "C": "Poredak"
     },
     "image": null,
     "correct_answer": "B"
@@ -4133,8 +4133,8 @@
     "topic": "AntickiRim",
     "question": "I, V, X, L i C nazivamo kakvim brojevima?",
     "answers": {
-      "A": "Mir",
-      "B": "Lugo",
+      "A": "Arapskim",
+      "B": "Grčkim",
       "C": "Rimskim"
     },
     "image": null,
@@ -4147,8 +4147,8 @@
     "question": "Središte kojeg španjolskog grada je u potpunosti okruženo s više od 2km rimskih zidina iz 3.st., a ime nosi po keltskom bogu svjetlosti te ga poistovjećujemo s malenim šumarkom ili ostacima nakon izgaranja?",
     "answers": {
       "A": "Lugo",
-      "B": "Rimskim",
-      "C": "Arhimed"
+      "B": "León",
+      "C": "Astorga"
     },
     "image": null,
     "correct_answer": "A"
@@ -4159,9 +4159,9 @@
     "topic": "AntickiRim",
     "question": "'Noli turbare circulos meos' je uzrečica koju uzvikuje koji slavni grčki matematičar prije pogibije od rimske ruke?",
     "answers": {
-      "A": "Lugo",
+      "A": "Euklid",
       "B": "Arhimed",
-      "C": "Pompeja"
+      "C": "Pitagora"
     },
     "image": null,
     "correct_answer": "B"
@@ -4172,8 +4172,8 @@
     "topic": "AntickiRim",
     "question": "Ostaci kojeg su starorimskog grada slučajno otkriveni u 16.st ispod debelog sloja pepela?",
     "answers": {
-      "A": "Arhimed",
-      "B": "Lugo",
+      "A": "Herkulanej",
+      "B": "Stabije",
       "C": "Pompeja"
     },
     "image": null,
@@ -4198,9 +4198,9 @@
     "topic": "AntickiRim",
     "question": "Opsada kojeg grada na bliskom istoku se događala 70-e, 1099-e i 1187-e godine?",
     "answers": {
-      "A": "Trier",
+      "A": "Damask",
       "B": "Jeruzalema",
-      "C": "Coimbra"
+      "C": "Antiohija"
     },
     "image": null,
     "correct_answer": "B"
@@ -4211,8 +4211,8 @@
     "topic": "AntickiRim",
     "question": "Trajanov most iz 105.g., inače najduži most ikad napravljen u rimskom carstvu, bio je duži od 1 km, a da je ostao do danas spajao bi Rumunjsku sa kojom državom?",
     "answers": {
-      "A": "Antoninov zid",
-      "B": "Pompeja",
+      "A": "Bugarskom",
+      "B": "Mađarskom",
       "C": "Srbijom"
     },
     "image": null,
@@ -4225,8 +4225,8 @@
     "question": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
     "answers": {
       "A": "Antoninov zid",
-      "B": "Srbijom",
-      "C": "Kaledonija"
+      "B": "Hadrijanov zid",
+      "C": "Aurelijanov zid"
     },
     "image": null,
     "correct_answer": "A"
@@ -4237,9 +4237,9 @@
     "topic": "AntickiRim",
     "question": "Najočuvanija te najveća starorimska gradska vrata na svijetu, imena Porta Nigra, se nalaze u kojem njemačkom gradu, gdje su i danas nezaobilazna turistička atrakcija?",
     "answers": {
-      "A": "Jeruzalema",
+      "A": "Mainz",
       "B": "Trier",
-      "C": "Coimbra"
+      "C": "Köln"
     },
     "image": null,
     "correct_answer": "B"
@@ -4250,8 +4250,8 @@
     "topic": "AntickiRim",
     "question": "Kako su nekada stari Rimljani nazivali područje današnje Škotske?",
     "answers": {
-      "A": "Plinije",
-      "B": "Antoninov zid",
+      "A": "Britanija",
+      "B": "Hibernija",
       "C": "Kaledonija"
     },
     "image": null,
@@ -4264,8 +4264,8 @@
     "question": "Po kojem starorimskom državniku i filozofu, koji je detaljno opisao erupciju Vezuva, znanstvenici danas nazivaju najjači tip vulkanske erupcije?",
     "answers": {
       "A": "Plinije",
-      "B": "Kaledonija",
-      "C": "Dunav"
+      "B": "Seneka",
+      "C": "Tacit"
     },
     "image": null,
     "correct_answer": "A"
@@ -4276,9 +4276,9 @@
     "topic": "AntickiRim",
     "question": "Najduži most napravljen za vrijeme rimskog carstva (Trajanov most) bio je duži od jednog kilometra. Konstruirao ga je Apolodor iz Damaska. Služio je za napad na Dačko kraljevstvo, a premošćivao je koju rijeku?",
     "answers": {
-      "A": "Plinije",
+      "A": "Rajna",
       "B": "Dunav",
-      "C": "Kaledonija"
+      "C": "Tibar"
     },
     "image": null,
     "correct_answer": "B"
@@ -4289,8 +4289,8 @@
     "topic": "AntickiRim",
     "question": "Koji su današnji srpski grad Rimljani poznavali kao Sirmium?",
     "answers": {
-      "A": "Cabo de Roca",
-      "B": "Sv. Donata",
+      "A": "Beograd",
+      "B": "Niš",
       "C": "Srijemska Mitrovica"
     },
     "image": null,
@@ -4303,8 +4303,8 @@
     "question": "Forum kojeg rimskog cara je započet s izgradnjom 107.g., a završen 112.g., ujedno i najvećih od svih?",
     "answers": {
       "A": "Trajanov",
-      "B": "Optimus",
-      "C": "Dunav"
+      "B": "Augustov",
+      "C": "Nervin"
     },
     "image": null,
     "correct_answer": "A"
@@ -4315,9 +4315,9 @@
     "topic": "AntickiRim",
     "question": "Rimski senat caru Trajanu dodjeljuje koji naslov, koji mi možemo prevesti kao 'najbolji'?",
     "answers": {
-      "A": "Trajanov",
+      "A": "Augustus",
       "B": "Optimus",
-      "C": "Seres"
+      "C": "Germanicus"
     },
     "image": null,
     "correct_answer": "B"
@@ -4328,8 +4328,8 @@
     "topic": "AntickiRim",
     "question": "Koji su naziv stari Rimljani koristili za Kinu, zemlju svile?",
     "answers": {
-      "A": "Optimus",
-      "B": "Eufrazija",
+      "A": "Sinae",
+      "B": "Thinae",
       "C": "Seres"
     },
     "image": null,
@@ -4342,8 +4342,8 @@
     "question": "Koja je katolička svetica i čudotvorka umrla u 30-oj godini života kao redovnica u Egiptu, a rodila se u senatorskoj obitelji u Carigradu te bila rodbinski povezana sa carem Teodezijem?",
     "answers": {
       "A": "Eufrazija",
-      "B": "Seres",
-      "C": "Plinije stariji"
+      "B": "Melanija Mlađa",
+      "C": "Makrina Mlađa"
     },
     "image": null,
     "correct_answer": "A"
@@ -4354,9 +4354,9 @@
     "topic": "AntickiRim",
     "question": "Koji antički rimski pisac i ugledni znanstvenik pogiba u erupciji vulkana Vezuva?",
     "answers": {
-      "A": "Eufrazija",
+      "A": "Svetonije",
       "B": "Plinije stariji",
-      "C": "Vitelije"
+      "C": "Tacit"
     },
     "image": null,
     "correct_answer": "B"
@@ -4367,8 +4367,8 @@
     "topic": "AntickiRim",
     "question": "U godini 69. Rimom vladaju 4 cara, a koji od njih je te godine na vlasti bio najduže, točnije 8 mjeseci?",
     "answers": {
-      "A": "Plinije stariji",
-      "B": "Eufrazija",
+      "A": "Galba",
+      "B": "Oton",
       "C": "Vitelije"
     },
     "image": null,
@@ -4393,9 +4393,9 @@
     "topic": "AntickiRim",
     "question": "Za vladavine kojeg rimskog cara se dogodila velika erupcija Vezuva u kojoj su Pompeji totalno uništeni?",
     "answers": {
-      "A": "Vitelije",
+      "A": "Vespazijana",
       "B": "Tita",
-      "C": "Židovi"
+      "C": "Domicijana"
     },
     "image": null,
     "correct_answer": "B"
@@ -5018,9 +5018,9 @@
     "topic": "AntickiRim",
     "question": "Koju su latinsku riječ stari Rimljani koristili za 'grad'?",
     "answers": {
-      "A": "Carevima",
+      "A": "Civitas",
       "B": "Urbs",
-      "C": "Škotskoj"
+      "C": "Oppidum"
     },
     "image": null,
     "correct_answer": "B"
@@ -5031,8 +5031,8 @@
     "topic": "AntickiRim",
     "question": "U kojoj se današnjoj državi nalazi zid rimskog cara Antonina Pia, dugačak 63 km?",
     "answers": {
-      "A": "Urbs",
-      "B": "Lisabon",
+      "A": "Engleskoj",
+      "B": "Walesu",
       "C": "Škotskoj"
     },
     "image": null,
@@ -5045,8 +5045,8 @@
     "question": "Koji su portugalski grad stari Rimljani poznavali kao Olissipo?",
     "answers": {
       "A": "Lisabon",
-      "B": "Škotskoj",
-      "C": "Herkulanej"
+      "B": "Braga",
+      "C": "Coimbra"
     },
     "image": null,
     "correct_answer": "A"
@@ -5447,9 +5447,9 @@
     "topic": "Povijest",
     "question": "Koji broj stari Rimljani nisu poznavali?",
     "answers": {
-      "A": "Veni",
+      "A": "Deset",
       "B": "Nula",
-      "C": "Perzeja"
+      "C": "Tisuću"
     },
     "image": null,
     "correct_answer": "B"
@@ -5474,8 +5474,8 @@
     "question": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
     "answers": {
       "A": "Perzeja",
-      "B": "Hanibala",
-      "C": "Nula"
+      "B": "Filipa V.",
+      "C": "Andriska"
     },
     "image": null,
     "correct_answer": "A"
@@ -5486,9 +5486,9 @@
     "topic": "AntickiRim",
     "question": "Protiv kojeg vojskovođe su rimljani u punskim ratovima koristili 'fabijanovu taktiku', to jest, izbjegavanje direktnog sukoba s neprijateljskom vojskom?",
     "answers": {
-      "A": "Perzeja",
+      "A": "Scipiona",
       "B": "Hanibala",
-      "C": "Nula"
+      "C": "Hasdrubala"
     },
     "image": null,
     "correct_answer": "B"
@@ -5514,8 +5514,8 @@
     "question": "Film Claudea Zidija iz 1999. prati Asterixa i Obelixa protiv kojeg vojskovođe?",
     "answers": {
       "A": "Gaja Julija Cezara",
-      "B": "Tul Hostilije",
-      "C": "Scipion Stariji"
+      "B": "Pompeja Velikog",
+      "C": "Marka Antonija"
     },
     "image": null,
     "correct_answer": "A"
@@ -5526,9 +5526,9 @@
     "topic": "AntickiRim",
     "question": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
     "answers": {
-      "A": "Kartagu",
+      "A": "Gergoviju",
       "B": "Avarik",
-      "C": "Palatinu"
+      "C": "Aleziju"
     },
     "image": null,
     "correct_answer": "B"
@@ -5539,8 +5539,8 @@
     "topic": "AntickiRim",
     "question": "Rimski konzul Marko Porcije Katon Stariji je većinu svojih govora u senatu završavao rečenicom da spaliti treba koga?",
     "answers": {
-      "A": "Avarik",
-      "B": "Palatinu",
+      "A": "Korint",
+      "B": "Numanciju",
       "C": "Kartagu"
     },
     "image": null,
@@ -5553,8 +5553,8 @@
     "question": "Prema legendi, na kojem od 7 brežuljaka je Romul osnovao prvo naselje?",
     "answers": {
       "A": "Palatinu",
-      "B": "Kartagu",
-      "C": "Oton"
+      "B": "Aventinu",
+      "C": "Kapitolu"
     },
     "image": null,
     "correct_answer": "A"
@@ -5565,9 +5565,9 @@
     "topic": "AntickiRim",
     "question": "U godini 69. Vladala su 4 rimska cara, a koji od njih je za svog života vladao najkraće, točnije, samo 3 mjeseca?",
     "answers": {
-      "A": "Palatinu",
+      "A": "Galbu",
       "B": "Oton",
-      "C": "Konzul"
+      "C": "Vitelija"
     },
     "image": null,
     "correct_answer": "B"
@@ -5578,8 +5578,8 @@
     "topic": "AntickiRim",
     "question": "U starorimskoj republici, koju titulu obnašaju dvojica najviših službenika koji zajedno sa senatom upravljaju državom?",
     "answers": {
-      "A": "Oton",
-      "B": "Palatinu",
+      "A": "Pretor",
+      "B": "Cenzor",
       "C": "Konzul"
     },
     "image": null,
@@ -5592,8 +5592,8 @@
     "question": "Koji legendarni rimski kralj, ruši i spaljuje grad Alba Longu oko 665.g. pr. Kr. a njegove stanovnike preseljava u Rim?",
     "answers": {
       "A": "Tul Hostilije",
-      "B": "Gaja Julija Cezara",
-      "C": "Scipion Stariji"
+      "B": "Anko Marcije",
+      "C": "Servije Tulije"
     },
     "image": null,
     "correct_answer": "A"
@@ -5604,9 +5604,9 @@
     "topic": "AntickiRim",
     "question": "Koji ilirski kralj je sudjelovao u 3. Rimsko - Ilirskom ratu?",
     "answers": {
-      "A": "Fritiger",
+      "A": "Agron",
       "B": "Gencije",
-      "C": "Konzul"
+      "C": "Pleurat III."
     },
     "image": null,
     "correct_answer": "B"
@@ -5617,8 +5617,8 @@
     "topic": "AntickiRim",
     "question": "Koji vizigotski vođa nanosi veliki poraz rimskom carstvu kod Hadrijanopola gdje i sam car Valens pogiba u bitci?",
     "answers": {
-      "A": "Gencije",
-      "B": "Kniva",
+      "A": "Alarik",
+      "B": "Atanariks",
       "C": "Fritiger"
     },
     "image": null,
@@ -5631,8 +5631,8 @@
     "question": "Tko je bio prvi germanski vođa koji je osvojio Rim?",
     "answers": {
       "A": "Alarik",
-      "B": "Romul Augustul",
-      "C": "Baton Dezidijat"
+      "B": "Ataulf",
+      "C": "Teodorik I."
     },
     "image": null,
     "correct_answer": "A"
@@ -7441,7 +7441,7 @@
     "answers": {
       "A": "Berenika",
       "B": "Teuta",
-      "C": "Agrona"
+      "C": "Amanirenas"
     },
     "image": null,
     "correct_answer": "B"
@@ -7480,7 +7480,7 @@
     "answers": {
       "A": "Klaudije",
       "B": "Kaligula",
-      "C": "Pompej"
+      "C": "Neron"
     },
     "image": null,
     "correct_answer": "B"
@@ -7530,8 +7530,8 @@
     "topic": "AntickiRim",
     "question": "Heraklo iz grčke mitologije se zvao kako u rimskoj mitologiji?",
     "answers": {
-      "A": "Herod",
-      "B": "Homer",
+      "A": "Mars",
+      "B": "Merkur",
       "C": "Herkul"
     },
     "image": null,
