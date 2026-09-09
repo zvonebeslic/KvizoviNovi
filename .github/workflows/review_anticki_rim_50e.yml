@@ -1,0 +1,45 @@
+name: Review AntickiRim next 50e
+on:
+  push:
+    paths: ['.github/workflows/review_anticki_rim_50e.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          fixes={
+            "Koji grad 1870.g. pada pod vlast kralja Viktora Emanuela II.?": {"A":"Rim","B":"Venecija","C":"Firenca"},
+            "Ako joj je dao ime 'Domus Aurea', kakvu je onda kuću sagradio rimski car Neron na brežuljku Eskvilinu?": {"A":"Mramornu","B":"Zlatnu","C":"Carsku"},
+            "Kako se zvao rimski vojnik koji kopljem probada Isusa na križu?": {"A":"Kasije","B":"Kornelije","C":"Longin"},
+            "Koja je svetica, rođena u Bragi, za Dioklecijanovih progona kršćana mučena i spaljena u Zaragozi, a čiji se, po legendi, skamenjeni pepeo i danas čuva u tom gradu, zajedno sa svetim kamenjem drugih mučenika?": {"A":"Engracija","B":"Eulalija","C":"Leokadija"},
+            "Koji rimski car pobjeđuje Dačane na čelu s kraljem Decebalom te na pokorenom području osniva provinciju Daciju?": {"A":"Hadrijan","B":"Domicijan","C":"Trajan"},
+            "Koji car iz razdoblja pet dobrih careva nasljeđuje Trajana?": {"A":"Hadrijan","B":"Antonin Pio","C":"Nerva"},
+            "Po kojem rimskom caru ime nose terme izgrađene u 3.st., a u čijim se ostacima na olimpijadi 1960.g. održalo natjecanje u gimnastici?": {"A":"Dioklecijan","B":"Karakala","C":"Trajan"},
+            "Ako sudimo po veličini planeta, koji rimski bog ispada najveći?": {"A":"Mars","B":"Saturn","C":"Jupiter"},
+            "Koja božica je bogu Jupiteru rodila boga Apolona?": {"A":"Junona","B":"Latona","C":"Dijana"},
+            "Kojom frazom je Julije Cezar obavijestio rimski senat o munjevitoj pobjedi svoje vojske nad pontskim kraljem Farnakom II.?": {"A":"Alea iacta est","B":"Et tu, Brute?","C":"Veni Vidi Vici"}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in fixes:
+              x['answers']=fixes[q]
+              n+=1
+          if n!=len(fixes):
+            raise SystemExit(f'Expected {len(fixes)} changes, got {n}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Changed',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git commit -m "Fix next AntickiRim answer block" || exit 0
+          git push
