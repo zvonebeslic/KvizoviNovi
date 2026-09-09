@@ -1,0 +1,48 @@
+name: Fix AntickiRim reviewed next 50 08
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_next50_08.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Koje slovo je označavalo broj 500 u rimskom carstvu?":{"A":"C","B":"D","C":"M"},
+          "Čija je palača, s lokacijom u Splitu, 1979.g. uvrštena na UNESCO-ov popis svjetske baštine?":{"A":"Augustova","B":"Hadrijanova","C":"Dioklecijanova"},
+          "Konstantin II. , Konstancije II, i Konstans I. su bili rimski carevi, ali i sinovi kojeg cara prije njih?":{"A":"Maksimijana","B":"Konstantina","C":"Licinija"},
+          "Koji je rimski vojskovođa uz pomoć Vizigota, porazio Hune u bitci na Katalunskim poljima 451.g.?":{"A":"Stilihon","B":"Bonifacije","C":"Flavije Aecije"},
+          "Koje slovo je označavalo broj 100 u rimskom carstvu?":{"A":"C","B":"L","C":"D"},
+          "Koju je životinju, po proročanstvu, Dioklecijan trebao ubiti kako bi postao rimski car?":{"A":"Vuka","B":"Vepra","C":"Bika"},
+          "Koji je grad posvećen 11.5. 330.g. a od tada je poznat kao 'novi Rim'?":{"A":"Nikomedija","B":"Antiohija","C":"Konstantinopol"},
+          "Koje slovo je označavalo broj 50 u rimskom carstvu?":{"A":"L","B":"C","C":"V"},
+          "U prvotnoj diarhiji iz 286.g. Dioklecijan upravlja istokom a Maksimijan kojim dijelom rimskog carstva?":{"A":"Sjeverom","B":"Zapadom","C":"Jugom"},
+          "Da se rimski car Valens rodio danas, bio bi građanin koje države?":{"A":"Srbije","B":"Bugarske","C":"Hrvatske"},
+          "Koje su ptice prema legendi spasile rimljane na brežuljku Kapitoliju, posljednjem uporištu pred naletom Gala i pljačkom Rima 390.g.?":{"A":"Guske","B":"Golubovi","C":"Gavrani"},
+          "Koji rimski car ubija najstarijeg sina Krispa, a onda na majčin nagovor ubija i ženu Faustu jer se sumnjalo da su njih dvoje bili ljubavnici?":{"A":"Licinije","B":"Konstantin","C":"Konstancije II."},
+          "Tko je bio car istočnog, u vrijeme kada je zapadno rimsko carstvo prestalo postojati?":{"A":"Lav I.","B":"Bazilisk","C":"Zenon"},
+          "Koji rimski car je sazvao prvi ekumenski crkveni sabor?":{"A":"Konstantin","B":"Teodozije I.","C":"Gracijan"},
+          "Car Teodozije je nakon svoje smrti, istočno rimsko carstvo dao na upravljanje sinu Arkadiju, a zapadno kojem drugom sinu?":{"A":"Konstanciju","B":"Honoriju","C":"Valentinijanu"},
+          "Koji je germanski plaćenik ubijanjem Romula Augustula zauvijek ugasio zapadno rimsko carstvo?":{"A":"Orest","B":"Ricimer","C":"Odoakar"}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f: x['answers']=f[q]; n+=1
+          if n!=len(f): raise SystemExit(f'Matched {n}/{len(f)}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix next reviewed AntickiRim ABC answers 08"
+          git push
