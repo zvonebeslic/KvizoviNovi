@@ -1,0 +1,46 @@
+name: Fix AntickiRim reviewed next 50 10
+on:
+  push:
+    paths: ['.github/workflows/fix_anticki_rim_review_next50_10.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p=Path('AntickiRim.json'); d=json.loads(p.read_text(encoding='utf-8'))
+          f={
+          "Tko je otac bogova i bog vremena u rimskoj mitologiji?":{"A":"Jupiter","B":"Janus","C":"Saturn"},
+          "Koje ime nosi vrhovni bog italskih naroda?":{"A":"Jupiter","B":"Mars","C":"Kvirin"},
+          "'Zagrebačka lanena knjiga' je rukopis s najduljim sačuvanim tekstom na jeziku kojeg drevnog naroda sa Apeninskog poluotoka?":{"A":"Samnita","B":"Etruščana","C":"Latina"},
+          "Tko je uz Bruta predvodio urotu protiv Julija Cezara u kojoj je Julije i ubijen?":{"A":"Decim Brut","B":"Trebonije","C":"Kasije"},
+          "Koji grad tražimo, ako znamo da se u rimsko doba zvao Tilurium?":{"A":"Trilj","B":"Sinj","C":"Solin"},
+          "Koju kulturno umjetničku ustanovu otvara Pompej Veliki 55.g. pr. Kr s kapacitetom preko 12 000 gledatelja?":{"A":"Marcelovo kazalište","B":"Pompejevo kazalište","C":"Circus Maximus"},
+          "Mitridatski ratovi su bili niz oružanih sukoba između rimske republike i kojeg kraljevstva smještenog uz obale Crnog mora?":{"A":"Bitinijskog","B":"Kapadocijskog","C":"Pontskog"},
+          "Koji su rimski kućni duhovi bili zaštitnici doma i obitelji?":{"A":"Lari","B":"Penati","C":"Mani"},
+          "Kojoj je egipatskoj kraljici Julije Cezar pomogao vratiti egipatsko prijestolje?":{"A":"Bereniki IV.","B":"Kleopatri","C":"Arsinoji IV."},
+          "Na teritoriju koje današnje države se nalazila Kartaga?":{"A":"Alžira","B":"Libije","C":"Tunisa"},
+          "Oktavijan, Marko Antonije, Kasije Longin i Brut su bili vojskovođe za vrijeme kojeg triumvirata?":{"A":"Drugog","B":"Prvog","C":"Trećeg"},
+          "Tko je Posejdonov pandan u rimskoj mitologiji?":{"A":"Okean","B":"Neptun","C":"Triton"},
+          "Koji egipatski faraon je dao pogubiti Pompeja Velikog?":{"A":"Ptolomej XII.","B":"Ptolomej XIV.","C":"Ptolomej 13."}
+          }
+          n=0
+          for x in d:
+            q=x.get('question')
+            if q in f:
+              x['answers']=f[q]; n+=1
+          if n!=len(f): raise SystemExit(f'Matched {n}/{len(f)}')
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print('Updated',n)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AntickiRim.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix reviewed AntickiRim ABC answers batch 10"
+          git push
