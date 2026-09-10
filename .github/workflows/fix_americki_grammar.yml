@@ -1,0 +1,70 @@
+name: Fix Americki grammar
+on: push
+permissions:
+  contents: write
+jobs:
+  fix:
+    if: github.event.head_commit.message == 'Ispravi gramatiku odgovora u AmerickiPredsjednici'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix answer cases
+        run: |
+          python - <<'PY'
+          import json
+          p='AmerickiPredsjednici.json'
+          with open(p,encoding='utf-8') as f: d=json.load(f)
+          fixes={
+          8:['Georgea H. W. Busha','Johna F. Kennedyja','Jimmyja Cartera'],
+          11:['Lê Duẩna','Ho Ši Mina','Võ Nguyên Giápa'],
+          23:['Malcolma X','Martina Luthera Kinga','Medgara Eversa'],
+          26:['Stavrosa Niarchosa','Yiannisa Latsisa','Aristotelesa Socratesa Onassisa'],
+          27:['Tajvanu','Kubi','Cipru'],
+          37:['Geraldu Fordu','Dwightu Eisenhoweru','Georgeu H. W. Bushu'],
+          53:['Dallasu','Memphisu','Washingtonu'],
+          54:['Škotske','Irske','Isle of Mana'],
+          55:['Los Angelesu','Atlanti','Montrealu'],
+          62:['Leonidom Brežnjevom','Mihailom Gorbačovom','Nikitom Sergejevičem Hruščovom'],
+          66:['Granadu','Kubu','Dominikansku Republiku'],
+          70:['Rossa Perota','Pata Buchanana','Billa Clintona'],
+          72:['Ronalda Reagana','Geralda Forda','Harryja S. Trumana'],
+          159:['Ulyssesa S. Granta','Abrahama Lincolna','Andrewa Jacksona'],
+          220:['Marylandu','Virginiji','Pennsylvaniji'],
+          226:['Massachusettsu','Virginiji','New Yorku'],
+          249:['Jima Bowieja','Williama B. Travisa','Davyja Crocketta'],
+          315:['Grovera Clevelanda','Chestera A. Arthura','Benjamina Harrisona'],
+          320:['Clevelandu','Pittsburghu','Buffalu'],
+          325:['Warrena G. Hardinga','Franklina Delana Roosevelta','Woodrowa Wilsona'],
+          352:['Calvina Coolidgea','Herberta Hoovera','Franklina D. Roosevelta'],
+          361:['Al Caponea','Johnnyja Torrija','Bugsa Morana'],
+          364:['Benjaminu Harrisonu','Williamu McKinleyju','Groveru Clevelandu'],
+          366:['Sevastopolju','Simferopolju','Jalti'],
+          377:['San Franciscu','Los Angelesu','Sacramentu'],
+          381:["Scottish Mountaineering Cluba","Alpine Cluba","Climbers' Cluba"],
+          392:['Ulyssesa Simpsona Granta','Rutherforda B. Hayesa','Millarda Fillmorea'],
+          401:['Amadea I.','Alfonsa XII.','Izabele II.'],
+          426:['Zacharyja Taylora','Jamesa Knoxa Polka','Millarda Fillmorea'],
+          442:['Braintreea','Quincyja','Miltona'],
+          463:['Andrewa Jacksona','Georgea Washingtona','Ulyssesa S. Granta'],
+          472:['Stone Mountaina','Black Elk Peaka','Rushmorea'],
+          475:['Hudson','Delaware','Potomac'],
+          477:['Bostonu','Philadelphiji','Baltimoreu']
+          }
+          changed=[]
+          for i,vals in fixes.items():
+              if 1<=i<=len(d):
+                  old=list(d[i-1]['answers'].values())
+                  if old!=vals:
+                      d[i-1]['answers']={'A':vals[0],'B':vals[1],'C':vals[2]}
+                      changed.append(i)
+          with open(p,'w',encoding='utf-8') as f: json.dump(d,f,ensure_ascii=False,indent=2)
+          print('changed',changed)
+          print('count',len(changed),'questions',len(d))
+          PY
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add AmerickiPredsjednici.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Popravi padeze odgovora AmerickiPredsjednici'
+          git push
