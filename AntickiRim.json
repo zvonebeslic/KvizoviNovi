@@ -2158,7 +2158,7 @@
       "C": "Pola-Pola"
     },
     "image": null,
-    "correct_answer": "A"
+    "correct_answer": "B"
   },
   {
     "type": "blitz",
@@ -2544,7 +2544,7 @@
     "topic": "AntickiRim",
     "question": "Na slici Jacoba Abbota iz 1849., Gaj Julije Cezar sa svojom vojskom prelazi koju rijeku?",
     "answers": {
-      "A": "Tibar",
+      "A": "Tiber",
       "B": "Rubikon",
       "C": "Arno"
     },
@@ -2701,7 +2701,7 @@
     "question": "U starom Rimu, kako se zvalo koplje koje je bilo sastavni dio naoružanog rimskog vojnika?",
     "answers": {
       "A": "Pilum",
-      "B": "Hasta",
+      "B": "Pugio",
       "C": "Gladius"
     },
     "image": null,
