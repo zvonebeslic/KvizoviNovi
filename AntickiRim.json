@@ -304,9 +304,9 @@
     "topic": "AntickiRim",
     "question": "Najpoznatije književno djelo o Gaju Juliju Cezaru, dramu 'Julije Cezar', je oko 1599. napisao tko?",
     "answers": {
-      "A": "Christopher Marlowe",
+      "A": "Vergilije",
       "B": "William Shakespeare",
-      "C": "Ben Jonson"
+      "C": "Dante"
     },
     "image": null,
     "correct_answer": "B"
@@ -370,7 +370,7 @@
     "question": "Koja je drevna boja, dobivena iz morskih puževa, na vrhuncu Rimskog Carstva često vrijedila više od svoje težine u zlatu te postala simbol carske vlasti?",
     "answers": {
       "A": "Egipatsko plava",
-      "B": "Tirski purpur",
+      "B": "Tirski purpurna",
       "C": "Cinober crvena"
     },
     "image": null,
@@ -409,8 +409,8 @@
     "topic": "AntickiRim",
     "question": "Kraj kojeg je mjesta u Frigiji, prema Plutarhu, 74. godine pr. Kr. pad velikog meteora između rimske i pontske vojske natjerao obje strane da odustanu od bitke?",
     "answers": {
-      "A": "Kizika",
-      "B": "Otrija",
+      "A": "Kizike",
+      "B": "Otrije",
       "C": "Nikomedije"
     },
     "image": null,
@@ -437,7 +437,7 @@
     "answers": {
       "A": "Komet",
       "B": "Meteor",
-      "C": "Pomrčina Sunca"
+      "C": "Nebeska prašina"
     },
     "image": null,
     "correct_answer": "B"
@@ -449,8 +449,8 @@
     "question": "Kako se zove kapa koja je tijekom Rimskog Carstva postala simbol slobode oslobođenih robova, a kasnije i Francuske revolucije?",
     "answers": {
       "A": "Frigijska kapa",
-      "B": "Pileus",
-      "C": "Petasos"
+      "B": "Piluška kapa",
+      "C": "Petasos kapa"
     },
     "image": null,
     "correct_answer": "A"
@@ -554,7 +554,7 @@
     "answers": {
       "A": "Gladijator",
       "B": "Troja",
-      "C": "Aleksandar"
+      "C": "Spartak"
     },
     "image": null,
     "correct_answer": "A"
@@ -709,7 +709,7 @@
     "question": "Tetrika I. i Tetrika II. koji su vladali odmetnutim Galskim carstvom je porazio koji rimski car, kojeg se nazivalo i obnoviteljem carstva?",
     "answers": {
       "A": "Aurelijan",
-      "B": "Probo",
+      "B": "Prob",
       "C": "Klaudije II. Gotski"
     },
     "image": null,
@@ -799,7 +799,7 @@
     "topic": "AntickiRim",
     "question": "Starorimski gradovi su bili organizirani oko dvije glavne ulice: cardo koja se protezala u smjeru sjever–jug i decumanus koja se protezala kako?",
     "answers": {
-      "A": "Istok Zapad",
+      "A": "Istok-Zapad",
       "B": "Sjeveroistok–jugozapad",
       "C": "Kružno oko foruma"
     },
@@ -1179,7 +1179,7 @@
     "answers": {
       "A": "Dioklecijan",
       "B": "Romul Augustul",
-      "C": "Vetranion"
+      "C": "Karakala"
     },
     "image": null,
     "correct_answer": "A"
@@ -1555,7 +1555,7 @@
     "question": "Bitka kod Abrita je vođena u ljeto 251.g. između rimskog carstva s carem Decijem protiv gotskih plemena na čelu s kojim kraljem čije ime označava i jedan oštar predmet?",
     "answers": {
       "A": "Kniva",
-      "B": "Alarih",
+      "B": "Alarik",
       "C": "Fritigern"
     },
     "image": null,
