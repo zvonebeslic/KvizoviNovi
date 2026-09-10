@@ -98,9 +98,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Američka ratna podmornica USS Finback je iz Tihog oceana spasila kojeg, tada budućeg američkog predsjednika?",
     "answers": {
-      "A": "George H. W. Bush",
-      "B": "John F. Kennedy",
-      "C": "Jimmy Carter"
+      "A": "Georgea H. W. Busha",
+      "B": "Johna F. Kennedyja",
+      "C": "Jimmyja Cartera"
     },
     "image": null,
     "correct_answer": "A"
@@ -137,9 +137,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Kojeg su sjevernovijetnamskog vođu, bezuspješno pokušali poraziti Kennedy, Johnson i Nixon, što je dovelo do kasnijeg povlačenja američke vojske iz Vijetnama?",
     "answers": {
-      "A": "Lê Duẩn",
-      "B": "Ho Ši Min",
-      "C": "Võ Nguyên Giáp"
+      "A": "Lê Duẩna",
+      "B": "Ho Ši Mina",
+      "C": "Võ Nguyên Giápa"
     },
     "image": null,
     "correct_answer": "B"
@@ -294,9 +294,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Na kojeg je svećenika i borca za prava američkog crnačkog stanovništva izvršen atentat dok je američki predsjednik bio Lyndon B. Johnson?",
     "answers": {
-      "A": "Malcolm X",
-      "B": "Martin Luther King",
-      "C": "Medgar Evers"
+      "A": "Malcolma X",
+      "B": "Martina Luthera Kinga",
+      "C": "Medgara Eversa"
     },
     "image": null,
     "correct_answer": "B"
@@ -333,9 +333,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Za kojeg se grčkog bogataša i brodovlasnika udala udovica Johna F. Kennedyja, Jacqueline Bouvier?",
     "answers": {
-      "A": "Stavros Niarchos",
-      "B": "Yiannis Latsis",
-      "C": "Aristoteles Socrates Onassis"
+      "A": "Stavrosa Niarchosa",
+      "B": "Yiannisa Latsisa",
+      "C": "Aristotelesa Socratesa Onassisa"
     },
     "image": null,
     "correct_answer": "C"
@@ -346,9 +346,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Raketna kriza na kojem otoku je zamalo dovela do 3. svjetskog rata?",
     "answers": {
-      "A": "Tajvan",
-      "B": "Kuba",
-      "C": "Cipar"
+      "A": "Tajvanu",
+      "B": "Kubi",
+      "C": "Cipru"
     },
     "image": null,
     "correct_answer": "B"
@@ -476,9 +476,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Kojem su američkom predsjedniku Green Bay Packersi i Detroit Lionsi ponudili profesionalni NFL ugovor, što je on odbio te otišao na Yale?",
     "answers": {
-      "A": "Gerald Ford",
-      "B": "Dwight Eisenhower",
-      "C": "George H. W. Bush"
+      "A": "Geraldu Fordu",
+      "B": "Dwightu Eisenhoweru",
+      "C": "Georgeu H. W. Bushu"
     },
     "image": null,
     "correct_answer": "A"
@@ -685,9 +685,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojem se gradu dogodio atentat na JFK-a?",
     "answers": {
-      "A": "Dallas",
-      "B": "Memphis",
-      "C": "Washington"
+      "A": "Dallasu",
+      "B": "Memphisu",
+      "C": "Washingtonu"
     },
     "image": null,
     "correct_answer": "A"
@@ -698,9 +698,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Sa kojeg otoka se u Ameriku doselio djed Johna F. Kennedyja?",
     "answers": {
-      "A": "Škotska",
-      "B": "Irska",
-      "C": "Isle of Man"
+      "A": "Škotske",
+      "B": "Irske",
+      "C": "Isle of Mana"
     },
     "image": null,
     "correct_answer": "B"
@@ -711,9 +711,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojem je gradu, Ronald Reagan 1984.g. otvorio Ljetne Olimpijske Igre?",
     "answers": {
-      "A": "Los Angeles",
-      "B": "Atlanta",
-      "C": "Montreal"
+      "A": "Los Angelesu",
+      "B": "Atlanti",
+      "C": "Montrealu"
     },
     "image": null,
     "correct_answer": "A"
@@ -802,9 +802,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "S kojim predsjednikom SSSR-a se sastao John F. Kennedy?",
     "answers": {
-      "A": "Leonid Brežnjev",
-      "B": "Mihail Gorbačov",
-      "C": "Nikita Sergejevič Hruščov"
+      "A": "Leonidom Brežnjevom",
+      "B": "Mihailom Gorbačovom",
+      "C": "Nikitom Sergejevičem Hruščovom"
     },
     "image": null,
     "correct_answer": "C"
@@ -854,9 +854,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Na koju su karipsku otočnu državu SAD 1983.g. poslale vojsku kako bi tamo srušile komunistički režim?",
     "answers": {
-      "A": "Granada",
-      "B": "Kuba",
-      "C": "Dominikanska Republika"
+      "A": "Granadu",
+      "B": "Kubu",
+      "C": "Dominikansku Republiku"
     },
     "image": null,
     "correct_answer": "A"
@@ -906,9 +906,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "George H. W. Bush je na predsjedničkim izborima 1992.g. utrku za Bijelom Kućom izgubio od koga?",
     "answers": {
-      "A": "Ross Perota",
-      "B": "Pat Buchanana",
-      "C": "Bill Clintona"
+      "A": "Rossa Perota",
+      "B": "Pata Buchanana",
+      "C": "Billa Clintona"
     },
     "image": null,
     "correct_answer": "C"
@@ -933,8 +933,8 @@
     "question": "John Hinckley Jr. je propali student koji je u atentatu ranio kojeg američkog predsjednika?",
     "answers": {
       "A": "Ronalda Reagana",
-      "B": "Gerald Ford",
-      "C": "Harry S. Truman"
+      "B": "Geralda Forda",
+      "C": "Harryja S. Trumana"
     },
     "image": null,
     "correct_answer": "A"
@@ -2064,9 +2064,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Na novčanici od 20 dolara, nalazimo potret kojeg američkog predsjednika?",
     "answers": {
-      "A": "Ulysses S. Grant",
-      "B": "Abraham Lincoln",
-      "C": "Andrew Jackson"
+      "A": "Ulyssesa S. Granta",
+      "B": "Abrahama Lincolna",
+      "C": "Andrewa Jacksona"
     },
     "image": null,
     "correct_answer": "C"
@@ -2858,9 +2858,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojoj je saveznoj američkoj državi, rođen prvi predsjednik SAD-a, George Washington?",
     "answers": {
-      "A": "Maryland",
-      "B": "Virginija",
-      "C": "Pennsylvania"
+      "A": "Marylandu",
+      "B": "Virginiji",
+      "C": "Pennsylvaniji"
     },
     "image": null,
     "correct_answer": "B"
@@ -2936,9 +2936,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojoj je američkoj saveznoj državi rođen drugi američki predsjednik John Adams?",
     "answers": {
-      "A": "Massachusetts",
-      "B": "Virginia",
-      "C": "New York"
+      "A": "Massachusettsu",
+      "B": "Virginiji",
+      "C": "New Yorku"
     },
     "image": null,
     "correct_answer": "A"
@@ -3235,8 +3235,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Slika 'Pad Alama', iz 1903.g. koju je naslikao Robert Jenkins Onderdonk, uprizoruje koga, da nakon istrošene municije, koristi svoju pušku kao palicu u borbi protiv meksikanaca?",
     "answers": {
-      "A": "Jim Bowie",
-      "B": "William B. Travis",
+      "A": "Jima Bowieja",
+      "B": "Williama B. Travisa",
       "C": "Davyja Crocketta"
     },
     "image": null,
@@ -4095,7 +4095,7 @@
     "question": "Pod pokroviteljstvom kojeg je američkog predsjednika 1889.g. u Washingtonu održan prvi Panamaerički kongres?",
     "answers": {
       "A": "Grovera Clevelanda",
-      "B": "Chstera A. Arthura",
+      "B": "Chestera A. Arthura",
       "C": "Benjamina Harrisona"
     },
     "image": null,
@@ -4161,7 +4161,7 @@
     "answers": {
       "A": "Clevelandu",
       "B": "Pittsburghu",
-      "C": "Buffalo"
+      "C": "Buffalu"
     },
     "image": null,
     "correct_answer": "C"
@@ -4224,9 +4224,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Ljubavna veza sa sekretaricom Lucy Mercer, ostala je tajna do kraja života kojeg američkog predsjednika?",
     "answers": {
-      "A": "Warren G. Harding",
-      "B": "Franklin Delano Roosevelt",
-      "C": "Woodrow Wilson"
+      "A": "Warrena G. Hardinga",
+      "B": "Franklina Delana Roosevelta",
+      "C": "Woodrowa Wilsona"
     },
     "image": null,
     "correct_answer": "B"
@@ -4577,7 +4577,7 @@
     "question": "Velika Depresija i slom burze na Wall Streetu obilježili su mandat kojeg američkog predsjednika?",
     "answers": {
       "A": "Calvina Coolidgea",
-      "B": "Herbert Hoover",
+      "B": "Herberta Hoovera",
       "C": "Franklina D. Roosevelta"
     },
     "image": null,
@@ -4693,9 +4693,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Predsjednik Herbert Hoover je naredio svojoj administraciji da sruše i optuže kojeg 'vladara' Chicaga?",
     "answers": {
-      "A": "Al Capone",
-      "B": "Johnny Torrio",
-      "C": "Bugs Moran"
+      "A": "Al Caponea",
+      "B": "Johnnyja Torrija",
+      "C": "Bugsa Morana"
     },
     "image": null,
     "correct_answer": "A"
@@ -4732,9 +4732,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "O Kojem se američkom predsjedniku radi, ako znamo da su mu prethodnici bili Arthur i Harrison, a naljednici Harrison i McKinkey?",
     "answers": {
-      "A": "Benjamin Harrison",
-      "B": "William McKinley",
-      "C": "Grover Cleveland"
+      "A": "Benjaminu Harrisonu",
+      "B": "Williamu McKinleyju",
+      "C": "Groveru Clevelandu"
     },
     "image": null,
     "correct_answer": "C"
@@ -4758,9 +4758,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojem su gradu na poluotoku Krimu, 1945.g. svjetske sile (Sovjetski Savez, Velika Britanija, SAD) odlučivale o svjetskom poretku nakon 2. svjetskog rata?",
     "answers": {
-      "A": "Sevastopolj",
-      "B": "Simferopolj",
-      "C": "Jalta"
+      "A": "Sevastopolju",
+      "B": "Simferopolju",
+      "C": "Jalti"
     },
     "image": null,
     "correct_answer": "C"
@@ -4901,7 +4901,7 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojem kalifornijskom gradu umire Warren G. Harding, 29. predsjednik SAD-a",
     "answers": {
-      "A": "San Francisco",
+      "A": "San Franciscu",
       "B": "Los Angelesu",
       "C": "Sacramentu"
     },
@@ -4953,9 +4953,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Američki predsjednik Theodore Roosevelt je bio strastveni planinar pa je bio član i kojeg britanskog kluba planinara?",
     "answers": {
-      "A": "Scottish Mountaineering Club",
-      "B": "Alpine Club",
-      "C": "Climbers' Club"
+      "A": "Scottish Mountaineering Cluba",
+      "B": "Alpine Cluba",
+      "C": "Climbers' Cluba"
     },
     "image": null,
     "correct_answer": "B"
@@ -5096,9 +5096,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Prije nego ga je promijenio, ime kojeg američkog predsjednika je bilo Hyram?",
     "answers": {
-      "A": "Ulysses Simpson Grant",
-      "B": "Rutherford B. Hayes",
-      "C": "Millard Fillmore"
+      "A": "Ulyssesa Simpsona Granta",
+      "B": "Rutherforda B. Hayesa",
+      "C": "Millarda Fillmorea"
     },
     "image": null,
     "correct_answer": "A"
@@ -5539,9 +5539,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U vrijeme kojeg je američkog predsjednika započeta izgradnja 169 metara visokog Washingtonovog spomenika?",
     "answers": {
-      "A": "Zachary Taylor",
-      "B": "James Knox Polk",
-      "C": "Millard Fillmore"
+      "A": "Zacharyja Taylora",
+      "B": "Jamesa Knoxa Polka",
+      "C": "Millarda Fillmorea"
     },
     "image": null,
     "correct_answer": "B"
@@ -5747,9 +5747,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Na području kojeg su se današnjeg američkog grada, blizu Bostona, rodila dva američka predsjednika, otac i sin, John i John Quincy Adams?",
     "answers": {
-      "A": "Braintree",
-      "B": "Quincy",
-      "C": "Milton"
+      "A": "Braintreea",
+      "B": "Quincyja",
+      "C": "Miltona"
     },
     "image": null,
     "correct_answer": "B"
@@ -6020,9 +6020,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Kip kojeg američkog predsjednika se nalazi u centru Lafayette Square-a, u blizini Bijele Kuće?",
     "answers": {
-      "A": "Andrew Jackson",
-      "B": "George Washington",
-      "C": "Ulysses S. Grant"
+      "A": "Andrewa Jacksona",
+      "B": "Georgea Washingtona",
+      "C": "Ulyssesa S. Granta"
     },
     "image": null,
     "correct_answer": "A"
@@ -6137,9 +6137,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Washington, Jefferson, Lincoln i Roosevelt, zajedno se nalaze isklesani u liticama koje planine?",
     "answers": {
-      "A": "Stone Mountain",
-      "B": "Black Elk Peak",
-      "C": "Rushmore"
+      "A": "Stone Mountaina",
+      "B": "Black Elk Peaka",
+      "C": "Rushmorea"
     },
     "image": null,
     "correct_answer": "C"
@@ -6202,9 +6202,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojem je američkom gradu, potpisana deklaracija nezavisnosti?",
     "answers": {
-      "A": "Boston",
-      "B": "Philadelphia",
-      "C": "Baltimore"
+      "A": "Bostonu",
+      "B": "Philadelphiji",
+      "C": "Baltimoreu"
     },
     "image": null,
     "correct_answer": "B"
