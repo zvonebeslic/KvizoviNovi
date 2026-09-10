@@ -72,8 +72,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Za vrijeme predsjednika Thomasa Jeffersona, amerikanci od francuza kupuju veliku površinu Sjeverne Amerike tada poznatu pod kojim imenom?",
     "answers": {
-      "A": "Nova Francuska",
-      "B": "Louisiana Territory",
+      "A": "Florida",
+      "B": "Oregon",
       "C": "Louisiana"
     },
     "image": null,
@@ -1023,8 +1023,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Koje je luksuzno odmaralište na Floridi u vlasništvu Donalda Trumpa?",
     "answers": {
-      "A": "Trump National Doral",
-      "B": "Trump International Golf Club West Palm Beach",
+      "A": "Trump National Golf Club Bedminster",
+      "B": "Seven Springs",
       "C": "Mar a Lago"
     },
     "image": null,
@@ -1206,8 +1206,8 @@
     "question": "Washington je 1776. i 1777.g. u ratu za neovisnost pobjedio britance kod Trentona i Prestona, ali i izgubio kod kojeg mjesta?",
     "answers": {
       "A": "Long Island",
-      "B": "Brandywine",
-      "C": "Germantown"
+      "B": "Yorktown",
+      "C": "Princeton"
     },
     "image": null,
     "correct_answer": "A"
