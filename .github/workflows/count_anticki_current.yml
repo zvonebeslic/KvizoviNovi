@@ -1,0 +1,27 @@
+name: Count current AntickiRim answers
+on:
+  push:
+    paths: ['.github/workflows/count_anticki_current.yml']
+permissions:
+  contents: write
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: python
+        run: |
+          import json
+          from collections import Counter
+          from pathlib import Path
+          d=json.loads(Path('AntickiRim.json').read_text(encoding='utf-8'))
+          c=Counter(x.get('correct_answer') for x in d)
+          out=f"TOTAL={len(d)}\nA={c.get('A',0)}\nB={c.get('B',0)}\nC={c.get('C',0)}\nOTHER={sum(v for k,v in c.items() if k not in {'A','B','C'})}\n"
+          Path('ANTICKI_CURRENT_COUNT.txt').write_text(out,encoding='utf-8')
+          print(out)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ANTICKI_CURRENT_COUNT.txt
+          git commit -m "Count current AntickiRim correct answers"
+          git push
