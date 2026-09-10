@@ -21,16 +21,13 @@ jobs:
           if n != 589:
               raise SystemExit(f'Expected 589 questions, got {n}')
 
-          # Exact target totals, but arranged in a mixed sequence with no long runs.
           labels=['A']*197 + ['B']*196 + ['C']*196
           rng=random.Random(20260910)
 
           def good(seq):
-              # Never allow 3 identical correct letters in a row.
               for i in range(2, len(seq)):
                   if seq[i]==seq[i-1]==seq[i-2]:
                       return False
-              # Keep each rolling block of 30 reasonably balanced.
               for i in range(0, len(seq)-29):
                   c=Counter(seq[i:i+30])
                   if max(c.values()) > 13 or min(c.values()) < 7:
@@ -44,8 +41,6 @@ jobs:
           else:
               raise SystemExit('Could not generate suitably mixed target sequence')
 
-          # Move the existing correct answer text to the target letter by swapping slots.
-          # Question text and answer texts themselves stay unchanged.
           before_questions=[x['question'] for x in d]
           before_answer_sets=[sorted(x['answers'].values()) for x in d]
 
@@ -62,9 +57,9 @@ jobs:
           assert before_questions == [x['question'] for x in d]
           assert before_answer_sets == [sorted(x['answers'].values()) for x in d]
 
+          seq=[x['correct_answer'] for x in d]
           max_run=1
           run=1
-          seq=[x['correct_answer'] for x in d]
           for i in range(1,len(seq)):
               run = run+1 if seq[i]==seq[i-1] else 1
               max_run=max(max_run,run)
@@ -77,5 +72,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add AntickiRim.json ANTICKI_REBALANCE_CHECK.txt
+          git diff --cached --quiet && exit 0
           git commit -m "Rebalance AntickiRim answer positions"
           git push
+# trigger 2
