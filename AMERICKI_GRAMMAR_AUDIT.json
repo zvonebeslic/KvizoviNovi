@@ -1,0 +1,2182 @@
+[
+  {
+    "index": 5,
+    "question": "Koji je američki predsjednik održao poznati televizijski govor posvećen astronautima kojem je prethodila nesreća Space Shuttle Challengera istog dana?",
+    "answers": {
+      "A": "George H. W. Bush",
+      "B": "Jimmy Carter",
+      "C": "Ronald Reagan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 7,
+    "question": "U kojem je gradu potpisan mir između Amerikanaca i Britanaca kojim je Velika Britanija i službeno priznala Ameriku kao slobodnu državu?",
+    "answers": {
+      "A": "Versaillesu",
+      "B": "Parizu",
+      "C": "Gentu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 8,
+    "question": "Američka ratna podmornica USS Finback je iz Tihog oceana spasila kojeg, tada budućeg američkog predsjednika?",
+    "answers": {
+      "A": "George H. W. Bush",
+      "B": "John F. Kennedy",
+      "C": "Jimmy Carter"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 10,
+    "question": "Koje je malo hrvatsko mjesto u hrvatskom zagorju 1970.g. posjetio američki predsjednik Richard Nixon?",
+    "answers": {
+      "A": "Kumrovec",
+      "B": "Klanjec",
+      "C": "Veliko Trgovišće"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 11,
+    "question": "Kojeg su sjevernovijetnamskog vođu, bezuspješno pokušali poraziti Kennedy, Johnson i Nixon, što je dovelo do kasnijeg povlačenja američke vojske iz Vijetnama?",
+    "answers": {
+      "A": "Lê Duẩn",
+      "B": "Ho Ši Min",
+      "C": "Võ Nguyên Giáp"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 13,
+    "question": "Bulevarom Billa Clintona možete prošetati u kojem kosovskom gradu?",
+    "answers": {
+      "A": "Prizrenu",
+      "B": "Peći",
+      "C": "Prištini"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 15,
+    "question": "U kojoj je saveznoj američkoj državi rođen JFK?",
+    "answers": {
+      "A": "New York",
+      "B": "Massachusetts",
+      "C": "Connecticut"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 16,
+    "question": "Koju je vojnu operaciju 1991.g. George H. W. Bush u Kuvajtu pokrenuo protiv Iraka i njihovog vođe Saddama Husseina?",
+    "answers": {
+      "A": "Pustinjski štit",
+      "B": "Pustinjska lisica",
+      "C": "Pustinjska oluja"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 17,
+    "question": "U eri kojeg se rata, odvijao i Vijetnamski rat?",
+    "answers": {
+      "A": "Hladnog rata",
+      "B": "Drugog svjetskog rata",
+      "C": "Rata protiv terorizma"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 19,
+    "question": "Kojeg se datuma dogodio teroristički napad na Ameriku i WTC?",
+    "answers": {
+      "A": "26.2.",
+      "B": "11.9.",
+      "C": "7.12."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 20,
+    "question": "Sa kojim dvorom legendarnog kralja Arthura se često uspoređuje predsjedništvo JFK-a?",
+    "answers": {
+      "A": "Avalon",
+      "B": "Camelot",
+      "C": "Tintagel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 21,
+    "question": "Prije nego je postao predsjednik, Ronald Reagan je bio guverner koje savezne američke države?",
+    "answers": {
+      "A": "Kalifornije",
+      "B": "Teksasa",
+      "C": "Illinoisa"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 23,
+    "question": "Na kojeg je svećenika i borca za prava američkog crnačkog stanovništva izvršen atentat dok je američki predsjednik bio Lyndon B. Johnson?",
+    "answers": {
+      "A": "Malcolm X",
+      "B": "Martin Luther King",
+      "C": "Medgar Evers"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 26,
+    "question": "Za kojeg se grčkog bogataša i brodovlasnika udala udovica Johna F. Kennedyja, Jacqueline Bouvier?",
+    "answers": {
+      "A": "Stavros Niarchos",
+      "B": "Yiannis Latsis",
+      "C": "Aristoteles Socrates Onassis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 27,
+    "question": "Raketna kriza na kojem otoku je zamalo dovela do 3. svjetskog rata?",
+    "answers": {
+      "A": "Tajvan",
+      "B": "Kuba",
+      "C": "Cipar"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 29,
+    "question": "Koje je srednje ime, američkog predsjednika Richarda Nixona?",
+    "answers": {
+      "A": "Herbert",
+      "B": "Milhous",
+      "C": "Fitzgerald"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 30,
+    "question": "S kojom je Hollywoodskom kompanijom Ronald Reagan kao glumac sklopio ugovor po kojem je morao nastupiti u najmanje 7 filmova?",
+    "answers": {
+      "A": "MGM",
+      "B": "Paramount Pictures",
+      "C": "Warner Bros"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 32,
+    "question": "Koje ime je nosio Obamin zakon o općem i obaveznom zdravstvenom osiguranju?",
+    "answers": {
+      "A": "Obamacare",
+      "B": "Medicare",
+      "C": "Medicaid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 34,
+    "question": "Kao zapovjednik torpednog čamca u 2. svjetskom ratu, John F. Kennedy je 1943.g. ranjen u borbi protiv kojeg carstva?",
+    "answers": {
+      "A": "Njemačkog",
+      "B": "Talijanskog",
+      "C": "Japanskog"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 36,
+    "question": "S kojim se revolucionarom i državnikom Richard Nixon sastao u Kini 1971.g. gdje je Narodnoj Republici Kini ponuđeno da se pridruži Ujedinjenim Narodima?",
+    "answers": {
+      "A": "Zhou Enlai",
+      "B": "Mao Ce Tung",
+      "C": "Deng Xiaoping"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 37,
+    "question": "Kojem su američkom predsjedniku Green Bay Packersi i Detroit Lionsi ponudili profesionalni NFL ugovor, što je on odbio te otišao na Yale?",
+    "answers": {
+      "A": "Gerald Ford",
+      "B": "Dwight Eisenhower",
+      "C": "George H. W. Bush"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 41,
+    "question": "USS Pomfret je bila američka ratna podmornica na kojoj je služio koji, tada budući, američki predsjednik?",
+    "answers": {
+      "A": "John F. Kennedy",
+      "B": "George H. W. Bush",
+      "C": "Jimmy Carter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 44,
+    "question": "Zbog koje afere je Richard Nixon dao ostavku na mjesto predsjednika SAD-a?",
+    "answers": {
+      "A": "Watergate",
+      "B": "Teapot Dome",
+      "C": "Iran-Contra"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 46,
+    "question": "Na kojem je sveučilištu diplomirao JFK?",
+    "answers": {
+      "A": "Harvard",
+      "B": "Yale",
+      "C": "Princeton"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 52,
+    "question": "Koju Rockefellerovu kompaniju, Roosevelt uz pomoć vrhovnog suda razbija na 34 manje kompanije?",
+    "answers": {
+      "A": "U.S. Steel",
+      "B": "American Tobacco Company",
+      "C": "Standard Oil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 53,
+    "question": "U kojem se gradu dogodio atentat na JFK-a?",
+    "answers": {
+      "A": "Dallas",
+      "B": "Memphis",
+      "C": "Washington"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 54,
+    "question": "Sa kojeg otoka se u Ameriku doselio djed Johna F. Kennedyja?",
+    "answers": {
+      "A": "Škotska",
+      "B": "Irska",
+      "C": "Isle of Man"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 55,
+    "question": "U kojem je gradu, Ronald Reagan 1984.g. otvorio Ljetne Olimpijske Igre?",
+    "answers": {
+      "A": "Los Angeles",
+      "B": "Atlanta",
+      "C": "Montreal"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 60,
+    "question": "Uredbe 'Patriot Act I' i 'Patriot Act II' koje su regulirale strožu kontrolu pri ulasku u SAD, je uveo koji predsjednik?",
+    "answers": {
+      "A": "Bill Clinton",
+      "B": "Barack Obama",
+      "C": "George Bush"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 62,
+    "question": "S kojim predsjednikom SSSR-a se sastao John F. Kennedy?",
+    "answers": {
+      "A": "Leonid Brežnjev",
+      "B": "Mihail Gorbačov",
+      "C": "Nikita Sergejevič Hruščov"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 64,
+    "question": "Koje ime nosi službeno odmaralište američkog predsjednika, a nalazi se u saveznoj državi Maryland?",
+    "answers": {
+      "A": "Blair House",
+      "B": "Camp David",
+      "C": "Camp Peary"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 66,
+    "question": "Na koju su karipsku otočnu državu SAD 1983.g. poslale vojsku kako bi tamo srušile komunistički režim?",
+    "answers": {
+      "A": "Granada",
+      "B": "Kuba",
+      "C": "Dominikanska Republika"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 68,
+    "question": "U kojem se otočnom gradu rodio Barack Obama?",
+    "answers": {
+      "A": "Hilo",
+      "B": "Honoluluu",
+      "C": "Kailua"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 70,
+    "question": "George H. W. Bush je na predsjedničkim izborima 1992.g. utrku za Bijelom Kućom izgubio od koga?",
+    "answers": {
+      "A": "Ross Perota",
+      "B": "Pat Buchanana",
+      "C": "Bill Clintona"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 72,
+    "question": "John Hinckley Jr. je propali student koji je u atentatu ranio kojeg američkog predsjednika?",
+    "answers": {
+      "A": "Ronalda Reagana",
+      "B": "Gerald Ford",
+      "C": "Harry S. Truman"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 73,
+    "question": "U kojem prijevoznom sredstvu je predsjedničku zakletvu položio Lyndon B. Johnson?",
+    "answers": {
+      "A": "Vlaku",
+      "B": "Brodu",
+      "C": "Avionu"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 75,
+    "question": "Hillary Diane Rodham je bila prva dama kojem američkom predsjedniku?",
+    "answers": {
+      "A": "Billu Clintonu",
+      "B": "Georgeu H. W. Bushu",
+      "C": "Georgeu W. Bushu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 76,
+    "question": "Koju su nekadašnju republiku s predsjednikom Diemom, u vrijeme Vijetnamskog rata, podržavali amerikanci?",
+    "answers": {
+      "A": "Sjeverni Vijetnam",
+      "B": "Laos",
+      "C": "Južni Vijetnam"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 77,
+    "question": "U kojem glavnom europskom gradu su se sastali Kennedy i Hruščov?",
+    "answers": {
+      "A": "Ženevi",
+      "B": "Beč",
+      "C": "Parizu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 78,
+    "question": "Amerika je na čelu sa Bushom porazila Irak u Trećem Zaljevskom ratu te uhitila i vješanjem 2006.g. pogubila kojeg iračkog vođu?",
+    "answers": {
+      "A": "Saddama Husseina",
+      "B": "Tariqa Aziza",
+      "C": "Alija Hassana al-Majida"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 79,
+    "question": "Koje je luksuzno odmaralište na Floridi u vlasništvu Donalda Trumpa?",
+    "answers": {
+      "A": "Trump National Golf Club Bedminster",
+      "B": "Seven Springs",
+      "C": "Mar a Lago"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 83,
+    "question": "U kojoj je pariškoj palači potpisan Daytonski sporazum?",
+    "answers": {
+      "A": "Luksemburškoj palači",
+      "B": "Elizejskoj palači",
+      "C": "Versajskoj palači"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 84,
+    "question": "Komunistički režim kojeg vođe je na Kubi pokušao srušiti JFK?",
+    "answers": {
+      "A": "Fulgencija Batiste",
+      "B": "Raúla Castra",
+      "C": "Fidel Castro"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 85,
+    "question": "Eisenhower i Kennedy su bili začetnici kojeg svemirskog programa?",
+    "answers": {
+      "A": "Apollo",
+      "B": "Mercury",
+      "C": "Gemini"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 86,
+    "question": "Kojeg je vijetnamca, Lyndon B. Johnson nazvao azijskim Winstonom Churchillom?",
+    "answers": {
+      "A": "Nguyen Van Thieu",
+      "B": "Ngo Dinh Diem",
+      "C": "Nguyen Cao Ky"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 89,
+    "question": "Koju je nagradu za 'pisanu riječ' John F. Kennedy dobio 1957.g.?",
+    "answers": {
+      "A": "National Book Award",
+      "B": "Nobelovu nagradu za književnost",
+      "C": "Pulitzerovu"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 93,
+    "question": "Washington je 1776. i 1777.g. u ratu za neovisnost pobjedio britance kod Trentona i Prestona, ali i izgubio kod kojeg mjesta?",
+    "answers": {
+      "A": "Long Island",
+      "B": "Yorktown",
+      "C": "Princeton"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 94,
+    "question": "'Bostonska čajanka' je događaj koji je ostao upamćen u američkoj povijesti kao jedan od početaka rata za neovisnost. Amerikanci su sa britanskih brodova Dartmouth, Eleanor i Beaver u more pobacali tone uvoznog kineskog čaja, a bili su prerušeni u koje indijansko pleme?",
+    "answers": {
+      "A": "Narragansett",
+      "B": "Mohawk",
+      "C": "Wampanoag"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 96,
+    "question": "U kojoj se američkoj saveznoj državi nalazi Mount Rushmore sa 18-metarskim skulpturama 4-ero američkih predsjednika isklesanih u liticama planine?",
+    "answers": {
+      "A": "Wyoming",
+      "B": "Južna Dakota",
+      "C": "Sjeverna Dakota"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 99,
+    "question": "U kojoj je zgradi u Philadelphiji potpisan Ustav SAD-a?",
+    "answers": {
+      "A": "Independence Hall",
+      "B": "Carpenters' Hall",
+      "C": "Congress Hall"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 100,
+    "question": "'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness' su riječi sa američke deklaracije nezavisnosti koje se pripisuju kojem američkom predsjedniku?",
+    "answers": {
+      "A": "Thomas Jefferson",
+      "B": "Benjamin Franklin",
+      "C": "John Adams"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 101,
+    "question": "U čast kojeg američkog predsjednika je podignut 169m visok monumentalni obelisk u Washington DC-u?",
+    "answers": {
+      "A": "Thomasa Jeffersona",
+      "B": "Abrahama Lincolna",
+      "C": "Georgea Washingtona"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 102,
+    "question": "U kojem gradiću, uz rijeku Hudson, Thomas Jefferson 1802.g. osniva prvu vojnu akademiju u SAD-u?",
+    "answers": {
+      "A": "Newburgh",
+      "B": "West Point",
+      "C": "Peekskill"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 105,
+    "question": "Građani na čelu sa Samuelom Adamsom su 1773.g. sa britanskih brodova u more pobacali 342 sanduka kineskog čaja u znak prosvjeda protiv loše uprave Britanije, što je u povijesti upamćeno kao čajanka 'tog grada' te jedan od događaja koji je predvodio ratu za neovisnost a zbio se u kojem gradu?",
+    "answers": {
+      "A": "Philadelphiji",
+      "B": "Bostonu",
+      "C": "New Yorku"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 106,
+    "question": "Koji je američki potpredsjednik sudjelovao u dvoboju pištoljima sa Alexanderom Hamiltonom iz kojeg je izašao kao pobjednik i preživjeli?",
+    "answers": {
+      "A": "Aaron Burr",
+      "B": "George Clinton",
+      "C": "Elbridge Gerry"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 108,
+    "question": "Pod kojim imenom, u kojem se spominje i jedan broj, indijansko pleme Lakota Siouxa poznaje planinu Mount Rushmore",
+    "answers": {
+      "A": "Paha Sapa",
+      "B": "6 djedova",
+      "C": "Mato Paha"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 109,
+    "question": "U tzv. 'Kvazi Ratu' amerikanci su u pomorskim sukobima zarobljavali brodove koje republike?",
+    "answers": {
+      "A": "Batavske",
+      "B": "Francuske",
+      "C": "Ligurske"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 116,
+    "question": "Jefferson i Adams su 1786.g. obilazeći Veliku Britaniju, posjetili i rodnu kuću u mjestu Stratford na Avonu, kojeg slavnog pisca?",
+    "answers": {
+      "A": "Johna Miltona",
+      "B": "Williama Shakespearea",
+      "C": "Geoffreyja Chaucera"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 118,
+    "question": "Thomas Jefferson i John Adams su se na francuskom kraljevskom dvoru susreli za vremena kojeg francuskog kralja?",
+    "answers": {
+      "A": "Luja XVI.",
+      "B": "Luja XV.",
+      "C": "Luja XVIII."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 119,
+    "question": "Godine 1819. španjolska ustupa amerikancima područje koje današnje savezne američke države?",
+    "answers": {
+      "A": "Teksasa",
+      "B": "Floride",
+      "C": "Kalifornije"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 123,
+    "question": "Koje kodno ime je Tajna služba dodijelila 38. predsjedniku SAD-a Geraldu Fordu?",
+    "answers": {
+      "A": "Lancer",
+      "B": "Passkey",
+      "C": "Rawhide"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 125,
+    "question": "Potpisivanjem mira u kojem gradu 1814.g. završava britansko-američki rat koji je otpočeo 1812.g.?",
+    "answers": {
+      "A": "Gentu",
+      "B": "Bruxellesu",
+      "C": "Parizu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 126,
+    "question": "Koje kodno ime je Tajna služba dodijelila 35. predsjedniku SAD-a Johnu F. Kennedyju?",
+    "answers": {
+      "A": "Passkey",
+      "B": "Timberwolf",
+      "C": "Lancer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 128,
+    "question": "Kojeg američkog predsjednika prati mini-tv serija iz 2008.g. koja je osvojila 4 zlatna globusa i čak 13 emmyja?",
+    "answers": {
+      "A": "Johna Adamsa",
+      "B": "Georgea Washingtona",
+      "C": "Thomasa Jeffersona"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 132,
+    "question": "Koje kodno ime je Tajna služba dodijelila 42. predsjedniku SAD-a Billu Clintonu?",
+    "answers": {
+      "A": "Lancer",
+      "B": "Rawhide",
+      "C": "Eagle"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 138,
+    "question": "Kojem je američkom predsjedniku, potpredsjednik kroz dva mandata bio Daniel D. Tompkins?",
+    "answers": {
+      "A": "Jamesu Madisonu",
+      "B": "Jamesu Monroeu",
+      "C": "Johnu Quincyju Adamsu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 143,
+    "question": "Koliko je osoba sa papirnih novčanica američkog dolara, koje su danas u opticaju, poginulo od vatrenog oružja?",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 144,
+    "question": "Godine 1811. serijom potresa jačine 7.2 , 8.2 i 7.4 po Richteru, zabilježeni su najjači potresi u povijesti SAD-a istočno od Stjenjaka, a dogodili su se u blizini kojeg grada, koji ime dijeli s jednom europskom prijestolnicom?",
+    "answers": {
+      "A": "New London",
+      "B": "New Athens",
+      "C": "New Madrid"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 147,
+    "question": "Koje kodno ime je Tajna služba dodijelila 45. i 47. predsjedniku SAD-a Donaldu Trumpu?",
+    "answers": {
+      "A": "Mogul",
+      "B": "Renegade",
+      "C": "Celtic"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 150,
+    "question": "Koje kodno ime je Tajna služba dodijelila 34. predsjedniku SAD-a Dwightu D. Eisenhoweru?",
+    "answers": {
+      "A": "Scorecard",
+      "B": "General",
+      "C": "Rawhide"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 154,
+    "question": "Koju 'slobodnu' državu James Monroe proglašava kao 23. američku saveznu državu, u znak kompromisa prema 'robovlasničkoj' državi Missouri koja je savezna postala kao 24.?",
+    "answers": {
+      "A": "Vermont",
+      "B": "Ohio",
+      "C": "Maine"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 157,
+    "question": "Koje kodno ime je Tajna služba dodijelila 43. predsjedniku SAD-a Georgeu W. Bushu?",
+    "answers": {
+      "A": "Timberwolf",
+      "B": "Tumbler",
+      "C": "Trailblazer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 159,
+    "question": "Na novčanici od 20 dolara, nalazimo potret kojeg američkog predsjednika?",
+    "answers": {
+      "A": "Ulysses S. Grant",
+      "B": "Abraham Lincoln",
+      "C": "Andrew Jackson"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 160,
+    "question": "Ostalo je zabilježeno u povijesti da je rijeka Mississippi jednog dana tekla 'uzvodno', zbog jakih potresa koji su poremetili korito rijeke. Sve se dogodilo 1812.g. u kojoj američkoj saveznoj državi?",
+    "answers": {
+      "A": "Arkansas",
+      "B": "Missouri",
+      "C": "Tennessee"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 162,
+    "question": "Ulysses S. Grant je bio 18. predsjednik SAD-a a svoje mjesto je pronašao i na dolaru koje nominalne vrijednosti?",
+    "answers": {
+      "A": "20",
+      "B": "100",
+      "C": "50"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 167,
+    "question": "Koje kodno ime je Tajna služba dodijelila 33. predsjedniku SAD-a Harryju S. Trumanu?",
+    "answers": {
+      "A": "General",
+      "B": "Scorecard",
+      "C": "Passkey"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 171,
+    "question": "Koje kodno ime je Tajna služba dodijelila 39. predsjedniku SAD-a Jimmyju Carteru?",
+    "answers": {
+      "A": "Volunteer",
+      "B": "Renegade",
+      "C": "Deacon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 173,
+    "question": "Koje kodno ime je Tajna služba dodijelila 36. predsjedniku SAD-a Lyndonu B. Johnsonu?",
+    "answers": {
+      "A": "General",
+      "B": "Volunteer",
+      "C": "Lancer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 175,
+    "question": "Koje kodno ime je Tajna služba dodijelila 44. predsjedniku SAD-a Baracku Obami?",
+    "answers": {
+      "A": "Mogul",
+      "B": "Celtic",
+      "C": "Renegade"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 177,
+    "question": "Zbog velikog poraza kod Horseshoe Benda 1814.g., indijansko pleme Creek je SAD-u prepustilo područje koje današnje savezne države?",
+    "answers": {
+      "A": "Georgije",
+      "B": "Mississippija",
+      "C": "Alabame"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 179,
+    "question": "Alexander Hamilton je bio prvi ministar financija SAD-a, poginuo je u pištoljskom dvoboju a njegov lik danas nalazimo na dolaru koje nominalne vrijednosti?",
+    "answers": {
+      "A": "10",
+      "B": "5",
+      "C": "20"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 182,
+    "question": "Koje kodno ime je Tajna služba dodijelila 41. predsjedniku SAD-a Georgeu H. W. Bushu?",
+    "answers": {
+      "A": "Trailblazer",
+      "B": "Timberwolf",
+      "C": "Tumbler"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 190,
+    "question": "Na kojem španjolskom brodu 1839.g. izbija pobuna afričkih robova iz naroda Mende, koji su kasnije završili na sudu te naposlijetku bili oslobođeni?",
+    "answers": {
+      "A": "Clotilda",
+      "B": "Tecora",
+      "C": "La Amistad"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 194,
+    "question": "Koje kodno ime je Tajna služba dodijelila 46. predsjedniku SAD-a Joeu Bidenu?",
+    "answers": {
+      "A": "Celtic",
+      "B": "Renegade",
+      "C": "Mogul"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 198,
+    "question": "Koje kodno ime je Tajna služba dodijelila 37. predsjedniku SAD-a Richardu Nixonu?",
+    "answers": {
+      "A": "Passkey",
+      "B": "Searchlight",
+      "C": "Lancer"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 206,
+    "question": "Koje indijansko pleme je prije doseljavanja europljana nastanjivalo područje današnjeg glavnog grada Kanade?",
+    "answers": {
+      "A": "Algonquin",
+      "B": "Ottawa",
+      "C": "Mohawk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 209,
+    "question": "Od kojeg je kemijskog elementa bila izrađena tintarnica iz koje su deklaraciju neovisnosti potpisali mnogi 'očevi amerike'?",
+    "answers": {
+      "A": "Kositra",
+      "B": "Bakra",
+      "C": "Srebra"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 210,
+    "question": "Pomorskom sukobu između Francuske i SAD-a 1798.g. zvanom 'Kvazi rat', prethodila je afera u kojoj su tri francuska agenta tražila mito od amerikanaca za pregovore o miru. Njih trojica su zabilježena u povijesti sa koja tri slova kojima je nazvana i sama ta afera?",
+    "answers": {
+      "A": "ABC",
+      "B": "XYY",
+      "C": "XYZ"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 212,
+    "question": "Koje kodno ime je Tajna služba dodijelila 40. predsjedniku SAD-a Ronaldu Reaganu?",
+    "answers": {
+      "A": "Lancer",
+      "B": "Timberwolf",
+      "C": "Rawhide"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 213,
+    "question": "Kojem predsjedniku SAD-a pripisujemo izreku 'The Bank is trying to kill me, Mr. Van Buren, but I shall kill it!'?",
+    "answers": {
+      "A": "Andrewju Jacksonu",
+      "B": "Martinu Van Burenu",
+      "C": "Johnu Quincyju Adamsu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 220,
+    "question": "U kojoj je saveznoj američkoj državi, rođen prvi predsjednik SAD-a, George Washington?",
+    "answers": {
+      "A": "Maryland",
+      "B": "Virginija",
+      "C": "Pennsylvania"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 222,
+    "question": "Piramida ispod svevidećeg oka se sastoji od 13 redova i simbolizira 13 ujedinjenih kolonija s kojeg kontinenta?",
+    "answers": {
+      "A": "Južne Amerike",
+      "B": "Europe",
+      "C": "Sjeverne Amerike"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 226,
+    "question": "U kojoj je američkoj saveznoj državi rođen drugi američki predsjednik John Adams?",
+    "answers": {
+      "A": "Massachusetts",
+      "B": "Virginia",
+      "C": "New York"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 231,
+    "question": "O priznanju koje države se radi ako znamo da su 'mir' potpisali John Adams, Benjamin Franklin te John Jay?",
+    "answers": {
+      "A": "Kanade",
+      "B": "Francuske",
+      "C": "SAD-a"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 233,
+    "question": "Koje prezime spaja 4. potpredsjednika i 42. predsjednika SAD-a?",
+    "answers": {
+      "A": "Adams",
+      "B": "Clinton",
+      "C": "Johnson"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 235,
+    "question": "Koji je američko-britanski filozof i književnik napisao knjigu 'Zdrav razum' (Common Sense) u kojoj je podupirao Deklaraciju neovisnosti'?",
+    "answers": {
+      "A": "Thomas Paine",
+      "B": "John Dickinson",
+      "C": "Benjamin Rush"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 236,
+    "question": "U kojoj je zgradi u Philadelphiji potpisana Deklaracija neovisnosti SAD-a?",
+    "answers": {
+      "A": "Congress Hall",
+      "B": "Dvorana neovisnosti",
+      "C": "Carpenters' Hall"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 241,
+    "question": "U noći za vrijeme kojeg kršćanskog blagdana, George Washington prelazi rijeku Delaware i napada britanske plaćenike u Trentonu?",
+    "answers": {
+      "A": "Uskrsa",
+      "B": "Bogojavljenja",
+      "C": "Božića"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 242,
+    "question": "U kojoj vojnoj utvrdi, smještenoj u Kentuckyju, Sjedinjene Američke Države drže više od polovice svojih zlatnih rezervi?",
+    "answers": {
+      "A": "Fort Campbell",
+      "B": "Fort Thomas",
+      "C": "Fort Knox"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 244,
+    "question": "Hodgenville je rodno mjesto Abrahama Lincolna a smješteno je u kojoj američkoj saveznoj državi?",
+    "answers": {
+      "A": "Kentucky",
+      "B": "Indiana",
+      "C": "Illinois"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 246,
+    "question": "Američka utvrda Fort Brown izgrađena je za potrebe američko - meksičkog rata na obali koje rijeke?",
+    "answers": {
+      "A": "Colorado",
+      "B": "Brazos",
+      "C": "Rio Grande"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 249,
+    "question": "Slika 'Pad Alama', iz 1903.g. koju je naslikao Robert Jenkins Onderdonk, uprizoruje koga, da nakon istrošene municije, koristi svoju pušku kao palicu u borbi protiv meksikanaca?",
+    "answers": {
+      "A": "Jim Bowie",
+      "B": "William B. Travis",
+      "C": "Davyja Crocketta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 251,
+    "question": "Spletom okolnosti, prezime jednog američkog predsjednika danas označava mnoge poznate glazbeno - koncertne dvorane. Koje je to prezime, ako znamo da je taj 'splet okolnosti' počeo u San Franciscu?",
+    "answers": {
+      "A": "Fillmore",
+      "B": "Madison",
+      "C": "Monroe"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 252,
+    "question": "Inicijali 18-og predsjednika SAD-a su USG, što punim imenom znači Ulysses Simpson Grant, ali nije uvijek bilo tako. Naime, upisivajući ga u vojnu akademiju West Point, školske vlasti su napravile grešku te ga upisale imenom koje je Ulysses 'zagrlio' i prihvatio, te je ostalo upamćeno, a kad bi se sjetili njegova rodnog imena, kako bi mu napisali inicijale?",
+    "answers": {
+      "A": "UHG",
+      "B": "HSG",
+      "C": "HUG"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 254,
+    "question": "Koje ime dijele vođa indijanskog plemena Sauka koji se predao američkoj vojsci u ratu 1832.g. te helikopteri američke vojske koji su pali u Somaliji 1993.g.?",
+    "answers": {
+      "A": "Crveni Oblak",
+      "B": "Ludi Konj",
+      "C": "Crni Jastreb"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 255,
+    "question": "Posmrtni ostaci kojeg su američkog predsjednika iskapani 17 puta?",
+    "answers": {
+      "A": "Georgea Washingtona",
+      "B": "Abrahama Lincolna",
+      "C": "Ulyssesa S. Granta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 256,
+    "question": "Andrew Johnson je prisegao za mjesto američkog predsjednika u 10h ujutro, samo dan nakon čijeg ubojstva?",
+    "answers": {
+      "A": "Jamesa Garfielda",
+      "B": "Williama McKinleyja",
+      "C": "Abrahama Lincolna"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 257,
+    "question": "U kojoj je palači Ulysses S. Grant ručavao sa kraljicom Viktorijom?",
+    "answers": {
+      "A": "Windsor",
+      "B": "Buckingham",
+      "C": "Kensington"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 259,
+    "question": "Koju vojnu akademiju je pohađao Ulysses S. Grant, 18-i predsjednik SAD-a?",
+    "answers": {
+      "A": "Annapolis",
+      "B": "West Point",
+      "C": "Norwich University"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 260,
+    "question": "S kojim se poznatim skladateljem, Ulysses S. Grant, u svojoj turneji svijetom, susreo u njemačkom Heidelbergu?",
+    "answers": {
+      "A": "Wilhelm Richard Wagner",
+      "B": "Johannes Brahms",
+      "C": "Franz Liszt"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 263,
+    "question": "Koga tražimo, ako znamo da je, prije predsjedanja Amerikom, bio izabran kao guverner New Yorka 1829.g. ali je na tu funkciju odmah podnio ostavku kako bi postao državni tajnik u prvoj administraciji Andrewja Jacksona?",
+    "answers": {
+      "A": "Martin Van Buren",
+      "B": "William L. Marcy",
+      "C": "Silas Wright"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 264,
+    "question": "U opsadi kojeg meksičkog grada vojnici Zacharyja Taylora na bojišnici koriste taktiku zvanu 'mišja rupa', tj. blisku bitku prsa o prsa u zgradama umjesto otvorenih sukoba na ulicama?",
+    "answers": {
+      "A": "Veracruz",
+      "B": "Puebla",
+      "C": "Monterrey"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 265,
+    "question": "'Our American Cousin' je predstava za čijeg igranja je ubijen tko?",
+    "answers": {
+      "A": "James Garfield",
+      "B": "Abraham Lincoln",
+      "C": "William McKinley"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 266,
+    "question": "John Wilkes Booth i Lee Harvey Oswald su usmrtili predsjednike koje države?",
+    "answers": {
+      "A": "Francuske",
+      "B": "SAD-a",
+      "C": "Meksika"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 267,
+    "question": "Od 1846.g. do 1848 g. SAD je ratovao protiv koje države?",
+    "answers": {
+      "A": "Kanade",
+      "B": "Španjolske",
+      "C": "Meksika"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 270,
+    "question": "Koje je kazalište u Washington DC-ju bilo poprište ubojstva Abrahama Lincolna?",
+    "answers": {
+      "A": "Fordovo",
+      "B": "National Theatre",
+      "C": "Grover's Theatre"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 272,
+    "question": "Na području kojeg današnjeg grada je ranjen, tada budući, 14. predsjednik SAD-a, u jednoj od bitaka tijekom Američko - Meksičkog rata?",
+    "answers": {
+      "A": "Monterrey",
+      "B": "Veracruz",
+      "C": "Mexico City"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 273,
+    "question": "Koga je hicem iz pištolja usmrtio John Wilkes Booth?",
+    "answers": {
+      "A": "Jamesa Garfielda",
+      "B": "Abrahama Lincolna",
+      "C": "Williama McKinleyja"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 275,
+    "question": "William H. Seward i Eduard de Stoeckl su dogovorili kupoprodajni ugovor koje današnje savezne američke države?",
+    "answers": {
+      "A": "Aljaske",
+      "B": "Oregona",
+      "C": "Kalifornije"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 276,
+    "question": "Invazije na Meksičku zemlju koje meksikanci nazivaju 'Invasión estadounidense a México' i 'Guerra del 47' izvela je koja država?",
+    "answers": {
+      "A": "Španjolska",
+      "B": "Francuska",
+      "C": "SAD"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 278,
+    "question": "Prezime kojeg američkog predsjednika je jednako imenu predsjednika nepriznate konfederacije američkih država?",
+    "answers": {
+      "A": "Jackson",
+      "B": "Madison",
+      "C": "Jefferson"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 279,
+    "question": "Koji je američki predsjednik sudjelovao u dvoboju pištoljima, u kojem je dobio metak u prsa, kojeg je nosio u prsima do kraja života?",
+    "answers": {
+      "A": "Henry Clay",
+      "B": "Andrew Jackson",
+      "C": "Aaron Burr"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 280,
+    "question": "Osmi američki predsjednik, Martin Van Buren, stekao je veliku nepopularnost i kritike jer je u sustav sjedinjenih država 1837.g. odbio primiti koju današnju saveznu državu?",
+    "answers": {
+      "A": "Texas",
+      "B": "Kaliforniju",
+      "C": "Oregon"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 281,
+    "question": "Mandat koje američkog predsjednika je trajao samo 31 dan?",
+    "answers": {
+      "A": "Williama Henryja Harrisona",
+      "B": "Jamesa Garfielda",
+      "C": "Zacharyja Taylora"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 283,
+    "question": "Koje bitke iz američkog građanskog rata se možemo sjetiti pomoću termina koji označava period rasta cijena dionica, praćenog optimizmom investitora i povećanom kupnjom?",
+    "answers": {
+      "A": "Bitka kod Bear Rivera",
+      "B": "Bitka kod Wolf Creeka",
+      "C": "Bitka kod Bull Runa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 284,
+    "question": "Na kojoj je rijeci splavar bio Abraham Lincoln?",
+    "answers": {
+      "A": "Ohio",
+      "B": "Mississippi",
+      "C": "Missouri"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 285,
+    "question": "U kojem se velikom gradu, danas nalazi utvrda Alamo?",
+    "answers": {
+      "A": "San Antonio",
+      "B": "Austin",
+      "C": "El Paso"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 291,
+    "question": "U kojem je gradu svoju inaguraciju odradio George Washington?",
+    "answers": {
+      "A": "Philadelphiji",
+      "B": "New York",
+      "C": "Baltimoreu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 293,
+    "question": "Predsjednik Hoover je napisao biografiju kojeg predsjednika?",
+    "answers": {
+      "A": "Thomas Woodrow Wilson",
+      "B": "Theodore Roosevelt",
+      "C": "Calvin Coolidge"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 294,
+    "question": "Znamo da je Prvi svjetski rat trajao od 28. srpnja (jula) 1914.g. do 11. studenog (novembra) 1918.g., a koje godine su u taj rat ušle Sjedinjene Američke Države?",
+    "answers": {
+      "A": "1916",
+      "B": "1918",
+      "C": "1917"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 295,
+    "question": "Od 11 američkih nosača aviona, samo je jedan nazvan po jednom ubijenom američkom predsjedniku. Kojem?",
+    "answers": {
+      "A": "Johnu F. Kennedyju",
+      "B": "Abrahamu Lincolnu",
+      "C": "Dwightu D. Eisenhoweru"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 297,
+    "question": "U kojem stoljeću je ubijen William McKinkey?",
+    "answers": {
+      "A": "20.",
+      "B": "19.",
+      "C": "21."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 299,
+    "question": "Koju je današnju saveznu američku državu, William McKinkey anektirao 1898.g.?",
+    "answers": {
+      "A": "Aljasku",
+      "B": "Havaje",
+      "C": "Teksas"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 301,
+    "question": "William Henry je ime čovjeka koji je 18-om američkom predsjedniku, Ulysses S. Grantu 1884.g. posudio 150 000 dolara kako bi Grant spasio svoje investicije koje su počele propadati. No ipak neuspješno jer je Grant izgubio sve, a taj 'posuđivač' je član koje poznate američke obitelji?",
+    "answers": {
+      "A": "Vanderbilt",
+      "B": "Astor",
+      "C": "Morgan"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 303,
+    "question": "Kompromisom iz 1877.g. demokrati ipak priznaju američke predsjedničke izbore za koje su smatrali da su namješteni pa samim tim, predsjednik postaje tko?",
+    "answers": {
+      "A": "Samuel J. Tilden",
+      "B": "James A. Garfield",
+      "C": "Rutherford Birchard Hayes"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 308,
+    "question": "Za trajanja svog predsjedničkog mandata, William McKinley je 1898.g. pokrenuo rat protiv kojeg imperija?",
+    "answers": {
+      "A": "Španjolskog",
+      "B": "Britanskog",
+      "C": "Njemačkog"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 309,
+    "question": "Kojeg je američkog predsjednika ustrijelio Charles J. Gutieau, zbog čega je, dva mjeseca poslije predsjednik podlegao ozljedama?",
+    "answers": {
+      "A": "Williama McKinleyja",
+      "B": "Abrahama Lincolna",
+      "C": "Jamesa Abrama Garfielda"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 310,
+    "question": "Koju ličnost tražimo, ako znamo da je izabran za gradonačelnika Buffaloa, za guvernera New Yorka i za predsjednika SAD-a?",
+    "answers": {
+      "A": "Theodore Roosevelt",
+      "B": "Grover Cleveland",
+      "C": "Martin Van Buren"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 311,
+    "question": "Na mjesto američkog predsjednika, William McKinkey je izabran kao kandidat koje stranke?",
+    "answers": {
+      "A": "Republikanske",
+      "B": "Demokratske",
+      "C": "Populističke"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 314,
+    "question": "U vrijeme kojeg američkog predsjednika je zasvijetlila prva električna žarulja u bijeloj kući?",
+    "answers": {
+      "A": "Grovera Clevelanda",
+      "B": "Chstera A. Arthura",
+      "C": "Benjamina Harrisona"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 315,
+    "question": "Pod pokroviteljstvom kojeg je američkog predsjednika 1889.g. u Washingtonu održan prvi Panamaerički kongres?",
+    "answers": {
+      "A": "Grovera Clevelanda",
+      "B": "Chstera A. Arthura",
+      "C": "Benjamina Harrisona"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 320,
+    "question": "U kojem gradu je ubijen William McKinley, 25. predsjednik SAD-a?",
+    "answers": {
+      "A": "Clevelandu",
+      "B": "Pittsburghu",
+      "C": "Buffalo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 321,
+    "question": "Koju otočnu skupinu su 1916.g. amerikanci kupili od danaca za 25 milijuna dolara?",
+    "answers": {
+      "A": "Djevičanski Otoci",
+      "B": "Farski Otoci",
+      "C": "Grenland"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 322,
+    "question": "Koju troslovnu kraticu najčešće koristimo za američki Federal Reserve System?",
+    "answers": {
+      "A": "FRS",
+      "B": "FRA",
+      "C": "FED"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 323,
+    "question": "Theodore Roosevelt je za svog predsjedanja SAD-om otpočeo gradnju kojeg kanala?",
+    "answers": {
+      "A": "Panamskog",
+      "B": "Nikaragvanskog",
+      "C": "Kielskog"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 324,
+    "question": "Po kojem cvijetu ime nosi vrt u sklopu Bijele Kuće u SAD-u?",
+    "answers": {
+      "A": "Magnoliji",
+      "B": "Ruži",
+      "C": "Tulipanu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 325,
+    "question": "Ljubavna veza sa sekretaricom Lucy Mercer, ostala je tajna do kraja života kojeg američkog predsjednika?",
+    "answers": {
+      "A": "Warren G. Harding",
+      "B": "Franklin Delano Roosevelt",
+      "C": "Woodrow Wilson"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 326,
+    "question": "Koje marke je bio parni automobil kojim se vozio američki predsjednik William McKinley?",
+    "answers": {
+      "A": "Locomobile",
+      "B": "White Steamer",
+      "C": "Stanley Steamer"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 330,
+    "question": "Kao kandidat koje stranke je Grover Cleveland osvojio svoja dva predsjednička mandata u SAD-u?",
+    "answers": {
+      "A": "Republikanske",
+      "B": "Demokratske",
+      "C": "Populističke"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 333,
+    "question": "Rat sa kojom državom je Ulysses S. Grant opisao kao 'zločin radi kojeg je Bog Ameriku kaznio građanskim ratom'?",
+    "answers": {
+      "A": "Meksikom",
+      "B": "Španjolskom",
+      "C": "Velikom Britanijom"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 334,
+    "question": "Tijekom 1. svjetskog rata, Njemci su Meksiku ponudili savez gdje bi im pomogli vratiti teritorij koji su meksikanci izgubili za vrijeme rata sa SAD-om. Sve je počelo sa jednim brzojavom koji je presrela britanska tajna služba a on je ujedno i označio američki ulazak u 1. svjetski rat. Brzojav je ostao zapamćen po kojem prezimenu njemca koji ga je i poslao?",
+    "answers": {
+      "A": "Bethmann Hollweg",
+      "B": "Zimmermann",
+      "C": "Ludendorff"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 341,
+    "question": "Kada je Ulysses S. Grant posjećivao mnoge države u sklopu svoje svjetske turneje, posjetio je i državu, ali i kraljevstvo koje se danas zove Tajland, to se dogodilo 1879.g. a u to vrijeme Tajland se formalno zvao kako?",
+    "answers": {
+      "A": "Burma",
+      "B": "Siam",
+      "C": "Annam"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 342,
+    "question": "Prezime kojeg američkog predsjednika možemo pronaći uz obalu jezera Erie, jednog od 'velikih' sjevernoameričkih jezera?",
+    "answers": {
+      "A": "Monroe",
+      "B": "Madison",
+      "C": "Cleveland"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 343,
+    "question": "Koliko je osoba koje su bili američki predsjednici dobilo Nobela za mir?",
+    "answers": {
+      "A": "4",
+      "B": "3",
+      "C": "5"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 346,
+    "question": "Konferenciju održanu na slapovima Niagare u svibnju/maju i lipnju/junu 1914.g. u kanadskom gradu Niagara Falls održali su predstavnici triju država koje su diplomatskim putem pokušale spriječiti rat između SAD-a i Meksika nakon američke okupacije Veracruza. Po kojoj je troslovnoj kratici konferencija ostala upamćena ako znamo da su u njoj prva slova svake te države?",
+    "answers": {
+      "A": "ABC",
+      "B": "BAC",
+      "C": "ACB"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 352,
+    "question": "Velika Depresija i slom burze na Wall Streetu obilježili su mandat kojeg američkog predsjednika?",
+    "answers": {
+      "A": "Calvina Coolidgea",
+      "B": "Herbert Hoover",
+      "C": "Franklina D. Roosevelta"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 353,
+    "question": "Prezime 25-og predsjednika SAD-a, Williama McKinleyja na karti možemo pronaći i kao najvišu točku Sjevernoameričkog kontinenta, ali u granicama koje savezne države?",
+    "answers": {
+      "A": "Aljaske",
+      "B": "Washingtona",
+      "C": "Montane"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 354,
+    "question": "'Jučer, 7 prosinca (decembra), 1941.g. je datum koji će ostati zapamćen kao dan sramote' je izjava Franklina D. Roosevelta kojom su SAD ušle u 2. svjetski rat, nakon japanskog napada na koju luku?",
+    "answers": {
+      "A": "Manilu",
+      "B": "Pearl Harbor",
+      "C": "Wake Island"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 355,
+    "question": "Alphonso Taft je otac američkog predsjednika Williama H. Tafta ali i osnivač kojeg tajnog studentskog društva koje djeluje na sveučilištu Yale?",
+    "answers": {
+      "A": "Scroll and Key",
+      "B": "Wolf's Head",
+      "C": "Skull and Bones"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 356,
+    "question": "Koje tajno društvo tražimo ako znamo da mu je član bio 27. predsjednik SAD-a William H. Taft. To društvo je 'su'osnovao njegov otac Alphonso a danas ih se povezuje sa mnogim teorijama zavjere?",
+    "answers": {
+      "A": "Skull and Bones",
+      "B": "Scroll and Key",
+      "C": "Wolf's Head"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 357,
+    "question": "Kojeg američkog predsjednika tražimo ako znamo da mu je prethodnik bio Woodrow Willson a nasljednik Calvin Coolidge?",
+    "answers": {
+      "A": "William Howard Taft",
+      "B": "Herbert Hoover",
+      "C": "Warren Gamaliel Harding"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 358,
+    "question": "Koje ime koristimo za ekonomski pogram koji je kao riješenje za veliku ekonomsku krizu uveo Franklin Delano Roosevelt?",
+    "answers": {
+      "A": "Fair Deal",
+      "B": "New Deal",
+      "C": "Square Deal"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 359,
+    "question": "14. kolovoza (augusta) 1941.g. Roosevelt i Churchill su potpisali koju povelju?",
+    "answers": {
+      "A": "Atlantsku",
+      "B": "Casablanšku",
+      "C": "Teheransku"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 361,
+    "question": "Predsjednik Herbert Hoover je naredio svojoj administraciji da sruše i optuže kojeg 'vladara' Chicaga?",
+    "answers": {
+      "A": "Al Capone",
+      "B": "Johnny Torrio",
+      "C": "Bugs Moran"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 362,
+    "question": "Naomi Biden, Tricia Nixon i Alice Roosevelt su sve vjenčane u kojoj poznatoj američkoj građevini?",
+    "answers": {
+      "A": "Capitolu",
+      "B": "Bijeloj Kući",
+      "C": "Blair Houseu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 364,
+    "question": "O Kojem se američkom predsjedniku radi, ako znamo da su mu prethodnici bili Arthur i Harrison, a naljednici Harrison i McKinkey?",
+    "answers": {
+      "A": "Benjamin Harrison",
+      "B": "William McKinley",
+      "C": "Grover Cleveland"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 366,
+    "question": "U kojem su gradu na poluotoku Krimu, 1945.g. svjetske sile (Sovjetski Savez, Velika Britanija, SAD) odlučivale o svjetskom poretku nakon 2. svjetskog rata?",
+    "answers": {
+      "A": "Sevastopolj",
+      "B": "Simferopolj",
+      "C": "Jalta"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 367,
+    "question": "Theodore Roosevelt je 1907.g. dobio koju nagradu?",
+    "answers": {
+      "A": "Pulitzerovu",
+      "B": "Nobelovu",
+      "C": "Carnegiejevu medalju"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 372,
+    "question": "Na kojem je manje poznatom američkom otoku, skupina bankara i političara u tajnosti donijela odluku o stvaranju američkih federalnih rezervi, koje su kao 'zakonite' postale 1913.g.?",
+    "answers": {
+      "A": "Mackinac",
+      "B": "Jekyill",
+      "C": "Nantucket"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 377,
+    "question": "U kojem kalifornijskom gradu umire Warren G. Harding, 29. predsjednik SAD-a",
+    "answers": {
+      "A": "San Francisco",
+      "B": "Los Angelesu",
+      "C": "Sacramentu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 378,
+    "question": "Theodore Roosevelt je 1907.g. dobio Nobelovu nagradu za mir zbog posredovanja u okončanju Ruskog rata s kojim carstvom?",
+    "answers": {
+      "A": "Osmanskim",
+      "B": "Njemačkim",
+      "C": "Japanskim"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 381,
+    "question": "Američki predsjednik Theodore Roosevelt je bio strastveni planinar pa je bio član i kojeg britanskog kluba planinara?",
+    "answers": {
+      "A": "Scottish Mountaineering Club",
+      "B": "Alpine Club",
+      "C": "Climbers' Club"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 384,
+    "question": "Kojeg je sijamskog kralja upoznao 18. predsjednik SAD-a Ulysses S. Grant?",
+    "answers": {
+      "A": "Mongkuta",
+      "B": "Vajiravudha",
+      "C": "Chulalongkorna"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 386,
+    "question": "Koju je poznatu građevinu, smještenu uz rijeku Jamunu u Indiji, Ulysses S. Grant posjetio u sklopu svog putovanja po svijetu?",
+    "answers": {
+      "A": "Crvenu tvrđavu",
+      "B": "Taj Mahal",
+      "C": "Humayunovu grobnicu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 390,
+    "question": "Radnja filma Dobar, Loš, Zao je smještena u vrijeme kojeg američkog predsjednika?",
+    "answers": {
+      "A": "Jamesa Buchanana",
+      "B": "Andrewa Johnsona",
+      "C": "Abrahama Lincolna"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 392,
+    "question": "Prije nego ga je promijenio, ime kojeg američkog predsjednika je bilo Hyram?",
+    "answers": {
+      "A": "Ulysses Simpson Grant",
+      "B": "Rutherford B. Hayes",
+      "C": "Millard Fillmore"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 393,
+    "question": "Koju su utvrdu branili William Travis, James Bowie i Davy Crockett?",
+    "answers": {
+      "A": "Goliad",
+      "B": "Alamo",
+      "C": "Presidio La Bahía"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 394,
+    "question": "Koje žensko ime tražimo ako znamo da je njime nazvan brod koji je 1820.g. preveo slobodne robove iz SAD-a u Afriku, te brod koji je iste godine preveo zarobljenike iz Europe u Australiju?",
+    "answers": {
+      "A": "Mary",
+      "B": "Caroline",
+      "C": "Elizabeth"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 395,
+    "question": "Na kakvoj se geografskoj cjelini nalazi Empire State Building?",
+    "answers": {
+      "A": "Otoku",
+      "B": "Poluotoku",
+      "C": "Delti"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 397,
+    "question": "Koje životinje su bili 'Leopard' i 'Linden' pokloni Ulysses S. Grantu od strane sultana Abdula Hamida II. u vrijeme Grantove svjetske turneje te posjete Istanbulu?",
+    "answers": {
+      "A": "Arapski hrtovi",
+      "B": "Konji",
+      "C": "Sokolovi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 400,
+    "question": "Koje godine se dogodila legendarna bitka u kojoj su meksikanci osvojili utvrdu Alamo?",
+    "answers": {
+      "A": "1835",
+      "B": "1836",
+      "C": "1837"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 401,
+    "question": "Ulysses S. Grant je tijekom svoje svjetske turneje, u Madridu, svjedočio neuspjelom pokušaju ubojstva kojeg kralja?",
+    "answers": {
+      "A": "Amadea I.",
+      "B": "Alfonsa XII.",
+      "C": "Izabele II."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 403,
+    "question": "Koja država je bila prva strana država koju je jedan američki predsjednik posjetio dok je još imao aktivan mandat?",
+    "answers": {
+      "A": "Meksiko",
+      "B": "Panama",
+      "C": "Kuba"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 404,
+    "question": "Mandat američkog predsjednika Johna Tylera obilježio je incident na parnoj korveti američke ratne mornarice na kojoj je, prilikom ceremonijalne plovidbe rijekom Potomac 1844.g., eksplodirao jedan od topova te usmrtio 6 osoba. Kako se zvao taj brod, ako znamo da ime dijeli s jednim uglednim američkim sveučilištem?",
+    "answers": {
+      "A": "USS Princeton",
+      "B": "USS Harvard",
+      "C": "USS Yale"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 405,
+    "question": "U vrijeme kojeg po redu svog mandata je ubijen Abraham Lincoln",
+    "answers": {
+      "A": "Prvog",
+      "B": "Trećeg",
+      "C": "Drugog"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 407,
+    "question": "Koje ime dijele jedan planinski tjesnac u Meksiku koji je bio poprište bitke u meksičko - američkom ratu te bivša distribucijska kuća Walta Disneyja",
+    "answers": {
+      "A": "Buena Vista",
+      "B": "Monterrey",
+      "C": "Veracruz"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 410,
+    "question": "Amerikanci su kupili Louisianu od Francuza, otok Manhattan od Indijanaca, a Aljasku od kojeg carstva?",
+    "answers": {
+      "A": "Ruskog",
+      "B": "Britanskog",
+      "C": "Španjolskog"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 412,
+    "question": "Kako se zove planinski prolaz kod kojeg su se 1847 g. sukobile američke snage sa, tada budućim predsjednikom amerike Zacharyjom Taylorom i meksičke snage pod vodstvom Antonia Lopeza de Santa Anna?",
+    "answers": {
+      "A": "Angostura",
+      "B": "Buena Vista",
+      "C": "Saltillo"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 417,
+    "question": "Gerald Ford i Millard Fillmore su jedini američki predsjednici koji su prisegnuli na mandat u kakvoj godini?",
+    "answers": {
+      "A": "Prijestupnoj",
+      "B": "Izbornoj",
+      "C": "Parnoj"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 418,
+    "question": "Bitka kod kojeg 'prolaza', u američkom građanskom ratuj je snimljena kao 'u prolazu' u filmu Dobar, Loš, Zao?",
+    "answers": {
+      "A": "Cumberland Gap",
+      "B": "Prolaz Glorieta",
+      "C": "Thoroughfare Gap"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 419,
+    "question": "'Sewardova ludost' nije bolest već pojam koji se veže za kupnju kojeg teritorija?",
+    "answers": {
+      "A": "Floride",
+      "B": "Aljaske",
+      "C": "Louisiane"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 420,
+    "question": "Američki građanski rat je počeo napadom zemalja konfederacije na koju utvrdu u Južnoj Karolini?",
+    "answers": {
+      "A": "Fort Moultrie",
+      "B": "Fort Pulaski",
+      "C": "Fort Sumter"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 423,
+    "question": "Koji američki predsjednik, samo 2 mjeseca prije svoje inauguracije doživljava željezničku nesreću u kojoj mu pogiba 11-ogodišnji sin?",
+    "answers": {
+      "A": "James Buchanan",
+      "B": "Millard Fillmore",
+      "C": "Franklin Pierce"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 425,
+    "question": "Najveća bitka američkog građanskog rata se dogodila u saveznoj državi Pennsylvaniji, u blizini kojeg grada?",
+    "answers": {
+      "A": "Harrisburga",
+      "B": "Gettysburga",
+      "C": "Lancastera"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 426,
+    "question": "U vrijeme kojeg je američkog predsjednika započeta izgradnja 169 metara visokog Washingtonovog spomenika?",
+    "answers": {
+      "A": "Zachary Taylor",
+      "B": "James Knox Polk",
+      "C": "Millard Fillmore"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 430,
+    "question": "Prezime kojeg američkog predsjednika se piše kao ime jednog glumca koji je utjelovio agenta 007?",
+    "answers": {
+      "A": "Ford",
+      "B": "Pierce",
+      "C": "Carter"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 438,
+    "question": "Koje je ime Thomas Jefferson dao svom imanju u Charlottesvilleu na kojem se i danas nalazi vila, na 260m visokom brdu?",
+    "answers": {
+      "A": "Monticello",
+      "B": "Mount Vernon",
+      "C": "Montpelier"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 439,
+    "question": "Od koje godine je u uporabi Veliki pečat Sjedinjenih Američkih Država (Great Seal of the US)?",
+    "answers": {
+      "A": "1778 .",
+      "B": "1782.",
+      "C": "1786 ."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 442,
+    "question": "Na području kojeg su se današnjeg američkog grada, blizu Bostona, rodila dva američka predsjednika, otac i sin, John i John Quincy Adams?",
+    "answers": {
+      "A": "Braintree",
+      "B": "Quincy",
+      "C": "Milton"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 448,
+    "question": "Na samo jednoj novčanici američkog dolara se nalaze obje strane Velikog Pečata, a ona je koje nominalne vrijednosti?",
+    "answers": {
+      "A": "1 dolar",
+      "B": "2 dolara",
+      "C": "5 dolara"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 449,
+    "question": "'Athenaeum Portrait' je nedovršena slika Gilberta Stuarta iz 1796.g. koja prikazuje lik Georga Washingtona, a poslužila je i kao inspiracija za dolar koje nominalne vrijednosti?",
+    "answers": {
+      "A": "2 dolara",
+      "B": "1 dolar",
+      "C": "5 dolara"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 450,
+    "question": "Na grbu koje države nalazimo latinske natpise 'e pluribus unum', 'novus ordo seclorum' i 'annuit cœptis'?",
+    "answers": {
+      "A": "SAD-a",
+      "B": "Meksika",
+      "C": "Kanade"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 454,
+    "question": "U kojoj je saveznoj državi rođen treći predsjednik SAD-a?",
+    "answers": {
+      "A": "Massachusettsu",
+      "B": "Virginiji",
+      "C": "Pennsylvaniji"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 455,
+    "question": "Koji broj ćemo uvijek dobiti ako na grbu SAD-a zbrajamo strijele te listove i plodove masline koje drži orao, redove piramide, sve strane trake s natpisom 'Novus ordo seclorum', sva crveno-bijela polja na štitu, broj slova u geslu iznad orla i broj zvijezdica na grbu?",
+    "answers": {
+      "A": "12",
+      "B": "14",
+      "C": "13"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 459,
+    "question": "Po kojem je alkoholnom piću ime dobila revolucija koja se protivila Georgeu Washingtonu i njegovu uvođenju poreza na žestoka pića 1791.g.?",
+    "answers": {
+      "A": "Rumu",
+      "B": "Viskiju",
+      "C": "Džinu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 463,
+    "question": "Kip kojeg američkog predsjednika se nalazi u centru Lafayette Square-a, u blizini Bijele Kuće?",
+    "answers": {
+      "A": "Andrew Jackson",
+      "B": "George Washington",
+      "C": "Ulysses S. Grant"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 465,
+    "question": "U 7-om mjesecu koje godine je potpisana i usvojena američka deklaracija nezavisnosti?",
+    "answers": {
+      "A": "1775.",
+      "B": "1776.",
+      "C": "1777."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 472,
+    "question": "Washington, Jefferson, Lincoln i Roosevelt, zajedno se nalaze isklesani u liticama koje planine?",
+    "answers": {
+      "A": "Stone Mountain",
+      "B": "Black Elk Peak",
+      "C": "Rushmore"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 474,
+    "question": "Predsjednici Thomas Jefferson i John Adams su umrli isti dan 4. srpnja (jula) na koju okruglu obljetnicu proglašenja deklaracije o neovisnosti?",
+    "answers": {
+      "A": "50-u",
+      "B": "40-u",
+      "C": "60-u"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 475,
+    "question": "Na slavnoj slici Emanuela Leutza, George Washington prelazi koju zaleđenu rijeku?",
+    "answers": {
+      "A": "Hudson",
+      "B": "Delaware",
+      "C": "Potomac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 476,
+    "question": "'One if by land, two if by sea' je fraza koju vežemo uz početak američkog rata za neovisnost. Vezana je uz Crkvu Old North koja se nalazi u kojem gradu?",
+    "answers": {
+      "A": "Philadelphiji",
+      "B": "New Yorku",
+      "C": "Bostonu"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 477,
+    "question": "U kojem je američkom gradu, potpisana deklaracija nezavisnosti?",
+    "answers": {
+      "A": "Boston",
+      "B": "Philadelphia",
+      "C": "Baltimore"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 481,
+    "question": "U kojem gradu se nalazi sveučilište koje je 1819.g. zamislio i dizajnirao Thomas Jefferson?",
+    "answers": {
+      "A": "Richmondu",
+      "B": "Williamsburgu",
+      "C": "Charlottesvilleu"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 482,
+    "question": "Nakon prelaska kontinentalne vojske s Georgeom Washingtonom preko rijeke Delaware, kraj kojeg se mjesta, dan iza Božića, odvila bitka u kojoj Wahingtonova vojska ostvaruje jednu od ključnih pobjeda u ratu za neovisnost?",
+    "answers": {
+      "A": "Princetona",
+      "B": "Trentona",
+      "C": "Brandywinea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 483,
+    "question": "U kojem se američkom gradu nalazi George Washington Masonic National Memorial?",
+    "answers": {
+      "A": "Arlingtonu",
+      "B": "Aleksandriji",
+      "C": "Richmondu"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 485,
+    "question": "Glavni grad koje države je dobio ime po američkom predsjedniku Jamesu Monroeju, a osnovan je 1822.g. kao naselje za oslobođene robove iz SAD-a?",
+    "answers": {
+      "A": "Sijera Leonea",
+      "B": "Liberije",
+      "C": "Gambije"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 486,
+    "question": "Pod kojim je pseudonimom mladi Benjamin Franklin pisao eseje koje je slao na objave u novine 'New England Courant' osnovane od strane njegova brata?",
+    "answers": {
+      "A": "Silence Dogood",
+      "B": "Poor Richard",
+      "C": "Richard Saunders"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 488,
+    "question": "Član koje bratovštine je bio George Washington?",
+    "answers": {
+      "A": "Masonima",
+      "B": "Odd Fellowsima",
+      "C": "Sinovima slobode"
+    },
+    "correct_answer": "A"
+  }
+]
