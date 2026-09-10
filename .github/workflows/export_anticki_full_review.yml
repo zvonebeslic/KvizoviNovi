@@ -1,0 +1,33 @@
+name: Export Anticki Rim full review
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/export_anticki_full_review.yml'
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export compact review
+        run: |
+          python - <<'PY'
+          import json
+          p='AntickiRim.json'
+          raw=json.load(open(p,encoding='utf-8'))
+          data=json.loads(raw['content']) if isinstance(raw,dict) and 'content' in raw else raw
+          with open('ANTICKI_FULL_REVIEW.txt','w',encoding='utf-8') as f:
+              for i,q in enumerate(data,1):
+                  a=q.get('answers',{})
+                  c=q.get('correct_answer','?')
+                  f.write(f"{i:03d}|Q:{q.get('question','')}|A:{a.get('A','')}|B:{a.get('B','')}|C:{a.get('C','')}|CORRECT:{c}={a.get(c,'')}\n")
+          PY
+      - name: Commit review
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ANTICKI_FULL_REVIEW.txt
+          git commit -m 'Export Anticki Rim full review' || exit 0
+          git push
