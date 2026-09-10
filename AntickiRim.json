@@ -1542,7 +1542,7 @@
     "question": "Koji rimski car je u 3.st. podigao zidine oko Rima koje su okruživale svih 7 brežuljaka te bile duge 19km?",
     "answers": {
       "A": "Dioklecijan",
-      "B": "Probo",
+      "B": "Prob",
       "C": "Aurelijan"
     },
     "image": null,
@@ -1777,7 +1777,7 @@
     "answers": {
       "A": "Plovdiv",
       "B": "Sofija",
-      "C": "Stara Zagora"
+      "C": "Burgas"
     },
     "image": null,
     "correct_answer": "A"
@@ -2115,7 +2115,7 @@
     "question": "U mitridatskim ratovima protiv rimljana, kraljevstvo Pont je predvodio koji njihov kralj?",
     "answers": {
       "A": "Tigran II.",
-      "B": "Nikomeda IV.",
+      "B": "Nikomed IV.",
       "C": "Mitridat 6."
     },
     "image": null,
@@ -2155,7 +2155,7 @@
     "answers": {
       "A": "Istočnom",
       "B": "Zapadnom",
-      "C": "Ni jednom"
+      "C": "Pola-Pola"
     },
     "image": null,
     "correct_answer": "A"
@@ -2259,7 +2259,7 @@
     "answers": {
       "A": "Titov",
       "B": "Trajanov",
-      "C": "Septimija Severa"
+      "C": "Augustov"
     },
     "image": null,
     "correct_answer": "B"
@@ -2961,9 +2961,9 @@
     "topic": "AntickiRim",
     "question": "Koje godine prije Krista rimski senat proglašava Julija Cezara doživotnim diktatorom?",
     "answers": {
-      "A": "44.",
+      "A": "34.",
       "B": "45.",
-      "C": "46."
+      "C": "26."
     },
     "image": null,
     "correct_answer": "A"
@@ -2974,7 +2974,7 @@
     "topic": "AntickiRim",
     "question": "Uz koji današnji turski grad vežemo 'Bitku kod Magnezije' iz 2.st. pr. Kr. Između rimske republike i seleukidskog carstva?",
     "answers": {
-      "A": "Bergama",
+      "A": "Bergam",
       "B": "Izmir",
       "C": "Manisa"
     },
@@ -3000,9 +3000,9 @@
     "topic": "AntickiRim",
     "question": "Na koliko su ploča napisani prvi rimski zakoni?",
     "answers": {
-      "A": "10",
+      "A": "6",
       "B": "12",
-      "C": "14"
+      "C": "24"
     },
     "image": null,
     "correct_answer": "B"
@@ -3614,7 +3614,7 @@
     "answers": {
       "A": "Ktezifon",
       "B": "Seleukiju",
-      "C": "Hatra"
+      "C": "Hatru"
     },
     "image": null,
     "correct_answer": "A"
@@ -4224,7 +4224,7 @@
     "topic": "AntickiRim",
     "question": "Koji rimski zid spaja Firth of Forth sa Firth of Clyde?",
     "answers": {
-      "A": "Gask Ridge",
+      "A": "Aurelijanov zid",
       "B": "Hadrijanov zid",
       "C": "Antoninov zid"
     },
@@ -4278,7 +4278,7 @@
     "answers": {
       "A": "Dunav",
       "B": "Rajnu",
-      "C": "Savу"
+      "C": "Savu"
     },
     "image": null,
     "correct_answer": "A"
@@ -4498,7 +4498,7 @@
     "question": "Najzapadnija točka kontinentalne Europe je nekada bila i najzapadnija točka rimskog carstva. Rimljani su taj rt poznavali kao Promontorium Magnum, a kako se on danas zove?",
     "answers": {
       "A": "Cabo de São Vicente",
-      "B": "Cabo da Roca",
+      "B": "Cabo da Isle",
       "C": "Cabo de Roca"
     },
     "image": null,
@@ -6516,7 +6516,7 @@
     "question": "Na kojim se poljima odvila najvažnija bitka između Huna i Zapadnorimskog carstva u savezu sa Vizigotima?",
     "answers": {
       "A": "Panonskim",
-      "B": "Katalonskim",
+      "B": "Praškim",
       "C": "Katalaunskim"
     },
     "image": null,
