@@ -5473,12 +5473,12 @@
     "topic": "AntickiRim",
     "question": "Porazom kojeg makedonskog kralja, Makedonija postaje rimskom provincijom?",
     "answers": {
-      "A": "Perzeja",
+      "A": "Aleksandra II.",
       "B": "Filipa V.",
       "C": "Andriska"
     },
     "image": null,
-    "correct_answer": "A"
+    "correct_answer": "B"
   },
   {
     "type": "blitz",
@@ -5526,7 +5526,7 @@
     "topic": "AntickiRim",
     "question": "Koje je utvrđeno galsko naselje Cezar uspio osvojiti 52.g. pr. Kr.?",
     "answers": {
-      "A": "Aleziju",
+      "A": "Luteciju",
       "B": "Gergoviju",
       "C": "Avarik"
     },
