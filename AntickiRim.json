@@ -1318,7 +1318,7 @@
     "type": "blitz",
     "difficulty": 3,
     "topic": "AntickiRim",
-    "question": "Vijencem od koje biljke su bili krunjeni olimpijski pobjednici, učenjaci, pjesnici, vojskovođe te rimski carevi?",
+    "question": "Vijencem od koje biljke su bili krunjeni starorimski učenjaci, pjesnici, vojskovođe te rimski carevi?",
     "answers": {
       "A": "Masline",
       "B": "Lovora",
@@ -1533,7 +1533,7 @@
       "C": "Atena"
     },
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "A"
   },
   {
     "type": "blitz",
