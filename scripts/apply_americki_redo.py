@@ -4,18 +4,15 @@ ROOT='AmerickiPredsjednici.json'
 with open(ROOT,encoding='utf-8') as f:
     root=json.load(f)
 
-# Index root questions without touching the question text.
 qmap={}
 for i,q in enumerate(root):
     qmap.setdefault(q.get('question'),[]).append(i)
 
-# Apply all previously hand-reviewed answer blocks. Only answers and correct_answer are copied.
 files=[]
 base='redo/AmerickiPredsjednici.json'
 if os.path.exists(base): files.append(base)
 files += sorted(p for p in glob.glob('redo/AmerickiPredsjednici_*.json')
                 if '_source_index' not in p and '_manual_audit' not in p)
-# Manual blocks are the most carefully curated, so they override overlapping generic blocks.
 files += sorted(glob.glob('redo/manual/AmerickiPredsjednici_*.json'))
 
 applied=set()
@@ -37,7 +34,6 @@ for path in files:
         root[i]['correct_answer']=item['correct_answer']
         applied.add(i)
 
-# Fill the small uncovered 430-439 area with semantic answer sets, preserving exact question text.
 custom={
 "Prezime kojeg američkog predsjednika se piše kao ime jednog glumca koji je utjelovio agenta 007?": ({'A':'Pierce','B':'Ford','C':'Carter'},'A'),
 "Američki Senat je 9. travnja (aprila) 1867.g. ratificirao sporazum kojim je od rusije za 7,2mil. dolara kupljen koji teritorij?": ({'A':'Louisiana','B':'Aljaska','C':'Florida'},'B'),
@@ -55,16 +51,23 @@ for q,(answers,correct) in custom.items():
     if len(m)==1:
         i=m[0]; root[i]['answers']=answers; root[i]['correct_answer']=correct; applied.add(i)
 
-# Balance A/B/C globally and mix positions without changing any answer text.
+# Build an exactly balanced, well-mixed A/B/C target sequence with no runs of 3.
 n=len(root)
-counts={'A':n//3,'B':n//3,'C':n//3}
-for k in ['A','B','C'][:n%3]: counts[k]+=1
-pool=[k for k,v in counts.items() for _ in range(v)]
+remaining={'A':n//3,'B':n//3,'C':n//3}
+for k in ['A','B','C'][:n%3]:
+    remaining[k]+=1
 rng=random.Random(20260910)
-for _ in range(10000):
-    rng.shuffle(pool)
-    if all(not (pool[i]==pool[i-1]==pool[i-2]) for i in range(2,n)):
-        break
+pool=[]
+for i in range(n):
+    banned = pool[-1] if len(pool)>=2 and pool[-1]==pool[-2] else None
+    choices=[k for k in 'ABC' if remaining[k]>0 and k!=banned]
+    max_left=max(remaining[k] for k in choices)
+    best=[k for k in choices if remaining[k]>=max_left-1]
+    pick=rng.choice(best)
+    pool.append(pick)
+    remaining[pick]-=1
+assert sum(remaining.values())==0
+assert all(not (pool[i]==pool[i-1]==pool[i-2]) for i in range(2,n))
 
 for i,item in enumerate(root):
     old=item['answers']
@@ -73,12 +76,10 @@ for i,item in enumerate(root):
     wrong=[old[k] for k in ['A','B','C'] if k!=cur]
     target=pool[i]
     other=[k for k in ['A','B','C'] if k!=target]
-    item['answers']={target:correct_text, other[0]:wrong[0], other[1]:wrong[1]}
-    # write in canonical A/B/C key order
-    item['answers']={k:item['answers'][k] for k in ['A','B','C']}
+    remapped={target:correct_text, other[0]:wrong[0], other[1]:wrong[1]}
+    item['answers']={k:remapped[k] for k in ['A','B','C']}
     item['correct_answer']=target
 
-# Structural checks
 assert len(root)==n
 assert all(set(x['answers'])=={'A','B','C'} for x in root)
 assert all(x['correct_answer'] in x['answers'] for x in root)
