@@ -17,32 +17,22 @@ jobs:
 
           p=Path('AntickiRim.json')
           d=json.loads(p.read_text(encoding='utf-8'))
-          n=len(d)
-          if n != 589:
-              raise SystemExit(f'Expected 589 questions, got {n}')
+          if len(d) != 589:
+              raise SystemExit(f'Expected 589 questions, got {len(d)}')
 
-          labels=['A']*197 + ['B']*196 + ['C']*196
           rng=random.Random(20260910)
-
-          def good(seq):
-              for i in range(2, len(seq)):
-                  if seq[i]==seq[i-1]==seq[i-2]:
-                      return False
-              for i in range(0, len(seq)-29):
-                  c=Counter(seq[i:i+30])
-                  if max(c.values()) > 13 or min(c.values()) < 7:
-                      return False
-              return True
-
-          for _ in range(200000):
-              rng.shuffle(labels)
-              if good(labels):
-                  break
-          else:
-              raise SystemExit('Could not generate suitably mixed target sequence')
+          labels=[]
+          for _ in range(196):
+              block=['A','B','C']
+              rng.shuffle(block)
+              labels.extend(block)
+          # 588 questions gives 196 of each; add one extra A in a safe place.
+          insert_at=137
+          labels.insert(insert_at,'A')
 
           before_questions=[x['question'] for x in d]
           before_answer_sets=[sorted(x['answers'].values()) for x in d]
+          before_correct_texts=[x['answers'][x['correct_answer']] for x in d]
 
           for x,target in zip(d,labels):
               old=x['correct_answer']
@@ -56,6 +46,7 @@ jobs:
           assert after == Counter({'A':197,'B':196,'C':196}), after
           assert before_questions == [x['question'] for x in d]
           assert before_answer_sets == [sorted(x['answers'].values()) for x in d]
+          assert before_correct_texts == [x['answers'][x['correct_answer']] for x in d]
 
           seq=[x['correct_answer'] for x in d]
           max_run=1
@@ -63,10 +54,12 @@ jobs:
           for i in range(1,len(seq)):
               run = run+1 if seq[i]==seq[i-1] else 1
               max_run=max(max_run,run)
+          if max_run > 2:
+              raise SystemExit(f'Max run too high: {max_run}')
 
           p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
           Path('ANTICKI_REBALANCE_CHECK.txt').write_text(
-              f"TOTAL={n}\nA={after['A']}\nB={after['B']}\nC={after['C']}\nMAX_RUN={max_run}\nFIRST_60={''.join(seq[:60])}\n",
+              f"TOTAL=589\nA={after['A']}\nB={after['B']}\nC={after['C']}\nMAX_RUN={max_run}\nFIRST_90={''.join(seq[:90])}\n",
               encoding='utf-8')
       - run: |
           git config user.name "github-actions[bot]"
@@ -75,4 +68,3 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Rebalance AntickiRim answer positions"
           git push
-# trigger 2
