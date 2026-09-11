@@ -1,0 +1,19 @@
+name: Export Film 151-200
+on:
+  push:
+    paths: ['FILM_151_200_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/export_film_151_200.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add FILM_151_200_REVIEW.json
+          git commit -m "Izvezi Film 151-200 za pregled" || exit 0
+          git push
