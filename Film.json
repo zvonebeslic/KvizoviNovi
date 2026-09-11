@@ -723,9 +723,9 @@
     "topic": "Film",
     "question": "U kojoj trilogiji je hobbit Bilbo Baggins, glavni lik?",
     "answers": {
-      "A": "Gospodar prstenova",
-      "B": "Hobbit",
-      "C": "Kronike iz Narnije"
+      "A": "Gospodaru prstenova",
+      "B": "Hobitu",
+      "C": "Kronikama iz Narnije"
     },
     "image": null,
     "correct_answer": "B"
