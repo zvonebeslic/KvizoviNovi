@@ -1,0 +1,20 @@
+name: Fix Film batch 4
+on:
+  push:
+    paths:
+      - '.github/workflows/fix_film_batch4.yml'
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_film_batch4.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Film.json
+          git diff --cached --quiet || git commit -m "Popravi cetvrti paket Film pitanja"
+          git push
