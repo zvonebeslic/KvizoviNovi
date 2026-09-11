@@ -3015,8 +3015,8 @@
     "question": "Samo je jedna američka savezna država dobila ime po američkom predsjedniku, koja?",
     "answers": {
       "A": "Washington",
-      "B": "Jefferson",
-      "C": "Franklin"
+      "B": "Oregon",
+      "C": "Virginija"
     },
     "image": null,
     "correct_answer": "A"
@@ -3066,9 +3066,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "U kojoj je zgradi u Philadelphiji potpisana Deklaracija neovisnosti SAD-a?",
     "answers": {
-      "A": "Congress Hall",
+      "A": "Kongresna dvorana",
       "B": "Dvorana neovisnosti",
-      "C": "Carpenters' Hall"
+      "C": "Carpenterova dvorana"
     },
     "image": null,
     "correct_answer": "B"
@@ -3118,7 +3118,7 @@
     "topic": "AmerickiPredsjednici",
     "question": "Koja rijeka protječe pokraj Popes Creeka, rodnog mjesta Georga Washingtona, te kroz grad Washington DC?",
     "answers": {
-      "A": "James",
+      "A": "Hudson",
       "B": "Potomac",
       "C": "Rappahannock"
     },
@@ -3495,8 +3495,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Koji je muzejski kompleks u SAD-u osnovan u vrijeme predsjedanja Jamesa Knoxa Polka?",
     "answers": {
-      "A": "Library of Congress",
-      "B": "National Gallery of Art",
+      "A": "Willsonian",
+      "B": "Jacksonian",
       "C": "Smithsonian"
     },
     "image": null,
@@ -3757,8 +3757,8 @@
     "question": "Kako se zove zakon koji je SAD usvojio u vrijeme predsjedanja Chestera A. Arthura a označio je kraj zapošljavanja pomoću političkih veza te potakao ono po sposobnosti?",
     "answers": {
       "A": "Pendletonov zakon",
-      "B": "Civil Rights Act iz 1875.",
-      "C": "Interstate Commerce Act"
+      "B": "Madisonov zakon",
+      "C": "Rufusov zakon"
     },
     "image": null,
     "correct_answer": "A"
@@ -3913,7 +3913,7 @@
     "question": "William Henry je ime čovjeka koji je 18-om američkom predsjedniku, Ulysses S. Grantu 1884.g. posudio 150 000 dolara kako bi Grant spasio svoje investicije koje su počele propadati. No ipak neuspješno jer je Grant izgubio sve, a taj 'posuđivač' je član koje poznate američke obitelji?",
     "answers": {
       "A": "Vanderbilt",
-      "B": "Astor",
+      "B": "Rockefeller",
       "C": "Morgan"
     },
     "image": null,
@@ -5433,10 +5433,10 @@
     "type": "blitz",
     "difficulty": 3,
     "topic": "AmerickiPredsjednici",
-    "question": "Bitka kod kojeg 'prolaza', u američkom građanskom ratuj je snimljena kao 'u prolazu' u filmu Dobar, Loš, Zao?",
+    "question": "Bitka kod kojeg 'prolaza', u američkom građanskom ratu je snimljena kao 'u prolazu' u filmu Dobar, Loš, Zao?",
     "answers": {
       "A": "Cumberland Gap",
-      "B": "Prolaz Glorieta",
+      "B": "Glorieta Gap",
       "C": "Thoroughfare Gap"
     },
     "image": null,
@@ -5657,7 +5657,7 @@
     "question": "Kako se zvao prvi rat koji su Sjedinjene Američke Države vodile na stranom tlu?",
     "answers": {
       "A": "Meksičko-američki rat",
-      "B": "Drugi berberski rat",
+      "B": "Drugi gerilski rat",
       "C": "Prvi berberski rat"
     },
     "image": null,
