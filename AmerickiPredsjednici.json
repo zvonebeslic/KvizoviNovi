@@ -177,8 +177,8 @@
     "topic": "AmerickiPredsjednici",
     "question": "Tko je bio prvi afroamerički predsjednik SAD-a",
     "answers": {
-      "A": "Colin Powell",
-      "B": "Jesse Jackson",
+      "A": "John Quincy Adams",
+      "B": "Woodrow Wilson",
       "C": "Barack Obama"
     },
     "image": null,
@@ -218,7 +218,7 @@
     "answers": {
       "A": "Hladnog rata",
       "B": "Drugog svjetskog rata",
-      "C": "Rata protiv terorizma"
+      "C": "Prvog svjetskog rata"
     },
     "image": null,
     "correct_answer": "A"
@@ -412,7 +412,7 @@
     "question": "Koje ime je nosio Obamin zakon o općem i obaveznom zdravstvenom osiguranju?",
     "answers": {
       "A": "Obamacare",
-      "B": "Medicare",
+      "B": "Usaid",
       "C": "Medicaid"
     },
     "image": null,
@@ -698,9 +698,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Sa kojeg otoka se u Ameriku doselio djed Johna F. Kennedyja?",
     "answers": {
-      "A": "Škotske",
+      "A": "Velike Britanije",
       "B": "Irske",
-      "C": "Isle of Mana"
+      "C": "Mana"
     },
     "image": null,
     "correct_answer": "B"
@@ -802,9 +802,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "S kojim predsjednikom SSSR-a se sastao John F. Kennedy?",
     "answers": {
-      "A": "Leonidom Brežnjevom",
-      "B": "Mihailom Gorbačovom",
-      "C": "Nikitom Sergejevičem Hruščovom"
+      "A": "Leonidom Brežnjevim",
+      "B": "Mihailom Gorbačovim",
+      "C": "Nikitom Sergejevičem Hruščovim"
     },
     "image": null,
     "correct_answer": "C"
@@ -998,7 +998,7 @@
     "question": "U kojem glavnom europskom gradu su se sastali Kennedy i Hruščov?",
     "answers": {
       "A": "Ženevi",
-      "B": "Beč",
+      "B": "Beču",
       "C": "Parizu"
     },
     "image": null,
@@ -1062,9 +1062,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Invaziju na koji kubanski zaljev je lansirao JFK 1961.g.?",
     "answers": {
-      "A": "Zaljev Guantánamo",
-      "B": "Zaljev Cárdenas",
-      "C": "Zaljev svinja"
+      "A": "Zaljev Riba",
+      "B": "Zaljev Krava",
+      "C": "Zaljev Svinja"
     },
     "image": null,
     "correct_answer": "C"
@@ -1090,7 +1090,7 @@
     "answers": {
       "A": "Fulgencija Batiste",
       "B": "Raúla Castra",
-      "C": "Fidel Castro"
+      "C": "Fidela Castra"
     },
     "image": null,
     "correct_answer": "C"
@@ -1167,8 +1167,8 @@
     "question": "Koji zid su istočnonjemačke vlasti podignule dok je u americi predsjedao John F. Kennedy?",
     "answers": {
       "A": "Berlinski zid",
-      "B": "Unutarnjonjemačku granicu",
-      "C": "Zid oko Brandenburških vrata"
+      "B": "Minhenski zid",
+      "C": "Kielski zid"
     },
     "image": null,
     "correct_answer": "A"
@@ -2157,7 +2157,7 @@
     "answers": {
       "A": "Octagon House",
       "B": "Dumbarton House",
-      "C": "Bijela Kuća"
+      "C": "White House"
     },
     "image": null,
     "correct_answer": "C"
@@ -2780,9 +2780,9 @@
     "topic": "AmerickiPredsjednici",
     "question": "Koji poglavica indijanskog plemena Ottawa dijeli ime s jednom automobilskom markom čija je proizvodnja ugašena 2009.g.?",
     "answers": {
-      "A": "Tecumseh",
+      "A": "Cadillac",
       "B": "Pontiac",
-      "C": "Black Hawk"
+      "C": "Mustang"
     },
     "image": null,
     "correct_answer": "B"
