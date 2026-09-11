@@ -1651,7 +1651,7 @@
     "topic": "Film",
     "question": "Koji je glumac utjelovio Charlieja Chaplina u biografskom filmu iz 1992. godine?",
     "answers": {
-      "A": "Robert Downey Jr",
+      "A": "Robert Downey Jr.",
       "B": "Johnny Depp",
       "C": "Adrien Brody"
     },
