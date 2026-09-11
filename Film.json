@@ -70,8 +70,8 @@
     "topic": "Film",
     "question": "Koji je film 1994. godine pobijedio 'Pakleni šund' u utrci za najbolji film?",
     "answers": {
-      "A": "Iskupljenje u Shawshanku",
-      "B": "Četiri vjenčanja i sprovod",
+      "A": "The Shawshank Redemption",
+      "B": "Four Weddings and a Funeral",
       "C": "Forrest Gump"
     },
     "image": null,
@@ -239,9 +239,9 @@
     "topic": "Film",
     "question": "U kojoj državi se odvija radnja filma 'Casablanca' iz 1942.?",
     "answers": {
-      "A": "Maroko",
-      "B": "Alžir",
-      "C": "Tunis"
+      "A": "Maroku",
+      "B": "Alžiru",
+      "C": "Tunisu"
     },
     "image": null,
     "correct_answer": "A"
@@ -895,7 +895,7 @@
     "answers": {
       "A": "Pinokio",
       "B": "Fantazija",
-      "C": "Snjeguljica i sedam patuljak"
+      "C": "Snjeguljica i sedam patuljaka"
     },
     "image": null,
     "correct_answer": "C"
@@ -919,9 +919,9 @@
     "topic": "Film",
     "question": "U Velom Mistu je bio Jozo, u Jelenku je bio Mate, u Prosjacima i sinovima je bio Divac. Kojeg glumca tražimo?",
     "answers": {
-      "A": "Boris Dvornik",
+      "A": "Borisa Dvornika",
       "B": "Špiru Guberinu",
-      "C": "Ivica Vidović"
+      "C": "Ivicu Vidovića"
     },
     "image": null,
     "correct_answer": "B"
@@ -1051,7 +1051,7 @@
     "question": "Koji film prati povijest stvaranja Facebooka?",
     "answers": {
       "A": "Steve Jobs",
-      "B": "The Founder",
+      "B": "Osnivač",
       "C": "Društvena mreža"
     },
     "image": null,
@@ -1247,9 +1247,9 @@
     "topic": "Film",
     "question": "U kojem gradu žive 'Prijatelji' (Friends)?",
     "answers": {
-      "A": "Chicago",
-      "B": "Boston",
-      "C": "New York"
+      "A": "Chicagu",
+      "B": "Bostonu",
+      "C": "New Yorku"
     },
     "image": null,
     "correct_answer": "C"
@@ -1261,8 +1261,8 @@
     "question": "Koji je film 1929. prvi osvojio Oscara za najbolji film?",
     "answers": {
       "A": "Krila",
-      "B": "Sunrise",
-      "C": "The Jazz Singer"
+      "B": "Izlazak sunca",
+      "C": "Pjevač jazza"
     },
     "image": null,
     "correct_answer": "A"
@@ -1338,9 +1338,9 @@
     "topic": "Film",
     "question": "Iz koje je zemlje redatelj Bong Joon-ho, redatelj filma 'Parazit'?",
     "answers": {
-      "A": "Južna Koreja",
-      "B": "Japan",
-      "C": "Kina"
+      "A": "Južne Koreje",
+      "B": "Japana",
+      "C": "Kine"
     },
     "image": null,
     "correct_answer": "A"
@@ -1717,9 +1717,9 @@
     "topic": "Film",
     "question": "U kojem zatvoru završava Andy Dufresne nakon što ubije svoju suprugu i njenog ljubavnika?",
     "answers": {
-      "A": "Alcatraz",
-      "B": "Sing Sing",
-      "C": "Shawshank"
+      "A": "Alcatrazu",
+      "B": "Sing Singu",
+      "C": "Shawshanku"
     },
     "image": null,
     "correct_answer": "C"
@@ -2095,9 +2095,9 @@
     "topic": "Film",
     "question": "Koji je film poznat po rečenici: 'Life is like a box of chocolates'?",
     "answers": {
-      "A": "Zelena milja",
+      "A": "The Green Mile",
       "B": "Forrest Gump",
-      "C": "Terminal"
+      "C": "The Terminal"
     },
     "image": null,
     "correct_answer": "B"
@@ -2109,7 +2109,7 @@
     "question": "Koji je film prvi u povijesti zaradio više od 2 milijarde dolara?",
     "answers": {
       "A": "Titanic",
-      "B": "Osvetnici: Završnica",
+      "B": "Avengers: Endgame",
       "C": "Avatar"
     },
     "image": null,
@@ -2225,8 +2225,8 @@
     "topic": "Film",
     "question": "Koji je film poznat po rečenici: 'E.T. phone home'?",
     "answers": {
-      "A": "Bliski susreti treće vrste",
-      "B": "Gremlini",
+      "A": "Close Encounters of the Third Kind",
+      "B": "Gremlins",
       "C": "E.T."
     },
     "image": null,
@@ -2264,9 +2264,9 @@
     "topic": "Film",
     "question": "U filmu 'Joker', u kojoj četvrti New Yorka Arthur Fleck pleše stepenicama, koje su kasnije postale turistička atrakcija?",
     "answers": {
-      "A": "Queens",
-      "B": "Brooklyn",
-      "C": "Bronx"
+      "A": "Queensu",
+      "B": "Brooklynu",
+      "C": "Bronxu"
     },
     "image": null,
     "correct_answer": "C"
