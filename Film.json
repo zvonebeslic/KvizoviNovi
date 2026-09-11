@@ -738,7 +738,7 @@
     "answers": {
       "A": "Benedict Cumberbatch",
       "B": "Jude Law",
-      "C": "Robert Downey Jr"
+      "C": "Robert Downey Jr."
     },
     "image": null,
     "correct_answer": "C"
@@ -1180,8 +1180,8 @@
     "topic": "Film",
     "question": "U kojoj seriji susrećemo Pučanstvo, policajca i trgovca sličica sa svecima?",
     "answers": {
-      "A": "Velo Misto",
-      "B": "Malo misto",
+      "A": "Velo misto",
+      "B": "Naše malo misto",
       "C": "Prosjaci i sinovi"
     },
     "image": null,
