@@ -31,9 +31,9 @@
     "topic": "Film",
     "question": "U filmu 'Amélie', u kojem dijelu Pariza živi i radi glavna junakinja Amelie Poulain?",
     "answers": {
-      "A": "Le Marais",
-      "B": "Latin Quarter",
-      "C": "Montmartre"
+      "A": "Le Maraisu",
+      "B": "Latinskoj četvrti",
+      "C": "Montmartreu"
     },
     "image": null,
     "correct_answer": "C"
@@ -1208,8 +1208,8 @@
     "topic": "Film",
     "question": "Koji je američki gluhi glumac dobio oscara za ulogu u filmu 'Coda', igrajući ulogu Franka, gluhog oca obitelji Rossi?",
     "answers": {
-      "A": "Marlee Matlin",
-      "B": "Riz Ahmed",
+      "A": "Russell Harvard",
+      "B": "Daniel Durant",
       "C": "Troy Kotsur"
     },
     "image": null,
