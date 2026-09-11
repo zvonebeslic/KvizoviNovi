@@ -1,0 +1,502 @@
+[
+  {
+    "index": 51,
+    "question": "Koja je glumica osvojila Oscara za film 'Jadnici' (Les Misérables)?",
+    "answers": {
+      "A": "Amanda Seyfried",
+      "B": "Helena Bonham Carter",
+      "C": "Anne Hathaway"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 52,
+    "question": "U kultnom hororu 'Alien', kako se zove mačka koja preživi napad ksenomorfa na brodu?",
+    "answers": {
+      "A": "Jones",
+      "B": "Church",
+      "C": "Orion"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 53,
+    "question": "Tko glumi Ethana Hunta u serijalu 'Nemoguća misija'?",
+    "answers": {
+      "A": "Matt Damon",
+      "B": "Tom Cruise",
+      "C": "Jeremy Renner"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 54,
+    "question": "Kako se zove robot koji u filmu 'Interstellar' pomaže posadi svojom iskrenošću i humorom i sarkazmom?",
+    "answers": {
+      "A": "CASE",
+      "B": "KIPP",
+      "C": "TARS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 55,
+    "question": "Slinky, Bluey, Pluto i Pongo su animirani likovi koji predstavljaju koju životinju u stvarnom svijetu?",
+    "answers": {
+      "A": "Psa",
+      "B": "Mačku",
+      "C": "Konja"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 56,
+    "question": "U kojoj trilogiji je hobbit Bilbo Baggins, glavni lik?",
+    "answers": {
+      "A": "Gospodar prstenova",
+      "B": "Hobbit",
+      "C": "Kronike iz Narnije"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 57,
+    "question": "Koji glumac glumi Sherlocka Holmesa u filmovima Guyja Ritchieja?",
+    "answers": {
+      "A": "Benedict Cumberbatch",
+      "B": "Jude Law",
+      "C": "Robert Downey Jr"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 58,
+    "question": "U filmu 'Matrix', koju boju pilule Neo bira kako bi saznao istinu o svijetu u kojem živi?",
+    "answers": {
+      "A": "Crvenu pilulu",
+      "B": "Plavu pilulu",
+      "C": "Zelenu pilulu"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 59,
+    "question": "Tko je režirao 'Isijavanje' (The Shining)?",
+    "answers": {
+      "A": "Alfred Hitchcock",
+      "B": "Stanley Kubrick",
+      "C": "William Friedkin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 60,
+    "question": "Tko je utjelovio Nadu, u filmu 'Bitka na Neretvi'?",
+    "answers": {
+      "A": "Neda Arnerić",
+      "B": "Mira Stupica",
+      "C": "Milena Dravić"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 61,
+    "question": "Koji glumac tumači lik Iron Mana u Marvelovim filmovima?",
+    "answers": {
+      "A": "Robert Downey Jr.",
+      "B": "Chris Evans",
+      "C": "Mark Ruffalo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 62,
+    "question": "Kako se zove medvjed u filmu 'Knjiga o džungli'?",
+    "answers": {
+      "A": "Kenai",
+      "B": "Baloo",
+      "C": "Koda"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 63,
+    "question": "Vozilo XB Falcon Hardtop kojeg proizvođača je vozio Max Rockatansky?",
+    "answers": {
+      "A": "Holden",
+      "B": "Chevrolet",
+      "C": "Ford"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 64,
+    "question": "Koji je film poznat po rečenici: 'I'll be back'?",
+    "answers": {
+      "A": "Terminator",
+      "B": "Predator",
+      "C": "Commando"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 65,
+    "question": "Koji glumac glumi Thora u Marvelovim filmovima?",
+    "answers": {
+      "A": "Chris Evans",
+      "B": "Chris Hemsworth",
+      "C": "Chris Pratt"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 66,
+    "question": "Mowgli, Baloo i Bagheera su protagonisti kojeg Disneyjevog filma?",
+    "answers": {
+      "A": "Tarzan",
+      "B": "Kralj lavova",
+      "C": "Knjiga o džungli"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 67,
+    "question": "Tko je glumio Maximus Decimus Meridiusa u 'Gladijatoru' iz 2000. godine?",
+    "answers": {
+      "A": "Russell Crowe",
+      "B": "Joaquin Phoenix",
+      "C": "Gerard Butler"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 68,
+    "question": "Andrija 'Draš' Katalenić, selo, koje?",
+    "answers": {
+      "A": "Malo Misto",
+      "B": "Gruntovec",
+      "C": "Velo Misto"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 69,
+    "question": "Koji je prvi dugometražni animirani film Walta Disneyja?",
+    "answers": {
+      "A": "Pinokio",
+      "B": "Fantazija",
+      "C": "Snjeguljica i sedam patuljaka"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 70,
+    "question": "Koji mač je Aragorn dobio nakon što je ponovno iskovan od Narsila, kako bi u boj pozvao vojsku mrtvih?",
+    "answers": {
+      "A": "Anduril",
+      "B": "Sting",
+      "C": "Glamdring"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 71,
+    "question": "U Velom Mistu je bio Jozo, u Jelenku je bio Mate, u Prosjacima i sinovima je bio Divac. Kojeg glumca tražimo?",
+    "answers": {
+      "A": "Borisa Dvornika",
+      "B": "Špiru Guberinu",
+      "C": "Ivicu Vidovića"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 72,
+    "question": "Kako se zove ubojica iz serijala 'Noć vještica' (Halloween)?",
+    "answers": {
+      "A": "Jason Voorhees",
+      "B": "Freddy Krueger",
+      "C": "Michael Myers"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 73,
+    "question": "U filmu 'Sedam', koji od sedam smrtnih grijeha dolazi posljednji?",
+    "answers": {
+      "A": "Srditost",
+      "B": "Zavist",
+      "C": "Pohlepa"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 74,
+    "question": "Tko glumi glavnu ulogu u filmu 'Elvis' (2022)?",
+    "answers": {
+      "A": "Taron Egerton",
+      "B": "Austin Butler",
+      "C": "Miles Teller"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 75,
+    "question": "U filmu 'Početak' (Inception), koji predmet služi kao rekvizit Domu Cobbu kako bi znao sanja li?",
+    "answers": {
+      "A": "Novčić",
+      "B": "Kockica",
+      "C": "Zvrk"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 76,
+    "question": "Tko u filmu 'Pobješnjeli Max: Divlja cesta', glumi imperatoricu Furiosu?",
+    "answers": {
+      "A": "Charlize Theron",
+      "B": "Milla Jovovich",
+      "C": "Emily Blunt"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 77,
+    "question": "Tko je režirao 'Inception' i 'Interstellar'?",
+    "answers": {
+      "A": "Denis Villeneuve",
+      "B": "Christopher Nolan",
+      "C": "Ridley Scott"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 78,
+    "question": "Kako se zove brod u filmu 'Osmi putnik' (Alien)?",
+    "answers": {
+      "A": "Sulaco",
+      "B": "Prometheus",
+      "C": "Nostromo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 79,
+    "question": "Koji redatelj stoji iza 'Trilogije dolara', tri špageti-vesterna: 'Za šaku dolara' 'Za dolar više', i 'Dobar, Loš, Zao'?",
+    "answers": {
+      "A": "Sergio Leone",
+      "B": "Sergio Corbucci",
+      "C": "Sam Peckinpah"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 80,
+    "question": "Koji je originalni naziv psihološkog trilera 'Vrtoglavica'?",
+    "answers": {
+      "A": "Rebecca",
+      "B": "Vertigo",
+      "C": "Suspicion"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 81,
+    "question": "Koji film prati povijest stvaranja Facebooka?",
+    "answers": {
+      "A": "Pirati Silicijske doline",
+      "B": "Osnivač",
+      "C": "Društvena mreža"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 82,
+    "question": "Kako se zove lik kojeg usvajaju ubojice iz filmova 'Vrisak' (Scream)?",
+    "answers": {
+      "A": "Ghostface",
+      "B": "Leatherface",
+      "C": "Pinhead"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 83,
+    "question": "Kako se zove otac Lukea Skywalkera?",
+    "answers": {
+      "A": "Obi-Wan Kenobi",
+      "B": "Darth Vader",
+      "C": "Palpatine"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 84,
+    "question": "Tko glumi Jacka Dawsona u filmu 'Titanic'?",
+    "answers": {
+      "A": "Matt Damon",
+      "B": "Brad Pitt",
+      "C": "Leonardo DiCaprio"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 85,
+    "question": "Filmovi Ben-Hur, Titanic i Gospodar Prstenova: Povratak Kralja, su zajedno osvojili koliko Oscara?",
+    "answers": {
+      "A": "33",
+      "B": "30",
+      "C": "36"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 86,
+    "question": "Koja glumica tumači lik Katniss Everdeen?",
+    "answers": {
+      "A": "Shailene Woodley",
+      "B": "Jennifer Lawrence",
+      "C": "Emma Stone"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 87,
+    "question": "Tko je režirao 'Dunkirk', Ratni film iz 2017.?",
+    "answers": {
+      "A": "Sam Mendes",
+      "B": "Steven Spielberg",
+      "C": "Christopher Nolan"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 88,
+    "question": "Koja je glumica utjelovila Maleficent, u istoimenom filmu iz 2014.?",
+    "answers": {
+      "A": "Angelina Jolie",
+      "B": "Charlize Theron",
+      "C": "Cate Blanchett"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 89,
+    "question": "Partizanski bombaš, Boško Buha je na filmsko platno prenešen od strane kojeg hrvatskog redatelja?",
+    "answers": {
+      "A": "Veljka Bulajića",
+      "B": "Branka Bauera",
+      "C": "Kreše Golika"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 90,
+    "question": "Tko glumi 'Jokera' u istoimenom filmu iz 2019. godine?",
+    "answers": {
+      "A": "Heath Ledger",
+      "B": "Jared Leto",
+      "C": "Joaquin Phoenix"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 91,
+    "question": "U kojoj seriji susrećemo Pučanstvo, policajca i trgovca sličica sa svecima?",
+    "answers": {
+      "A": "Velo Misto",
+      "B": "Malo misto",
+      "C": "Prosjaci i sinovi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 92,
+    "question": "Koja je pjevačica imala glavnu ulogu u filmu 'A Star Is Born' iz 2018.?",
+    "answers": {
+      "A": "Beyoncé",
+      "B": "Lady Gaga",
+      "C": "Rihanna"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 93,
+    "question": "Koji je američki gluhi glumac dobio oscara za ulogu u filmu 'Coda', igrajući ulogu Franka, gluhog oca obitelji Rossi?",
+    "answers": {
+      "A": "Russell Harvard",
+      "B": "Daniel Durant",
+      "C": "Troy Kotsur"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 94,
+    "question": "Kako se zove izmišljeni grad u kojem živi Batman?",
+    "answers": {
+      "A": "Gotham",
+      "B": "Metropolis",
+      "C": "Central City"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 95,
+    "question": "Kako se zove zlikovac koji u Bondovu filmu 'Za smrt nema vremena' (No Time to Die) koristi nanorobote kao biološko oružje?",
+    "answers": {
+      "A": "Raoul Silva",
+      "B": "Lyutsifer Safin",
+      "C": "Le Chiffre"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 96,
+    "question": "U kojem gradu žive 'Prijatelji' (Friends)?",
+    "answers": {
+      "A": "Chicagu",
+      "B": "Bostonu",
+      "C": "New Yorku"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 97,
+    "question": "Koji je film 1929. prvi osvojio Oscara za najbolji film?",
+    "answers": {
+      "A": "Krila",
+      "B": "Izlazak sunca",
+      "C": "Pjevač jazza"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 98,
+    "question": "Kako se zove hotel u kojem se odvija radnja kultnog horora 'Isijavanje' (The Shining)?",
+    "answers": {
+      "A": "Bates Motel",
+      "B": "Overlook Hotel",
+      "C": "Stanley Hotel"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 99,
+    "question": "Koja glumica tumači lik Barbie u istoimenom filmu iz 2023. godine?",
+    "answers": {
+      "A": "Emma Stone",
+      "B": "Saoirse Ronan",
+      "C": "Margot Robbie"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 100,
+    "question": "Kako se zove fiktivno kraljevstvo u kojem se odvija radnja filma 'Crni Panter' (Black Panthera)?",
+    "answers": {
+      "A": "Wakanda",
+      "B": "Genosha",
+      "C": "Latveria"
+    },
+    "correct_answer": "A"
+  }
+]
