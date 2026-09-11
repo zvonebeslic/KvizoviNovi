@@ -1,0 +1,18 @@
+name: Fix Film batch 2
+on:
+  push:
+    paths:
+      - '.github/workflows/fix_film_batch2.yml'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_film_batch2.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Film.json
+          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Dodatno uredi odgovore u Film kvizu" && git push; fi
