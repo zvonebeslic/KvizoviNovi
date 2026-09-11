@@ -1,0 +1,19 @@
+name: Fix Film 151-end
+on:
+  push:
+    paths: ['FILM_151_END_FIX_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_film_151_end.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Film.json
+          git commit -m "Dovrsi pregled Film 151-177" || exit 0
+          git push
