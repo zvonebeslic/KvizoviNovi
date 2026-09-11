@@ -226,9 +226,9 @@
     "topic": "Film",
     "question": "Kako se zove robot pratitelj Lukea Skywalkera?",
     "answers": {
-      "A": "C-3PO",
+      "A": "K-2SO",
       "B": "BB-8",
-      "C": "R2 D2"
+      "C": "R2-D2"
     },
     "image": null,
     "correct_answer": "C"
@@ -423,7 +423,7 @@
     "question": "U kojem filmu Bill Murray proživljava isti dan iznova?",
     "answers": {
       "A": "Izgubljeni u prijevodu",
-      "B": "Scrooged",
+      "B": "Istjerivači duhova",
       "C": "Beskrajni dan"
     },
     "image": null,
@@ -618,7 +618,7 @@
     "topic": "Film",
     "question": "Radnja kojeg filma se odvija na fiktivnom mjesecu Pandora u zvjezdanom sustavu Alpha Centauri?",
     "answers": {
-      "A": "Dina",
+      "A": "Dune",
       "B": "Interstellar",
       "C": "Avatar"
     },
@@ -802,9 +802,9 @@
     "topic": "Film",
     "question": "Kako se zove medvjed u filmu 'Knjiga o džungli'?",
     "answers": {
-      "A": "Bagheera",
+      "A": "Kenai",
       "B": "Baloo",
-      "C": "Shere Khan"
+      "C": "Koda"
     },
     "image": null,
     "correct_answer": "B"
@@ -1482,7 +1482,7 @@
     "topic": "Film",
     "question": "Kako se zove kći Morticije i Gomeza Addams iz filma 'Obitelji Addams' (The Addams Family)?",
     "answers": {
-      "A": "Pugsley",
+      "A": "Debbie",
       "B": "Ophelia",
       "C": "Wednesday"
     },
@@ -1640,7 +1640,7 @@
     "answers": {
       "A": "Tom Hardy",
       "B": "Nicholas Hoult",
-      "C": "Hugh Keays Byrne"
+      "C": "Hugh Keays-Byrne"
     },
     "image": null,
     "correct_answer": "C"
@@ -2004,7 +2004,7 @@
     "topic": "Film",
     "question": "Mladog Potrku je glumio Stjepan Puljić. Tko je glumio odraslog Matana?",
     "answers": {
-      "A": "Rade Serbedžija",
+      "A": "Rade Šerbedžija",
       "B": "Boris Dvornik",
       "C": "Fabijan Šovagović"
     },
