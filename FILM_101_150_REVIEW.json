@@ -1,0 +1,502 @@
+[
+  {
+    "index": 101,
+    "question": "Medo, Šilo i Milo dijete su članovi čije družbe?",
+    "answers": {
+      "A": "Sinjeg galeba",
+      "B": "Pere Kvržice",
+      "C": "Smogovaca"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 102,
+    "question": "Koje robne marke su samovezujuće tenisice iz filma 'Povratak u budućnost 2' ?",
+    "answers": {
+      "A": "Adidas",
+      "B": "Reebok",
+      "C": "Nike"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 103,
+    "question": "Iz koje je zemlje redatelj Bong Joon-ho, redatelj filma 'Parazit'?",
+    "answers": {
+      "A": "Južne Koreje",
+      "B": "Japana",
+      "C": "Kine"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 104,
+    "question": "Kako se zove eksperimentalna svemirska letjelica u filmu 'Interstellar' kojom upravlja Joseph Cooper?",
+    "answers": {
+      "A": "Discovery One",
+      "B": "Endurance",
+      "C": "Nostromo"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 105,
+    "question": "Tko je režirao 'Pakleni šund' (Pulp Fiction)?",
+    "answers": {
+      "A": "Martin Scorsese",
+      "B": "David Fincher",
+      "C": "Quentin Tarantino"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 106,
+    "question": "Kako se preziva bogata obitelj u filmu 'Parazit'?",
+    "answers": {
+      "A": "Park",
+      "B": "Kim",
+      "C": "Lee"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 107,
+    "question": "Koliko braće ima Buco Vragec, najmlađi od svih Smogovaca?",
+    "answers": {
+      "A": "4",
+      "B": "5",
+      "C": "6"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 108,
+    "question": "Koji glumac utjelovljuje lik i djelo Indiane Jonesa?",
+    "answers": {
+      "A": "Sean Connery",
+      "B": "Tom Selleck",
+      "C": "Harrison Ford"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 109,
+    "question": "Kako se zove najstariji brat obitelji Vragec iz Smogovaca?",
+    "answers": {
+      "A": "Dragec",
+      "B": "Mazalo",
+      "C": "Dado"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 110,
+    "question": "Film 'Dunkirk' govori o evakuaciji savezničkih vojnika iz kojeg rata?",
+    "answers": {
+      "A": "Prvog svjetskog rata",
+      "B": "Drugog svjetskog rata",
+      "C": "Korejskog rata"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 111,
+    "question": "Kako se zove fiktivna afrička država iz koje princ Akeem Joffer odlazi u New York u filmu 'Princ otkriva Ameriku' (Coming to America)?",
+    "answers": {
+      "A": "Wakanda",
+      "B": "Genovia",
+      "C": "Zamunda"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 112,
+    "question": "Koji filmski serijal prati boksačku karijeru Roberta Balboe?",
+    "answers": {
+      "A": "Rocky",
+      "B": "Creed",
+      "C": "Raging Bull"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 113,
+    "question": "Koji je film Ridleyja Scotta inspiriran stvarnim događajima o otmici unuka J. Paula Gettyja?",
+    "answers": {
+      "A": "Američki gangster",
+      "B": "Sav novac svijeta",
+      "C": "Kuća Gucci"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 114,
+    "question": "Kako se zove kći Morticije i Gomeza Addams iz filma 'Obitelji Addams' (The Addams Family)?",
+    "answers": {
+      "A": "Debbie",
+      "B": "Ophelia",
+      "C": "Wednesday"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 115,
+    "question": "Koji je glumac posudio glas lavu Mufasi i u originalu i u remakeu 'Kralj Lavova'?",
+    "answers": {
+      "A": "James Earl Jones",
+      "B": "Jeremy Irons",
+      "C": "Samuel L. Jackson"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 116,
+    "question": "Kondukter Krstić, Miško, Lovac, Brka, Pjevač i ostali, autobusom putuju za koji grad?",
+    "answers": {
+      "A": "Novi Sad",
+      "B": "Beograd",
+      "C": "Niš"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 117,
+    "question": "Tko je režirao 'Schindlerovu listu'?",
+    "answers": {
+      "A": "Roman Polanski",
+      "B": "Oliver Stone",
+      "C": "Steven Spielberg"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 118,
+    "question": "U kojem filmu glume Brad Pitt i Edward Norton kao osnivači jednog tajnog kluba?",
+    "answers": {
+      "A": "Klub boraca",
+      "B": "Sedam",
+      "C": "12 majmuna"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 119,
+    "question": "U animiranom filmu 'Coco', kako se zove most koji povezuje svijet živih i svijet mrtvih?",
+    "answers": {
+      "A": "Most duša",
+      "B": "Most od latica nevena",
+      "C": "Most svijeća"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 120,
+    "question": "U kojem se filmu pojavljuje 'Flux Capacitor'?",
+    "answers": {
+      "A": "Terminator",
+      "B": "Bill & Ted",
+      "C": "Povratak u budućnost"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 121,
+    "question": "Koji film Martina Scorsesea govori o taksistu iz New Yorka koji pokušava promijeniti svoj život?",
+    "answers": {
+      "A": "Taksist",
+      "B": "Dobri momci",
+      "C": "Kralj komedije"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 122,
+    "question": "Koja je glumica odigrala ulogu Vivian Ward, poznatiju kao 'Pretty Woman'?",
+    "answers": {
+      "A": "Sandra Bullock",
+      "B": "Julia Roberts",
+      "C": "Meg Ryan"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 123,
+    "question": "Od kojeg je izmišljenog metala napravljen štit Kapetana Amerike?",
+    "answers": {
+      "A": "Adamantija",
+      "B": "Urua",
+      "C": "Vibraniuma"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 124,
+    "question": "Kako se zove brod Kapetana Kuke u Disneyjevoj verziji 'Petra Pana'?",
+    "answers": {
+      "A": "Jolly Roger",
+      "B": "Black Pearl",
+      "C": "Queen Anne's Revenge"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 125,
+    "question": "Kako se zove mitsko biće koje u filmu 'Panov labirint' (Pan's Labyrnth) jede djecu i ima oči na dlanovima?",
+    "answers": {
+      "A": "Faun",
+      "B": "Blijedi čovjek",
+      "C": "Mandragora"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 126,
+    "question": "Koji glumac igra ulogu tiranina Immortan Joea u filmu 'Pobješnjeli Max: Divlja cesta' (Mad Max: Fury Road)?",
+    "answers": {
+      "A": "Tom Hardy",
+      "B": "Nicholas Hoult",
+      "C": "Hugh Keays-Byrne"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 127,
+    "question": "Koji je glumac utjelovio Charlieja Chaplina u biografskom filmu iz 1992. godine?",
+    "answers": {
+      "A": "Robert Downey Jr",
+      "B": "Johnny Depp",
+      "C": "Adrien Brody"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 128,
+    "question": "Koji glumac igra svećenika Lankestera koji pokušava istjerati đavla iz djevojčice Regan u klasiku 'Egzorcist'?",
+    "answers": {
+      "A": "Jason Miller",
+      "B": "Max von Sydow",
+      "C": "Lee J. Cobb"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 129,
+    "question": "Koji je film iz 1972. ovjekovječen rečenicom 'Piše Hund, ali piše i Mile'?",
+    "answers": {
+      "A": "Družba Pere Kvržice",
+      "B": "Vlak u snijegu",
+      "C": "Vuk samotnjak"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 130,
+    "question": "Kako se zove fiktivni otok na kojem se odvija radnja filma 'Jurassic Park' Stevena Spielberga?",
+    "answers": {
+      "A": "Isla Nublar",
+      "B": "Isla Sorna",
+      "C": "Skull Island"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 131,
+    "question": "Koji je film Alfreda Hitchcocka snimljen kao kadar iz jedne sobe s pogledom na dvorište i okolne zgrade?",
+    "answers": {
+      "A": "Vrtoglavica",
+      "B": "Prozor u dvorište",
+      "C": "Konop"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 132,
+    "question": "U kojem zatvoru završava Andy Dufresne nakon što ubije svoju suprugu i njenog ljubavnika?",
+    "answers": {
+      "A": "Alcatrazu",
+      "B": "Sing Singu",
+      "C": "Shawshanku"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 133,
+    "question": "Koji je glumac utjelovio Jokera u filmu 'Vitez tame'?",
+    "answers": {
+      "A": "Heath Ledger",
+      "B": "Joaquin Phoenix",
+      "C": "Jack Nicholson"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 134,
+    "question": "Tko glumi Jordana Belforta u filmu 'Vuk s Wall Streeta' (The Wolf of Wall Street)?",
+    "answers": {
+      "A": "Christian Bale",
+      "B": "Leonardo DiCaprio",
+      "C": "Matt Damon"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 135,
+    "question": "Tko postaje kralj lavova u istoimenom Disneyjevom crtiću nakon Mufasine tragične smrti te pobjede nad Scarom?",
+    "answers": {
+      "A": "Nala",
+      "B": "Kovu",
+      "C": "Simba"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 136,
+    "question": "Ako čujemo konduktera da viče 'saperlot' onda je sasvim sigurno da gledamo koji film?",
+    "answers": {
+      "A": "Vlak u snijegu",
+      "B": "Družba Pere Kvržice",
+      "C": "Vuk samotnjak"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 137,
+    "question": "Koji film završava kultnom scenom u kojoj protagonist Truman shvaća da je cijeli njegov život TV show?",
+    "answers": {
+      "A": "Ed TV",
+      "B": "Trumanov Show",
+      "C": "Pleasantville"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 138,
+    "question": "Pavle Čutura 'Paja' i Živadin Jarić 'Jare' protagonisti su koje humoristične tv serije?",
+    "answers": {
+      "A": "Vruć vetar",
+      "B": "Bolji život",
+      "C": "Kamiondžije"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 139,
+    "question": "Koji film završava rečenicom: 'Louis, mislim da je ovo početak jednog divnog prijateljstva'?",
+    "answers": {
+      "A": "Casablanca",
+      "B": "Građanin Kane",
+      "C": "Malteški sokol"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 140,
+    "question": "Tko tumači ulogu Jamesa Bonda u filmu 'Za smrt nema vremena' (No Time to Die)?",
+    "answers": {
+      "A": "Pierce Brosnan",
+      "B": "Daniel Craig",
+      "C": "Roger Moore"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 141,
+    "question": "Tko je režirao kultnu trilogiju 'Kum'?",
+    "answers": {
+      "A": "Martin Scorsese",
+      "B": "Brian De Palma",
+      "C": "Francis Ford Coppola"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 142,
+    "question": "Smogovci su dječja humoristična serija koja prati život koje obitelji?",
+    "answers": {
+      "A": "Vragec",
+      "B": "Kosmički",
+      "C": "Horvat"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 143,
+    "question": "Koji grad je najbliži velikom vodopadu te staroj tvrđavi iz filma 'Orlovi rano lete'?",
+    "answers": {
+      "A": "Mostar",
+      "B": "Ljubuški",
+      "C": "Trebinje"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 144,
+    "question": "Koji je glumac tumačio ulogu Stephena Hawkinga u filmu 'Teorija svega' (The Theory of Everything)?",
+    "answers": {
+      "A": "Benedict Cumberbatch",
+      "B": "Andrew Garfield",
+      "C": "Eddie Redmayne"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 145,
+    "question": "U filmu Interstellar, 'tik' svakih 1,25 sekundi na Millerovu planetu predstavlja koliko vremena na Zemlji?",
+    "answers": {
+      "A": "1 dan",
+      "B": "12 sati",
+      "C": "1 tjedan"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 146,
+    "question": "U kojem filmu John Travolta kao Vincent Vega i Uma Thurman kao Mia Wallace plešu kultni ples?",
+    "answers": {
+      "A": "Groznica subotnje večeri",
+      "B": "Pakleni šund",
+      "C": "Briljantin"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 147,
+    "question": "Koji je slavni redatelj režirao '2001: Odiseja u Svemiru', ali se nikada nije pojavio na dodjeli Oscara da podigne kipić?",
+    "answers": {
+      "A": "George Lucas",
+      "B": "Ridley Scott",
+      "C": "Stanley Kubrick"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "index": 148,
+    "question": "Tko glumi kaskadera Cliffa Bootha u filmu 'Bilo jednom u Hollywoodu' ?",
+    "answers": {
+      "A": "Brad Pitt",
+      "B": "Leonardo DiCaprio",
+      "C": "Kurt Russell"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "index": 149,
+    "question": "Kako se zove glavni zlikovac u 'Harryju Potteru'?",
+    "answers": {
+      "A": "Lucius Malfoy",
+      "B": "Lord Voldemort",
+      "C": "Severus Snape"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "index": 150,
+    "question": "Koji film Wes Andersona prati radnju u poznatom europskom hotelu?",
+    "answers": {
+      "A": "The French Dispatch",
+      "B": "The Darjeeling Limited",
+      "C": "The Grand Budapest Hotel"
+    },
+    "correct_answer": "C"
+  }
+]
