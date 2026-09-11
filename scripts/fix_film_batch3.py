@@ -49,3 +49,4 @@ assert all(x['correct_answer'] in x['answers'] for x in data)
 
 p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print('changed', changed, 'questions', len(data))
+# trigger workflow
