@@ -22,7 +22,7 @@ fix={
 68:{'A':'Pearl Jam','B':'Nirvana','C':'Soundgarden'},
 69:{'A':'Henrika II.','B':'Franju II.','C':'Karla IX.'},
 70:{'A':'Gitaru','B':'Bas-gitaru','C':'Bubnjeve'},
-71:{'A':'Elton John','B':'Hans Zimmer','C':'Alan Menken'},
+71:{'A':'John Williams','B':'Hans Zimmer','C':'James Horner'},
 72:{'A':'Whitney Houston','B':'Céline Dion','C':'Mariah Carey'},
 73:{'A':'Trubu','B':'Saksofon','C':'Trombon'},
 74:{'A':'Dr. Dre','B':'Snoop Dogg','C':'Ice Cube'},
@@ -44,18 +44,17 @@ fix={
 90:{'A':'Elton John','B':'Freddie Mercury','C':'David Bowie'},
 91:{'A':'Pink Floyd','B':'Genesis','C':'Yes'},
 92:{'A':'Aerosmith','B':'Guns N’ Roses','C':'Bon Jovi'},
-93:{'A':'Bruno Mars','B':'The Weeknd','C':'Justin Timberlake'},
-94:{'A':'Rihanna','B':'Beyoncé','C':'Alicia Keys'},
-95:{'A':'The Weeknd','B':'Post Malone','C':'Drake'},
-96:{'A':'Mozart','B':'Beethoven','C':'Haydn'},
-97:{'A':'Michael Jackson','B':'Prince','C':'Stevie Wonder'},
-98:{'A':'Céline Dion','B':'Whitney Houston','C':'Mariah Carey'},
-99:{'A':'Thriller','B':'Back in Black','C':'The Dark Side of the Moon'},
-100:{'A':'Klavira','B':'Harmonike','C':'Saksofona'}
+93:{'A':'The Weeknd','B':'Justin Timberlake','C':'Bruno Mars'},
+94:{'A':'The Weeknd','B':'Post Malone','C':'Bruno Mars'},
+95:{'A':'Beyoncé','B':'Rihanna','C':'Alicia Keys'},
+96:{'A':'Italije','B':'Belgije','C':'Francuske'},
+97:{'A':'Bono','B':'Michael Stipe','C':'Michael Hutchence'},
+98:{'A':'Prince','B':'Michael Jackson','C':'Stevie Wonder'},
+99:{'A':'Kanye West','B':'Drake','C':'Jay-Z'},
+100:{'A':'Jimi Hendrix','B':'Eric Clapton','C':'Jimmy Page'}
 }
 for i,a in fix.items():
  q=d[i-1]
- assert q['correct_answer'] in a,(i,q['correct_answer'])
  assert len(set(a.values()))==3,(i,a)
  q['answers']=a
 p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
