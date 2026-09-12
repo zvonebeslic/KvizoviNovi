@@ -3684,9 +3684,9 @@
     "topic": "Gaming",
     "question": "Kako se nazivaju virtualni ljudi kojima igrač upravlja u serijalu videoigara The Sims?",
     "answers": {
-      "A": "Resident Evil",
+      "A": "Likovi",
       "B": "Simovi",
-      "C": "Quake"
+      "C": "Avatari"
     },
     "image": null,
     "correct_answer": "B"
@@ -3697,8 +3697,8 @@
     "topic": "Gaming",
     "question": "Kako se zove najpoznatija mapa videoigre League of Legends na kojoj se standardno igraju mečevi pet protiv pet?",
     "answers": {
-      "A": "The Sims",
-      "B": "Resident Evil",
+      "A": "Howling Abyss",
+      "B": "Twisted Treeline",
       "C": "Summoner's Rift"
     },
     "image": null,
@@ -3736,8 +3736,8 @@
     "topic": "Gaming",
     "question": "Kako se zajednički nazivaju robotska stvorenja koja nastanjuju svijet serijala videoigara Horizon i često nalikuju životinjama?",
     "answers": {
-      "A": "Mighty Eagle",
-      "B": "Nemesis",
+      "A": "Roboti",
+      "B": "Automatoni",
       "C": "Machines"
     },
     "image": null,
