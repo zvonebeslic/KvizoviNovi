@@ -1,0 +1,30 @@
+name: Gaming compact review
+on:
+  push:
+    paths:
+      - '.github/workflows/gaming-compact-review.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Export compact review
+        run: |
+          python - <<'PY'
+          import json
+          d=json.load(open('Gaming.json',encoding='utf-8'))
+          with open('GAMING_COMPACT.txt','w',encoding='utf-8') as f:
+              for i,x in enumerate(d,1):
+                  a=x['answers']; ca=x['correct_answer']
+                  f.write(f"{i:03d}\t{ca}\t{x['question']}\tA={a['A']}\tB={a['B']}\tC={a['C']}\n")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gaming-compact-review
+          path: GAMING_COMPACT.txt
