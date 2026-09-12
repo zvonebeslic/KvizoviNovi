@@ -1405,7 +1405,7 @@
     "question": "Koju se ženu, iz ugledne slavonske plemićke obitelji smatra prvom hrvatskom skladateljicom?",
     "answers": {
       "A": "Ivana Lang",
-      "B": "Mila Cipra",
+      "B": "Mia Čorak Slavenska",
       "C": "Dora Pejačević"
     },
     "image": null,
@@ -1628,7 +1628,7 @@
     "answers": {
       "A": "Jamajke",
       "B": "Barbadosa",
-      "C": "Bahama"
+      "C": "Trinidada i Tobaga"
     },
     "image": null,
     "correct_answer": "B"
@@ -1719,7 +1719,7 @@
     "answers": {
       "A": "Klarinet",
       "B": "Saksofon",
-      "C": "Flautu"
+      "C": "Flauta"
     },
     "image": null,
     "correct_answer": "C"
