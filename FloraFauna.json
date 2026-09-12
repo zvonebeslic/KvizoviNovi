@@ -86,7 +86,7 @@
     "answers": {
       "A": "Kameleon",
       "B": "Iguana",
-      "C": "Gekon"
+      "C": "Paun"
     },
     "correct_answer": "A",
     "image": null
@@ -293,9 +293,9 @@
     "topic": "FloraFauna",
     "question": "Kojeg letećeg sisavca možemo sresti ako uđemo u špilju?",
     "answers": {
-      "A": "Leteću vjevericu",
+      "A": "Krijesnicu",
       "B": "Šišmiša",
-      "C": "Lemura"
+      "C": "Kraljevskog monarha"
     },
     "correct_answer": "B",
     "image": null
