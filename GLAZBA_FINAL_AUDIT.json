@@ -1,0 +1,10 @@
+{
+  "total": 133,
+  "correct_distribution": {
+    "A": 45,
+    "B": 44,
+    "C": 44
+  },
+  "difference_max_min": 1,
+  "issues": []
+}
