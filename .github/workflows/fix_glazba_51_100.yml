@@ -1,0 +1,19 @@
+name: Fix Glazba 51-100
+on:
+  push:
+    paths: ['GLAZBA_51_100_FIX_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_glazba_51_100.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Glazba.json
+          git commit -m "Uredi Glazba pitanja 51-100" || exit 0
+          git push
