@@ -1,0 +1,48 @@
+name: Gaming last pass
+on:
+  push:
+    paths:
+      - '.github/workflows/gaming-last-pass.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fix remaining Gaming distractors
+        run: |
+          python - <<'PY'
+          import json
+          p='Gaming.json'
+          with open(p,encoding='utf-8') as f: data=json.load(f)
+          fixes={
+            'Kako se nazivaju virtualni ljudi kojima igrač upravlja u serijalu videoigara The Sims?':['Likovi','Avatari'],
+            "Kako se zove najpoznatija mapa videoigre League of Legends na kojoj se standardno igraju mečevi pet protiv pet?":['Howling Abyss','Twisted Treeline'],
+            'Kako se zajednički nazivaju robotska stvorenja koja nastanjuju svijet serijala videoigara Horizon i često nalikuju životinjama?':['Roboti','Automatoni'],
+          }
+          changed=0
+          for x in data:
+            q=x['question']
+            if q not in fixes: continue
+            ca=x['correct_answer']; original=x['answers'][ca]
+            wrong=[k for k in 'ABC' if k!=ca]
+            x['answers'][wrong[0]],x['answers'][wrong[1]]=fixes[q]
+            assert x['answers'][ca]==original
+            changed+=1
+          assert changed==3, changed
+          assert all(len(set(x['answers'].values()))==3 for x in data)
+          with open(p,'w',encoding='utf-8') as f: json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
+          print('fixed',changed)
+          PY
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add Gaming.json
+          git diff --cached --quiet || git commit -m 'Finish remaining Gaming distractors'
+          git push
