@@ -58,9 +58,9 @@
     "topic": "Glazba",
     "question": "Koji se arhaizam za violinu danas koristi kao naziv jednog narodnog instrumenta?",
     "answers": {
-      "A": "Gudok",
+      "A": "Gajde",
       "B": "Gusle",
-      "C": "Liru"
+      "C": "Lira"
     },
     "image": null,
     "correct_answer": "B"
@@ -71,7 +71,7 @@
     "topic": "Glazba",
     "question": "Koji je pjevač grčko-ciparskog podrijetla bio u bendu Wham!?",
     "answers": {
-      "A": "Sting",
+      "A": "Prince",
       "B": "Freddie Mercury",
       "C": "George Michael"
     },
@@ -97,7 +97,7 @@
     "topic": "Glazba",
     "question": "Tko je pjevač grupe Coldplay?",
     "answers": {
-      "A": "Bono",
+      "A": "Bono Vox",
       "B": "Chris Martin",
       "C": "Brandon Flowers"
     },
@@ -110,7 +110,7 @@
     "topic": "Glazba",
     "question": "Tko pjeva hit 'Rolling in the Deep'?",
     "answers": {
-      "A": "Duffy",
+      "A": "Pink",
       "B": "Amy Winehouse",
       "C": "Adele"
     },
@@ -178,7 +178,7 @@
     "answers": {
       "A": "Magdalena",
       "B": "Nadalina",
-      "C": "Lucija"
+      "C": "Olivera"
     },
     "image": null,
     "correct_answer": "B"
@@ -189,8 +189,8 @@
     "topic": "Glazba",
     "question": "Koja je najuglednija glazbena nagrada u Republici Hrvatskoj?",
     "answers": {
-      "A": "Zlatna arena",
-      "B": "Vladimir Nazor",
+      "A": "Palma",
+      "B": "Dora",
       "C": "Porin"
     },
     "image": null,
@@ -1038,9 +1038,9 @@
     "topic": "Glazba",
     "question": "Truveri su sjevernjačka verzija kojih južnjačkih pjesnika-glazbenika iz srednjovjekovne francuske?",
     "answers": {
-      "A": "Minnesängera",
+      "A": "Trubača",
       "B": "Trubadura",
-      "C": "Goliarda"
+      "C": "Trubijanera"
     },
     "image": null,
     "correct_answer": "B"
@@ -1260,7 +1260,7 @@
     "topic": "Glazba",
     "question": "Tko je pjevač grupe U2?",
     "answers": {
-      "A": "Bono",
+      "A": "Bono Vox",
       "B": "Michael Stipe",
       "C": "Michael Hutchence"
     },
@@ -1547,9 +1547,9 @@
     "topic": "Glazba",
     "question": "Iz koje rock grupe je nastala rock grupa Bijelo Dugme?",
     "answers": {
-      "A": "Korni grupe",
+      "A": "Večeri",
       "B": "Jutra",
-      "C": "Indexa"
+      "C": "Zore"
     },
     "image": null,
     "correct_answer": "B"
