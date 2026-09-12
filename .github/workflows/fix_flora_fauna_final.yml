@@ -1,0 +1,19 @@
+name: Fix FloraFauna final
+on:
+  push:
+    paths: ['FLORA_FAUNA_FINAL_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_flora_fauna_final.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add FloraFauna.json
+          git commit -m "Zavrsi FloraFauna audit" || exit 0
+          git push
