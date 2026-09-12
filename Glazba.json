@@ -921,9 +921,9 @@
     "topic": "Glazba",
     "question": "Tko je skladao glazbu za film 'Kralj lavova' (The Lion King)?",
     "answers": {
-      "A": "Elton John",
+      "A": "John Williams",
       "B": "Hans Zimmer",
-      "C": "Alan Menken"
+      "C": "James Horner"
     },
     "image": null,
     "correct_answer": "B"
@@ -1208,9 +1208,9 @@
     "topic": "Glazba",
     "question": "Tko je otpjevao pjesme 'Uptown Funk' i 'Grenade'?",
     "answers": {
-      "A": "Bruno Mars",
-      "B": "The Weeknd",
-      "C": "Justin Timberlake"
+      "A": "The Weeknd",
+      "B": "Justin Timberlake",
+      "C": "Bruno Mars"
     },
     "image": null,
     "correct_answer": "C"
@@ -1221,9 +1221,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Blinding Lights' iz 2020.?",
     "answers": {
-      "A": "Rihanna",
-      "B": "Beyoncé",
-      "C": "Alicia Keys"
+      "A": "The Weeknd",
+      "B": "Post Malone",
+      "C": "Bruno Mars"
     },
     "image": null,
     "correct_answer": "A"
@@ -1234,9 +1234,9 @@
     "topic": "Glazba",
     "question": "Koja pjevačica je poznata kao 'Riri'?",
     "answers": {
-      "A": "The Weeknd",
-      "B": "Post Malone",
-      "C": "Drake"
+      "A": "Beyoncé",
+      "B": "Rihanna",
+      "C": "Alicia Keys"
     },
     "image": null,
     "correct_answer": "B"
@@ -1247,9 +1247,9 @@
     "topic": "Glazba",
     "question": "'La Marseillaise' je himna koje države?",
     "answers": {
-      "A": "Mozart",
-      "B": "Beethoven",
-      "C": "Haydn"
+      "A": "Italije",
+      "B": "Belgije",
+      "C": "Francuske"
     },
     "image": null,
     "correct_answer": "C"
@@ -1260,9 +1260,9 @@
     "topic": "Glazba",
     "question": "Tko je pjevač grupe U2?",
     "answers": {
-      "A": "Michael Jackson",
-      "B": "Prince",
-      "C": "Stevie Wonder"
+      "A": "Bono",
+      "B": "Michael Stipe",
+      "C": "Michael Hutchence"
     },
     "image": null,
     "correct_answer": "A"
@@ -1273,9 +1273,9 @@
     "topic": "Glazba",
     "question": "Koji američki pjevač je poznat i kao 'Kralj popa'?",
     "answers": {
-      "A": "Céline Dion",
-      "B": "Whitney Houston",
-      "C": "Mariah Carey"
+      "A": "Prince",
+      "B": "Michael Jackson",
+      "C": "Stevie Wonder"
     },
     "image": null,
     "correct_answer": "B"
@@ -1286,9 +1286,9 @@
     "topic": "Glazba",
     "question": "Koji je reper suprug pjevačice Beyoncé?",
     "answers": {
-      "A": "Thriller",
-      "B": "Back in Black",
-      "C": "The Dark Side of the Moon"
+      "A": "Kanye West",
+      "B": "Drake",
+      "C": "Jay-Z"
     },
     "image": null,
     "correct_answer": "C"
@@ -1299,9 +1299,9 @@
     "topic": "Glazba",
     "question": "Koji je pjevač poznat po pjesmama 'Purple Haze' i 'Hey Joe'?",
     "answers": {
-      "A": "Klavira",
-      "B": "Harmonike",
-      "C": "Saksofona"
+      "A": "Jimi Hendrix",
+      "B": "Eric Clapton",
+      "C": "Jimmy Page"
     },
     "image": null,
     "correct_answer": "A"
