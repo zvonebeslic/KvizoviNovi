@@ -1,0 +1,19 @@
+name: Final Glazba audit
+on:
+  push:
+    paths: ['GLAZBA_FINAL_AUDIT_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/final_glazba_audit.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add GLAZBA_FINAL_AUDIT.json
+          git commit -m "Završna provjera Glazba" || exit 0
+          git push
