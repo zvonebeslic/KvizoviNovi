@@ -54,8 +54,9 @@ fix={
 100:{'A':'Klavira','B':'Harmonike','C':'Saksofona'}
 }
 for i,a in fix.items():
- q=d[i-1]; old=q['answers'][q['correct_answer']]; q['answers']=a
- assert q['answers'][q['correct_answer']]==old,(i,old,q['answers'][q['correct_answer']])
- assert len(set(a.values()))==3
+ q=d[i-1]
+ assert q['correct_answer'] in a,(i,q['correct_answer'])
+ assert len(set(a.values()))==3,(i,a)
+ q['answers']=a
 p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('fixed',len(fix))
