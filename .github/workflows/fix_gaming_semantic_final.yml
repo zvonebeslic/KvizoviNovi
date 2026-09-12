@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'scripts/fix_gaming_semantic_final.py'
+      - 'GAMING_SEMANTIC_FINAL_TRIGGER.txt'
 permissions:
   contents: write
 jobs:
