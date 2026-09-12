@@ -163,7 +163,7 @@
     "question": "Koji instrument svira Elton John?",
     "answers": {
       "A": "Klavir",
-      "B": "Gitaru",
+      "B": "Gitara",
       "C": "Saksofon"
     },
     "image": null,
@@ -345,8 +345,8 @@
     "topic": "Glazba",
     "question": "Kako se zove alter ego pjevača Davida Bowieja?",
     "answers": {
-      "A": "The Thin White Duke",
-      "B": "Major Tom",
+      "A": "Slim Shady",
+      "B": "Sasha Fierce",
       "C": "Ziggy Stardust"
     },
     "image": null,
@@ -424,9 +424,9 @@
     "topic": "Glazba",
     "question": "Koje glazbalo spominjemo nakon električna, akustična, bas i klasična?",
     "answers": {
-      "A": "Gitara",
-      "B": "Violina",
-      "C": "Klavir"
+      "A": "Violina",
+      "B": "Klavir",
+      "C": "Gitara"
     },
     "image": null,
     "correct_answer": "C"
@@ -437,9 +437,9 @@
     "topic": "Glazba",
     "question": "Tko je pjevač grupe Arctic Monkeys?",
     "answers": {
-      "A": "Norveška",
-      "B": "Švedska",
-      "C": "Danska"
+      "A": "Alex Turner",
+      "B": "Julian Casablancas",
+      "C": "Brandon Flowers"
     },
     "image": null,
     "correct_answer": "A"
@@ -450,9 +450,9 @@
     "topic": "Glazba",
     "question": "Kako se zove album pjevačice Beyoncé iz 2024. godine?",
     "answers": {
-      "A": "Taylor Swift",
-      "B": "Adele",
-      "C": "Beyoncé"
+      "A": "Renaissance",
+      "B": "Cowboy Carter",
+      "C": "Lemonade"
     },
     "image": null,
     "correct_answer": "B"
@@ -463,9 +463,9 @@
     "topic": "Glazba",
     "question": "Tko je pjevačica hita 'Bad Guy'?",
     "answers": {
-      "A": "Marimba",
-      "B": "Ksilofon",
-      "C": "Vibrafon"
+      "A": "Lorde",
+      "B": "Dua Lipa",
+      "C": "Billie Eilish"
     },
     "image": null,
     "correct_answer": "C"
@@ -476,9 +476,9 @@
     "topic": "Glazba",
     "question": "Koja je zemlja pobijedila na Euroviziji s pjesmom 'Euphoria'?",
     "answers": {
-      "A": "Bob Dylan",
-      "B": "Neil Young",
-      "C": "Bruce Springsteen"
+      "A": "Švedska",
+      "B": "Norveška",
+      "C": "Danska"
     },
     "image": null,
     "correct_answer": "A"
@@ -489,9 +489,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Poker Face'?",
     "answers": {
-      "A": "Nirvana",
-      "B": "Pearl Jam",
-      "C": "Soundgarden"
+      "A": "Katy Perry",
+      "B": "Lady Gaga",
+      "C": "Rihanna"
     },
     "image": null,
     "correct_answer": "B"
@@ -502,9 +502,9 @@
     "topic": "Glazba",
     "question": "Kontra kojeg grada Dino Dvornik ne želi čuti ništa?",
     "answers": {
-      "A": "Wolfgang Amadeus Mozart",
-      "B": "Ludwig van Beethoven",
-      "C": "Joseph Haydn"
+      "A": "Zadra",
+      "B": "Dubrovnika",
+      "C": "Splita"
     },
     "image": null,
     "correct_answer": "C"
@@ -515,9 +515,9 @@
     "topic": "Glazba",
     "question": "Prije nego je osnovao Foo Fighters, Dave Grohl je bio bubnjar u kojoj grupi?",
     "answers": {
-      "A": "Madonna",
-      "B": "Cyndi Lauper",
-      "C": "Cher"
+      "A": "Nirvani",
+      "B": "Pearl Jamu",
+      "C": "Soundgardenu"
     },
     "image": null,
     "correct_answer": "A"
@@ -528,9 +528,9 @@
     "topic": "Glazba",
     "question": "S kojim singlom je debitirala Britney Spears te se odmah vinula na vrhove svjetskih ljestvica?",
     "answers": {
-      "A": "ABBA",
-      "B": "Roxette",
-      "C": "Ace of Base"
+      "A": "Toxic",
+      "B": "Baby One More Time",
+      "C": "Oops!... I Did It Again"
     },
     "image": null,
     "correct_answer": "B"
@@ -541,9 +541,9 @@
     "topic": "Glazba",
     "question": "Koji je reper poznat i po nadimku 'Slim Shady'?",
     "answers": {
-      "A": "Freddie Mercury",
-      "B": "David Bowie",
-      "C": "Elton John"
+      "A": "Jay-Z",
+      "B": "50 Cent",
+      "C": "Eminem"
     },
     "image": null,
     "correct_answer": "C"
@@ -555,9 +555,9 @@
     "topic": "Glazba",
     "question": "Koji je bend 1977. izdao album 'Rumours'?",
     "answers": {
-      "A": "Metallica",
-      "B": "Megadeth",
-      "C": "Slayer"
+      "A": "Fleetwood Mac",
+      "B": "Eagles",
+      "C": "Bee Gees"
     },
     "image": null,
     "correct_answer": "A"
@@ -568,9 +568,9 @@
     "topic": "Glazba",
     "question": "Koji je reper objavio album 'The College Dropout'?",
     "answers": {
-      "A": "Whitney Houston",
-      "B": "Mariah Carey",
-      "C": "Céline Dion"
+      "A": "Jay-Z",
+      "B": "Kanye West",
+      "C": "Nas"
     },
     "image": null,
     "correct_answer": "B"
@@ -581,9 +581,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Single Ladies' iz 2008.?",
     "answers": {
-      "A": "The Beatles",
-      "B": "The Rolling Stones",
-      "C": "The Who"
+      "A": "Rihanna",
+      "B": "Alicia Keys",
+      "C": "Beyonce"
     },
     "image": null,
     "correct_answer": "C"
@@ -594,9 +594,9 @@
     "topic": "Glazba",
     "question": "Pjesme 'Jedan dan' i 'Noćna muzika'  otpjevala je koja hrvatska, vokalno-instrumentalna skupina?",
     "answers": {
-      "A": "Aretha Franklin",
-      "B": "Tina Turner",
-      "C": "Diana Ross"
+      "A": "Dubrovački Trubaduri",
+      "B": "Pro arte",
+      "C": "Indexi"
     },
     "image": null,
     "correct_answer": "A"
@@ -607,9 +607,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesme 'Born to Run', 'Dancing in the Dark' i 'Born in the U.S.A.?",
     "answers": {
-      "A": "U2",
-      "B": "R.E.M.",
-      "C": "INXS"
+      "A": "Tom Petty",
+      "B": "Bruce Springsteen",
+      "C": "Billy Joel"
     },
     "image": null,
     "correct_answer": "B"
@@ -620,9 +620,9 @@
     "topic": "Glazba",
     "question": "Čije se ime nalazi u imenu prvog albuma Taylor Swift?",
     "answers": {
-      "A": "Elvis Presley",
-      "B": "Johnny Cash",
-      "C": "Roy Orbison"
+      "A": "Adele",
+      "B": "Madonna",
+      "C": "Taylor Swift"
     },
     "image": null,
     "correct_answer": "C"
@@ -633,9 +633,9 @@
     "topic": "Glazba",
     "question": "Koji je instrument svirao Jimi Hendrix?",
     "answers": {
-      "A": "Guns N’ Roses",
-      "B": "Bon Jovi",
-      "C": "Aerosmith"
+      "A": "Gitara",
+      "B": "Bas-gitara",
+      "C": "Klavir"
     },
     "image": null,
     "correct_answer": "A"
@@ -646,9 +646,9 @@
     "topic": "Glazba",
     "question": "Iz koje zemlje dolazi grupa ABBA?",
     "answers": {
-      "A": "Stevie Wonder",
-      "B": "Ray Charles",
-      "C": "Marvin Gaye"
+      "A": "Norveške",
+      "B": "Švedske",
+      "C": "Danske"
     },
     "image": null,
     "correct_answer": "B"
