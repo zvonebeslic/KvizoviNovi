@@ -1,0 +1,47 @@
+name: Gaming structural audit
+on:
+  push:
+    paths:
+      - '.github/workflows/gaming-structural-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit Gaming JSON
+        run: |
+          python - <<'PY'
+          import json, collections
+          data=json.load(open('Gaming.json',encoding='utf-8'))
+          print('COUNT',len(data))
+          malformed=[]; duplicate_answer_rows=[]; empty=[]; bad_correct=[]; duplicate_questions=[]
+          seen={}
+          dist=collections.Counter()
+          for i,x in enumerate(data,1):
+              q=x.get('question')
+              ans=x.get('answers')
+              ca=x.get('correct_answer')
+              if not isinstance(ans,dict) or set(ans)!=set('ABC'): malformed.append(i)
+              if not q or not str(q).strip(): empty.append((i,'question'))
+              if isinstance(ans,dict):
+                  for k in 'ABC':
+                      if k not in ans or not str(ans.get(k,'')).strip(): empty.append((i,k))
+                  vals=[str(ans.get(k,'')) for k in 'ABC']
+                  if len({v.casefold().strip() for v in vals})<3: duplicate_answer_rows.append((i,vals))
+              if ca not in 'ABC' or not isinstance(ans,dict) or ca not in ans: bad_correct.append(i)
+              else: dist[ca]+=1
+              if q in seen: duplicate_questions.append((seen[q],i))
+              else: seen[q]=i
+          print('MALFORMED',malformed)
+          print('EMPTY',empty)
+          print('DUP_ANS',duplicate_answer_rows)
+          print('BAD_CORRECT',bad_correct)
+          print('DUP_Q',duplicate_questions)
+          print('DIST',dict(dist))
+          PY
