@@ -359,7 +359,7 @@
     "answers": {
       "A": "Inisherin",
       "B": "Inis Mór",
-      "C": "Inisheer"
+      "C": "Inishot"
     },
     "image": null,
     "correct_answer": "A"
@@ -579,8 +579,8 @@
     "topic": "Film",
     "question": "Kako se zove umjetna inteligencija koja upravlja brodom u Kubrickovoj '2001: Odiseji u svemiru'?",
     "answers": {
-      "A": "TARS",
-      "B": "CASE",
+      "A": "TARS 90",
+      "B": "CASE 900",
       "C": "HAL 9000"
     },
     "image": null,
@@ -2173,7 +2173,7 @@
     "topic": "Film",
     "question": "Kako se zove planet s kojeg dolazi Superman?",
     "answers": {
-      "A": "Oa",
+      "A": "Cybertron",
       "B": "Krypton",
       "C": "Apokolips"
     },
