@@ -9,7 +9,7 @@ fix={
 105:{'A':'Don Giovanni','B':'Figarov pir','C':'Čarobna frula'},
 106:{'A':'Ed Sheeran','B':'Sam Smith','C':'Shawn Mendes'},
 107:{'A':'Paul McCartney','B':'John Lennon','C':'George Harrison'},
-108:{'A':'Ivana Lang','B':'Mila Cipra','C':'Dora Pejačević'},
+108:{'A':'Ivana Lang','B':'Mia Čorak Slavenska','C':'Dora Pejačević'},
 109:{'A':'Reggae','B':'Ska','C':'Calypso'},
 110:{'A':'Hans Zimmer','B':'John Williams','C':'Ennio Morricone'},
 111:{'A':'Aerosmith','B':'The Who','C':'The Rolling Stones'},
@@ -26,18 +26,22 @@ fix={
 122:{'A':'Joseph Haydn','B':'Wolfgang Mozart','C':'Ludwig van Beethoven'},
 123:{'A':'Baby Lasagna','B':'Slimane','C':'Nemo'},
 124:{'A':'Roosevelt','B':'Truman','C':'Eisenhower'},
-125:{'A':'Jamajke','B':'Barbadosa','C':'Bahama'},
+125:{'A':'Jamajke','B':'Barbadosa','C':'Trinidada i Tobaga'},
 126:{'A':'Deep Purple','B':'Black Sabbath','C':'Led Zeppelin'},
 127:{'A':'Elton John','B':'Billy Joel','C':'Rod Stewart'},
 128:{'A':'Taylor Swift','B':'Beyonce','C':'Adele'},
 129:{'A':'Sergej Rahmanjinov','B':'Igor Stravinski','C':'Petar Iljič Čajkovski'},
 130:{'A':'Prljavo Kazalište','B':'Parni Valjak','C':'Azra'},
 131:{'A':'Cher','B':'Madonna','C':'Cyndi Lauper'},
-132:{'A':'Klarinet','B':'Saksofon','C':'Flautu'},
+132:{'A':'Klarinet','B':'Saksofon','C':'Flauta'},
 133:{'A':'The Killers','B':'Franz Ferdinand','C':'Arctic Monkeys'}
 }
 assert len(d)==133, len(d)
 for i,a in fix.items():
- q=d[i-1]; q['answers']=a; assert len(set(a.values()))==3
+ q=d[i-1]
+ old_correct=q['answers'][q['correct_answer']]
+ assert a[q['correct_answer']]==old_correct or (i==132 and old_correct=='Flautu'), (i,old_correct,a[q['correct_answer']])
+ assert len(set(a.values()))==3,(i,a)
+ q['answers']=a
 p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 print('fixed',len(fix),'of',len(d))
