@@ -1405,7 +1405,7 @@
     "question": "Koju se ženu, iz ugledne slavonske plemićke obitelji smatra prvom hrvatskom skladateljicom?",
     "answers": {
       "A": "Ivana Lang",
-      "B": "Mia Čorak Slavenska",
+      "B": "Skladana Atanasijević",
       "C": "Dora Pejačević"
     },
     "image": null,
@@ -1496,8 +1496,8 @@
     "question": "Kako se zove kćer Billyja Raya Cyrusa?",
     "answers": {
       "A": "Miley Cyrus",
-      "B": "Noah Cyrus",
-      "C": "Brandi Cyrus"
+      "B": "Selena Gomez",
+      "C": "Demi Lovato"
     },
     "image": null,
     "correct_answer": "A"
