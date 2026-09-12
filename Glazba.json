@@ -659,8 +659,8 @@
     "topic": "Glazba",
     "question": "Tko je otpjevao uvodnu pjesmu hrvatske verzije crtane serije Spužvabob Skockani?",
     "answers": {
-      "A": "The Kid Laroi",
-      "B": "Adam Levine",
+      "A": "Goran Bare",
+      "B": "Davorin Bogović",
       "C": "Davor Gobac"
     },
     "image": null,
@@ -673,8 +673,8 @@
     "question": "Tko je sa Justinom Bieberom otpjevao pjesmu 'Stay'?",
     "answers": {
       "A": "The Kid Laroi",
-      "B": "Davor Gobac",
-      "C": "Adam Levine"
+      "B": "Post Malone",
+      "C": "Shawn Mendes"
     },
     "image": null,
     "correct_answer": "A"
@@ -685,9 +685,9 @@
     "topic": "Glazba",
     "question": "Koji je instrument svirao Miles Davis?",
     "answers": {
-      "A": "Gitara",
+      "A": "Saksofon",
       "B": "Trubu",
-      "C": "Flautu"
+      "C": "Klavir"
     },
     "image": null,
     "correct_answer": "B"
@@ -698,8 +698,8 @@
     "topic": "Glazba",
     "question": "Tko je vokalist grupe Maroon 5?",
     "answers": {
-      "A": "The Kid Laroi",
-      "B": "Olivia Rodrigo",
+      "A": "Brandon Flowers",
+      "B": "Chris Martin",
       "C": "Adam Levine"
     },
     "image": null,
@@ -712,8 +712,8 @@
     "question": "Koja je pjevačica poznata kao 'Kraljica Soula'?",
     "answers": {
       "A": "Aretha Franklin",
-      "B": "ABBA",
-      "C": "Lady Gaga"
+      "B": "Diana Ross",
+      "C": "Tina Turner"
     },
     "image": null,
     "correct_answer": "A"
@@ -724,9 +724,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Vampire' iz 2023.?",
     "answers": {
-      "A": "Adam Levine",
+      "A": "Billie Eilish",
       "B": "Olivia Rodrigo",
-      "C": "The Kid Laroi"
+      "C": "Sabrina Carpenter"
     },
     "image": null,
     "correct_answer": "B"
@@ -737,8 +737,8 @@
     "topic": "Glazba",
     "question": "Koje ime nosi drugi studijski album pjevačice Madonne?",
     "answers": {
-      "A": "Cowboy Carter",
-      "B": "Coachella",
+      "A": "True Blue",
+      "B": "Erotica",
       "C": "Like a Virgin"
     },
     "image": null,
@@ -752,8 +752,8 @@
     "question": "Koji glazbeni instrument u kristalnom izadnju šalje Claude Laurent, Jamesu Madisonu za njegov drugi mandat predsjednika SAD-a?",
     "answers": {
       "A": "Flautu",
-      "B": "Bubnjeve",
-      "C": "Trubu"
+      "B": "Violinu",
+      "C": "Klarinet"
     },
     "image": null,
     "correct_answer": "A"
@@ -764,9 +764,9 @@
     "topic": "Glazba",
     "question": "Koji bend potpisuje pjesmu 'Dancing Queen'?",
     "answers": {
-      "A": "Aretha Franklin",
+      "A": "Bee Gees",
       "B": "ABBA",
-      "C": "Lady Gaga"
+      "C": "Boney M."
     },
     "image": null,
     "correct_answer": "B"
@@ -777,8 +777,8 @@
     "topic": "Glazba",
     "question": "Koji je ženski bend otpjevao pjesmu 'Wannabe'?",
     "answers": {
-      "A": "Guns N Roses",
-      "B": "Karlo IX",
+      "A": "TLC",
+      "B": "Destiny’s Child",
       "C": "Spice Girls"
     },
     "image": null,
@@ -791,8 +791,8 @@
     "question": "Tko pjeva pjesmu 'Shape of You'?",
     "answers": {
       "A": "Ed Sheeran",
-      "B": "Olivia Rodrigo",
-      "C": "Adam Levine"
+      "B": "Sam Smith",
+      "C": "Shawn Mendes"
     },
     "image": null,
     "correct_answer": "A"
@@ -803,9 +803,9 @@
     "topic": "Glazba",
     "question": "Što su na pozornici svirali Phil Collins, Lars Ulrich i Ringo Starr?",
     "answers": {
-      "A": "Tri tenora",
+      "A": "Gitare",
       "B": "Bubnjeve",
-      "C": "Flautu"
+      "C": "Klavijature"
     },
     "image": null,
     "correct_answer": "B"
@@ -816,8 +816,8 @@
     "topic": "Glazba",
     "question": "Domingo, Carreras i Pavarotti čine skupinu opernih pjevača kojeg imena?",
     "answers": {
-      "A": "Bubnjeve",
-      "B": "Adele",
+      "A": "Tri baritona",
+      "B": "Tri soprana",
       "C": "Tri tenora"
     },
     "image": null,
@@ -829,9 +829,9 @@
     "topic": "Glazba",
     "question": "Koji je bend objavio album 'Appetite for Destruction'?",
     "answers": {
-      "A": "Guns N Roses",
-      "B": "Spice Girls",
-      "C": "Karlo IX"
+      "A": "Guns N’ Roses",
+      "B": "Aerosmith",
+      "C": "Bon Jovi"
     },
     "image": null,
     "correct_answer": "A"
@@ -842,9 +842,9 @@
     "topic": "Glazba",
     "question": "Pjevačica Stefani Joanne Angelina Germanotta je poznatija pod kojim imenom?",
     "answers": {
-      "A": "ABBA",
+      "A": "Katy Perry",
       "B": "Lady Gaga",
-      "C": "Aretha Franklin"
+      "C": "Pink"
     },
     "image": null,
     "correct_answer": "B"
@@ -855,8 +855,8 @@
     "topic": "Glazba",
     "question": "Ime koje pjevačice potječe od staronordijskog 'Adalheidis' što znači 'plemenita'?",
     "answers": {
-      "A": "Riblja čorba",
-      "B": "Nirvana",
+      "A": "Agnes",
+      "B": "Alice",
       "C": "Adele"
     },
     "image": null,
@@ -869,8 +869,8 @@
     "question": "'Kost u grlu' je prvi studijski album kojeg srpskog rock sastava?",
     "answers": {
       "A": "Riblja čorba",
-      "B": "Adele",
-      "C": "Nirvana"
+      "B": "Električni orgazam",
+      "C": "Idoli"
     },
     "image": null,
     "correct_answer": "A"
@@ -881,9 +881,9 @@
     "topic": "Glazba",
     "question": "Koji je bend 1991. objavio album 'Nevermind'?",
     "answers": {
-      "A": "Riblja čorba",
+      "A": "Pearl Jam",
       "B": "Nirvana",
-      "C": "Adele"
+      "C": "Soundgarden"
     },
     "image": null,
     "correct_answer": "B"
@@ -895,9 +895,9 @@
     "topic": "Glazba",
     "question": "Andrea Amati, slavni tvorac violina iz Cremone, 1560. godine pravi 24 violine za kojeg francuskog kralja?",
     "answers": {
-      "A": "Mariah Carey",
-      "B": "Guns N Roses",
-      "C": "Karlo IX"
+      "A": "Henrika II.",
+      "B": "Franju II.",
+      "C": "Karla IX."
     },
     "image": null,
     "correct_answer": "C"
@@ -909,8 +909,8 @@
     "question": "Koji instrument svira Saul Hudson, poznatiji kao Slash?",
     "answers": {
       "A": "Gitaru",
-      "B": "Nirvana",
-      "C": "Riblja čorba"
+      "B": "Bas-gitaru",
+      "C": "Bubnjeve"
     },
     "image": null,
     "correct_answer": "A"
@@ -921,9 +921,9 @@
     "topic": "Glazba",
     "question": "Tko je skladao glazbu za film 'Kralj lavova' (The Lion King)?",
     "answers": {
-      "A": "Shakira",
+      "A": "Elton John",
       "B": "Hans Zimmer",
-      "C": "Dua Lipa"
+      "C": "Alan Menken"
     },
     "image": null,
     "correct_answer": "B"
@@ -934,8 +934,8 @@
     "topic": "Glazba",
     "question": "Čiji glas ćemo čuti ako slušamo pjesmu 'All I Want for Christmas Is You'?",
     "answers": {
-      "A": "Snoop Dogg",
-      "B": "Karlo IX",
+      "A": "Whitney Houston",
+      "B": "Céline Dion",
       "C": "Mariah Carey"
     },
     "image": null,
@@ -948,8 +948,8 @@
     "question": "Koji je instrument svirao Louis Armstrong?",
     "answers": {
       "A": "Trubu",
-      "B": "Gitaru",
-      "C": "Cremona"
+      "B": "Saksofon",
+      "C": "Trombon"
     },
     "image": null,
     "correct_answer": "A"
@@ -960,9 +960,9 @@
     "topic": "Glazba",
     "question": "Pod kojim umjetničkim imenom je poznatiji reper Calvin Cordozar Broadus, Jr?",
     "answers": {
-      "A": "Mariah Carey",
+      "A": "Dr. Dre",
       "B": "Snoop Dogg",
-      "C": "Karlo IX"
+      "C": "Ice Cube"
     },
     "image": null,
     "correct_answer": "B"
@@ -973,8 +973,8 @@
     "topic": "Glazba",
     "question": "Tko je pjevačica pjesme 'Hips Don't Lie'?",
     "answers": {
-      "A": "Dua Lipa",
-      "B": "Hans Zimmer",
+      "A": "Beyoncé",
+      "B": "Jennifer Lopez",
       "C": "Shakira"
     },
     "image": null,
@@ -987,8 +987,8 @@
     "question": "U kojem gradu je osnovana pop-rock grupa Silente?",
     "answers": {
       "A": "Dubrovniku",
-      "B": "Splita",
-      "C": "New York"
+      "B": "Splitu",
+      "C": "Zadru"
     },
     "image": null,
     "correct_answer": "A"
@@ -999,9 +999,9 @@
     "topic": "Glazba",
     "question": "Koji je talijanski grad bio dom obiteljima Amati, Guarneri i Stradivari?",
     "answers": {
-      "A": "Trubadura",
+      "A": "Milano",
       "B": "Cremona",
-      "C": "Trubu"
+      "C": "Brescia"
     },
     "image": null,
     "correct_answer": "B"
@@ -1012,8 +1012,8 @@
     "topic": "Glazba",
     "question": "Tko je pjevačica hita 'Houdini' iz 2023.?",
     "answers": {
-      "A": "Shakira",
-      "B": "Eminem",
+      "A": "Ava Max",
+      "B": "Rita Ora",
       "C": "Dua Lipa"
     },
     "image": null,
@@ -1026,8 +1026,8 @@
     "question": "Koja je pjevačica poznata po pjesmi 'Genie in a Bottle'?",
     "answers": {
       "A": "Christina Aguilera",
-      "B": "Lana Del Rey",
-      "C": "David Bowie"
+      "B": "Britney Spears",
+      "C": "Jessica Simpson"
     },
     "image": null,
     "correct_answer": "A"
@@ -1038,9 +1038,9 @@
     "topic": "Glazba",
     "question": "Truveri su sjevernjačka verzija kojih južnjačkih pjesnika-glazbenika iz srednjovjekovne francuske?",
     "answers": {
-      "A": "Cremona",
+      "A": "Minnesängera",
       "B": "Trubadura",
-      "C": "Liverpool"
+      "C": "Goliarda"
     },
     "image": null,
     "correct_answer": "B"
@@ -1051,8 +1051,8 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Lose Yourself' iz 2002.?",
     "answers": {
-      "A": "Dua Lipa",
-      "B": "Jim Morrison",
+      "A": "50 Cent",
+      "B": "Jay-Z",
       "C": "Eminem"
     },
     "image": null,
@@ -1065,8 +1065,8 @@
     "question": "Koji je glazbenik srednjeg imena 'Frederick Joseph' poznat i kao 'The Boss'?",
     "answers": {
       "A": "Bruce Springsteen",
-      "B": "Snoop Dogg",
-      "C": "Pink Floyd"
+      "B": "Billy Joel",
+      "C": "Tom Petty"
     },
     "image": null,
     "correct_answer": "A"
@@ -1077,9 +1077,9 @@
     "topic": "Glazba",
     "question": "Koji je grad rodno mjesto Beatlesa?",
     "answers": {
-      "A": "Trubadura",
+      "A": "Manchester",
       "B": "Liverpool",
-      "C": "Cremona"
+      "C": "Birmingham"
     },
     "image": null,
     "correct_answer": "B"
@@ -1090,8 +1090,8 @@
     "topic": "Glazba",
     "question": "Kako se zove poznati glazbeni festival koji se održava u pustinji u Kaliforniji?",
     "answers": {
-      "A": "Thriller",
-      "B": "Like a Virgin",
+      "A": "Lollapalooza",
+      "B": "Bonnaroo",
       "C": "Coachella"
     },
     "image": null,
@@ -1104,8 +1104,8 @@
     "question": "Tko je bio pjevač grupe 'The Doors' sve do svoje smrti 1971. u Parizu?",
     "answers": {
       "A": "Jim Morrison",
-      "B": "Ludwig van Beethoven",
-      "C": "Harry Styles"
+      "B": "Roger Daltrey",
+      "C": "Robert Plant"
     },
     "image": null,
     "correct_answer": "A"
@@ -1116,9 +1116,9 @@
     "topic": "Glazba",
     "question": "Tko je skladao 'Devetu simfoniju'?",
     "answers": {
-      "A": "Jim Morrison",
+      "A": "Wolfgang Amadeus Mozart",
       "B": "Ludwig van Beethoven",
-      "C": "Harry Styles"
+      "C": "Johannes Brahms"
     },
     "image": null,
     "correct_answer": "B"
@@ -1129,8 +1129,8 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Watermelon Sugar'?",
     "answers": {
-      "A": "Ludwig van Beethoven",
-      "B": "Jim Morrison",
+      "A": "Niall Horan",
+      "B": "Zayn Malik",
       "C": "Harry Styles"
     },
     "image": null,
@@ -1143,8 +1143,8 @@
     "question": "Koja se pjevačica glazbom počela baviti pod pseudonimom Lizzy Grant a svjetsku slavu stekla pjesmom 'Video Games'?",
     "answers": {
       "A": "Lana Del Rey",
-      "B": "David Bowie",
-      "C": "Guns N Roses"
+      "B": "Florence Welch",
+      "C": "Marina Diamandis"
     },
     "image": null,
     "correct_answer": "A"
@@ -1156,9 +1156,9 @@
     "topic": "Glazba",
     "question": "Tko je pjevač i gitarist grupe Foo Fighters?",
     "answers": {
-      "A": "Harry Styles",
+      "A": "Eddie Vedder",
       "B": "Dave Grohl",
-      "C": "Ludwig van Beethoven"
+      "C": "Chris Cornell"
     },
     "image": null,
     "correct_answer": "B"
@@ -1169,8 +1169,8 @@
     "topic": "Glazba",
     "question": "Koji je pjevač poznat kao 'The Thin White Duke'?",
     "answers": {
-      "A": "Lana Del Rey",
-      "B": "Guns N Roses",
+      "A": "Elton John",
+      "B": "Freddie Mercury",
       "C": "David Bowie"
     },
     "image": null,
@@ -1183,8 +1183,8 @@
     "question": "Koji je bend objavio album 'The Dark Side of the Moon'?",
     "answers": {
       "A": "Pink Floyd",
-      "B": "Bruce Springsteen",
-      "C": "Snoop Dogg"
+      "B": "Genesis",
+      "C": "Yes"
     },
     "image": null,
     "correct_answer": "A"
@@ -1195,9 +1195,9 @@
     "topic": "Glazba",
     "question": "Koji bend pjeva 'Sweet Child O' Mine'?",
     "answers": {
-      "A": "David Bowie",
-      "B": "Guns N Roses",
-      "C": "Lana Del Rey"
+      "A": "Aerosmith",
+      "B": "Guns N’ Roses",
+      "C": "Bon Jovi"
     },
     "image": null,
     "correct_answer": "B"
@@ -1208,9 +1208,9 @@
     "topic": "Glazba",
     "question": "Tko je otpjevao pjesme 'Uptown Funk' i 'Grenade'?",
     "answers": {
-      "A": "The Weeknd",
-      "B": "Rihanna",
-      "C": "Bruno Mars"
+      "A": "Bruno Mars",
+      "B": "The Weeknd",
+      "C": "Justin Timberlake"
     },
     "image": null,
     "correct_answer": "C"
@@ -1221,9 +1221,9 @@
     "topic": "Glazba",
     "question": "Tko pjeva pjesmu 'Blinding Lights' iz 2020.?",
     "answers": {
-      "A": "The Weeknd",
-      "B": "Bruno Mars",
-      "C": "Rihanna"
+      "A": "Rihanna",
+      "B": "Beyoncé",
+      "C": "Alicia Keys"
     },
     "image": null,
     "correct_answer": "A"
@@ -1235,8 +1235,8 @@
     "question": "Koja pjevačica je poznata kao 'Riri'?",
     "answers": {
       "A": "The Weeknd",
-      "B": "Rihanna",
-      "C": "Bruno Mars"
+      "B": "Post Malone",
+      "C": "Drake"
     },
     "image": null,
     "correct_answer": "B"
@@ -1247,9 +1247,9 @@
     "topic": "Glazba",
     "question": "'La Marseillaise' je himna koje države?",
     "answers": {
-      "A": "Barbados",
-      "B": "Švedske",
-      "C": "Francuske"
+      "A": "Mozart",
+      "B": "Beethoven",
+      "C": "Haydn"
     },
     "image": null,
     "correct_answer": "C"
@@ -1260,9 +1260,9 @@
     "topic": "Glazba",
     "question": "Tko je pjevač grupe U2?",
     "answers": {
-      "A": "Bono Vox",
-      "B": "Rihanna",
-      "C": "The Weeknd"
+      "A": "Michael Jackson",
+      "B": "Prince",
+      "C": "Stevie Wonder"
     },
     "image": null,
     "correct_answer": "A"
@@ -1273,9 +1273,9 @@
     "topic": "Glazba",
     "question": "Koji američki pjevač je poznat i kao 'Kralj popa'?",
     "answers": {
-      "A": "Jimi Hendrix",
-      "B": "Michael Jackson",
-      "C": "Celine Dion"
+      "A": "Céline Dion",
+      "B": "Whitney Houston",
+      "C": "Mariah Carey"
     },
     "image": null,
     "correct_answer": "B"
@@ -1286,9 +1286,9 @@
     "topic": "Glazba",
     "question": "Koji je reper suprug pjevačice Beyoncé?",
     "answers": {
-      "A": "Klavira",
-      "B": "Čarobna frula",
-      "C": "Jay Z"
+      "A": "Thriller",
+      "B": "Back in Black",
+      "C": "The Dark Side of the Moon"
     },
     "image": null,
     "correct_answer": "C"
@@ -1299,9 +1299,9 @@
     "topic": "Glazba",
     "question": "Koji je pjevač poznat po pjesmama 'Purple Haze' i 'Hey Joe'?",
     "answers": {
-      "A": "Jimi Hendrix",
-      "B": "Celine Dion",
-      "C": "Michael Jackson"
+      "A": "Klavira",
+      "B": "Harmonike",
+      "C": "Saksofona"
     },
     "image": null,
     "correct_answer": "A"
