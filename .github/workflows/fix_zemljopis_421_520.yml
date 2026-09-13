@@ -4,6 +4,7 @@ on:
     paths:
       - 'ZEMLJOPIS_421_520_TRIGGER.txt'
       - 'ZEMLJOPIS_521_550_TRIGGER.txt'
+      - 'ZEMLJOPIS_551_620_TRIGGER.txt'
   workflow_dispatch:
 permissions:
   contents: write
@@ -14,7 +15,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run matching fixer
         run: |
-          if git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -q '^ZEMLJOPIS_521_550_TRIGGER.txt$'; then
+          CHANGED="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA")"
+          if echo "$CHANGED" | grep -q '^ZEMLJOPIS_551_620_TRIGGER.txt$'; then
+            python scripts/fix_zemljopis_551_620.py
+          elif echo "$CHANGED" | grep -q '^ZEMLJOPIS_521_550_TRIGGER.txt$'; then
             python scripts/fix_zemljopis_521_550.py
           else
             python scripts/fix_zemljopis_421_520.py
