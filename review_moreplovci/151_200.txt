@@ -1,0 +1,149 @@
+151. Q: Magellanu se pripisuje ime jednog oceana, ali tijekom njegova prelaska posada nije imala pojma koliko je taj ocean golem. Koji je to ocean?
+   A: Tihi ocean | B: Hudsonov zaljev | C: Zaljev Chesapeake | CORRECT: A=Tihi ocean
+
+152. Q: Cookovi su mornari, kao i mnoge druge posade dugih putovanja, strahovali od bolesti uzrokovane nedostatkom vitamina C. a zvala se kako?
+   A: Rekonkvista | B: Skorbut | C: Merkantilizam | CORRECT: B=Skorbut
+
+153. Q: Kako se naziva velika platnena površina koja hvata vjetar i pokreće jedrenjak?
+   A: Kaperstvo | B: Piratstvo | C: Jedro | CORRECT: C=Jedro
+
+154. Q: Kako se naziva trokutasto jedro koje je brodovima omogućavalo učinkovitije jedrenje pod kutom prema vjetru i bilo posebno važno za manevarske sposobnosti karavela?
+   A: Latinsko jedro | B: Navigacija | C: Trgovinski monopol | CORRECT: A=Latinsko jedro
+
+155. Q: Kako se zvao brod kapetana Williama Kidda, opremljen jedrima i veslima, kojim je 1696.g. krenuo u lov na gusare i neprijateljske brodove?
+   A: Providence | B: Adventure Galley | C: Golden Hind | CORRECT: B=Adventure Galley
+
+156. Q: Tko je zapovijedao brodom Gjøa kada je između 1903. i 1906.g. prvi put uspješno preplovljen cijeli Sjeverozapadni prolaz?
+   A: Gibraltarski tjesnac | B: Mozambički kanal | C: Roald Amundsen | CORRECT: C=Roald Amundsen
+
+157. Q: Koji je engleski moreplovac, prirodoslovac i nekadašnji bukanir postao prva poznata osoba koja je tri puta oplovila svijet?
+   A: William Dampier | B: John Hawkins | C: Humphrey Gilbert | CORRECT: A=William Dampier
+
+158. Q: Koji je španjolski moreplovac i kartograf, sudionik Kolumbovih putovanja, oko 1500.g. izradio najstariju sačuvanu kartu na kojoj je prikazan američki kontinent?
+   A: Pedro de Alarcón | B: Juan de la Cosa | C: Francisco de Villaseñor | CORRECT: B=Juan de la Cosa
+
+159. Q: Koja zemljopisna koordinata pokazuje koliko se neko mjesto nalazi sjeverno ili južno od ekvatora?
+   A: Piratstvo | B: Kartografija | C: Zemljopisna širina | CORRECT: C=Zemljopisna širina
+
+160. Q: Koji je španjolski konkvistador, poznat kao El Adelantado, predvodio dugotrajne pokušaje osvajanja poluotoka Yucatána?
+   A: Francisco de Montejo | B: Réunion | C: Socotra | CORRECT: A=Francisco de Montejo
+
+161. Q: Od koje francuske riječi za drvenu rešetku na kojoj se dimilo meso potječe naziv bukanir, kojim su se isprva nazivali lovci s karipskih otoka?
+   A: Rhode Island | B: Boucan | C: Vanikoro | CORRECT: B=Boucan
+
+162. Q: Koji je osmanski admiral i nekadašnji gusar, rođen kao Hızır, u Europi ostao poznat po nadimku koji znači Crvenobradi?
+   A: João de Serpa | B: Nicolas de Beaumont | C: Barbarossa | CORRECT: C=Barbarossa
+
+163. Q: Kako se naziva toranj sa snažnim svjetlom koji brodovima pokazuje put i upozorava ih na opasnu obalu?
+   A: Svjetionik | B: Merkantilizam | C: Kolonijalizam | CORRECT: A=Svjetionik
+
+164. Q: Koliko je topova posada broda HMS Endeavour 1770.g. bacila u more kako bi olakšala brod nakon što se nasukao na Velikom koraljnom grebenu?
+   A: Piratstvo | B: 6 | C: Kartografija | CORRECT: B=6
+
+165. Q: Kako su se nazivali kameni stupovi s portugalskim grbom koje su portugalski istraživači postavljali na novoistraženim obalama?
+   A: Gonçalo de Ataíde | B: Lourenço de Almeida | C: Padrão | CORRECT: C=Padrão
+
+166. Q: Koji je istraživač u engleskoj službi 1497.g. stigao do obala Sjeverne Amerike, a njegovo se putovanje često povezuje s Newfoundlandom?
+   A: John Cabot | B: Henri de Montreuil | C: Richard Hargreaves | CORRECT: A=John Cabot
+
+167. Q: Koji je tjesnac između Koreje i Japana dao ime pomorskoj bitci iz 1905.g. u kojoj je Japan teško porazio rusku Baltičku flotu?
+   A: Mozambički kanal | B: Tsushima | C: Biskajski zaljev | CORRECT: B=Tsushima
+
+168. Q: Koja je gusarica početkom 18. stoljeća plovila u posadi Calica Jacka zajedno s Mary Read te postala jedna od najpoznatijih žena Zlatnog doba piratstva?
+   A: Sayyida al Hurra | B: Ching Shih | C: Anne Bonny | CORRECT: C=Anne Bonny
+
+169. Q: Koji je britanski pomorac 1823.g. doplovio južnije od bilo kojeg dotadašnjeg moreplovca, a po njemu je poslije nazvano veliko more uz Antarktiku?
+   A: James Weddell | B: John Hawkins | C: Humphrey Gilbert | CORRECT: A=James Weddell
+
+170. Q: Koje je morske životinje Kristofor Kolumbo 1493.g. ugledao u Karipskom moru i u svojem ih zapisu opisao kao sirene?
+   A: Kaperstvo | B: Morske krave | C: Piratstvo | CORRECT: B=Morske krave
+
+171. Q: Koji je danski moreplovac u ruskoj službi 1728.g. prošao morskim prolazom između Sibira i Aljaske, koji je poslije nazvan njegovim prezimenom?
+   A: Hormuz | B: Thule | C: Vitus Bering | CORRECT: C=Vitus Bering
+
+172. Q: Kako se naziva stručnjak koji izrađuje zemljopisne karte?
+   A: Kartograf | B: Trgovinski monopol | C: Pomorska blokada | CORRECT: A=Kartograf
+
+173. Q: Koji je španjolski istraživač 1541.g. i 1542.g. predvodio ekspediciju koja je prva preplovila gotovo cijeli tok Amazone, od Anda do Atlantskog oceana?
+   A: Mateo de Villalobos | B: Francisco de Orellana | C: Alonso de Córdoba | CORRECT: B=Francisco de Orellana
+
+174. Q: Abel Tasman je veliki otok južno od Australije nazvao Van Diemenova zemlja a danas se taj otok zove kako?
+   A: Mauricijus | B: Réunion | C: Tasmanija | CORRECT: C=Tasmanija
+
+175. Q: Koji je grad na obali Meksičkog zaljeva Hernan Cortés osnovao 1519.g. i preko njegova gradskog vijeća pokušao osigurati zakonitu osnovu za svoj pohod?
+   A: Veracruz | B: Goa | C: Acapulco | CORRECT: A=Veracruz
+
+176. Q: Koji je španjolski istraživač 1536.g. predvodio prvo osnivanje Buenos Airesa, naselja koje je zbog teških uvjeta poslije napušteno?
+   A: Gonzalo de Montalvo | B: Pedro de Mendoza | C: Martín de Quesada | CORRECT: B=Pedro de Mendoza
+
+177. Q: Koji je zapovjednik Hernana Corteza poslije predvodio španjolsko osvajanje većeg dijela današnje Gvatemale?
+   A: Lorenzo de Acosta | B: João de Serpa | C: Pedro de Alvarado | CORRECT: C=Pedro de Alvarado
+
+178. Q: Kako se zvao brat Vasca da Game koji je kao kapetan broda São Rafael sudjelovao u njegovu prvom putovanju prema Indiji?
+   A: Paulo da Gama | B: Mateo de Villalobos | C: Sebastián de Aranda | CORRECT: A=Paulo da Gama
+
+179. Q: Koje je pacifičko otočje Álvaro de Mendaña 1568.g. nazvao po biblijskom kralju za čije se zemlje vjerovalo da obiluju zlatom?
+   A: Tenerife | B: Solomonovi Otoci | C: Curaçao | CORRECT: B=Solomonovi Otoci
+
+180. Q: Kako se zove najstariji sačuvani globus Zemlje, izrađen 1492.g. pod vodstvom njemačkog moreplovca i kartografa Martina Behaima, na kojem još nije prikazana Amerika?
+   A: Henri de Montreuil | B: Richard Hargreaves | C: Erdapfel | CORRECT: C=Erdapfel
+
+181. Q: Koji je gusar prije odlaska na more bio imućni vlasnik plantaže, zbog čega je u povijesti ostao poznat pod nadimkom Gentleman Pirate?
+   A: Stede Bonnet | B: Lorenzo de Acosta | C: João de Serpa | CORRECT: A=Stede Bonnet
+
+182. Q: Tko je zapovijedao brodom Golden Hind kada se 1580.g. vratio u Englesku nakon putovanja oko svijeta?
+   A: Merkantilizam | B: Francis Drake | C: Kolonijalizam | CORRECT: B=Francis Drake
+
+183. Q: Koji je njemački kartograf na svojoj karti svijeta iz 1507.g. prvi upotrijebio ime Amerika?
+   A: Sebastián de Aranda | B: Edward Blackwell | C: Martin Waldseemüller | CORRECT: C=Martin Waldseemüller
+
+184. Q: Ferdinand Magellan je bio kapetan kojeg prijevoznog sredstva?
+   A: Broda | B: Henri de Montreuil | C: Richard Hargreaves | CORRECT: A=Broda
+
+185. Q: Na Galápagosu postoji vrsta velikih gmazova čija se različitost među otocima posebno isticala. O kojoj je životinji riječ?
+   A: Navigacija | B: Kornjača | C: Trgovinski monopol | CORRECT: B=Kornjača
+
+186. Q: Kako se zvao kapetan broda HMS Beagle tijekom Darwinova znamenitog putovanja oko svijeta?
+   A: João de Serpa | B: Nicolas de Beaumont | C: Robert FitzRoy | CORRECT: C=Robert FitzRoy
+
+187. Q: Premda je na pramcu imao zmajevu glavu, na koju je životinju zbog zatvorene gornje palube nalik oklopu podsjećao geobukseon, znameniti korejski ratni brod admirala Yi Sun-sina?
+   A: Kornjaču | B: Sebastián de Aranda | C: Edward Blackwell | CORRECT: A=Kornjaču
+
+188. Q: Slavni brod još slavnijeg moreplovca Jamesa Cooka, HMS Endeavour, je svoju ne tako slavnu budućnost nakon svjetskih plovidbi nastavio pod kojim drugim imenom?
+   A: Kolonijalizam | B: Lord Sandwich | C: Kaperstvo | CORRECT: B=Lord Sandwich
+
+189. Q: Koji je nizozemski istraživač potkraj 16. stoljeća pokušavao pronaći sjeveroistočni pomorski prolaz prema Aziji, a po njemu danas ime nosi jedno more i jedan otok u arhipelagu Svalbard?
+   A: Mauricijus | B: Réunion | C: Willem Barents | CORRECT: C=Willem Barents
+
+190. Q: Koji je kineski moreplovac prema starim kronikama po zapovijedi cara Qin Shi Huanga otplovio prema istoku u potrazi za otocima besmrtnika, a kasnija ga je predaja povezala s dolaskom u Japan?
+   A: Xu Fu | B: Tomás de Villacorta | C: Lorenzo de Acosta | CORRECT: A=Xu Fu
+
+191. Q: Kako se nazivao velik oceanski jedrenjak široka trupa, na portugalskom poznat kao nau, koji je tijekom velikih geografskih otkrića mogao prevoziti znatno više tereta od karavele?
+   A: Trgovinski monopol | B: Karaka | C: Pomorska blokada | CORRECT: B=Karaka
+
+192. Q: Koji je portugalski moreplovac dao ime najvećem kanadskom poluotoku, nakon što je krajem 15. stoljeća istraživao sjevernoatlantske obale u portugalskoj službi?
+   A: Vanikoro | B: Madeira | C: João Fernandes Lavrador | CORRECT: C=João Fernandes Lavrador
+
+193. Q: Na dvor kineskog cara nakon ekspedicija Zheng Hea stigla je koja egzotična afrička životinja koju su Kinezi povezivali s mitskim qilinom?
+   A: Žirafa | B: Kolonijalizam | C: Kaperstvo | CORRECT: A=Žirafa
+
+194. Q: Bitka kod Trafalgara odvijala se uz obalu koje države?
+   A: Nizozemska | B: Španjolska | C: Italija | CORRECT: B=Španjolska
+
+195. Q: Do koje je azijske zemlje Vasco da Gama doplovio 1498. godine?
+   A: Navigacija | B: Trgovinski monopol | C: Indija | CORRECT: C=Indija
+
+196. Q: Na otocima i obalama kojeg je jezera bio izgrađen Tenochtitlán, glavni grad Aztečkog Carstva?
+   A: Texcoco | B: Rekonkvista | C: Merkantilizam | CORRECT: A=Texcoco
+
+197. Q: Vikinzi su navodno stoljećima prije Kolumba stigli do Sjeverne Amerike. Kako se zvao sin Erika Crvenog kojeg sage povezuju s Vinlandom?
+   A: Kaperstvo | B: Leif Erikson | C: Piratstvo | CORRECT: B=Leif Erikson
+
+198. Q: Koji je španjolski galijun s vrijednim teretom potonuo 1622.g. kod Floridskih otoka, a istraživač Mel Fisher pronašao je njegovu olupinu 1985.g.?
+   A: Samoa | B: Tahiti | C: Nuestra Señora de Atocha | CORRECT: C=Nuestra Señora de Atocha
+
+199. Q: Po kojim je mitskim ratnicama iz grčke mitologije Francisco de Orellana nazvao najveću rijeku Južne Amerike, nakon što je njegova ekspedicija izvijestila o susretu sa ženama ratnicama?
+   A: Amazonkama | B: Ching Shih | C: Rachel Wall | CORRECT: A=Amazonkama
+
+200. Q: Koji je britanski pomorski časnik 1722.g. porazio gusarskog kapetana Bartholomewa Robertsa i poslije bio proglašen vitezom zbog borbe protiv gusarstva?
+   A: Henry Every | B: Chaloner Ogle | C: Robert Harcourt | CORRECT: B=Chaloner Ogle
