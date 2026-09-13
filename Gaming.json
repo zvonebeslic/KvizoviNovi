@@ -83,9 +83,9 @@
     "topic": "Gaming",
     "question": "Kako se zove lovkinja na glave iz serijala Metroid, čije je otkrivanje ženskog identiteta na kraju prve igre postalo jedan od poznatijih ranih obrata u videoigrama?",
     "answers": {
-      "A": "Samus Aran",
+      "A": "Lara Smith",
       "B": "Lara Croft",
-      "C": "Jill Valentine"
+      "C": "Lara Valentine"
     },
     "image": null,
     "correct_answer": "A"
@@ -124,7 +124,7 @@
     "answers": {
       "A": "Lara Croft",
       "B": "Jill Valentine",
-      "C": "Aloy"
+      "C": "Anna Robbie"
     },
     "image": null,
     "correct_answer": "A"
@@ -148,8 +148,8 @@
     "topic": "Gaming",
     "question": "Kako se zove izvanzemaljski gospodar i glavni neprijatelj čovječanstva u serijalu videoigara Serious Sam?",
     "answers": {
-      "A": "Ugh-Zan III",
-      "B": "Mordekai",
+      "A": "Murdoch",
+      "B": "Mortal",
       "C": "Mental"
     },
     "image": null,
@@ -332,7 +332,7 @@
     "answers": {
       "A": "Wario",
       "B": "Luigi",
-      "C": "Waluigi"
+      "C": "Rafael"
     },
     "image": null,
     "correct_answer": "B"
@@ -514,7 +514,7 @@
     "answers": {
       "A": "4",
       "B": "6",
-      "C": "12"
+      "C": "2"
     },
     "image": null,
     "correct_answer": "A"
@@ -630,8 +630,8 @@
     "question": "Kako se zove zli znanstvenik s velikim slovom N na čelu koji je glavni protivnik Crasha Bandicoota u istoimenoj videoigri?",
     "answers": {
       "A": "Neo Cortex",
-      "B": "N. Gin",
-      "C": "N. Tropy"
+      "B": "Neo Gin",
+      "C": "Neo Tropy"
     },
     "image": null,
     "correct_answer": "A"
@@ -733,8 +733,8 @@
     "topic": "Gaming",
     "question": "Koja četveroslovna kratica označava 'PlayerUnknown's Battlegrounds' u nazivu popularne battle royale videoigre?",
     "answers": {
-      "A": "H1Z1",
-      "B": "Fortnite",
+      "A": "DOOM",
+      "B": "GONE",
       "C": "PUBG"
     },
     "image": null,
@@ -1060,7 +1060,7 @@
     "answers": {
       "A": "PlayStation 5",
       "B": "PlayStation 4",
-      "C": "PlayStation 3"
+      "C": "PlayStation 6"
     },
     "image": null,
     "correct_answer": "A"
@@ -1371,7 +1371,7 @@
     "question": "Kako se zove arkadna videoigra iz 1985.g. u kojoj igrač na biciklu dostavlja novine, izbjegavajući automobile, pse i druge prepreke?",
     "answers": {
       "A": "Paperboy",
-      "B": "720°",
+      "B": "News on the Road",
       "C": "RoadBlasters"
     },
     "image": null,
@@ -1527,8 +1527,8 @@
     "question": "Kako se zove božanska vladarica iz videoigre Elden Ring čije je razbijanje Elden Ringa pokrenulo ključne događaje priče?",
     "answers": {
       "A": "Queen Marika",
-      "B": "Rennala",
-      "C": "Ranni"
+      "B": "Queen Rennala",
+      "C": "Queen Ranni"
     },
     "image": null,
     "correct_answer": "A"
@@ -1981,8 +1981,8 @@
     "topic": "Gaming",
     "question": "Kako se zove veliki crni zmaj kojeg igrač susreće u dimenziji The End i čijim se porazom prikazuje završna sekvenca Minecrafta?",
     "answers": {
-      "A": "Wither",
-      "B": "Warden",
+      "A": "Wither Dragon",
+      "B": "Warden Dragon",
       "C": "Ender Dragon"
     },
     "image": null,
@@ -2229,8 +2229,8 @@
     "question": "Kako se zove izmišljena himalajska država u kojoj se odvija radnja videoigre Far Cry 4?",
     "answers": {
       "A": "Kyrat",
-      "B": "Rook Islands",
-      "C": "Hope County"
+      "B": "Hindus",
+      "C": "Himalat"
     },
     "image": null,
     "correct_answer": "A"
@@ -2475,7 +2475,7 @@
     "topic": "Gaming",
     "question": "Kako se u videoigri Pokémon GO nazivaju lokacije na karti na kojima igrači mogu skupljati predmete poput Poké lopti?",
     "answers": {
-      "A": "Gym",
+      "A": "PokéPark",
       "B": "PokéStop",
       "C": "PokéCenter"
     },
@@ -2527,8 +2527,8 @@
     "topic": "Gaming",
     "question": "Kako se zove maskirani profesionalni hrvač iz serijala videoigara Tekken koji nosi prepoznatljivu masku jaguara i koristi brojne profesionalne hrvačke zahvate?",
     "answers": {
-      "A": "Armor King",
-      "B": "Marduk",
+      "A": "Marshall",
+      "B": "Prince",
       "C": "King"
     },
     "image": null,
@@ -2943,9 +2943,9 @@
     "topic": "Gaming",
     "question": "Koliko cijevi ima prepoznatljiva sačmarica koju protagonist koristi u serijalu videoigara Doom?",
     "answers": {
-      "A": "8",
+      "A": "3",
       "B": "2",
-      "C": "10"
+      "C": "4"
     },
     "image": null,
     "correct_answer": "B"
@@ -2995,8 +2995,8 @@
     "topic": "Gaming",
     "question": "Koliko metara se pretrči u prvoj atletskoj disciplini koju igrač igra u originalnoj arkadnoj videoigri Track & Field?",
     "answers": {
-      "A": "2",
-      "B": "10",
+      "A": "400",
+      "B": "200",
       "C": "100"
     },
     "image": null,
@@ -3073,7 +3073,7 @@
     "topic": "Gaming",
     "question": "Kako se zove jedna od dviju glavnih suprotstavljenih frakcija u videoigri World of Warcraft, kojoj tradicionalno pripadaju orci, taureni i trolovi?",
     "answers": {
-      "A": "Nuka Cola",
+      "A": "Ghosts",
       "B": "Souls",
       "C": "Horde"
     },
@@ -3087,7 +3087,7 @@
     "question": "Kako se zove ljudska rasa odnosno frakcija kojom igrač može upravljati uz Zerg i Protoss u strategijskoj videoigri StarCraft?",
     "answers": {
       "A": "Terran",
-      "B": "PokéStop",
+      "B": "Blurrs",
       "C": "Souls"
     },
     "image": null,
@@ -3126,8 +3126,8 @@
     "question": "Kojim se engleskim gaming izrazom naziva vibracija kontrolera koja igraču omogućuje da fizički osjeti udarce, sudare i druge događaje u igri?",
     "answers": {
       "A": "Rumble",
-      "B": "Force Feedback",
-      "C": "Haptic Feedback"
+      "B": "Force",
+      "C": "Haptic"
     },
     "image": null,
     "correct_answer": "A"
@@ -3140,7 +3140,7 @@
     "answers": {
       "A": "Dual Analog",
       "B": "DualShock",
-      "C": "Sixaxis"
+      "C": "Six Axis"
     },
     "image": null,
     "correct_answer": "B"
@@ -3216,9 +3216,9 @@
     "topic": "Gaming",
     "question": "Kako se najčešće naziva kontroler koji igrač drži objema rukama i njime upravlja videoigrom na konzoli?",
     "answers": {
-      "A": "SimCity",
+      "A": "Controlerpad",
       "B": "Gamepad",
-      "C": "Asteroids"
+      "C": "Commandpad"
     },
     "image": null,
     "correct_answer": "B"
@@ -3268,8 +3268,8 @@
     "topic": "Gaming",
     "question": "Na kojem je američkom sveučilištu 1972.g. održano natjecanje u videoigri Spacewar!, koje se često navodi kao prvo poznato natjecanje u videoigrama?",
     "answers": {
-      "A": "BioShock",
-      "B": "Asteroids",
+      "A": "West Point",
+      "B": "Yale",
       "C": "Stanford"
     },
     "image": null,
