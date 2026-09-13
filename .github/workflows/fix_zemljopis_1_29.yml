@@ -1,0 +1,19 @@
+name: Fix Zemljopis 1-29
+on:
+  push:
+    paths: ['ZEMLJOPIS_1_29_TRIGGER.txt']
+  workflow_dispatch:
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_zemljopis_1_29.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Zemljopis.json
+          git commit -m "Uredi Zemljopis pitanja 1-29" || exit 0
+          git push
