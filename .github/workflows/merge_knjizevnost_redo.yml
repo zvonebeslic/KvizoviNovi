@@ -1,0 +1,123 @@
+name: Merge Knjizevnost redo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'KNJIZEVNOST_MERGE_TRIGGER.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Merge and verify Knjizevnost
+        run: |
+          python - <<'PY'
+          import json, re, random
+          from pathlib import Path
+
+          main_path = Path('Knjizevnost.json')
+          original = json.loads(main_path.read_text(encoding='utf-8'))
+          assert len(original) == 405, len(original)
+
+          files = sorted(
+              p for p in Path('redo').glob('Knjizevnost_*.json')
+              if re.fullmatch(r'Knjizevnost_\d{3}_\d{3}\.json', p.name)
+          )
+          assert len(files) == 13, [p.name for p in files]
+
+          by_index = {}
+          for p in files:
+              for q in json.loads(p.read_text(encoding='utf-8')):
+                  idx = q['index']
+                  assert idx not in by_index, idx
+                  by_index[idx] = q
+          assert sorted(by_index) == list(range(1, 406))
+
+          fixes = {
+              23: {'C': 'Legendi'},
+              42: {'A': 'Čarobnjaka iz Oza'},
+              57: {'A': 'Davida Walliamsa', 'C': 'Michaela Morpurga'},
+              145: {'A': 'Srebro', 'C': 'Bakar'},
+              148: {'A': 'Maloj sireni', 'C': 'Sinbadu Moreplovcu'},
+              183: {'A': 'Conan', 'C': 'Zorro'},
+              198: {'A': 'Havaji', 'B': 'Fidži'},
+              213: {'A': 'Toranj', 'C': 'Stablo'},
+              281: {'B': 'Garov', 'C': 'Žućo'},
+              305: {'A': 'Orasa'},
+          }
+
+          cleaned = []
+          for idx in range(1, 406):
+              q = dict(by_index[idx])
+              src = original[idx-1]
+              assert q['question'] == src['question'], f'question changed at {idx}'
+              src_correct = src['answers'][src['correct_answer']]
+              redo_correct = q['answers'][q['correct_answer']]
+              assert redo_correct == src_correct, (idx, src_correct, redo_correct)
+
+              ans = dict(q['answers'])
+              for letter, text in fixes.get(idx, {}).items():
+                  assert letter != q['correct_answer'], f'fix touches correct answer {idx}'
+                  ans[letter] = text
+              q['answers'] = ans
+              q['topic'] = 'Književnost'
+              q.pop('index', None)
+              cleaned.append(q)
+
+          # Ravnomjerno A/B/C, ali izmiješano kroz datoteku.
+          targets = ['A'] * 135 + ['B'] * 135 + ['C'] * 135
+          random.Random(20260913).shuffle(targets)
+          letters = ['A','B','C']
+          final = []
+          for idx, (q, target) in enumerate(zip(cleaned, targets), 1):
+              old_correct = q['correct_answer']
+              correct_text = q['answers'][old_correct]
+              wrongs = [q['answers'][x] for x in letters if x != old_correct]
+              # Deterministički izmiješaj i krive opcije.
+              if idx % 2 == 0:
+                  wrongs.reverse()
+              new_answers = {}
+              wi = 0
+              for letter in letters:
+                  if letter == target:
+                      new_answers[letter] = correct_text
+                  else:
+                      new_answers[letter] = wrongs[wi]
+                      wi += 1
+              q['answers'] = new_answers
+              q['correct_answer'] = target
+              final.append(q)
+
+          assert len(final) == 405
+          counts = {x: sum(q['correct_answer'] == x for q in final) for x in letters}
+          assert counts == {'A':135,'B':135,'C':135}, counts
+          assert len({q['question'] for q in final}) == 405
+          for i,q in enumerate(final,1):
+              assert q['topic'] == 'Književnost'
+              assert set(q['answers']) == {'A','B','C'}
+              assert len(set(q['answers'].values())) == 3, i
+              assert q['answers'][q['correct_answer']] == original[i-1]['answers'][original[i-1]['correct_answer']], i
+              assert q['question'] == original[i-1]['question'], i
+
+          main_path.write_text(json.dumps(final, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print('OK 405; distribution', counts)
+          PY
+      - name: Commit Knjizevnost
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Knjizevnost.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Dovrsi Knjizevnost ABC'
+          git pull --rebase origin main
+          git push origin main
