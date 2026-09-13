@@ -226,8 +226,8 @@
     "topic": "Moreplovci",
     "question": "Popularan naziv španjolskih moreplovaca i osvajača iz 15. i 16. stoljeća korijen vuče iz naziva otpora u kojem je Pirinejski poluotok oslobođen od muslimanskih država a naziva se kako?",
     "answers": {
-      "A": "Piratstvo",
-      "B": "Kartografija",
+      "A": "Konkvizicija",
+      "B": "Rat Ruža",
       "C": "Rekonkvista"
     },
     "image": null,
@@ -343,9 +343,9 @@
     "topic": "Moreplovci",
     "question": "Prema kojem je azijskom području zapravo plovila flota moreplovca Pedra Cabrala kada je 1500.g. stigla do Brazila?",
     "answers": {
-      "A": "Kina",
-      "B": "Moluci",
-      "C": "Indija"
+      "A": "Kini",
+      "B": "Australiji",
+      "C": "Indiji"
     },
     "image": null,
     "correct_answer": "C"
@@ -681,9 +681,9 @@
     "topic": "Moreplovci",
     "question": "Koji ocean zapljuskuje zapadnu obalu Južne Amerike?",
     "answers": {
-      "A": "Karipsko more",
-      "B": "Tihi ocean",
-      "C": "Crveno more"
+      "A": "Indijski",
+      "B": "Tihi",
+      "C": "Atlantski"
     },
     "image": null,
     "correct_answer": "B"
@@ -772,8 +772,8 @@
     "topic": "Moreplovci",
     "question": "Koju je stratešku otočnu tvrđavu na ulazu u Perzijski zaljev Afonso de Albuquerque trajno stavio pod portugalsku vlast 1515.g.?",
     "answers": {
-      "A": "Hudsonov zaljev",
-      "B": "La Manche",
+      "A": "Motun",
+      "B": "Karakeš",
       "C": "Hormuz"
     },
     "image": null,
@@ -811,8 +811,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvala tajanstvena krajnja sjeverna zemlja koju je grčki istraživač Piteja iz Masalije opisao oko 325. godine prije Krista?",
     "answers": {
-      "A": "Rt Dobre nade",
-      "B": "Magellanov prolaz",
+      "A": "Astrid",
+      "B": "Ingol",
       "C": "Thule"
     },
     "image": null,
