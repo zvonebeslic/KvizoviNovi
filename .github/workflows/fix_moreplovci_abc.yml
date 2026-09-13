@@ -1,0 +1,34 @@
+name: Fix Moreplovci ABC
+on:
+  workflow_dispatch:
+  push:
+    paths: ['MOREPLOVCI_FIX_TRIGGER.txt']
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/fix_moreplovci_abc.py
+      - name: Validate
+        run: |
+          python - <<'PY'
+          import json,collections
+          d=json.load(open('Moreplovci.json',encoding='utf-8'))
+          bad=[]; dist=collections.Counter()
+          for i,q in enumerate(d,1):
+            a=q.get('answers',{}); c=q.get('correct_answer')
+            if set(a)!=set('ABC') or c not in a or len(set(a.values()))!=3 or any(not str(a[k]).strip() for k in 'ABC'): bad.append(i)
+            dist[c]+=1
+          print('TOTAL',len(d),'DIST',dict(dist),'BAD',bad)
+          assert not bad
+          PY
+      - run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add Moreplovci.json
+          git diff --cached --quiet || (git commit -m 'Preuredi Moreplovci ABC distraktore' && git push)
