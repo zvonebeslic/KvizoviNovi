@@ -1,4 +1,4 @@
-name: Fix Zemljopis 521-550
+name: Fix Zemljopis 551-620 preko stabilnog triggera
 on:
   push:
     paths:
@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python scripts/fix_zemljopis_521_550.py
+      - run: python scripts/fix_zemljopis_551_620.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add Zemljopis.json
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m "Rucno popravi Zemljopis 521-550"
+          git commit -m "Rucno popravi Zemljopis 551-620"
           git push
