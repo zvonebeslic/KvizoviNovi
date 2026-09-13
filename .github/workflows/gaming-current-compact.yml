@@ -22,6 +22,7 @@ jobs:
             for i,x in enumerate(d,1):
               a=x['answers']; ca=x['correct_answer']
               f.write(f"{i:03d}\t{ca}\t{x['question']}\tA={a['A']} | B={a['B']} | C={a['C']}\n")
+          print('EXPORTED',len(d))
           PY
       - uses: actions/upload-artifact@v4
         with:
