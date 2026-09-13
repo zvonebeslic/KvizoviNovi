@@ -1,0 +1,26 @@
+name: Gaming diff baseline
+on:
+  push:
+    paths:
+      - '.github/workflows/gaming-diff-baseline.yml'
+permissions:
+  contents: read
+jobs:
+  diff:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Compare current with baseline
+        run: |
+          python - <<'PY'
+          import json, subprocess
+          cur=json.load(open('Gaming.json',encoding='utf-8'))
+          base=json.loads(subprocess.check_output(['git','show','8f2f142:Gaming.json'], text=True))
+          print('COUNT',len(cur),len(base))
+          for i,(c,b) in enumerate(zip(cur,base),1):
+            if c['correct_answer']!=b['correct_answer'] or c['answers']!=b['answers']:
+              ca0=b['correct_answer']; ca1=c['correct_answer']
+              print(f"Q{i}|BASE_CA={ca0}|BASE={b['answers']}|CUR_CA={ca1}|CUR={c['answers']}|Q={c['question']}")
+          PY
