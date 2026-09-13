@@ -14,6 +14,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/finalize_moreplovci_manual.py
+      - run: python scripts/fix_moreplovci_extra.py
       - name: Validate
         run: |
           python - <<'PY'
