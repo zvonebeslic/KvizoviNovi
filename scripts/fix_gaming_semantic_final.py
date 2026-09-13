@@ -1,65 +1,58 @@
-import json
-p='Gaming.json'
-with open(p,encoding='utf-8') as f: data=json.load(f)
-# Only distractors are changed. Original question text, original correct-answer text and correct_answer letters stay untouched.
-fixes={
-8:{'A':'Jeanne de Clisson','C':'Marie Marvingt'},
-63:{'A':'Marshall Law','B':'Bryan Fury'},
-95:{'A':'Gamepires','C':'Nanobit'},
-133:{'B':'Godrick','C':'Rennala'},
-182:{'A':'Space Invaders','C':'Phoenix'},
-216:{'A':'Nova Terra','B':'Selendis'},
-218:{'A':'King Boo','C':'Wario'},
-219:{'A':'Božić','B':'Duhovi'},
-220:{'B':'Aperture Science','C':'Umbrella Laboratory'},
-224:{'A':'Mephisto','C':'Azmodan'},
-225:{'A':'Empire Bay','B':'Liberty City'},
-229:{'B':'Toadette','C':'Goomba'},
-230:{'A':'Lisa','C':'Homer'},
-232:{'B':'Snow Bros.','C':'Tumble Pop'},
-234:{'A':'Cole Phelps','B':'Wei Shen'},
-236:{'A':'Pobunjenici','C':'Plaćenici'},
-240:{'A':'Lordran','B':'Drangleic'},
-241:{'B':'Force Feedback','C':'Haptic Feedback'},
-242:{'A':'Dual Analog','C':'Sixaxis'},
-243:{'A':'Aviona','B':'Brodova'},
-244:{'B':'Drugi svjetski rat','C':'Vijetnamski rat'},
-246:{'A':'Fygar','B':'Taizo Hori'},
-249:{'A':'Little Sisters','B':'Splicers'},
-250:{'B':'Vice City','C':'Liberty City'},
-253:{'B':'Nemesis','C':'Mr. X'},
-255:{'A':'Galaxian','B':'Xevious'},
-288:{'A':'Konstrukti','B':'Sinteti'},
-316:{'B':'Stealth Boy','C':'RobCo Fun'},
-317:{'A':'Zerg','C':'Terran'},
-318:{'A':'Alexey Pajitnov','B':'Vadim Gerasimov'},
-321:{'A':'Gume','B':'Bačvice'},
-323:{'A':'Daisy','C':'Rosalina'},
-326:{'A':'Puran','C':'Patka'},
-330:{'A':'Questor','B':'Merlin'},
-332:{'A':'Košarka','C':'Hokej'},
-337:{'B':'Ripto','C':'Red'},
-339:{'A':'Altered Beast','B':'Gauntlet'},
-342:{'A':'Naughty Dog','B':'Sucker Punch Productions'},
-344:{'A':'R-9 Arrowhead','C':'Silver Hawk'},
-345:{'A':'Stormbird','B':'Rockbreaker'},
-347:{'A':'Ciglu','C':'Beton'},
-348:{'A':'Pandemonium','B':'Westmarch'},
-349:{'B':'ROG Ally','C':'Legion Go'},
-350:{'A':'Walter Raleigh','C':'James Cook'},
-351:{'A':'Grčkoj','B':'Rimskoj'},
-354:{'A':'Colorado','B':'Wyoming'},
-362:{'A':'Guild Wars 2','C':'The Elder Scrolls Online'},
-398:{'A':'Hogan’s Alley','C':'Wild Gunman'},
-442:{'B':'Tommy Angelo','C':'Lincoln Clay'}
-}
-for n,repl in fixes.items():
-    x=data[n-1]
-    ca=x['correct_answer']; original=x['answers'][ca]
-    for k,v in repl.items():
-        if k!=ca: x['answers'][k]=v
-    assert x['answers'][ca]==original, (n,original,x['answers'][ca])
-    assert len({x['answers'][k].casefold() for k in 'ABC'})==3, n
-assert len(data)==444
-with open(p,'w',encoding='utf-8') as f: json.dump(data,f,ensure_ascii=False,indent=2); f.write('\n')
-print('Fixed',len(fixes),'Gaming answer sets; original correct answers preserved.')
+import json, subprocess
+
+# Rebuild from the last stable Gaming version before later semantic edits corrupted some answers.
+raw = subprocess.check_output(['git','show','8f2f142:Gaming.json'], text=True)
+data = json.loads(raw)
+assert len(data) == 444
+
+# Never change question text, correct_answer letters, or the original correct-answer text.
+def set_wrongs(fragment, wrong1, wrong2):
+    matches=[x for x in data if fragment in x['question']]
+    assert len(matches)==1, (fragment, len(matches))
+    x=matches[0]
+    ca=x['correct_answer']
+    original=x['answers'][ca]
+    wrong=[k for k in 'ABC' if k!=ca]
+    x['answers'][wrong[0]]=wrong1
+    x['answers'][wrong[1]]=wrong2
+    assert x['answers'][ca] == original
+    assert len({x['answers'][k].casefold().strip() for k in 'ABC'}) == 3
+
+# Ambiguity / same-identity / weak-category fixes.
+set_wrongs('BioShock omogućuje genetske modifikacije', 'EVE', 'Salts')
+set_wrongs('povijesna francuska junakinja ima vlastitu kampanju', 'Jeanne de Clisson', 'Marie Marvingt')
+set_wrongs("čuva pristup dvorcu Stormveil", 'Godrick', 'Rennala')
+set_wrongs('hrvatski studio razvio serijal videoigara Serious Sam', 'Gamepires', 'Nanobit')
+set_wrongs('izmišljena droga koja ima važnu ulogu u priči prve videoigre Max Payne', 'Joy', 'Spank')
+set_wrongs('zajednički nazivaju robotska stvorenja koja nastanjuju svijet serijala videoigara Horizon', 'Konstrukti', 'Sinteti')
+
+# Obvious category-mismatch fixes.
+set_wrongs('arkadnu igru kompanija Gremlin objavila 1976.g.', 'Nibbler', 'Surround')
+set_wrongs('američkom sveučilištu 1972.g. održano natjecanje u videoigri Spacewar!', 'MIT', 'Harvard')
+set_wrongs('životinju jaše glavni junak u Williamsovoj arkadnoj videoigri Joust', 'Emu', 'Kondor')
+set_wrongs('neprijatelj iz serijala Serious Sam koji bez glave trči', 'Kleer', 'Gnaar')
+set_wrongs("Xbox-ov dodatak koji igračima omogućuje igranje i upravljanje pokretima", 'PlayStation Move', 'Wii MotionPlus')
+set_wrongs('finski studio razvio prve dvije videoigre Max Payne', 'Housemarque', 'Bugbear Entertainment')
+set_wrongs('planetu nalazi velik dio objekata korporacije UAC', 'Zemlja', 'Venera')
+set_wrongs('vrstu namirnice predstavlja predmet koji Mario', 'Cvijet', 'Zvijezda')
+set_wrongs("svjetski rat predstavlja povijesnu pozadinu Capcomove arkadne videoigre '1942'", 'Prvi svjetski rat', 'Vijetnamski rat')
+set_wrongs('duhovni konj kojeg igrač jaše u videoigri Elden Ring', 'Roach', 'Epona')
+set_wrongs('sport simulira u serijalu videoigara koji se nekada zvao FIFA', 'Košarka', 'Hokej')
+set_wrongs('ratnik iz arkadne videoigre Gauntlet koji predstavlja crvenu boju', 'Questor', 'Merlin')
+set_wrongs('virtualni ljudi kojima igrač upravlja u serijalu videoigara The Sims', 'Likovi', 'Avatari')
+set_wrongs('najpoznatija mapa videoigre League of Legends na kojoj se standardno igraju mečevi pet protiv pet', 'Howling Abyss', 'Twisted Treeline')
+
+# Keep the Stanford question fully homogeneous even if it was manually edited later.
+# All answers are universities, and the original correct answer from the stable baseline stays untouched.
+
+# Structural guarantees.
+for i,x in enumerate(data,1):
+    assert set(x['answers']) == set('ABC'), i
+    assert x['correct_answer'] in 'ABC', i
+    assert all(str(x['answers'][k]).strip() for k in 'ABC'), i
+    assert len({x['answers'][k].casefold().strip() for k in 'ABC'}) == 3, i
+
+with open('Gaming.json','w',encoding='utf-8') as f:
+    json.dump(data,f,ensure_ascii=False,indent=2)
+    f.write('\n')
+print('Gaming rebuilt from stable baseline and curated distractors applied.')
