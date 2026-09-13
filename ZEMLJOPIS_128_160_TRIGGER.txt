@@ -1,1 +1,1 @@
-Pokreni ručne ispravke pitanja 128-160.
+Pokreni ručne ispravke pitanja 128-160 nakon popravka sidra.
