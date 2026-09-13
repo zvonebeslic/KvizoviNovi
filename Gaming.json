@@ -148,8 +148,8 @@
     "topic": "Gaming",
     "question": "Kako se zove izvanzemaljski gospodar i glavni neprijatelj čovječanstva u serijalu videoigara Serious Sam?",
     "answers": {
-      "A": "Murdoch",
-      "B": "Mortal",
+      "A": "Ugh-Zan III",
+      "B": "Mordekai",
       "C": "Mental"
     },
     "image": null,
@@ -332,7 +332,7 @@
     "answers": {
       "A": "Wario",
       "B": "Luigi",
-      "C": "Rafael"
+      "C": "Waluigi"
     },
     "image": null,
     "correct_answer": "B"
@@ -422,7 +422,7 @@
     "question": "Koliko različitih oblika možemo slagati u igrici Tetris?",
     "answers": {
       "A": "5",
-      "B": "6",
+      "B": "3",
       "C": "7"
     },
     "image": null,
@@ -486,9 +486,9 @@
     "topic": "Gaming",
     "question": "Od koliko je kvadratnih blokova napravljen svaki oblik koji se pojavljuje u tetrisu?",
     "answers": {
-      "A": "3",
+      "A": "6",
       "B": "4",
-      "C": "5"
+      "C": "8"
     },
     "image": null,
     "correct_answer": "B"
@@ -513,8 +513,8 @@
     "question": "Koliko duhova progoni Pac Mana?",
     "answers": {
       "A": "4",
-      "B": "5",
-      "C": "6"
+      "B": "6",
+      "C": "12"
     },
     "image": null,
     "correct_answer": "A"
@@ -630,8 +630,8 @@
     "question": "Kako se zove zli znanstvenik s velikim slovom N na čelu koji je glavni protivnik Crasha Bandicoota u istoimenoj videoigri?",
     "answers": {
       "A": "Neo Cortex",
-      "B": "Neo Gin",
-      "C": "Neo Tropy"
+      "B": "N. Gin",
+      "C": "N. Tropy"
     },
     "image": null,
     "correct_answer": "A"
@@ -733,8 +733,8 @@
     "topic": "Gaming",
     "question": "Koja četveroslovna kratica označava 'PlayerUnknown's Battlegrounds' u nazivu popularne battle royale videoigre?",
     "answers": {
-      "A": "DOOM",
-      "B": "GONE",
+      "A": "H1Z1",
+      "B": "Fortnite",
       "C": "PUBG"
     },
     "image": null,
@@ -825,8 +825,8 @@
     "question": "Koje je godine objavljena arkadna igra Blockade, jedan od najranijih poznatih prethodnika igre Snake?",
     "answers": {
       "A": "1976",
-      "B": "1966",
-      "C": "1956"
+      "B": "2000",
+      "C": "1998"
     },
     "image": null,
     "correct_answer": "A"
@@ -1371,7 +1371,7 @@
     "question": "Kako se zove arkadna videoigra iz 1985.g. u kojoj igrač na biciklu dostavlja novine, izbjegavajući automobile, pse i druge prepreke?",
     "answers": {
       "A": "Paperboy",
-      "B": "News on the Road",
+      "B": "720°",
       "C": "RoadBlasters"
     },
     "image": null,
@@ -1513,8 +1513,8 @@
     "topic": "Gaming",
     "question": "Kako se zove grad iz igre Super Mario Odyssey koji izgledom podsjeća na New York, u kojem je Pauline gradonačelnica i koji obiluje referencama na originalni Donkey Kong?",
     "answers": {
-      "A": "San Donk City",
-      "B": "Los Donk City",
+      "A": "Hyrule",
+      "B": "Lordran",
       "C": "New Donk City"
     },
     "image": null,
@@ -1527,8 +1527,8 @@
     "question": "Kako se zove božanska vladarica iz videoigre Elden Ring čije je razbijanje Elden Ringa pokrenulo ključne događaje priče?",
     "answers": {
       "A": "Queen Marika",
-      "B": "Queen Rennala",
-      "C": "Queen Ranni"
+      "B": "Rennala",
+      "C": "Ranni"
     },
     "image": null,
     "correct_answer": "A"
@@ -1787,7 +1787,7 @@
     "question": "Kako se zove kuhar kojim igrač upravlja u arkadnoj videoigri BurgerTime?",
     "answers": {
       "A": "Mr. Do",
-      "B": "Taizo Hori",
+      "B": "Dig Dug",
       "C": "Peter Pepper"
     },
     "image": null,
@@ -2046,9 +2046,9 @@
     "topic": "Gaming",
     "question": "Kako se zove maskirani borac iz serijala videoigara Tekken koji nosi crnu masku jaguara, koristi profesionalno hrvanje i izvorno je predstavljen kao Kingov suparnik?",
     "answers": {
-      "A": "Dope King",
+      "A": "King",
       "B": "Armor King",
-      "C": "King Marduk"
+      "C": "Marduk"
     },
     "image": null,
     "correct_answer": "B"
@@ -2124,7 +2124,7 @@
     "topic": "Gaming",
     "question": "Blinky je crven, Pinky rozi, Inky plavi a Clyde koje boje?",
     "answers": {
-      "A": "Bijele",
+      "A": "Crvene",
       "B": "Narancaste",
       "C": "Ružičaste"
     },
@@ -2204,7 +2204,7 @@
     "answers": {
       "A": "Princess Daisy",
       "B": "Princess Peach",
-      "C": "Princess Rosalina"
+      "C": "Rosalina"
     },
     "image": null,
     "correct_answer": "B"
@@ -2229,8 +2229,8 @@
     "question": "Kako se zove izmišljena himalajska država u kojoj se odvija radnja videoigre Far Cry 4?",
     "answers": {
       "A": "Kyrat",
-      "B": "Himalah",
-      "C": "Hindus"
+      "B": "Yara",
+      "C": "Medici"
     },
     "image": null,
     "correct_answer": "A"
@@ -2243,7 +2243,7 @@
     "answers": {
       "A": "Galaga",
       "B": "Pac Man",
-      "C": "Snake"
+      "C": "Dig Dug"
     },
     "image": null,
     "correct_answer": "B"
@@ -2358,9 +2358,9 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1979. kojoj je Namcova Galaga izravni nastavak?",
     "answers": {
-      "A": "Space Invaders",
+      "A": "Contra",
       "B": "Galaxian",
-      "C": "Phoenix"
+      "C": "Shinobi"
     },
     "image": null,
     "correct_answer": "B"
@@ -2411,7 +2411,7 @@
     "question": "Koje je godine u Japanu prvi put objavljena legendarna Nintendova igrica Super Mario Bros.?",
     "answers": {
       "A": "1989",
-      "B": "1990",
+      "B": "2020",
       "C": "1985"
     },
     "image": null,
@@ -2475,7 +2475,7 @@
     "topic": "Gaming",
     "question": "Kako se u videoigri Pokémon GO nazivaju lokacije na karti na kojima igrači mogu skupljati predmete poput Poké lopti?",
     "answers": {
-      "A": "PokéPark",
+      "A": "Gym",
       "B": "PokéStop",
       "C": "PokéCenter"
     },
@@ -2943,9 +2943,9 @@
     "topic": "Gaming",
     "question": "Koliko cijevi ima prepoznatljiva sačmarica koju protagonist koristi u serijalu videoigara Doom?",
     "answers": {
-      "A": "3",
+      "A": "8",
       "B": "2",
-      "C": "4"
+      "C": "10"
     },
     "image": null,
     "correct_answer": "B"
@@ -2995,8 +2995,8 @@
     "topic": "Gaming",
     "question": "Koliko metara se pretrči u prvoj atletskoj disciplini koju igrač igra u originalnoj arkadnoj videoigri Track & Field?",
     "answers": {
-      "A": "400",
-      "B": "200",
+      "A": "2",
+      "B": "10",
       "C": "100"
     },
     "image": null,
@@ -3140,7 +3140,7 @@
     "answers": {
       "A": "Dual Analog",
       "B": "DualShock",
-      "C": "Six Axis"
+      "C": "Sixaxis"
     },
     "image": null,
     "correct_answer": "B"
@@ -3177,7 +3177,7 @@
     "topic": "Gaming",
     "question": "Kako se zove yordle iz League of Legendsa koji nosi zelenu kapu, koristi puhaljku i postavlja otrovne gljive?",
     "answers": {
-      "A": "Tristan",
+      "A": "Tristana",
       "B": "Teemo",
       "C": "Veigar"
     },
@@ -3191,7 +3191,7 @@
     "question": "Kako se zove crveni okruglasti neprijatelj s velikim naočalama u arkadnoj videoigri Dig Dug?",
     "answers": {
       "A": "Fygar",
-      "B": "Taizo Hori",
+      "B": "Pooka Jr.",
       "C": "Pooka"
     },
     "image": null,
@@ -3204,8 +3204,8 @@
     "question": "Kako se zove junak odjeven u zeleno koji u većini igara serijala The Legend of Zelda spašava Zeldu?",
     "answers": {
       "A": "Link",
-      "B": "Tingle",
-      "C": "Groose"
+      "B": "Solid Snake",
+      "C": "Gordon Freeman"
     },
     "image": null,
     "correct_answer": "A"
@@ -3556,7 +3556,7 @@
     "answers": {
       "A": "5",
       "B": "3",
-      "C": "4"
+      "C": "2"
     },
     "image": null,
     "correct_answer": "A"
@@ -3751,7 +3751,7 @@
     "answers": {
       "A": "DICE",
       "B": "Avalanche Studios",
-      "C": "Starbreeze"
+      "C": "Starbreeze Studios"
     },
     "image": null,
     "correct_answer": "A"
@@ -3775,9 +3775,9 @@
     "topic": "Gaming",
     "question": "Koja poznata instrumentalna skladba Henryja Mancinija služi kao glavna glazbena tema arkadne videoigre Spy Hunter?",
     "answers": {
-      "A": "Axel F Theme",
+      "A": "Axel F",
       "B": "Mission: Impossible Theme",
-      "C": "Peter Gunn Theme"
+      "C": "Peter Gunn"
     },
     "image": null,
     "correct_answer": "C"
@@ -3867,7 +3867,7 @@
     "question": "Koliko igrača standardno čini jednu ekipu na mapi Summoner's Rift u videoigri League of Legends?",
     "answers": {
       "A": "5",
-      "B": "6",
+      "B": "12",
       "C": "4"
     },
     "image": null,
@@ -3907,7 +3907,7 @@
     "answers": {
       "A": "Pro Evolution Soccer",
       "B": "FIFA",
-      "C": "Virtual Striker"
+      "C": "Virtua Striker"
     },
     "image": null,
     "correct_answer": "A"
@@ -3994,7 +3994,7 @@
     "type": "blitz",
     "difficulty": 3,
     "topic": "Gaming",
-    "question": "Koje je najtanje slovo koje možemo složiti u tetrisu?",
+    "question": "Koje je najtanje slovo koje možemo složiti.u tetrisu?",
     "answers": {
       "A": "O",
       "B": "I",
@@ -4126,8 +4126,8 @@
     "topic": "Gaming",
     "question": "Koju je kultnu videoigru 1984.g. osmislio sovjetski programer Aleksej Pažitnov?",
     "answers": {
-      "A": "Columns",
-      "B": "Dr. Mario",
+      "A": "Dona Bailey",
+      "B": "Chris Sawyer",
       "C": "Tetris"
     },
     "image": null,
@@ -4349,7 +4349,7 @@
     "answers": {
       "A": "Prvi svjetski rat",
       "B": "Drugi svjetski rat",
-      "C": "Stogodišnji rat"
+      "C": "Vijetnamski rat"
     },
     "image": null,
     "correct_answer": "B"
@@ -4386,9 +4386,9 @@
     "topic": "Gaming",
     "question": "Koja se vrsta hrane nalazi u imenu kraljevstva Mushroom Kingdom, glavnog kraljevstva u svijetu igrica Super Mario?",
     "answers": {
-      "A": "Jabuka",
+      "A": "CJ",
       "B": "Gljiva",
-      "C": "Durian"
+      "C": "Samus Aran"
     },
     "image": null,
     "correct_answer": "B"
@@ -4452,8 +4452,8 @@
     "question": "Kako se zove legendarni izgubljeni grad koji Nathan Drake traži u videoigri Uncharted 2: Among Thieves?",
     "answers": {
       "A": "Shambhala",
-      "B": "Tristam",
-      "C": "Petrahia"
+      "B": "Fallout",
+      "C": "Spyro the Dragon"
     },
     "image": null,
     "correct_answer": "A"
@@ -4464,9 +4464,9 @@
     "topic": "Gaming",
     "question": "Kako se zove svemirski brod lovac kojim igrač upravlja u Konamijevoj arkadnoj videoigri Gradius iz 1985.g.?",
     "answers": {
-      "A": "Blader",
+      "A": "PUBG",
       "B": "Vic Viper",
-      "C": "Ultras"
+      "C": "Shinobi"
     },
     "image": null,
     "correct_answer": "B"
@@ -4477,8 +4477,8 @@
     "topic": "Gaming",
     "question": "Kako se zove golemi borbeni stroj iz serijala Horizon koji izgledom podsjeća na tiranosaura?",
     "answers": {
-      "A": "TermiMortal",
-      "B": "Jig-Jag",
+      "A": "Shinobi",
+      "B": "SimCity",
       "C": "Thunderjaw"
     },
     "image": null,
@@ -4491,8 +4491,8 @@
     "question": "U kojoj se arkadnoj videoigri iz 1981.g. prvi put pojavio lik koji će kasnije postati poznat kao Super Mario?",
     "answers": {
       "A": "Donkey Kong",
-      "B": "Snake",
-      "C": "Pac Man"
+      "B": "Pikachu",
+      "C": "Nathan Drake"
     },
     "image": null,
     "correct_answer": "A"
@@ -4672,8 +4672,8 @@
     "topic": "Gaming",
     "question": "Koje je godine u Japanu predstavljen PlayStation 3?",
     "answers": {
-      "A": "2004",
-      "B": "2008",
+      "A": "1989",
+      "B": "1991",
       "C": "2006"
     },
     "image": null,
@@ -4698,9 +4698,9 @@
     "topic": "Gaming",
     "question": "U kojoj videoigri se nalazi svijet imena Azeroth?",
     "answers": {
-      "A": "Guild Wars 2",
+      "A": "Defender",
       "B": "World of Warcraft",
-      "C": "The Elder Scrolls Online"
+      "C": "Portal"
     },
     "image": null,
     "correct_answer": "B"
@@ -4737,9 +4737,9 @@
     "topic": "Gaming",
     "question": "Koji je poznati povijesni vođa, poznat po miru, zbog računalne pogreške u igri Civilization postao agresivni manijak koji baca nuklearne bombe?",
     "answers": {
-      "A": "Martin Luther King",
+      "A": "Abraham Lincoln",
       "B": "Mahatma Gandhi",
-      "C": "Nelson Mandela"
+      "C": "Napoleon Bonaparte"
     },
     "image": null,
     "correct_answer": "B"
@@ -4803,7 +4803,7 @@
     "question": "Kako se zove jeziva i poludjela umjetna inteligencija koja muči igrača na svemirskom brodu u igri System Shock 2?",
     "answers": {
       "A": "Shodan",
-      "B": "GLADOS",
+      "B": "GLaDOS",
       "C": "Cortana"
     },
     "image": null,
@@ -5116,7 +5116,7 @@
     "answers": {
       "A": "Hadouken",
       "B": "Shoryuken",
-      "C": "Tatamuken"
+      "C": "Tatsumaki Senpukyaku"
     },
     "image": null,
     "correct_answer": "A"
@@ -5714,7 +5714,7 @@
     "answers": {
       "A": "1991",
       "B": "1994",
-      "C": "1996"
+      "C": "2010"
     },
     "image": null,
     "correct_answer": "B"
