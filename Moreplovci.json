@@ -811,8 +811,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvala tajanstvena krajnja sjeverna zemlja koju je grčki istraživač Piteja iz Masalije opisao oko 325. godine prije Krista?",
     "answers": {
-      "A": "Astrid",
-      "B": "Ingol",
+      "A": "Ultima Thule",
+      "B": "Hyperboreja",
       "C": "Thule"
     },
     "image": null,
@@ -837,9 +837,9 @@
     "topic": "Moreplovci",
     "question": "Koju je važnu trgovačku luku na Malajskom poluotoku Afonso de Albuquerque osvojio 1511.g., čime je Portugal stekao nadzor nad ključnim prolazom prema \"Otocima začina\"?",
     "answers": {
-      "A": "Nantes",
+      "A": "Kedah",
       "B": "Malacca",
-      "C": "Bristol"
+      "C": "Johor"
     },
     "image": null,
     "correct_answer": "B"
@@ -864,8 +864,8 @@
     "question": "Koji tjesnac nosi ime moreplovca čija je ekspedicija 1520.g. kroz krajnji jug Južne Amerike pronašla prolaz iz Atlantika u ocean koji je potom nazvao 'mirnim'?",
     "answers": {
       "A": "Magellanov tjesnac",
-      "B": "Rt Dobre nade",
-      "C": "Magellanov prolaz"
+      "B": "Drakeov prolaz",
+      "C": "Torresov tjesnac"
     },
     "image": null,
     "correct_answer": "A"
@@ -876,9 +876,9 @@
     "topic": "Moreplovci",
     "question": "Koje su otočje, za tadašnju Europu jako daleko, portugalci otkrili 1456.g.?",
     "answers": {
-      "A": "Tenerife",
+      "A": "Azore",
       "B": "Zelenortske Otoke",
-      "C": "Curaçao"
+      "C": "Madeiru"
     },
     "image": null,
     "correct_answer": "B"
@@ -889,8 +889,8 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski kralj poslao Vasca da Gamu na putovanje koje je 1498.g. otvorilo pomorski put iz Europe do Indije?",
     "answers": {
-      "A": "João de Serpa",
-      "B": "Afonso de Noronha",
+      "A": "Ivan II.",
+      "B": "Afonso V.",
       "C": "Manuel I."
     },
     "image": null,
@@ -915,9 +915,9 @@
     "topic": "Moreplovci",
     "question": "Koji je arapski moreplovac i pisac iz 15. stoljeća, poznat pod nadimkom Lav mora, napisao važne priručnike o plovidbi Indijskim oceanom?",
     "answers": {
-      "A": "Richard Hargreaves",
+      "A": "Ibn Battuta",
       "B": "Ahmad ibn Majid",
-      "C": "Tomás de Villacorta"
+      "C": "Sulayman al-Mahri"
     },
     "image": null,
     "correct_answer": "B"
@@ -928,8 +928,8 @@
     "topic": "Moreplovci",
     "question": "Nakon što je brod Endurance uništen u antarktičkom ledu, Ernest Shackleton je ostavio većinu svojih ljudi na Elephant Islandu te s petoricom članova posade krenuo malim čamcem preko više od 1.300 km otvorenog mora kako bi pronašao pomoć a uspio je doploviti do kojeg udaljenog otoka?",
     "answers": {
-      "A": "Samoa",
-      "B": "Tahiti",
+      "A": "Falklandski otoci",
+      "B": "Južni Orkney",
       "C": "Južna Georgija"
     },
     "image": null,
@@ -967,8 +967,8 @@
     "topic": "Moreplovci",
     "question": "Kako se naziva portugalska navigacijska tehnika u kojoj se jedrenjak udaljava od afričke ili europske obale i pravi širok luk preko Atlantika kako bi iskoristio povoljnije vjetrove i morske struje?",
     "answers": {
-      "A": "Kolonijalizam",
-      "B": "Kaperstvo",
+      "A": "Volta da costa",
+      "B": "Rota do vento",
       "C": "Volta do mar"
     },
     "image": null,
@@ -1006,8 +1006,8 @@
     "topic": "Moreplovci",
     "question": "Koji je grad na otoku New Providence na Bahamima početkom 18. stoljeća postao glavno gusarsko utočište i središte takozvane Gusarske republike?",
     "answers": {
-      "A": "Lisabon",
-      "B": "Sevilla",
+      "A": "Freeport",
+      "B": "Port Royal",
       "C": "Nassau"
     },
     "image": null,
@@ -1032,9 +1032,9 @@
     "topic": "Moreplovci",
     "question": "Vasco da Gama nije stigao u Indiju na područje današnjeg Mumbaija ili Goe, nego u luku kojeg grada na obali Kerale?",
     "answers": {
-      "A": "Nantes",
+      "A": "Cochin",
       "B": "Calicut",
-      "C": "Bristol"
+      "C": "Kannur"
     },
     "image": null,
     "correct_answer": "B"
@@ -1071,9 +1071,9 @@
     "topic": "Moreplovci",
     "question": "U kojem je američkom zaljevu francuska flota 1781.g. spriječila britanske brodove da pomognu vojsci kod Yorktowna i tako snažno utjecala na ishod Američkog rata za neovisnost?",
     "answers": {
-      "A": "Sredozemno more",
+      "A": "Zaljev Delaware",
       "B": "Zaljev Chesapeake",
-      "C": "Karipsko more"
+      "C": "Zaljev Massachusetts"
     },
     "image": null,
     "correct_answer": "B"
@@ -1201,8 +1201,8 @@
     "topic": "Moreplovci",
     "question": "Koje su otočje portugalci otkrili 1419.g., danas autonomnu portugalsku regiju?",
     "answers": {
-      "A": "Mauricijus",
-      "B": "Réunion",
+      "A": "Azore",
+      "B": "Zelenortske Otoke",
       "C": "Madiera"
     },
     "image": null,
@@ -1240,8 +1240,8 @@
     "topic": "Moreplovci",
     "question": "Koji je japanski samuraj predvodio diplomatsku misiju koja je od 1613.g. preko Tihog oceana, Meksika i Atlantika stigla sve do Španjolske i Rima?",
     "answers": {
-      "A": "Henri de Montreuil",
-      "B": "Richard Hargreaves",
+      "A": "Date Masamune",
+      "B": "Sanada Yukimura",
       "C": "Hasekura Tsunenaga"
     },
     "image": null,
@@ -1318,8 +1318,8 @@
     "topic": "Moreplovci",
     "question": "Kako se naziva najveća vrsta slanog vodenog prostranstva na Zemlji?",
     "answers": {
-      "A": "Crveno more",
-      "B": "Hudsonov zaljev",
+      "A": "More",
+      "B": "Zaljev",
       "C": "Ocean"
     },
     "image": null,
@@ -1372,7 +1372,7 @@
     "answers": {
       "A": "Otok",
       "B": "Poluotok",
-      "C": "Prevaka"
+      "C": "Atol"
     },
     "image": null,
     "correct_answer": "A"
@@ -1474,8 +1474,8 @@
     "topic": "Moreplovci",
     "question": "Koji ocean moraju prijeći brodovi koji iz Europe plove izravno prema Americi?",
     "answers": {
-      "A": "Zaljev Chesapeake",
-      "B": "Tihi ocean",
+      "A": "Tihi ocean",
+      "B": "Indijski ocean",
       "C": "Atlantski ocean"
     },
     "image": null,
@@ -1812,9 +1812,9 @@
     "topic": "Moreplovci",
     "question": "Koje su otočje u atlantskom oceanu 1427.g. otkrili portugalci?",
     "answers": {
-      "A": "Guam",
+      "A": "Madeiru",
       "B": "Azore",
-      "C": "Cebu"
+      "C": "Zelenortske Otoke"
     },
     "image": null,
     "correct_answer": "B"
@@ -1839,8 +1839,8 @@
     "question": "Portugalski je moreplovac Bartolomeu Dias, prolazeći uz južne obale Afrike 1488.g. doživio olujno nevrijeme uz jedan rt kojeg je kasnije nazvao Rt Oluja, no taj naziv je portugalski kraj Joao II. promijenio u koje ime koje stoji i danas, a tada je simboliziralo nadu da će se pomorski put prema Aziji ipak pronaći?",
     "answers": {
       "A": "Rt Dobre Nade",
-      "B": "Thule",
-      "C": "Magellanov prolaz"
+      "B": "Rt Agulhas",
+      "C": "Rt Svetog Vincenta"
     },
     "image": null,
     "correct_answer": "A"
@@ -1903,8 +1903,8 @@
     "topic": "Moreplovci",
     "question": "Koji je norveški istraživač 1911.g. prvi stigao na Južni pol, pobijedivši britansku ekspediciju Roberta Falcona Scotta u jednoj od najpoznatijih polarnih utrka u povijesti?",
     "answers": {
-      "A": "Nicolas de Beaumont",
-      "B": "Mateo de Villalobos",
+      "A": "Fridtjof Nansen",
+      "B": "Otto Sverdrup",
       "C": "Roald Amundsen"
     },
     "image": null,
@@ -1942,8 +1942,8 @@
     "topic": "Moreplovci",
     "question": "Arheološki dokaz nordijskog boravka u Sjevernoj Americi pronađen je u L'Anse aux Meadowsu a to nalazište je danas na kojem kanadskom otoku?",
     "answers": {
-      "A": "Curaçao",
-      "B": "Martinique",
+      "A": "Baffinov otok",
+      "B": "Otok Cape Breton",
       "C": "Newfoundland"
     },
     "image": null,
@@ -1956,8 +1956,8 @@
     "question": "Magellanu se pripisuje ime jednog oceana, ali tijekom njegova prelaska posada nije imala pojma koliko je taj ocean golem. Koji je to ocean?",
     "answers": {
       "A": "Tihi ocean",
-      "B": "Hudsonov zaljev",
-      "C": "Zaljev Chesapeake"
+      "B": "Atlantski ocean",
+      "C": "Indijski ocean"
     },
     "image": null,
     "correct_answer": "A"
@@ -2697,8 +2697,8 @@
     "question": "Koji se tjesnac između japanskog otoka Hokkaida i ruskog Sahalina zove po francuskom istraživaču koji ga je kartirao 1787.g.?",
     "answers": {
       "A": "La Pérouse",
-      "B": "Guadeloupe",
-      "C": "Barbados"
+      "B": "Beringov tjesnac",
+      "C": "Tsugaru tjesnac"
     },
     "image": null,
     "correct_answer": "A"
@@ -2917,8 +2917,8 @@
     "topic": "Moreplovci",
     "question": "Koji je norveški istraživač namjerno dopustio da njegov brod Fram ostane zarobljen u arktičkom ledu, računajući da će ga morske struje zajedno s ledom odnijeti bliže Sjevernom polu?",
     "answers": {
-      "A": "Sebastián de Aranda",
-      "B": "Edward Blackwell",
+      "A": "Roald Amundsen",
+      "B": "Otto Sverdrup",
       "C": "Fridtjof Nansen"
     },
     "image": null,
