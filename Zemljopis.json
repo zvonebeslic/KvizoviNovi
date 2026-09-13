@@ -4738,8 +4738,8 @@
     "question": "Čija linija razdvaja Pakistan od Afganistana?",
     "answers": {
       "A": "Durandova",
-      "B": "Beringov",
-      "C": "Iravadi"
+      "B": "Radcliffeova",
+      "C": "McMahonova"
     },
     "image": null,
     "correct_answer": "A"
@@ -4750,9 +4750,9 @@
     "topic": "Zemljopis",
     "question": "Čiji morski tjesnac dijeli Rusiju od SAD-a?",
     "answers": {
-      "A": "Durandova",
+      "A": "Davisov",
       "B": "Beringov",
-      "C": "Crvena"
+      "C": "Danski"
     },
     "image": null,
     "correct_answer": "B"
@@ -4763,8 +4763,8 @@
     "topic": "Zemljopis",
     "question": "Koja država kao internetski nastavak koristi slova 'ir'?",
     "answers": {
-      "A": "Senegala",
-      "B": "Tunisa",
+      "A": "Irak",
+      "B": "Irska",
       "C": "Iran"
     },
     "image": null,
@@ -4777,8 +4777,8 @@
     "question": "Koja boja prevladava na zastavi Tunisa?",
     "answers": {
       "A": "Crvena",
-      "B": "Beringov",
-      "C": "Atlantskom"
+      "B": "Bijela",
+      "C": "Zelena"
     },
     "image": null,
     "correct_answer": "A"
@@ -4789,9 +4789,9 @@
     "topic": "Zemljopis",
     "question": "Koje veliko jezero dijele Francuska i Švicarska?",
     "answers": {
-      "A": "Mount Everest",
+      "A": "Bodensko Jezero",
       "B": "Ženevsko Jezero",
-      "C": "Altun Ha"
+      "C": "Jezero Maggiore"
     },
     "image": null,
     "correct_answer": "B"
@@ -4802,8 +4802,8 @@
     "topic": "Zemljopis",
     "question": "Vremenu i nevremenu kojeg oceana je izložen Irski otok?",
     "answers": {
-      "A": "Čad",
-      "B": "Crvena",
+      "A": "Arktičkom",
+      "B": "Indijskom",
       "C": "Atlantskom"
     },
     "image": null,
@@ -4816,8 +4816,8 @@
     "question": "Koja je afrička država, sa površinom od 1 284 000km², jedna od najsiromašnijih na svijetu. Do 2004.g. je imala tek 550km asfaltiranih cesta, a do 2016.g. je u njoj tek manje od 9% stanovništva imalo pristup električkoj energiji?",
     "answers": {
       "A": "Čad",
-      "B": "Atlantskom",
-      "C": "Turske"
+      "B": "Niger",
+      "C": "Mali"
     },
     "image": null,
     "correct_answer": "A"
@@ -4828,9 +4828,9 @@
     "topic": "Zemljopis",
     "question": "Istočna Tracija je europski dio koje euroazijske države?",
     "answers": {
-      "A": "Čad",
+      "A": "Gruzije",
       "B": "Turske",
-      "C": "Atlantskom"
+      "C": "Kazahstana"
     },
     "image": null,
     "correct_answer": "B"
@@ -4841,8 +4841,8 @@
     "topic": "Zemljopis",
     "question": "Tunis je glavni grad koje države?",
     "answers": {
-      "A": "Estonije",
-      "B": "Gvajanu",
+      "A": "Alžira",
+      "B": "Libije",
       "C": "Tunisa"
     },
     "image": null,
@@ -4855,8 +4855,8 @@
     "question": "'Suur Munamagi', što u prijevodu znači 'Planina Veliko Jaje', je 318m visoko brdo te najviši vrh koje države?",
     "answers": {
       "A": "Estonije",
-      "B": "Tunisa",
-      "C": "Gvajanu"
+      "B": "Latvije",
+      "C": "Litve"
     },
     "image": null,
     "correct_answer": "A"
@@ -4867,9 +4867,9 @@
     "topic": "Zemljopis",
     "question": "Koja je država sjedište poznate arapske TV-postaje Al-Jazeera?",
     "answers": {
-      "A": "Turske",
+      "A": "Bahrein",
       "B": "Katar",
-      "C": "Čad"
+      "C": "Ujedinjeni Arapski Emirati"
     },
     "image": null,
     "correct_answer": "B"
@@ -4880,8 +4880,8 @@
     "topic": "Zemljopis",
     "question": "Essequibo, Demerara i Berbice su rijeke koje svojom cijelom dužinom protječu kroz koju državu?",
     "answers": {
-      "A": "Estonije",
-      "B": "Rumunjske",
+      "A": "Surinam",
+      "B": "Venezuela",
       "C": "Gvajanu"
     },
     "image": null,
@@ -4894,8 +4894,8 @@
     "question": "Koji otok polineški starosjedioci poznaju kao Rapa Nui?",
     "answers": {
       "A": "Uskršnji Otok",
-      "B": "Senegal",
-      "C": "Sredozemnom"
+      "B": "Tahiti",
+      "C": "Pitcairn"
     },
     "image": null,
     "correct_answer": "A"
@@ -4906,9 +4906,9 @@
     "topic": "Zemljopis",
     "question": "Bukurešt je glavni grad koje države?",
     "answers": {
-      "A": "Gvajanu",
+      "A": "Bugarske",
       "B": "Rumunjske",
-      "C": "Estonije"
+      "C": "Mađarske"
     },
     "image": null,
     "correct_answer": "B"
@@ -4919,8 +4919,8 @@
     "topic": "Zemljopis",
     "question": "'Glava od žada' koja predstavlja majanskog boga sunca (Kinich Ahau), je zadivljujući, 5kg težak poludragi kamen koji je pronađen u Belizeu,na arheološkom nalazištu koje se zove kako?",
     "answers": {
-      "A": "Pergamskom Muzeju",
-      "B": "Ženevsko Jezero",
+      "A": "Lamanai",
+      "B": "Caracol",
       "C": "Altun Ha"
     },
     "image": null,
@@ -4933,8 +4933,8 @@
     "question": "Koju vrstu kape možemo pronaći na grbovima Kolumbije, Argentine, Nikaragve te Kube?",
     "answers": {
       "A": "Frigijsku",
-      "B": "Oranje",
-      "C": "Katar"
+      "B": "Pileus",
+      "C": "Tricorne"
     },
     "image": null,
     "correct_answer": "A"
@@ -4945,12 +4945,13 @@
     "topic": "Zemljopis",
     "question": "'Pergamski oltar' i 'Ištarina vrata'  kao autentične rekonstrukcije povijesnih građevina možete posjetiti u kojem berlinskom muzeju?",
     "answers": {
-      "A": "Altun Ha",
+      "A": "Novom Muzeju",
       "B": "Pergamskom Muzeju",
-      "C": "Ženevsko Jezero"
+      "C": "Bodeovu Muzeju"
     },
     "image": null,
-    "correct_answer": "B"
+    "correct_answer": "B",
+    "qa_note": "Pergamski muzej u Berlinu zatvoren je zbog velike obnove; pitanje se odnosi na muzej i njegove zbirke, a izvorni odgovor ostavljen je netaknut."
   },
   {
     "type": "blitz",
@@ -4958,8 +4959,8 @@
     "topic": "Zemljopis",
     "question": "U kojoj državi se nalazi delta Nila?",
     "answers": {
-      "A": "Indonezije",
-      "B": "Rumunjske",
+      "A": "Sudanu",
+      "B": "Etiopiji",
       "C": "Egiptu"
     },
     "image": null,
@@ -4972,8 +4973,8 @@
     "question": "Na grbu koje države se nalazi 'garuda', mitsko hinduističko božanstvo, pola čovjek a pola ptica?",
     "answers": {
       "A": "Indonezije",
-      "B": "Egiptu",
-      "C": "Gabon"
+      "B": "Tajlanda",
+      "C": "Nepala"
     },
     "image": null,
     "correct_answer": "A"
@@ -4984,9 +4985,9 @@
     "topic": "Zemljopis",
     "question": "Koja velika afrička rijeka dijeli JAR od Namibije?",
     "answers": {
-      "A": "Ekvador",
+      "A": "Limpopo",
       "B": "Oranje",
-      "C": "Frigijsku"
+      "C": "Zambezi"
     },
     "image": null,
     "correct_answer": "B"
@@ -4997,8 +4998,8 @@
     "topic": "Zemljopis",
     "question": "Koja je latinoamerička država svoje ime dobila po zemljinu polutniku?",
     "answers": {
-      "A": "Oranje",
-      "B": "Frigijsku",
+      "A": "Kolumbija",
+      "B": "Bolivija",
       "C": "Ekvador"
     },
     "image": null,
@@ -5011,8 +5012,8 @@
     "question": "Ogooue je 1200km duga afrička rijeka koja najvećim dijelom protječe kroz koju državu na čijem se teritoriju i ulijeva u Atlantski Ocean?",
     "answers": {
       "A": "Gabon",
-      "B": "Dominika",
-      "C": "Paname"
+      "B": "Kamerun",
+      "C": "Republika Kongo"
     },
     "image": null,
     "correct_answer": "A"
@@ -5023,9 +5024,9 @@
     "topic": "Zemljopis",
     "question": "Postoji samo jedna suverena država na svijetu koja na svom službenom grbu ima lik žabe. Uz nju su tu i dvije papige a riječ je o kojoj državi?",
     "answers": {
-      "A": "Gabon",
+      "A": "Sveta Lucija",
       "B": "Dominika",
-      "C": "Paname"
+      "C": "Grenada"
     },
     "image": null,
     "correct_answer": "B"
@@ -5036,8 +5037,8 @@
     "topic": "Zemljopis",
     "question": "Panama City je glavni grad koje države?",
     "answers": {
-      "A": "Dominika",
-      "B": "Rusija",
+      "A": "Kostarike",
+      "B": "Nikaragve",
       "C": "Paname"
     },
     "image": null,
@@ -5050,8 +5051,8 @@
     "question": "Moskva je glavni grad koje države?",
     "answers": {
       "A": "Rusija",
-      "B": "Paname",
-      "C": "Dominika"
+      "B": "Bjelorusije",
+      "C": "Ukrajine"
     },
     "image": null,
     "correct_answer": "A"
@@ -5062,9 +5063,9 @@
     "topic": "Zemljopis",
     "question": "Koja rijeka razdvaja Senegal i Mauritaniju?",
     "answers": {
-      "A": "Borneo",
+      "A": "Gambija",
       "B": "Senegal",
-      "C": "Uskršnji Otok"
+      "C": "Niger"
     },
     "image": null,
     "correct_answer": "B"
@@ -5075,8 +5076,8 @@
     "topic": "Zemljopis",
     "question": "Layou je 8km duga rijeka koja se nalazi na kojoj otočnoj državi u Malim Antilima?",
     "answers": {
-      "A": "Sicilije",
-      "B": "Ekvador",
+      "A": "Sveta Lucija",
+      "B": "Martinique",
       "C": "Dominika"
     },
     "image": null,
@@ -5089,8 +5090,8 @@
     "question": "Grb koje autonomne talijanske pokrajine najviše podsjeća ga grb britanskog otoka Man, koji nije u sastavu Ujedinjenog Kraljevstva ali je dio Commonwealtha?",
     "answers": {
       "A": "Sicilije",
-      "B": "Dominika",
-      "C": "Porto-Novo"
+      "B": "Sardinije",
+      "C": "Trentina-Južnog Tirola"
     },
     "image": null,
     "correct_answer": "A"
@@ -5101,9 +5102,9 @@
     "topic": "Zemljopis",
     "question": "Na obali kojeg jezera se nalazi glavni grad Azerbajdžana?",
     "answers": {
-      "A": "Haag",
+      "A": "Aralskog",
       "B": "Kaspijskog",
-      "C": "Ngerulmud"
+      "C": "Crnog"
     },
     "image": null,
     "correct_answer": "B"
@@ -5114,8 +5115,8 @@
     "topic": "Zemljopis",
     "question": "Na kojem se mediteranskom otočju nalaze španjolski gradovi Menorca i Mallorca?",
     "answers": {
-      "A": "Pergamskom Muzeju",
-      "B": "Altun Ha",
+      "A": "Kanarskom Otočju",
+      "B": "Pitiuškom Otočju",
       "C": "Balearskom Otočju"
     },
     "image": null,
@@ -5128,8 +5129,8 @@
     "question": "U kojem je gradu sjedište nizozemske vlade?",
     "answers": {
       "A": "Haag",
-      "B": "Kaspijskog",
-      "C": "Ngerulmud"
+      "B": "Amsterdamu",
+      "C": "Rotterdamu"
     },
     "image": null,
     "correct_answer": "A"
@@ -5140,9 +5141,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem otoku se nalazi država Brunej?",
     "answers": {
-      "A": "Senegal",
+      "A": "Sumatri",
       "B": "Borneo",
-      "C": "Afrika"
+      "C": "Sulawesiju"
     },
     "image": null,
     "correct_answer": "B"
@@ -5153,8 +5154,8 @@
     "topic": "Zemljopis",
     "question": "Najveći grad Benina je Cotonou, a glavni, koji?",
     "answers": {
-      "A": "Harfa",
-      "B": "Sicilije",
+      "A": "Abomey",
+      "B": "Parakou",
       "C": "Porto-Novo"
     },
     "image": null,
@@ -5167,8 +5168,8 @@
     "question": "Kako se zove glavni grad Palaua?",
     "answers": {
       "A": "Ngerulmud",
-      "B": "Haag",
-      "C": "Stockholm"
+      "B": "Koror",
+      "C": "Melekeok"
     },
     "image": null,
     "correct_answer": "A"
@@ -5179,9 +5180,9 @@
     "topic": "Zemljopis",
     "question": "Za himnu koje države je tekat napisao Ferenc Kölcsey, a glazbu skladao Ferenc Erkel?",
     "answers": {
-      "A": "San Marino",
+      "A": "Austriju",
       "B": "Mađarsku",
-      "C": "Ekvador"
+      "C": "Hrvatsku"
     },
     "image": null,
     "correct_answer": "B"
@@ -5192,8 +5193,8 @@
     "topic": "Zemljopis",
     "question": "Koje se žičano glazbalo nalazi na grbu Irske te na grbu Ujedninjenog Kraljevstva?",
     "answers": {
-      "A": "Porto-Novo",
-      "B": "Zair",
+      "A": "Kopenhagen",
+      "B": "Helsinki",
       "C": "Harfa"
     },
     "image": null,
@@ -5206,8 +5207,8 @@
     "question": "Koji je europski glavni grad izgrađen na 14 otoka te povezan sa 57 mostova?",
     "answers": {
       "A": "Stockholm",
-      "B": "Tripoli",
-      "C": "Ngerulmud"
+      "B": "Bengazi",
+      "C": "Tunis"
     },
     "image": null,
     "correct_answer": "A"
@@ -5218,9 +5219,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Libije?",
     "answers": {
-      "A": "Stockholm",
+      "A": "Katanga",
       "B": "Tripoli",
-      "C": "Baku"
+      "C": "Kongo-Léopoldville"
     },
     "image": null,
     "correct_answer": "B"
@@ -5231,8 +5232,8 @@
     "topic": "Zemljopis",
     "question": "Koje je službeno ime Demokratska Republika Kongo nosila u razdoblju od 1971.g. do 1997.g.?",
     "answers": {
-      "A": "K2",
-      "B": "Harfa",
+      "A": "Nanga Parbat",
+      "B": "Gasherbrum I",
       "C": "Zair"
     },
     "image": null,
@@ -5245,8 +5246,8 @@
     "question": "Koji je legendarni planinski vrh najviša točka Pakistana?",
     "answers": {
       "A": "K2",
-      "B": "Zair",
-      "C": "Lihtenštajn"
+      "B": "Tbilisi",
+      "C": "Erevan"
     },
     "image": null,
     "correct_answer": "A"
@@ -5257,9 +5258,9 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Azerbajdžana?",
     "answers": {
-      "A": "Tripoli",
+      "A": "Andora",
       "B": "Baku",
-      "C": "Stockholm"
+      "C": "Vatikan"
     },
     "image": null,
     "correct_answer": "B"
@@ -5270,8 +5271,8 @@
     "topic": "Zemljopis",
     "question": "San Marino je glavni grad koje države?",
     "answers": {
-      "A": "Ekvador",
-      "B": "Slovenija",
+      "A": "Luksemburg",
+      "B": "Andora",
       "C": "San Marino"
     },
     "image": null,
@@ -5284,8 +5285,8 @@
     "question": "Koja je europska država jedinu na tom kontinentu čije susjedne zemlje nemaju izlaz na more?",
     "answers": {
       "A": "Lihtenštajn",
-      "B": "Barbados",
-      "C": "K2"
+      "B": "Peru",
+      "C": "Bolivija"
     },
     "image": null,
     "correct_answer": "A"
@@ -5296,9 +5297,9 @@
     "topic": "Zemljopis",
     "question": "Koja država graniči samo sa Kolumbijom i Peruom?",
     "answers": {
-      "A": "San Marino",
+      "A": "Trinidad i Tobago",
       "B": "Ekvador",
-      "C": "Slovenija"
+      "C": "Sveta Lucija"
     },
     "image": null,
     "correct_answer": "B"
@@ -5309,8 +5310,8 @@
     "topic": "Zemljopis",
     "question": "Koja je otočna država rodno mjesto pjevačice Rihanne?",
     "answers": {
-      "A": "Lihtenštajn",
-      "B": "Kirgistana",
+      "A": "Azija",
+      "B": "Južna Amerika",
       "C": "Barbados"
     },
     "image": null,
@@ -5323,8 +5324,8 @@
     "question": "Riječ 'Bantu' obuhvaća skupinu od čak 522 jezika koja se govore na kojem kontinentu?",
     "answers": {
       "A": "Afrika",
-      "B": "Borneo",
-      "C": "Senegal"
+      "B": "Tadžikistana",
+      "C": "Kazahstana"
     },
     "image": null,
     "correct_answer": "A"
@@ -5335,9 +5336,9 @@
     "topic": "Zemljopis",
     "question": "Jezero Issyk Kul je najveće jezero koje azijske države?",
     "answers": {
-      "A": "Barbados",
+      "A": "Hrvatske",
       "B": "Kirgistana",
-      "C": "Kazahstanu"
+      "C": "Slovačke"
     },
     "image": null,
     "correct_answer": "B"
@@ -5348,8 +5349,8 @@
     "topic": "Zemljopis",
     "question": "Ljubljana je glavni grad koje države?",
     "answers": {
-      "A": "Ekvador",
-      "B": "San Marino",
+      "A": "Rusiji",
+      "B": "Azerbajdžanu",
       "C": "Slovenija"
     },
     "image": null,
@@ -5362,8 +5363,8 @@
     "question": "U kojoj se državi rijeka Ural ulijeva u Kaspijsko jezero?",
     "answers": {
       "A": "Kazahstanu",
-      "B": "Som",
-      "C": "Kirgistana"
+      "B": "Tenge",
+      "C": "Manat"
     },
     "image": null,
     "correct_answer": "A"
@@ -5374,9 +5375,9 @@
     "topic": "Zemljopis",
     "question": "Službenu valutu Kirgistana, možemo upecati i u našim rijekama, a ona se zove kako?",
     "answers": {
-      "A": "Kazahstanu",
+      "A": "Češkoj",
       "B": "Som",
-      "C": "Poljskoj"
+      "C": "Slovačkoj"
     },
     "image": null,
     "correct_answer": "B"
@@ -5387,8 +5388,8 @@
     "topic": "Zemljopis",
     "question": "Poznanj, Krakov i Lubin su gradovi u kojoj europskoj državi?",
     "answers": {
-      "A": "Som",
-      "B": "Kazahstanu",
+      "A": "Sofija",
+      "B": "Vilnius",
       "C": "Poljskoj"
     },
     "image": null,
@@ -5402,8 +5403,8 @@
     "question": "Koji glavni grad možemo pronaći u premetaljci 'igra'?",
     "answers": {
       "A": "Riga",
-      "B": "New Delhi",
-      "C": "Majuro"
+      "B": "Quetzal",
+      "C": "Córdoba"
     },
     "image": null,
     "correct_answer": "A"
@@ -5414,9 +5415,9 @@
     "topic": "Zemljopis",
     "question": "Koje ime nosi valuta koja je službeno sredstvo plaćanja u Hondurasu?",
     "answers": {
-      "A": "Lilangeni",
+      "A": "Ohridsko Jezero",
       "B": "Lempira",
-      "C": "Sjeverne Koreje"
+      "C": "Prespansko Jezero"
     },
     "image": null,
     "correct_answer": "B"
@@ -5427,8 +5428,8 @@
     "topic": "Zemljopis",
     "question": "Koje veliko jezero dijele Albanija i Crna Gora?",
     "answers": {
-      "A": "Takla Makan",
-      "B": "San Marino",
+      "A": "Mumbai",
+      "B": "Kolkata",
       "C": "Skadarsko Jezero"
     },
     "image": null,
@@ -5441,8 +5442,8 @@
     "question": "Kako se zove glavni grad Indije?",
     "answers": {
       "A": "New Delhi",
-      "B": "Riga",
-      "C": "Majuro"
+      "B": "Dalmacije",
+      "C": "Istre"
     },
     "image": null,
     "correct_answer": "A"
@@ -5453,9 +5454,9 @@
     "topic": "Zemljopis",
     "question": "Ako gledamo s lijeva na desno, u kruni Hrvatskog grba na petom mjestu se nalazi mali štit koji simbolizira zastavu koje povijesne hrvatske regije?",
     "answers": {
-      "A": "Tajo",
+      "A": "Karakum",
       "B": "Slavonije",
-      "C": "Palestinu"
+      "C": "Kumtag"
     },
     "image": null,
     "correct_answer": "B"
@@ -5466,8 +5467,8 @@
     "topic": "Zemljopis",
     "question": "Koja se kineska pustinja nalazi bok uz bok pustinji Gobi?",
     "answers": {
-      "A": "Skadarsko Jezero",
-      "B": "San Marino",
+      "A": "Douro",
+      "B": "Guadiana",
       "C": "Takla Makan"
     },
     "image": null,
@@ -5480,11 +5481,12 @@
     "question": "Koja se rijeka kod Lisabona ulijeva u Atlantski Ocean?",
     "answers": {
       "A": "Tajo",
-      "B": "Palestinu",
-      "C": "Slavonije"
+      "B": "Kosovo",
+      "C": "Zapadnu Saharu"
     },
     "image": null,
-    "correct_answer": "A"
+    "correct_answer": "A",
+    "qa_note": "Status Palestine i međunarodno priznanje razlikuju se među državama; izvorni odgovor ostavljen je netaknut."
   },
   {
     "type": "blitz",
@@ -5492,9 +5494,9 @@
     "topic": "Zemljopis",
     "question": "Koju djelomično priznati državu čine Zapadna Obala i Pojas Gaze?",
     "answers": {
-      "A": "Tajo",
+      "A": "Tarawa",
       "B": "Palestinu",
-      "C": "Slavonije"
+      "C": "Palikir"
     },
     "image": null,
     "correct_answer": "B"
@@ -5505,8 +5507,8 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Maršalovih Otoka?",
     "answers": {
-      "A": "Tallinn",
-      "B": "New Delhi",
+      "A": "Andoru",
+      "B": "Lihtenštajn",
       "C": "Majuro"
     },
     "image": null,
@@ -5519,8 +5521,8 @@
     "question": "Koju republiku je prema legendi osnovao sv. Marin s otoka Raba davne 301.g.?",
     "answers": {
       "A": "San Marino",
-      "B": "Uskršnji Otok",
-      "C": "Takla Makan"
+      "B": "Riga",
+      "C": "Vilnius"
     },
     "image": null,
     "correct_answer": "A"
@@ -5531,9 +5533,9 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Estonije?",
     "answers": {
-      "A": "Majuro",
+      "A": "Titicaca",
       "B": "Tallinn",
-      "C": "San José"
+      "C": "Poopó"
     },
     "image": null,
     "correct_answer": "B"
@@ -5544,8 +5546,8 @@
     "topic": "Zemljopis",
     "question": "Koje venezuelansko jezero slovi za najveće u Južnoj Americi, iako je s morem povezano ušćem?",
     "answers": {
-      "A": "Palestinu",
-      "B": "Jamajka",
+      "A": "Juan Fernández",
+      "B": "Chiloé",
       "C": "Maracaibo"
     },
     "image": null,
@@ -5558,8 +5560,8 @@
     "question": "Koji je čileanski otok sačinjen od 3 vulkana, Poike, Terevake i Rano - Kaue?",
     "answers": {
       "A": "Uskršnji Otok",
-      "B": "San Marino",
-      "C": "Takla Makan"
+      "B": "Portugala",
+      "C": "Italije"
     },
     "image": null,
     "correct_answer": "A"
@@ -5570,9 +5572,9 @@
     "topic": "Zemljopis",
     "question": "Madrid je glavni grad koje države?",
     "answers": {
-      "A": "Novom Zelandu",
+      "A": "Managua",
       "B": "Španjolske",
-      "C": "Grenada"
+      "C": "San Salvador"
     },
     "image": null,
     "correct_answer": "B"
@@ -5583,8 +5585,8 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Kostarike?",
     "answers": {
-      "A": "Santiago de Chile",
-      "B": "Tallinn",
+      "A": "Bahami",
+      "B": "Barbados",
       "C": "San José"
     },
     "image": null,
@@ -5597,8 +5599,8 @@
     "question": "Prvi film iz franšize od Jamesu Bondu, Dr. No, je snimljen 1962.g. na kojem karipskom otoku?",
     "answers": {
       "A": "Jamajka",
-      "B": "Eyjafjallajökull",
-      "C": "Maracaibo"
+      "B": "Emalangeni",
+      "C": "Pula"
     },
     "image": null,
     "correct_answer": "A"
@@ -5609,9 +5611,9 @@
     "topic": "Zemljopis",
     "question": "Koja valuta je službena u Eswatiniju?",
     "answers": {
-      "A": "Lempira",
+      "A": "Lima",
       "B": "Lilangeni",
-      "C": "Sjeverne Koreje"
+      "C": "Buenos Aires"
     },
     "image": null,
     "correct_answer": "B"
@@ -5622,8 +5624,8 @@
     "topic": "Zemljopis",
     "question": "Koji glavni grad je 1541.g. osnovao španjolski konkvistador Pedro de Valdivia?",
     "answers": {
-      "A": "Brazzaville",
-      "B": "San José",
+      "A": "Katla",
+      "B": "Hekla",
       "C": "Santiago de Chile"
     },
     "image": null,
@@ -5636,8 +5638,8 @@
     "question": "Koji je islandski vulkan 2010.g. zbog svoje jake erupcije i dimnog oblaka koji je uslijedio nakon, privremeno obustavio zračni promet diljem europe?",
     "answers": {
       "A": "Eyjafjallajökull",
-      "B": "Jamajka",
-      "C": "Namib"
+      "B": "Kinshasa",
+      "C": "Libreville"
     },
     "image": null,
     "correct_answer": "A"
@@ -5648,9 +5650,9 @@
     "topic": "Zemljopis",
     "question": "Ako trajektom iz Kinshase prijeđete rijeku Kongo, doploviti ćete u koji glavni grad?",
     "answers": {
-      "A": "Santiago de Chile",
+      "A": "Australiji",
       "B": "Brazzaville",
-      "C": "Maputo"
+      "C": "Samoa"
     },
     "image": null,
     "correct_answer": "B"
@@ -5661,8 +5663,8 @@
     "topic": "Zemljopis",
     "question": "Kukovi Otoci i Tokelau su pridruženi kojoj državi?",
     "answers": {
-      "A": "Grenada",
-      "B": "Butan",
+      "A": "Sveta Lucija",
+      "B": "Barbados",
       "C": "Novom Zelandu"
     },
     "image": null,
@@ -5675,8 +5677,8 @@
     "question": "Koja država se smjestila između karipskih država Sveti Vincent i Grenadini te Trinidad i Tobago?",
     "answers": {
       "A": "Grenada",
-      "B": "Novom Zelandu",
-      "C": "Butan"
+      "B": "Kalahari",
+      "C": "Sahara"
     },
     "image": null,
     "correct_answer": "A"
@@ -5687,9 +5689,9 @@
     "topic": "Zemljopis",
     "question": "Po kojoj je pustinji Namibija dobila ime?",
     "answers": {
-      "A": "Madagaskar",
+      "A": "Beira",
       "B": "Namib",
-      "C": "Eyjafjallajökull"
+      "C": "Nampula"
     },
     "image": null,
     "correct_answer": "B"
@@ -5700,8 +5702,8 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Mozambika?",
     "answers": {
-      "A": "Brazzaville",
-      "B": "Santiago de Chile",
+      "A": "Somalija",
+      "B": "Mozambik",
       "C": "Maputo"
     },
     "image": null,
@@ -5714,8 +5716,8 @@
     "question": "Koja afrička država ima najdužu morsku obalu?",
     "answers": {
       "A": "Madagaskar",
-      "B": "Namib",
-      "C": "Po"
+      "B": "Nepalu",
+      "C": "Indiji"
     },
     "image": null,
     "correct_answer": "A"
@@ -5726,9 +5728,9 @@
     "topic": "Zemljopis",
     "question": "Najviši neosvojeni vrh svijeta, Gangkhar Puensum, nalazi se u kojoj državi?",
     "answers": {
-      "A": "Švedske",
+      "A": "Tiber",
       "B": "Butan",
-      "C": "Grenada"
+      "C": "Arno"
     },
     "image": null,
     "correct_answer": "B"
@@ -5739,8 +5741,8 @@
     "topic": "Zemljopis",
     "question": "Sa 652km svog toka, koja je najveća rijeka Italije?",
     "answers": {
-      "A": "Madagaskar",
-      "B": "Vardar",
+      "A": "Norveške",
+      "B": "Danske",
       "C": "Po"
     },
     "image": null,
@@ -5753,8 +5755,8 @@
     "question": "Stockholm je glavni grad koje države?",
     "answers": {
       "A": "Švedske",
-      "B": "Butan",
-      "C": "Nepal"
+      "B": "Crni Drim",
+      "C": "Strumica"
     },
     "image": null,
     "correct_answer": "A"
@@ -5765,9 +5767,9 @@
     "topic": "Zemljopis",
     "question": "Koja je najveća makedonska rijeka?",
     "answers": {
-      "A": "Po",
+      "A": "Butan",
       "B": "Vardar",
-      "C": "Maldivi"
+      "C": "Švicarska"
     },
     "image": null,
     "correct_answer": "B"
@@ -5778,8 +5780,8 @@
     "topic": "Zemljopis",
     "question": "Koja država se može pohvaliti da je jedina na svijetu koja nema četverokutni oblik svoje zastave?",
     "answers": {
-      "A": "Švedske",
-      "B": "Butan",
+      "A": "Rotterdam",
+      "B": "Haag",
       "C": "Nepal"
     },
     "image": null,
@@ -5792,8 +5794,8 @@
     "question": "Kako se zove glavni grad Nizozemske?",
     "answers": {
       "A": "Amsterdam",
-      "B": "Maputo",
-      "C": "Brazzaville"
+      "B": "Sejšeli",
+      "C": "Maršalovi Otoci"
     },
     "image": null,
     "correct_answer": "A"
@@ -5804,9 +5806,9 @@
     "topic": "Zemljopis",
     "question": "Koja se država proteže od atola Ihavandhippolhu na sjeveru do atola Addu na jugu čineći skupinu od njih 26?",
     "answers": {
-      "A": "Sahara",
+      "A": "Kalahari",
       "B": "Maldivi",
-      "C": "Kamčatka"
+      "C": "Namib"
     },
     "image": null,
     "correct_answer": "B"
@@ -5817,8 +5819,8 @@
     "topic": "Zemljopis",
     "question": "Najveći dio libijskog teritorija prekriva koja pustinja?",
     "answers": {
-      "A": "Maldivi",
-      "B": "Kamčatka",
+      "A": "Čukotka",
+      "B": "Tajmir",
       "C": "Sahara"
     },
     "image": null,
@@ -5831,8 +5833,8 @@
     "question": "Koji se veliki poluotok, poznat po vulkanima, nalazi na dalekom ruskom istoku?",
     "answers": {
       "A": "Kamčatka",
-      "B": "Sahara",
-      "C": "Pitons"
+      "B": "Soufrière Hills",
+      "C": "Mount Pelée"
     },
     "image": null,
     "correct_answer": "A"
@@ -5843,9 +5845,9 @@
     "topic": "Zemljopis",
     "question": "Kojim imenom nazivamo područje, tj. dva vulkanska vrha na otočnoj državi Sveta Lucija, koja su na UNESCO-vu popisu svjetske baštine te koja se nalaze i na zastavi (u obliku trokuta) ove male karipske države?",
     "answers": {
-      "A": "Kamčatka",
+      "A": "Choquequirao",
       "B": "Pitons",
-      "C": "Sahara"
+      "C": "Ollantaytambo"
     },
     "image": null,
     "correct_answer": "B"
@@ -5856,8 +5858,8 @@
     "topic": "Zemljopis",
     "question": "Koji je veličanstveni grad naroda Inka smješten visoko u planinama Anda?",
     "answers": {
-      "A": "Gvineje Bisau",
-      "B": "Uskršnjeg Otoka",
+      "A": "Rusijom",
+      "B": "Kazahstanom",
       "C": "Machu Picchu"
     },
     "image": null,
@@ -5870,8 +5872,8 @@
     "question": "S kojom državom Kina ima najveću kopnenu granicu dugu 4 677km?",
     "answers": {
       "A": "Mongolijom",
-      "B": "Pitons",
-      "C": "Olimp"
+      "B": "Omanu",
+      "C": "Somaliji"
     },
     "image": null,
     "correct_answer": "A"
@@ -5882,9 +5884,9 @@
     "topic": "Zemljopis",
     "question": "Sokotra je otok u Adenskom zaljevu koji pripada kojoj državi?",
     "answers": {
-      "A": "Grčke",
+      "A": "Parnas",
       "B": "Jemenu",
-      "C": "Nepal"
+      "C": "Helikon"
     },
     "image": null,
     "correct_answer": "B"
@@ -5895,8 +5897,8 @@
     "topic": "Zemljopis",
     "question": "Na kojoj su planini, prema grčkoj mitologiji, živjeli bogovi?",
     "answers": {
-      "A": "Mongolijom",
-      "B": "Kirgistan",
+      "A": "Albanije",
+      "B": "Sjeverne Makedonije",
       "C": "Olimp"
     },
     "image": null,
@@ -5909,8 +5911,8 @@
     "question": "Sa visinom od 2917m, vrh Mitikas je najviši vrh koje države?",
     "answers": {
       "A": "Grčke",
-      "B": "Jemenu",
-      "C": "Nepal"
+      "B": "Tadžikistan",
+      "C": "Turkmenistan"
     },
     "image": null,
     "correct_answer": "A"
@@ -5921,9 +5923,9 @@
     "topic": "Zemljopis",
     "question": "Koja, od 7 država 'stanova' na svojoj zastavi ima najviše crvene boje?",
     "answers": {
-      "A": "Križ",
+      "A": "Polumjesec",
       "B": "Kirgistan",
-      "C": "Olimp"
+      "C": "Zvijezda"
     },
     "image": null,
     "correct_answer": "B"
@@ -5934,8 +5936,8 @@
     "topic": "Zemljopis",
     "question": "Koji se religijski simbol može isčitati među zvijezdama na zastavi Samoe?",
     "answers": {
-      "A": "Kirgistan",
-      "B": "Gejziri",
+      "A": "Fumarole",
+      "B": "Solfatare",
       "C": "Križ"
     },
     "image": null,
@@ -5948,8 +5950,8 @@
     "question": "Kojim imenom nazivamo izvore termalne vode koji u navratima izbacuju kipuću vodu i paru u zrak?",
     "answers": {
       "A": "Gejziri",
-      "B": "Križ",
-      "C": "Atika"
+      "B": "Peloponez",
+      "C": "Halkidiki"
     },
     "image": null,
     "correct_answer": "A"
@@ -5960,9 +5962,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem se grčkom poluotoku nalazi Atena?",
     "answers": {
-      "A": "Gejziri",
+      "A": "Kantabrijskim gorjem",
       "B": "Atika",
-      "C": "Pirinejima"
+      "C": "Sierra Nevadom"
     },
     "image": null,
     "correct_answer": "B"
@@ -5973,8 +5975,8 @@
     "topic": "Zemljopis",
     "question": "Kojim su planinskim lancem Španjolska i Portugal odvojeni od ostatka Europe?",
     "answers": {
-      "A": "Atika",
-      "B": "Gejziri",
+      "A": "Senegala",
+      "B": "Gambije",
       "C": "Pirinejima"
     },
     "image": null,
@@ -5987,8 +5989,8 @@
     "question": "Otočje Bissagos, koje se sastoji od 88 otoka, nalazi se u sastavu koje afričke države?",
     "answers": {
       "A": "Gvineje Bisau",
-      "B": "Uskršnjeg Otoka",
-      "C": "Machu Picchu"
+      "B": "Montego Bay",
+      "C": "Spanish Town"
     },
     "image": null,
     "correct_answer": "A"
@@ -5999,9 +6001,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Jamajke?",
     "answers": {
-      "A": "Maseru",
+      "A": "Beninski",
       "B": "Kingston",
-      "C": "Amsterdam"
+      "C": "Biafranski"
     },
     "image": null,
     "correct_answer": "B"
@@ -6012,8 +6014,8 @@
     "topic": "Zemljopis",
     "question": "U koji zaljev 'uranja' zemlja Nigerije?",
     "answers": {
-      "A": "Apeninski",
-      "B": "Kivu",
+      "A": "Lav",
+      "B": "Koza",
       "C": "Gvinejski"
     },
     "image": null,
@@ -6026,8 +6028,8 @@
     "question": "Štit na grbu Kanarskih Otoka pridržava koja životinja?",
     "answers": {
       "A": "Pas",
-      "B": "Ovcu",
-      "C": "Lav"
+      "B": "Zimbabvea",
+      "C": "Zambije"
     },
     "image": null,
     "correct_answer": "A"
