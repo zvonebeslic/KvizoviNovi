@@ -1,0 +1,20 @@
+name: Fix Zemljopis 161-190
+on:
+  push:
+    paths:
+      - 'ZEMLJOPIS_161_190_TRIGGER.txt'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/fix_zemljopis_161_190.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Zemljopis.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Ispravi Zemljopis 161-190"
+          git push
