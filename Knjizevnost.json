@@ -19,8 +19,8 @@
     "question": "Na čijem planetu, podno tri vulkani, rastu razni cvjetovi, korisne biljke ali i opasni baobabi?",
     "answers": {
       "A": "Malog Princa",
-      "B": "Kralja",
-      "C": "Pilota"
+      "B": "Velikog Kralja",
+      "C": "Bijelog Jednoroga"
     },
     "image": null,
     "correct_answer": "A"
@@ -422,8 +422,8 @@
     "question": "'Vjerujem u vile! Vjerujem, vjerujem!' je poznata izreka iz koje Barrieve bajke?",
     "answers": {
       "A": "Mali bijeli ptić",
-      "B": "Petra Pana",
-      "C": "Peter Pan u Kensingtonskim vrtovima"
+      "B": "Petar Pan",
+      "C": "Zvončica"
     },
     "image": null,
     "correct_answer": "B"
@@ -630,8 +630,8 @@
     "topic": "Književnost",
     "question": "Likove iz koje društvene igre Alisa susreće u svojoj drugoj pustolovini, iza ogledala?",
     "answers": {
-      "A": "Dame",
-      "B": "Goa",
+      "A": "Kartanja",
+      "B": "Pikada",
       "C": "Šaha"
     },
     "image": null,
@@ -684,7 +684,7 @@
     "answers": {
       "A": "Sova",
       "B": "Zec",
-      "C": "Kanga"
+      "C": "Klokan"
     },
     "image": null,
     "correct_answer": "A"
@@ -789,7 +789,7 @@
     "answers": {
       "A": "Petru Panu",
       "B": "Kapetanu Kuki",
-      "C": "Wendy Darling"
+      "C": "Wendyju Darlingu"
     },
     "image": null,
     "correct_answer": "A"
@@ -867,7 +867,7 @@
     "answers": {
       "A": "Mali Princ",
       "B": "Planet majmuna",
-      "C": "Putovanja Gullivera"
+      "C": "Gulliverova putovanja"
     },
     "image": null,
     "correct_answer": "A"
@@ -892,8 +892,8 @@
     "question": "Kako se zove bajka u kojoj glavni lik cijelo djetinjstvo trpi ruganje zbog svojeg izgleda, a na kraju otkriva da je labud?",
     "answers": {
       "A": "Ružno Pače",
-      "B": "Slavuj",
-      "C": "Postojani kositreni vojnik"
+      "B": "Slavuj na grani",
+      "C": "Blijedi Golub"
     },
     "image": null,
     "correct_answer": "A"
@@ -1413,7 +1413,7 @@
     "question": "Čudotvorne pripravke Wonka-Vite i Vita-Wonk koji pomlađuju, odnosno postaruju posjeduje koji fikrivni lik Roalda Dahla?",
     "answers": {
       "A": "George Kranky",
-      "B": "BFG",
+      "B": "Orlando Green",
       "C": "Willy Wonka"
     },
     "image": null,
@@ -1595,7 +1595,7 @@
     "topic": "Književnost",
     "question": "Koja bića u Dahlovu romanu prepoznajemo po kandžama, perikama i odbojnosti prema dječjem mirisu?",
     "answers": {
-      "A": "Divovi",
+      "A": "Divove",
       "B": "Vještice",
       "C": "Oompa-Loompe"
     },
@@ -1688,7 +1688,7 @@
     "answers": {
       "A": "Ivici i Marici",
       "B": "Janku i Marici",
-      "C": "Janku i Metki"
+      "C": "Ivici i Marti"
     },
     "image": null,
     "correct_answer": "A"
@@ -1829,8 +1829,8 @@
     "topic": "Književnost",
     "question": "U knjizi 'Alisa s one strane ogledala' kako se zove brat debeljuškastog Tweedledeeja? Jako su nalik jedno drugom kako izgledom tako i karakterom a uprizorio ih je i Tim Burton u filmu iz 2010.g.",
     "answers": {
-      "A": "Humpty Dumpty",
-      "B": "Dormouse",
+      "A": "Tweedlerock",
+      "B": "Tweedledock",
       "C": "Tweedledum"
     },
     "image": null,
@@ -2142,7 +2142,7 @@
     "topic": "Književnost",
     "question": "Kako se zove djevojčica iz romana 'Vlak u snijegu' koja s Ljubanom i Perom u školu ide iz zaseoka Jabukovac?",
     "answers": {
-      "A": "Gita",
+      "A": "Zora",
       "B": "Draga",
       "C": "Marica"
     },
@@ -2483,7 +2483,7 @@
     "answers": {
       "A": "Sunce",
       "B": "Mjesec",
-      "C": "Svarožić"
+      "C": "Dan"
     },
     "image": null,
     "correct_answer": "A"
@@ -2599,7 +2599,7 @@
     "question": "Kojeg sisavca lovi posada sa fiktivnog broda Pequoda?",
     "answers": {
       "A": "Kita",
-      "B": "Mroža",
+      "B": "Morža",
       "C": "Dupina"
     },
     "image": null,
@@ -2665,7 +2665,7 @@
     "answers": {
       "A": "Ledu",
       "B": "Snijegu",
-      "C": "Mećavi"
+      "C": "Magli"
     },
     "image": null,
     "correct_answer": "B"
@@ -2742,8 +2742,8 @@
     "topic": "Književnost",
     "question": "Koji je naslov romana Roberta Louisa Stevensona zaslužan za popularizaciju motiva karte s označenim blagom i gusarskih pustolovina?",
     "answers": {
-      "A": "Kidnapped",
-      "B": "Crna strijela",
+      "A": "Karta s Blagom",
+      "B": "Skriveno Blago",
       "C": "Otok s Blagom"
     },
     "image": null,
@@ -2768,8 +2768,8 @@
     "topic": "Književnost",
     "question": "Protiv čega se Don Quijote bori misleći da su divovi?",
     "answers": {
-      "A": "Toranj",
-      "B": "Stablo",
+      "A": "Tornjeva",
+      "B": "Stabala",
       "C": "Vjetrenjača"
     },
     "image": null,
@@ -3069,7 +3069,7 @@
     "answers": {
       "A": "Jagoda Truhelka",
       "B": "Ivana Brlić Mažuranić",
-      "C": "Mato Lovrak"
+      "C": "Marija Jurić Zagorka"
     },
     "image": null,
     "correct_answer": "B"
@@ -3562,7 +3562,7 @@
     "question": "Koje se slovo nalazi na karti kapetana Flinta i označava mjesto zakopanog blaga u romanu 'Otok s blagom'?",
     "answers": {
       "A": "Z",
-      "B": "T",
+      "B": "O",
       "C": "X"
     },
     "image": null,
@@ -3812,7 +3812,7 @@
     "answers": {
       "A": "Robinzonijada",
       "B": "Pikarski roman",
-      "C": "Bildungsroman"
+      "C": "Priča Preživjelog"
     },
     "image": null,
     "correct_answer": "A"
@@ -3966,9 +3966,9 @@
     "topic": "Književnost",
     "question": "Koja je namirnica u 'Guliverovim putovanjima' postala povod višegodišnjem sukobu između Lilliputa i Belfuscua zbog spora treba li je razbijati s tupog ili šiljastog kraja?",
     "answers": {
-      "A": "Jajeta",
-      "B": "Orasa",
-      "C": "Kokosa"
+      "A": "Jaje",
+      "B": "Orah",
+      "C": "Kokos"
     },
     "image": null,
     "correct_answer": "A"
@@ -5099,7 +5099,7 @@
     "topic": "Književnost",
     "question": "U kojem se svjetskom ratu, kao član britanskih kraljevskih zračnih snaga borio Roald Dahl, čuveni spisatelj i književnik?",
     "answers": {
-      "A": "Nije sudjelovao ni u jednom",
+      "A": "U oba",
       "B": "Prvom svjetskom ratu",
       "C": "Drugom svjetskom ratu"
     },
@@ -5230,7 +5230,7 @@
     "question": "Da je Robin Hood sada živi, sasvim sigurno bi nastupao u kojem olimpijskom sportu?",
     "answers": {
       "A": "Streličarstvu",
-      "B": "Streljaštvu",
+      "B": "Trapu",
       "C": "Mačevanju"
     },
     "image": null,
