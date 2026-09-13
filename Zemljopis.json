@@ -1792,8 +1792,8 @@
     "topic": "Zemljopis",
     "question": "Iako u sastavu Čilea, kojoj 'neziji' tj. otočnoj skupini u Tihom Oceanu, pripada Uskršnji Otok?",
     "answers": {
-      "A": "Antananarivo",
-      "B": "Tortuga",
+      "A": "Mikroneziji",
+      "B": "Melaneziji",
       "C": "Polineziji"
     },
     "image": null,
@@ -1806,8 +1806,8 @@
     "question": "Iz imena kojeg glavnog grada, u isto vrijeme možemo izvući imena Ana, Anna i Ivor?",
     "answers": {
       "A": "Antananarivo",
-      "B": "Polineziji",
-      "C": "Tortuga"
+      "B": "Ouagadougou",
+      "C": "Lilongwe"
     },
     "image": null,
     "correct_answer": "A"
@@ -1818,9 +1818,9 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Albanije?",
     "answers": {
-      "A": "Naypyidaw",
+      "A": "Skoplje",
       "B": "Tirana",
-      "C": "La Paz"
+      "C": "Podgorica"
     },
     "image": null,
     "correct_answer": "B"
@@ -1831,8 +1831,8 @@
     "topic": "Zemljopis",
     "question": "Koji je haitijski otok tijekom 17-og stoljeća bio utočište mnogim piratima, a u novije doba, spominjanjem u mnogim književnim i filmskim djelima postao prava turistička atrakcija?",
     "answers": {
-      "A": "Antananarivo",
-      "B": "Polineziji",
+      "A": "Île-à-Vache",
+      "B": "Gonâve",
       "C": "Tortuga"
     },
     "image": null,
@@ -1845,8 +1845,8 @@
     "question": "U himni koje države možemo čuti rečenicu 'Nkulunkulu Mnikati wetibusiso temaSwati' ?",
     "answers": {
       "A": "Eswatini",
-      "B": "Sveti Kristofor i Nevis",
-      "C": "Fidžija"
+      "B": "Lesoto",
+      "C": "Bocvana"
     },
     "image": null,
     "correct_answer": "A"
@@ -1857,9 +1857,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Mjanmara?",
     "answers": {
-      "A": "La Paz",
+      "A": "Yangon",
       "B": "Naypyidaw",
-      "C": "Tirana"
+      "C": "Mandalay"
     },
     "image": null,
     "correct_answer": "B"
@@ -1870,8 +1870,8 @@
     "topic": "Zemljopis",
     "question": "Iako je Sucre službeni glavni grad Bolivije, vlada te države zasjeda u kojem 'planinskom' gradu?",
     "answers": {
-      "A": "Naypyidaw",
-      "B": "Tirana",
+      "A": "Cochabamba",
+      "B": "Santa Cruz",
       "C": "La Paz"
     },
     "image": null,
@@ -1884,8 +1884,8 @@
     "question": "'Bože pravde' je himna koje Europske države?",
     "answers": {
       "A": "Srbije",
-      "B": "Tortuga",
-      "C": "Madagaskar"
+      "B": "Crne Gore",
+      "C": "Sjeverne Makedonije"
     },
     "image": null,
     "correct_answer": "A"
@@ -1896,9 +1896,9 @@
     "topic": "Zemljopis",
     "question": "Basseterre je glavni grad koje države?",
     "answers": {
-      "A": "Eswatini",
+      "A": "Antigva i Barbuda",
       "B": "Sveti Kristofor i Nevis",
-      "C": "Guatemale"
+      "C": "Dominika"
     },
     "image": null,
     "correct_answer": "B"
@@ -1909,8 +1909,8 @@
     "topic": "Zemljopis",
     "question": "Koje ime nosi afrička regija koja se nalazi sjeverno od Sahare a zapadno od Nila te obuhvaća više država?",
     "answers": {
-      "A": "La Defensa",
-      "B": "Sahel",
+      "A": "Sahel",
+      "B": "Mašrek",
       "C": "Magreb"
     },
     "image": null,
@@ -1923,8 +1923,8 @@
     "question": "Koji je glavni grad države koju poznajemo i kao 'Suomi'?",
     "answers": {
       "A": "Helsinki",
-      "B": "Antananarivo",
-      "C": "La Paz"
+      "B": "Stockholm",
+      "C": "Oslo"
     },
     "image": null,
     "correct_answer": "A"
@@ -1935,9 +1935,9 @@
     "topic": "Zemljopis",
     "question": "Koji je najveći afrički otok?",
     "answers": {
-      "A": "Srbije",
+      "A": "Zanzibar",
       "B": "Madagaskar",
-      "C": "Kotu"
+      "C": "Mauricijus"
     },
     "image": null,
     "correct_answer": "B"
@@ -1949,8 +1949,8 @@
     "topic": "Zemljopis",
     "question": "Dugorepi Kvecal je ptica koja obitava u gustim šumama Srednje Amerike, legendarna je sveta ptica naroda Maya a danas se nalazi na grbu koje države?",
     "answers": {
-      "A": "Sveti Kristofor i Nevis",
-      "B": "Turske",
+      "A": "Belizea",
+      "B": "Hondurasa",
       "C": "Guatemale"
     },
     "image": null,
@@ -1963,8 +1963,8 @@
     "question": "Kako se zove glavni grad Madagaskara?",
     "answers": {
       "A": "Antananarivo",
-      "B": "Bamako",
-      "C": "Helsinki"
+      "B": "Maputo",
+      "C": "Dodoma"
     },
     "image": null,
     "correct_answer": "A"
@@ -1975,9 +1975,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Malija?",
     "answers": {
-      "A": "Antananarivo",
+      "A": "Niamey",
       "B": "Bamako",
-      "C": "Helsinki"
+      "C": "Conakry"
     },
     "image": null,
     "correct_answer": "B"
@@ -1988,8 +1988,8 @@
     "topic": "Zemljopis",
     "question": "Koja je četveroslovna valuta službeno sredstvo plaćanja u Gruziji?",
     "answers": {
-      "A": "Lihtenštajnu",
-      "B": "Lej",
+      "A": "Manat",
+      "B": "Dram",
       "C": "Lari"
     },
     "image": null,
@@ -2002,8 +2002,8 @@
     "question": "Ankara je glavni grad koje države?",
     "answers": {
       "A": "Turske",
-      "B": "Srbiji",
-      "C": "Guatemale"
+      "B": "Azerbajdžana",
+      "C": "Gruzije"
     },
     "image": null,
     "correct_answer": "A"
@@ -2014,9 +2014,9 @@
     "topic": "Zemljopis",
     "question": "Kopaonik, Zlatibor i Fruška Gora se nalaze u kojoj državi?",
     "answers": {
-      "A": "Turske",
+      "A": "Crnoj Gori",
       "B": "Srbiji",
-      "C": "Guatemale"
+      "C": "Bosni i Hercegovini"
     },
     "image": null,
     "correct_answer": "B"
@@ -2027,8 +2027,8 @@
     "topic": "Zemljopis",
     "question": "Koje se popularno ulično jelo sa Šri Lanke naziva hamburgerom te države?",
     "answers": {
-      "A": "Curacao",
-      "B": "Sibir",
+      "A": "Hoppers",
+      "B": "Lamprais",
       "C": "Kotu"
     },
     "image": null,
@@ -2041,8 +2041,8 @@
     "question": "Koji je glavni grad Bangladeša?",
     "answers": {
       "A": "Dhaka",
-      "B": "Bamako",
-      "C": "Antananarivo"
+      "B": "Kathmandu",
+      "C": "Thimphu"
     },
     "image": null,
     "correct_answer": "A"
@@ -2053,9 +2053,9 @@
     "topic": "Zemljopis",
     "question": "Koji umjetno prokopani kanal, dužine 6,3km, spaja Jonsko sa Egejskim morem?",
     "answers": {
-      "A": "Srednjoafrička Republika",
+      "A": "Sueski Kanal",
       "B": "Korintski Kanal",
-      "C": "Rt Agulhas"
+      "C": "Kielski Kanal"
     },
     "image": null,
     "correct_answer": "B"
@@ -2066,8 +2066,8 @@
     "topic": "Zemljopis",
     "question": "ABC otoke čine otoci Aruba, Bonaire i koji još?",
     "answers": {
-      "A": "Sibir",
-      "B": "Kotu",
+      "A": "Bonaire",
+      "B": "Aruba",
       "C": "Curacao"
     },
     "image": null,
@@ -2080,8 +2080,8 @@
     "question": "Kojim se imenom naziva veliki ruski teritorij u Aziji?",
     "answers": {
       "A": "Sibir",
-      "B": "Curacao",
-      "C": "Ebro"
+      "B": "Kamčatka",
+      "C": "Ural"
     },
     "image": null,
     "correct_answer": "A"
@@ -2092,9 +2092,9 @@
     "topic": "Zemljopis",
     "question": "Koja je prva afrička država koja je 2022.g. kao službenu valutu, pored već važećeg franka, uvela i bitcoin?",
     "answers": {
-      "A": "Korintski Kanal",
+      "A": "Kamerun",
       "B": "Srednjoafrička Republika",
-      "C": "Rt Agulhas"
+      "C": "Gabon"
     },
     "image": null,
     "correct_answer": "B"
@@ -2105,8 +2105,8 @@
     "topic": "Zemljopis",
     "question": "Koja je najduža rijeka koja svojom cijelom dužinom prolazi kroz Španjolsku?",
     "answers": {
-      "A": "Sibir",
-      "B": "Negev",
+      "A": "Tajo",
+      "B": "Guadiana",
       "C": "Ebro"
     },
     "image": null,
@@ -2119,8 +2119,8 @@
     "question": "Valutom 'Ngultrum' možete plaćati u kojem glavnom gradu?",
     "answers": {
       "A": "Thimphu",
-      "B": "Dhaka",
-      "C": "Kuala Lumpur"
+      "B": "Kathmandu",
+      "C": "Dhaka"
     },
     "image": null,
     "correct_answer": "A"
@@ -2131,9 +2131,9 @@
     "topic": "Zemljopis",
     "question": "Koja pustinja obuhvaća više od 60% Izraelskog teritorija?",
     "answers": {
-      "A": "Liberiji",
+      "A": "Sinaj",
       "B": "Negev",
-      "C": "Ebro"
+      "C": "Judejska pustinja"
     },
     "image": null,
     "correct_answer": "B"
@@ -2144,8 +2144,8 @@
     "topic": "Zemljopis",
     "question": "U kojoj afričkoj državi se nalaze gradovi Monrovia, Harper i Buchanan?",
     "answers": {
-      "A": "Negev",
-      "B": "Bounty",
+      "A": "Sijera Leoneu",
+      "B": "Gvineji",
       "C": "Liberiji"
     },
     "image": null,
@@ -2158,8 +2158,8 @@
     "question": "Koji je novozelandski otok dobio ime po slavnom brodu moreplovca Williama Bligha?",
     "answers": {
       "A": "Bounty",
-      "B": "Liberiji",
-      "C": "Diomedu"
+      "B": "Endeavour",
+      "C": "Resolution"
     },
     "image": null,
     "correct_answer": "A"
@@ -2170,9 +2170,9 @@
     "topic": "Zemljopis",
     "question": "Veliki pripada Rusiji, mali pripada SAD-u, nalaze se u Beringovu prolazu, otoci su, a ime su dobili po kojem grčkom junaku iz trojanskog rata?",
     "answers": {
-      "A": "Bounty",
+      "A": "Ahileju",
       "B": "Diomedu",
-      "C": "Hainan"
+      "C": "Hektoru"
     },
     "image": null,
     "correct_answer": "B"
@@ -2183,8 +2183,8 @@
     "topic": "Zemljopis",
     "question": "Grad Haikou je najveći grad na kojem kineskom otoku?",
     "answers": {
-      "A": "Diomedu",
-      "B": "Krakataua",
+      "A": "Tajvan",
+      "B": "Luzon",
       "C": "Hainan"
     },
     "image": null,
@@ -2197,8 +2197,8 @@
     "question": "Eksplozija kojeg se indonezijskog vulkana 1883.g. mogla čuti čak i u Australiji, 3500km daleko?",
     "answers": {
       "A": "Krakataua",
-      "B": "Hainan",
-      "C": "Diomedu"
+      "B": "Tambore",
+      "C": "Merapi"
     },
     "image": null,
     "correct_answer": "A"
@@ -2209,9 +2209,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Malezije?",
     "answers": {
-      "A": "Ciudad de la Paz",
+      "A": "Putrajaya",
       "B": "Kuala Lumpur",
-      "C": "Thimphu"
+      "C": "George Town"
     },
     "image": null,
     "correct_answer": "B"
