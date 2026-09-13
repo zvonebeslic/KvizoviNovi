@@ -1,8 +1,10 @@
-import json, os
+import json, os, glob
 p='Moreplovci.json'
 d=json.load(open(p,encoding='utf-8'))
 os.makedirs('review_moreplovci',exist_ok=True)
-size=50
+for old in glob.glob('review_moreplovci/*.txt'):
+    os.remove(old)
+size=25
 for start in range(0,len(d),size):
     end=min(start+size,len(d))
     lines=[]
