@@ -1,0 +1,42 @@
+name: Audit Knjizevnost final
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'KNJIZEVNOST_AUDIT_TRIGGER.txt'
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Structural audit
+        run: |
+          python - <<'PY'
+          import json, collections
+          d=json.load(open('Knjizevnost.json',encoding='utf-8'))
+          assert len(d)==405, len(d)
+          dist=collections.Counter()
+          bad=[]
+          for i,q in enumerate(d,1):
+              a=q.get('answers',{})
+              ca=q.get('correct_answer')
+              if set(a)!=set('ABC') or ca not in a or any(not str(a.get(k,'')).strip() for k in 'ABC') or len(set(a.values()))!=3 or not str(q.get('question','')).strip(): bad.append(i)
+              dist[ca]+=1
+          print('TOTAL',len(d),'DIST',dict(dist),'BAD',bad)
+          assert not bad
+          assert dist==collections.Counter({'A':135,'B':135,'C':135})
+          PY
+      - name: Search suspicious contamination
+        run: |
+          python - <<'PY'
+          import json,re
+          d=json.load(open('Knjizevnost.json',encoding='utf-8'))
+          pats=[r'Mobi dik',r'The Wale',r'D Vejl',r'Velikom Selu Veliko Selo',r'\bnull\b',r'\bundefined\b']
+          for i,q in enumerate(d,1):
+              s=q['question']
+              for p in pats:
+                  if re.search(p,s,re.I): print('SUSPICIOUS',i,p,s)
+          PY
