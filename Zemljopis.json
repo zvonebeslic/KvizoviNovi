@@ -2222,8 +2222,8 @@
     "topic": "Zemljopis",
     "question": "Koja rijeka, sa sjevera prema jugu, protječe kroz gotovo cijeli Pakistan?",
     "answers": {
-      "A": "Laba",
-      "B": "Atlantski Ocean",
+      "A": "Ganges",
+      "B": "Brahmaputra",
       "C": "Ind"
     },
     "image": null,
@@ -2236,8 +2236,8 @@
     "question": "Koja država od 2023.g. nosi titulu najmnogoljudnije na svijetu?",
     "answers": {
       "A": "Indija",
-      "B": "Austrija",
-      "C": "Bolivije"
+      "B": "Kina",
+      "C": "Indonezija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2248,9 +2248,9 @@
     "topic": "Zemljopis",
     "question": "Sa kojom državom Papua Nova Gvineja ima kopnenu granicu?",
     "answers": {
-      "A": "Krakataua",
+      "A": "Australijom",
       "B": "Indonezijom",
-      "C": "Hainan"
+      "C": "Malezijom"
     },
     "image": null,
     "correct_answer": "B"
@@ -2261,8 +2261,8 @@
     "topic": "Zemljopis",
     "question": "Koji grad je od nedavno zamijenio Malabo na mjestu glavnog grada Ekvatorijalne Gvineje?",
     "answers": {
-      "A": "Postojne",
-      "B": "Kuala Lumpur",
+      "A": "Bata",
+      "B": "Mongomo",
       "C": "Ciudad de la Paz"
     },
     "image": null,
@@ -2275,8 +2275,8 @@
     "question": "Koja država,jednim dijelom graniči i sa Slovenijom te Lihtenštajnom?",
     "answers": {
       "A": "Austrija",
-      "B": "Indija",
-      "C": "Bolivije"
+      "B": "Švicarska",
+      "C": "Italija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2287,9 +2287,9 @@
     "topic": "Zemljopis",
     "question": "Koja je valuta službeno sredstvo plaćanja u Moldaviji?",
     "answers": {
-      "A": "Lari",
+      "A": "Lev",
       "B": "Lej",
-      "C": "Mozambika"
+      "C": "Lari"
     },
     "image": null,
     "correct_answer": "B"
@@ -2300,8 +2300,8 @@
     "topic": "Zemljopis",
     "question": "Najveći sustav podzemnih tunela, galerija i dvorana u Sloveniji, nastao prirodnim putem, dug je 24,12km a nalazi se u blizini kojeg grada, po kojem je i dobio ime?",
     "answers": {
-      "A": "Ciudad de la Paz",
-      "B": "Kuala Lumpur",
+      "A": "Škocjana",
+      "B": "Kranja",
       "C": "Postojne"
     },
     "image": null,
@@ -2314,8 +2314,8 @@
     "question": "Bolivijano je valuta koje države?",
     "answers": {
       "A": "Bolivije",
-      "B": "Tanzaniju",
-      "C": "Kostarika"
+      "B": "Perua",
+      "C": "Paragvaja"
     },
     "image": null,
     "correct_answer": "A"
@@ -2326,9 +2326,9 @@
     "topic": "Zemljopis",
     "question": "Koju državu su stvorili Tanganjika i Zanzibar?",
     "answers": {
-      "A": "Bolivije",
+      "A": "Keniju",
       "B": "Tanzaniju",
-      "C": "Kostarika"
+      "C": "Mozambik"
     },
     "image": null,
     "correct_answer": "B"
@@ -2339,8 +2339,8 @@
     "topic": "Zemljopis",
     "question": "Koja država graniči sa Nikaragvom i Panamom?",
     "answers": {
-      "A": "Tanzaniju",
-      "B": "Bolivije",
+      "A": "Honduras",
+      "B": "Salvador",
       "C": "Kostarika"
     },
     "image": null,
@@ -2353,8 +2353,8 @@
     "question": "Pingvini se, iako poznati po staništima na Antartici te hladnim predjelima Čilea i Argentine, mogu pronaći i na kojem otočju u blizini zemljina ekvatora?",
     "answers": {
       "A": "Galapagosa",
-      "B": "Keniji",
-      "C": "Nepala"
+      "B": "Falklanda",
+      "C": "Juan Fernándeza"
     },
     "image": null,
     "correct_answer": "A"
@@ -2365,9 +2365,9 @@
     "topic": "Zemljopis",
     "question": "U kojoj afričkoj državi se nalaze gradovi Ruiru, Nakuru i Eldoret?",
     "answers": {
-      "A": "Galapagosa",
+      "A": "Ugandi",
       "B": "Keniji",
-      "C": "Nepala"
+      "C": "Tanzaniji"
     },
     "image": null,
     "correct_answer": "B"
@@ -2378,8 +2378,8 @@
     "topic": "Zemljopis",
     "question": "Prema legendi, na području koje današnje države je rođen Buda?",
     "answers": {
-      "A": "Keniji",
-      "B": "Galapagosa",
+      "A": "Indije",
+      "B": "Butana",
       "C": "Nepala"
     },
     "image": null,
@@ -2392,8 +2392,8 @@
     "question": "Kako se zove glavni grad Haitija?",
     "answers": {
       "A": "Port au Prince",
-      "B": "Ouagadougou",
-      "C": "Postojne"
+      "B": "Santo Domingo",
+      "C": "Kingston"
     },
     "image": null,
     "correct_answer": "A"
@@ -2404,9 +2404,9 @@
     "topic": "Zemljopis",
     "question": "Koji je planinski vrh, sada u Sloveniji, bio najviši vrh bivše Jugoslavije?",
     "answers": {
-      "A": "Chimborazo",
+      "A": "Mangart",
       "B": "Triglav",
-      "C": "Nepala"
+      "C": "Grintovec"
     },
     "image": null,
     "correct_answer": "B"
@@ -2417,8 +2417,8 @@
     "topic": "Zemljopis",
     "question": "Koja je planina kao dio Anda, sa 6 267m nadmorske visine, najviši vrh Ekvadora?",
     "answers": {
-      "A": "Triglav",
-      "B": "Francuskom",
+      "A": "Cotopaxi",
+      "B": "Cayambe",
       "C": "Chimborazo"
     },
     "image": null,
@@ -2431,8 +2431,8 @@
     "question": "Kojom državom je u potpunosti okružen Monako?",
     "answers": {
       "A": "Francuskom",
-      "B": "Chimborazo",
-      "C": "Triglav"
+      "B": "Italijom",
+      "C": "Španjolskom"
     },
     "image": null,
     "correct_answer": "A"
@@ -2443,9 +2443,9 @@
     "topic": "Zemljopis",
     "question": "Tugrik je službena valuta koje države?",
     "answers": {
-      "A": "Kostarika",
+      "A": "Kazahstana",
       "B": "Mongolije",
-      "C": "Tanzaniju"
+      "C": "Kirgistana"
     },
     "image": null,
     "correct_answer": "B"
@@ -2456,8 +2456,8 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Burkine Faso?",
     "answers": {
-      "A": "Almati",
-      "B": "Port au Prince",
+      "A": "Bamako",
+      "B": "Niamey",
       "C": "Ouagadougou"
     },
     "image": null,
@@ -2470,8 +2470,8 @@
     "question": "Koja rijeka izvire kod Krkonoša, protječe kroz Spindlerov Mlin i Dresden, te se iza Hamburga ulijeva u Sjeverno More?",
     "answers": {
       "A": "Laba",
-      "B": "Atlantski Ocean",
-      "C": "Indijski"
+      "B": "Odra",
+      "C": "Rajna"
     },
     "image": null,
     "correct_answer": "A"
@@ -2482,9 +2482,9 @@
     "topic": "Zemljopis",
     "question": "Republika Kongo svoj izlaz na more ima na koji ocean?",
     "answers": {
-      "A": "Laba",
+      "A": "Indijski Ocean",
       "B": "Atlantski Ocean",
-      "C": "Indijski"
+      "C": "Tihi Ocean"
     },
     "image": null,
     "correct_answer": "B"
@@ -2495,8 +2495,8 @@
     "topic": "Zemljopis",
     "question": "Koji je najmnogoljudniji grad u Kazahstanu, a nekada je bio i glavni grad te države?",
     "answers": {
-      "A": "Mbabane",
-      "B": "Ouagadougou",
+      "A": "Astana",
+      "B": "Šimkent",
       "C": "Almati"
     },
     "image": null,
@@ -2509,8 +2509,8 @@
     "question": "Kojim imenom nazivamo tamnoputa plemena niskog rasta koja žive u tropskim šumama srednje Afrike?",
     "answers": {
       "A": "Pigmeji",
-      "B": "Malim",
-      "C": "Francuskom"
+      "B": "Masaji",
+      "C": "Tuarezi"
     },
     "image": null,
     "correct_answer": "A"
@@ -2521,9 +2521,9 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Eswatinija?",
     "answers": {
-      "A": "Oslo",
+      "A": "Maseru",
       "B": "Mbabane",
-      "C": "Almati"
+      "C": "Gaborone"
     },
     "image": null,
     "correct_answer": "B"
@@ -2534,8 +2534,8 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Norveške?",
     "answers": {
-      "A": "Mbabane",
-      "B": "Almati",
+      "A": "Stockholm",
+      "B": "Kopenhagen",
       "C": "Oslo"
     },
     "image": null,
@@ -2560,9 +2560,9 @@
     "topic": "Zemljopis",
     "question": "São Tomé je glavni grad koje države?",
     "answers": {
-      "A": "Vanuatua",
+      "A": "Zelenortski Otoci",
       "B": "Sveti Toma i Princip",
-      "C": "Malta"
+      "C": "Komori"
     },
     "image": null,
     "correct_answer": "B"
@@ -2573,8 +2573,8 @@
     "topic": "Zemljopis",
     "question": "Kojim Antilima pripada Barbados?",
     "answers": {
-      "A": "Atlas",
-      "B": "Pigmeji",
+      "A": "Velikim",
+      "B": "Zavjetrinskim",
       "C": "Malim"
     },
     "image": null,
@@ -2587,8 +2587,8 @@
     "question": "Port Vila je glavni grad koje države?",
     "answers": {
       "A": "Vanuatua",
-      "B": "Sveti Toma i Princip",
-      "C": "Malta"
+      "B": "Fidžija",
+      "C": "Samoae"
     },
     "image": null,
     "correct_answer": "A"
@@ -2599,9 +2599,9 @@
     "topic": "Zemljopis",
     "question": "Koji je svetac, svoje mjesto pronašao i u imenu glavnog grada Antigve i Barbude?",
     "answers": {
-      "A": "Monte Carlo",
+      "A": "Sveti Juraj",
       "B": "Sveti Ivan",
-      "C": "Srednjoafrička Republika"
+      "C": "Sveti Petar"
     },
     "image": null,
     "correct_answer": "B"
