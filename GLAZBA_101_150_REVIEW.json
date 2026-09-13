@@ -3,9 +3,9 @@
     "index": 101,
     "question": "Koja je pjevačica izvela pjesmu 'My Heart Will Go On'?",
     "answers": {
-      "A": "Jimi Hendrix",
+      "A": "Whitney Houston",
       "B": "Celine Dion",
-      "C": "Michael Jackson"
+      "C": "Mariah Carey"
     },
     "correct_answer": "B"
   },
@@ -13,8 +13,8 @@
     "index": 102,
     "question": "Koje ime nosi najprodavaniji glazbeni album svih vremena?",
     "answers": {
-      "A": "Miley Cyrus",
-      "B": "Coachella",
+      "A": "Back in Black",
+      "B": "The Dark Side of the Moon",
       "C": "Thriller"
     },
     "correct_answer": "C"
@@ -24,8 +24,8 @@
     "question": "Bartolomeo Cristofori je talijanski izrađivač glazbala kojemu se pripisuje izum kojeg, danas popularnog glazbenog instrumenta?",
     "answers": {
       "A": "Klavira",
-      "B": "Čarobna frula",
-      "C": "Jay Z"
+      "B": "Harmonike",
+      "C": "Saksofona"
     },
     "correct_answer": "A"
   },
@@ -33,9 +33,9 @@
     "index": 104,
     "question": "Kako se zove pjevačica grupe Blondie?",
     "answers": {
-      "A": "Celine Dion",
+      "A": "Patti Smith",
       "B": "Debbie Harry",
-      "C": "Jimi Hendrix"
+      "C": "Chrissie Hynde"
     },
     "correct_answer": "B"
   },
@@ -43,8 +43,8 @@
     "index": 105,
     "question": "Emanuel Schikaneder je napisao libreto za koju operu praizvedenu 30.9.1791.?",
     "answers": {
-      "A": "Klavira",
-      "B": "Reggae",
+      "A": "Don Giovanni",
+      "B": "Figarov pir",
       "C": "Čarobna frula"
     },
     "correct_answer": "C"
@@ -54,8 +54,8 @@
     "question": "Tko pjeva pjesme 'Shape of You' i 'Thinking Out Loud'?",
     "answers": {
       "A": "Ed Sheeran",
-      "B": "John Lennon",
-      "C": "Alfi Kabiljo"
+      "B": "Sam Smith",
+      "C": "Shawn Mendes"
     },
     "correct_answer": "A"
   },
@@ -63,9 +63,9 @@
     "index": 107,
     "question": "Tko je otpjevao pjesmu 'Imagine' koja se našla i na istoimenom albumu iz 1971.?",
     "answers": {
-      "A": "Ed Sheeran",
+      "A": "Paul McCartney",
       "B": "John Lennon",
-      "C": "Alfi Kabiljo"
+      "C": "George Harrison"
     },
     "correct_answer": "B"
   },
@@ -73,8 +73,8 @@
     "index": 108,
     "question": "Koju se ženu, iz ugledne slavonske plemićke obitelji smatra prvom hrvatskom skladateljicom?",
     "answers": {
-      "A": "Kendrick Lamar",
-      "B": "Modest Petrovič Musorgski",
+      "A": "Ivana Lang",
+      "B": "Skladana Atanasijević",
       "C": "Dora Pejačević"
     },
     "correct_answer": "C"
@@ -84,8 +84,8 @@
     "question": "Koji je žanr glazbe proslavio Boba Marleya?",
     "answers": {
       "A": "Reggae",
-      "B": "Čarobna frula",
-      "C": "Klavira"
+      "B": "Ska",
+      "C": "Calypso"
     },
     "correct_answer": "A"
   },
@@ -93,9 +93,9 @@
     "index": 110,
     "question": "Koji američki skladatelj i dirigent potpisuje napete i zastrašujuće note filma 'Ralje' za koje je dobio i Oscara?",
     "answers": {
-      "A": "Porin",
+      "A": "Hans Zimmer",
       "B": "John Williams",
-      "C": "Pulitzerova nagrada"
+      "C": "Ennio Morricone"
     },
     "correct_answer": "B"
   },
@@ -103,8 +103,8 @@
     "index": 111,
     "question": "Koji bend je osmislio svoj logo po uzoru na hinduističku božicu Kali, koju se većinom prikazuje isplažena jezika?",
     "answers": {
-      "A": "Debbie Harry",
-      "B": "Celine Dion",
+      "A": "Aerosmith",
+      "B": "The Who",
       "C": "The Rolling Stones"
     },
     "correct_answer": "C"
@@ -114,8 +114,8 @@
     "question": "Koji je reper objavio album 'DAMN.' iz 2017.?",
     "answers": {
       "A": "Kendrick Lamar",
-      "B": "Dora Pejačević",
-      "C": "Modest Petrovič Musorgski"
+      "B": "J. Cole",
+      "C": "Drake"
     },
     "correct_answer": "A"
   },
@@ -123,9 +123,9 @@
     "index": 113,
     "question": "Tko je autor glazbe za poznati hrvatski mjuzikl Jalta, Jalta iz 1971.?",
     "answers": {
-      "A": "Elvis Presley",
+      "A": "Đelo Jusić",
       "B": "Alfi Kabiljo",
-      "C": "Sabrina Carpenter"
+      "C": "Arsen Dedić"
     },
     "correct_answer": "B"
   },
@@ -133,8 +133,8 @@
     "index": 114,
     "question": "Tko je bio otac Lise Marie, prve žene Michaela Jacksona?",
     "answers": {
-      "A": "Alfi Kabiljo",
-      "B": "Sabrina Carpenter",
+      "A": "Johnny Cash",
+      "B": "Jerry Lee Lewis",
       "C": "Elvis Presley"
     },
     "correct_answer": "C"
@@ -144,8 +144,8 @@
     "question": "Kako se zove kćer Billyja Raya Cyrusa?",
     "answers": {
       "A": "Miley Cyrus",
-      "B": "Thriller",
-      "C": "Coachella"
+      "B": "Selena Gomez",
+      "C": "Demi Lovato"
     },
     "correct_answer": "A"
   },
@@ -153,9 +153,9 @@
     "index": 116,
     "question": "Koja pjevačica pjeva pjesme 'Espresso' i 'Nonsense'?",
     "answers": {
-      "A": "Freddie Mercury",
+      "A": "Olivia Rodrigo",
       "B": "Sabrina Carpenter",
-      "C": "Elvis Presley"
+      "C": "Billie Eilish"
     },
     "correct_answer": "B"
   },
@@ -163,8 +163,8 @@
     "index": 117,
     "question": "Tko je bio frontmen grupe Queen?",
     "answers": {
-      "A": "Sabrina Carpenter",
-      "B": "Elvis Presley",
+      "A": "David Bowie",
+      "B": "Elton John",
       "C": "Freddie Mercury"
     },
     "correct_answer": "C"
@@ -173,9 +173,9 @@
     "index": 118,
     "question": "Iz kojeg grada dolazi hip-hop grupa Wu-Tang Clan?",
     "answers": {
-      "A": "New York",
-      "B": "Dubrovniku",
-      "C": "Splita"
+      "A": "New Yorka",
+      "B": "Los Angelesa",
+      "C": "Chicaga"
     },
     "correct_answer": "A"
   },
@@ -183,9 +183,9 @@
     "index": 119,
     "question": "Iz koje rock grupe je nastala rock grupa Bijelo Dugme?",
     "answers": {
-      "A": "Nirvana",
-      "B": "Jutro",
-      "C": "Reggae"
+      "A": "Večeri",
+      "B": "Jutra",
+      "C": "Zore"
     },
     "correct_answer": "B"
   },
@@ -193,8 +193,8 @@
     "index": 120,
     "question": "Koji je bend snimio pjesmu 'Smells Like Teen Spirit'?",
     "answers": {
-      "A": "Jutro",
-      "B": "Reggae",
+      "A": "Pearl Jam",
+      "B": "Soundgarden",
       "C": "Nirvana"
     },
     "correct_answer": "C"
@@ -204,7 +204,7 @@
     "question": "Koji je ruski skladatelj iz 19.st napisao operu 'Boris Godunov' i klavirski ciklus 'Slike s izložbe'?",
     "answers": {
       "A": "Modest Petrovič Musorgski",
-      "B": "Elton John",
+      "B": "Nikolaj Rimski-Korsakov",
       "C": "Petar Iljič Čajkovski"
     },
     "correct_answer": "A"
@@ -213,9 +213,9 @@
     "index": 122,
     "question": "Tko je napisao operu 'Čarobna frula'?",
     "answers": {
-      "A": "Nemo",
+      "A": "Joseph Haydn",
       "B": "Wolfgang Mozart",
-      "C": "Roosevelt"
+      "C": "Ludwig van Beethoven"
     },
     "correct_answer": "B"
   },
@@ -223,8 +223,8 @@
     "index": 123,
     "question": "Tko je osvojio Euroviziju 2024. s pjesmom 'The Code'?",
     "answers": {
-      "A": "Wolfgang Mozart",
-      "B": "Roosevelt",
+      "A": "Baby Lasagna",
+      "B": "Slimane",
       "C": "Nemo"
     },
     "correct_answer": "C"
@@ -234,8 +234,8 @@
     "question": "Radnja mjuzikla Jalta, Jalta odvija se za vrijeme konferencije u Jalti, kada su tamo boravili Churchill, Staljin i tko još?",
     "answers": {
       "A": "Roosevelt",
-      "B": "Nemo",
-      "C": "Wolfgang Mozart"
+      "B": "Truman",
+      "C": "Eisenhower"
     },
     "correct_answer": "A"
   },
@@ -243,9 +243,9 @@
     "index": 125,
     "question": "Iz koje države dolazi Rihanna?",
     "answers": {
-      "A": "Francuske",
-      "B": "Barbados",
-      "C": "Švedske"
+      "A": "Jamajke",
+      "B": "Barbadosa",
+      "C": "Trinidada i Tobaga"
     },
     "correct_answer": "B"
   },
@@ -253,8 +253,8 @@
     "index": 126,
     "question": "Koji bend potpisuje pjesmu 'Stairway to Heaven'?",
     "answers": {
-      "A": "Beyonce",
-      "B": "The Killers",
+      "A": "Deep Purple",
+      "B": "Black Sabbath",
       "C": "Led Zeppelin"
     },
     "correct_answer": "C"
@@ -264,8 +264,8 @@
     "question": "Koji je glazbenik poznat po hitu 'Rocket Man'?",
     "answers": {
       "A": "Elton John",
-      "B": "Petar Iljič Čajkovski",
-      "C": "Prljavo Kazalište"
+      "B": "Billy Joel",
+      "C": "Rod Stewart"
     },
     "correct_answer": "A"
   },
@@ -273,9 +273,9 @@
     "index": 128,
     "question": "Koja je pjevačica osvojila najviše Grammyja u povijesti, ukupno 35?",
     "answers": {
-      "A": "Led Zeppelin",
+      "A": "Taylor Swift",
       "B": "Beyonce",
-      "C": "The Killers"
+      "C": "Adele"
     },
     "correct_answer": "B"
   },
@@ -283,8 +283,8 @@
     "index": 129,
     "question": "Koji je ruski skladatelj napisao glazbu za balete Labuđe jezero i Orašar?",
     "answers": {
-      "A": "Prljavo Kazalište",
-      "B": "Elton John",
+      "A": "Sergej Rahmanjinov",
+      "B": "Igor Stravinski",
       "C": "Petar Iljič Čajkovski"
     },
     "correct_answer": "C"
@@ -294,8 +294,8 @@
     "question": "Omotnica s prvog albuma kojeg hrvatskog benda neodoljivo podsjeća na logo Rolling Stonesa?",
     "answers": {
       "A": "Prljavo Kazalište",
-      "B": "Petar Iljič Čajkovski",
-      "C": "Elton John"
+      "B": "Parni Valjak",
+      "C": "Azra"
     },
     "correct_answer": "A"
   },
@@ -303,9 +303,9 @@
     "index": 131,
     "question": "Kojoj pjevačici pripadaju albumi 'Ray of Light' i 'Rebel Heart'?",
     "answers": {
-      "A": "Flautu",
+      "A": "Cher",
       "B": "Madonna",
-      "C": "Nirvana"
+      "C": "Cyndi Lauper"
     },
     "correct_answer": "B"
   },
@@ -313,9 +313,9 @@
     "index": 132,
     "question": "Koji instrument svira Melissa Viviane Jefferson, poznatija kao Lizzo?",
     "answers": {
-      "A": "Madonna",
-      "B": "Nirvana",
-      "C": "Flautu"
+      "A": "Klarinet",
+      "B": "Saksofon",
+      "C": "Flauta"
     },
     "correct_answer": "C"
   },
@@ -324,8 +324,8 @@
     "question": "Koji bend polaže autorska prava na pjesmu 'Mr. Brightside'?",
     "answers": {
       "A": "The Killers",
-      "B": "Beyonce",
-      "C": "Led Zeppelin"
+      "B": "Franz Ferdinand",
+      "C": "Arctic Monkeys"
     },
     "correct_answer": "A"
   }
