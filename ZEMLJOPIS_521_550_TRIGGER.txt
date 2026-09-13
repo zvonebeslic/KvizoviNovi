@@ -1,1 +1,1 @@
-Pokreni ručne ispravke pitanja 521-550. pokušaj 3
+Pokreni stvarni popravak pitanja 551-620 preko stabilnog workflowa.
