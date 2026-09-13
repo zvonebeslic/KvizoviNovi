@@ -1,0 +1,37 @@
+name: Fix Knjizevnost text
+on:
+  push:
+    branches: [main]
+jobs:
+  fix:
+    if: contains(github.event.head_commit.message, 'Pokreni Knjizevnost text fix')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix two corrupted question texts
+        run: |
+          python - <<'PY'
+          import json
+          p='Knjizevnost.json'
+          with open(p,encoding='utf-8') as f: d=json.load(f)
+          old1='Na Jabukovcu u kojem selu žive Lovrakova tri đaka četvrtog razreda osnovne škole: Ljuban, Draga i Pero.  Velikom Selu Veliko Selo '
+          new1='Na Jabukovcu u kojem selu žive Lovrakova tri đaka četvrtog razreda osnovne škole: Ljuban, Draga i Pero.'
+          old2='Koja knjiga uvodi čitatelja u svijet lova na kitove s polazištem na otoku Nantucketu u Novoj Engleskoj.  Moby Dick Bijeli kit Mobi dik The Wale D Vejl '
+          new2='Koja knjiga uvodi čitatelja u svijet lova na kitove s polazištem na otoku Nantucketu u Novoj Engleskoj?'
+          n1=n2=0
+          for q in d:
+              if q.get('question')==old1: q['question']=new1; n1+=1
+              if q.get('question')==old2: q['question']=new2; n2+=1
+          assert (n1,n2)==(1,1),(n1,n2)
+          with open(p,'w',encoding='utf-8') as f: json.dump(d,f,ensure_ascii=False,indent=2)
+          print('fixed',n1,n2,'total',len(d))
+          PY
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add Knjizevnost.json
+          git commit -m 'Ispravi pokvarene tekstove u Knjizevnost' || exit 0
+          git push
