@@ -1,20 +1,27 @@
-name: Fix Zemljopis 521-550
+name: Fix Zemljopis batches
 on:
   push:
     paths:
       - 'ZEMLJOPIS_421_520_TRIGGER.txt'
+      - 'ZEMLJOPIS_521_550_TRIGGER.txt'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   fix:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: python scripts/fix_zemljopis_521_550.py
+      - name: Run matching fixer
+        run: |
+          if git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -q '^ZEMLJOPIS_521_550_TRIGGER.txt$'; then
+            python scripts/fix_zemljopis_521_550.py
+          else
+            python scripts/fix_zemljopis_421_520.py
+          fi
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add Zemljopis.json
-          git diff --cached --quiet || git commit -m "Ručno popravi Zemljopis 521-550"
+          git diff --cached --quiet || git commit -m "Rucno popravi Zemljopis batch"
           git push
