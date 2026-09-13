@@ -7355,8 +7355,8 @@
     "question": "U kojoj je državi službeno sredstvo plaćanja valuta Paanga?",
     "answers": {
       "A": "Tongi",
-      "B": "Bir",
-      "C": "Pula"
+      "B": "Fidžiju",
+      "C": "Samoau"
     },
     "image": null,
     "correct_answer": "A"
@@ -7367,9 +7367,9 @@
     "topic": "Zemljopis",
     "question": "Koja se europska država može pohvaliti sa više od 187 000 jezera i 179 000 otoka?",
     "answers": {
-      "A": "Wyoming",
+      "A": "Švedska",
       "B": "Finska",
-      "C": "Antilibanon"
+      "C": "Norveška"
     },
     "image": null,
     "correct_answer": "B"
@@ -7380,8 +7380,8 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Irske?",
     "answers": {
-      "A": "Port of Spain",
-      "B": "Vientiane",
+      "A": "Belfast",
+      "B": "Edinburgh",
       "C": "Dublin"
     },
     "image": null,
@@ -7394,8 +7394,8 @@
     "question": "'Old Faithful' je najpoznatiji američki gejzir čije se izbacivanje vode može uživo promatrati u Nacionalnom parku Yellowstone, ali u kojoj američkoj saveznoj državi?",
     "answers": {
       "A": "Wyoming",
-      "B": "Košice",
-      "C": "Finska"
+      "B": "Montana",
+      "C": "Idaho"
     },
     "image": null,
     "correct_answer": "A"
@@ -7406,9 +7406,9 @@
     "topic": "Zemljopis",
     "question": "Koji je drugi najveći grad Slovačke?",
     "answers": {
-      "A": "Wyoming",
+      "A": "Prešov",
       "B": "Košice",
-      "C": "Korzika"
+      "C": "Žilina"
     },
     "image": null,
     "correct_answer": "B"
@@ -7419,8 +7419,8 @@
     "topic": "Zemljopis",
     "question": "Koji se veliki mediteranski otok nalazi u sastavu Francuske?",
     "answers": {
-      "A": "Košice",
-      "B": "Wyoming",
+      "A": "Sardinija",
+      "B": "Sicilija",
       "C": "Korzika"
     },
     "image": null,
@@ -7433,8 +7433,8 @@
     "question": "Glavni grad Trinidada i Tobaga možemo doslovno prevesti kao 'luka španjolske' a originalno se zove kako?",
     "answers": {
       "A": "Port of Spain",
-      "B": "Vientiane",
-      "C": "Dublin"
+      "B": "Kingstown",
+      "C": "Georgetown"
     },
     "image": null,
     "correct_answer": "A"
@@ -7445,9 +7445,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Laosa?",
     "answers": {
-      "A": "Port of Spain",
+      "A": "Phnom Penh",
       "B": "Vientiane",
-      "C": "Bridgetown"
+      "C": "Hanoi"
     },
     "image": null,
     "correct_answer": "B"
@@ -7458,8 +7458,8 @@
     "topic": "Zemljopis",
     "question": "Koja umjetnost, a ujedno i znanost, proučava postojeće grbove te sudjeluje u stavarnju novih?",
     "answers": {
-      "A": "Korzika",
-      "B": "Košice",
+      "A": "Veksilologija",
+      "B": "Sfragistika",
       "C": "Heraldika"
     },
     "image": null,
@@ -7472,8 +7472,8 @@
     "question": "Savez tračkih plemena, poznat kao Odriško Kraljevstvo se razvio između 5-og i 3-eg st. pr. Kr na području koje današnje države?",
     "answers": {
       "A": "Bugarske",
-      "B": "UNESCO",
-      "C": "UNICEF"
+      "B": "Grčke",
+      "C": "Sjeverne Makedonije"
     },
     "image": null,
     "correct_answer": "A"
@@ -7484,9 +7484,9 @@
     "topic": "Zemljopis",
     "question": "Pico do Fogo je aktivni vulkan na otoku Fogo, koji je zadnji put eruptirao 2015.g. a nalazi se u sklopu koje afričke države?",
     "answers": {
-      "A": "Balhaško Jezero",
+      "A": "Sveti Toma i Princip",
       "B": "Zelenorski Otoci",
-      "C": "Planina Kamerun"
+      "C": "Komori"
     },
     "image": null,
     "correct_answer": "B"
@@ -7497,8 +7497,8 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Barbadosa?",
     "answers": {
-      "A": "Vientiane",
-      "B": "Port of Spain",
+      "A": "Kingstown",
+      "B": "Castries",
       "C": "Bridgetown"
     },
     "image": null,
@@ -7511,8 +7511,8 @@
     "question": "Kako se zove najviši vrh Kavkaza, a ujedno i najviši vrh Europe sa 5 642m nadmorske visine?",
     "answers": {
       "A": "Elbrus",
-      "B": "Laponija",
-      "C": "Fuji"
+      "B": "Kazbek",
+      "C": "Dykh-Tau"
     },
     "image": null,
     "correct_answer": "A"
@@ -7523,9 +7523,9 @@
     "topic": "Zemljopis",
     "question": "Na koju rijeku, kroz Caprivijev uski pojas, Namibija ima izlaz?",
     "answers": {
-      "A": "Heraldika",
+      "A": "Okavango",
       "B": "Zambezi",
-      "C": "Kine"
+      "C": "Kunene"
     },
     "image": null,
     "correct_answer": "B"
@@ -7536,8 +7536,8 @@
     "topic": "Zemljopis",
     "question": "U kojoj državi izvire rijeka Rajna?",
     "answers": {
-      "A": "Tajvanu",
-      "B": "Saudijsku Arabiju",
+      "A": "Austriji",
+      "B": "Njemačkoj",
       "C": "Švicarskoj"
     },
     "image": null,
@@ -7550,8 +7550,8 @@
     "question": "Koji zaljev dijeli Finsku od Švedske?",
     "answers": {
       "A": "Botnički Zaljev",
-      "B": "Sredozemno More",
-      "C": "Kaspijskom"
+      "B": "Finski zaljev",
+      "C": "Riški zaljev"
     },
     "image": null,
     "correct_answer": "A"
@@ -7562,9 +7562,9 @@
     "topic": "Zemljopis",
     "question": "Koje je veliko jezero u Kazahstanu u svijetu poznato po tome što je pola jezera slatkovodno, a pola slano? Najveće je jezero koje se u potpunosti nalazi unutar granica Kazahstana, u sebi ima i preko 40 otoka a zove se kako?",
     "answers": {
-      "A": "Zelenorski Otoci",
+      "A": "Aralsko jezero",
       "B": "Balhaško Jezero",
-      "C": "Planina Kamerun"
+      "C": "Issyk-Kul"
     },
     "image": null,
     "correct_answer": "B"
@@ -7575,8 +7575,8 @@
     "topic": "Zemljopis",
     "question": "U koje more utječe Nil?",
     "answers": {
-      "A": "Botnički Zaljev",
-      "B": "Kaspijskom",
+      "A": "Crno More",
+      "B": "Crveno More",
       "C": "Sredozemno More"
     },
     "image": null,
@@ -7589,8 +7589,8 @@
     "question": "Koji je glavni grad Ekvadora?",
     "answers": {
       "A": "Quito",
-      "B": "Skoplje",
-      "C": "Phnom Penh"
+      "B": "Lima",
+      "C": "Bogota"
     },
     "image": null,
     "correct_answer": "A"
@@ -7601,9 +7601,9 @@
     "topic": "Zemljopis",
     "question": "Khan Tegri je planinski vrh visok 7010m. To je i najsjeverniji vrh iznad 7000m na svijetu. Najviša je točka Kazahstana, a nalazi se na tromeđi već spomenute države, Kirgistana i koje još države?",
     "answers": {
-      "A": "Polineziju",
+      "A": "Uzbekistana",
       "B": "Kine",
-      "C": "Zambezi"
+      "C": "Tadžikistana"
     },
     "image": null,
     "correct_answer": "B"
@@ -7614,8 +7614,8 @@
     "topic": "Zemljopis",
     "question": "Pacifički otoci se dijele na tri glavna dijela, Melaneziju, Mikroneziju i koju još 'neziju'?",
     "answers": {
-      "A": "Kine",
-      "B": "Zambezi",
+      "A": "Melaneziju",
+      "B": "Mikroneziju",
       "C": "Polineziju"
     },
     "image": null,
@@ -7628,8 +7628,8 @@
     "question": "Kako se zove glavni grad Sjeverne Makedonije?",
     "answers": {
       "A": "Skoplje",
-      "B": "Phnom Penh",
-      "C": "Quito"
+      "B": "Sofija",
+      "C": "Tirana"
     },
     "image": null,
     "correct_answer": "A"
@@ -7640,9 +7640,9 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad Kambodže?",
     "answers": {
-      "A": "Skoplje",
+      "A": "Vientiane",
       "B": "Phnom Penh",
-      "C": "Bioko"
+      "C": "Yangon"
     },
     "image": null,
     "correct_answer": "B"
@@ -7653,8 +7653,8 @@
     "topic": "Zemljopis",
     "question": "Koje ime nosi najveća te najsjevernija regija Finske?",
     "answers": {
-      "A": "Fuji",
-      "B": "Elbrus",
+      "A": "Ostrobotnija",
+      "B": "Kainuu",
       "C": "Laponija"
     },
     "image": null,
@@ -7667,8 +7667,8 @@
     "question": "U kojoj državi se nalaze milijunski gradovi Taichung, Kaoshiung i Tainan?",
     "answers": {
       "A": "Tajvanu",
-      "B": "Saudijsku Arabiju",
-      "C": "Libanonu"
+      "B": "Maleziji",
+      "C": "Filipinima"
     },
     "image": null,
     "correct_answer": "A"
@@ -7679,9 +7679,9 @@
     "topic": "Zemljopis",
     "question": "Koji je najveći otok Ekvatorijalne Gvineje, na kojem se nalazi Malabo, do nedavno glavni grad te države te koji je udaljen 40km od obale Kameruna?",
     "answers": {
-      "A": "Kuvajt",
+      "A": "Annobón",
       "B": "Bioko",
-      "C": "Phnom Penh"
+      "C": "Corisco"
     },
     "image": null,
     "correct_answer": "B"
@@ -7692,8 +7692,8 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Kuvajta?",
     "answers": {
-      "A": "Bioko",
-      "B": "Phnom Penh",
+      "A": "Doha",
+      "B": "Manama",
       "C": "Kuvajt"
     },
     "image": null,
@@ -7706,8 +7706,8 @@
     "question": "Koja kamerunska planina i aktivni vulkan sa 4040m nadmorske visine označava najvišu točku te države, te se nerijetko spominje kao najviša planina zapadnog dijela Afrike?",
     "answers": {
       "A": "Planina Kamerun",
-      "B": "Južni Sudan",
-      "C": "Balhaško Jezero"
+      "B": "Planina Oku",
+      "C": "Planina Manengouba"
     },
     "image": null,
     "correct_answer": "A"
@@ -7718,9 +7718,9 @@
     "topic": "Zemljopis",
     "question": "Jedini način da stanovnici Bahreina dođu s otoka na kopno je preko Mosta Kralja Fahda, on je dug 25km, ima 4 trake, širok je 23m, a na njemu su čak i granični prijelazi. Putujući iz Bahreina ovim mostom, doći ćete u koju državu?",
     "answers": {
-      "A": "Libanonu",
+      "A": "Katar",
       "B": "Saudijsku Arabiju",
-      "C": "Tajvanu"
+      "C": "Kuvajt"
     },
     "image": null,
     "correct_answer": "B"
@@ -7731,8 +7731,8 @@
     "topic": "Zemljopis",
     "question": "U kojoj državi se nalazi grad Tripoli?",
     "answers": {
-      "A": "Saudijsku Arabiju",
-      "B": "Tajvanu",
+      "A": "Siriji",
+      "B": "Jordanu",
       "C": "Libanonu"
     },
     "image": null,
