@@ -825,8 +825,8 @@
     "question": "Tko je zapovijedao brodom HMS Endeavour kada je 1770.g. stigao do istočne obale Australije i počeo je kartirati?",
     "answers": {
       "A": "James Cook",
-      "B": "Samuel Wallis",
-      "C": "Philip Carteret"
+      "B": "Pieter Roeland",
+      "C": "Edmund Carver"
     },
     "image": null,
     "correct_answer": "A"
@@ -837,9 +837,9 @@
     "topic": "Moreplovci",
     "question": "Koju je važnu trgovačku luku na Malajskom poluotoku Afonso de Albuquerque osvojio 1511.g., čime je Portugal stekao nadzor nad ključnim prolazom prema \"Otocima začina\"?",
     "answers": {
-      "A": "Kedah",
+      "A": "Portsmouth",
       "B": "Malacca",
-      "C": "Johor"
+      "C": "Brest"
     },
     "image": null,
     "correct_answer": "B"
@@ -850,8 +850,8 @@
     "topic": "Moreplovci",
     "question": "Koji je dominikanski redovnik sudjelovao u ekspediciji Francisca de Orellane niz rijeku Amazonu i ostavio najvažniji pisani izvještaj o tom putovanju?",
     "answers": {
-      "A": "Bartolomé de las Casas",
-      "B": "Domingo de Betanzos",
+      "A": "Nicolás Ferraro",
+      "B": "Étienne Valmont",
       "C": "Gaspar de Carvajal"
     },
     "image": null,
@@ -864,8 +864,8 @@
     "question": "Koji tjesnac nosi ime moreplovca čija je ekspedicija 1520.g. kroz krajnji jug Južne Amerike pronašla prolaz iz Atlantika u ocean koji je potom nazvao 'mirnim'?",
     "answers": {
       "A": "Magellanov tjesnac",
-      "B": "Drakeov prolaz",
-      "C": "Torresov tjesnac"
+      "B": "Sundski tjesnac",
+      "C": "Lombokški tjesnac"
     },
     "image": null,
     "correct_answer": "A"
@@ -889,8 +889,8 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski kralj poslao Vasca da Gamu na putovanje koje je 1498.g. otvorilo pomorski put iz Europe do Indije?",
     "answers": {
-      "A": "Ivan II.",
-      "B": "Afonso V.",
+      "A": "Simão de Faria",
+      "B": "António de Mascarenhas",
       "C": "Manuel I."
     },
     "image": null,
@@ -903,8 +903,8 @@
     "question": "Koji je švedski ratni brod potonuo 1628.g. tijekom svoje prve plovidbe po stockholmskoj luci, a zatim je 1961.g. izvađen nakon 333 godine provedene pod vodom?",
     "answers": {
       "A": "Vasa",
-      "B": "Kronan",
-      "C": "Mars"
+      "B": "North Star",
+      "C": "Belle Étoile"
     },
     "image": null,
     "correct_answer": "A"
@@ -915,9 +915,9 @@
     "topic": "Moreplovci",
     "question": "Koji je arapski moreplovac i pisac iz 15. stoljeća, poznat pod nadimkom Lav mora, napisao važne priručnike o plovidbi Indijskim oceanom?",
     "answers": {
-      "A": "Ibn Battuta",
+      "A": "Ibrahim al-Qadiri",
       "B": "Ahmad ibn Majid",
-      "C": "Sulayman al-Mahri"
+      "C": "Khalid ibn Nasser"
     },
     "image": null,
     "correct_answer": "B"
@@ -928,8 +928,8 @@
     "topic": "Moreplovci",
     "question": "Nakon što je brod Endurance uništen u antarktičkom ledu, Ernest Shackleton je ostavio većinu svojih ljudi na Elephant Islandu te s petoricom članova posade krenuo malim čamcem preko više od 1.300 km otvorenog mora kako bi pronašao pomoć a uspio je doploviti do kojeg udaljenog otoka?",
     "answers": {
-      "A": "Falklandski otoci",
-      "B": "Južni Orkney",
+      "A": "Cebu",
+      "B": "Borneo",
       "C": "Južna Georgija"
     },
     "image": null,
@@ -942,8 +942,8 @@
     "question": "Koja je španjolska kraljica, zajedno sa suprugom Ferdinandom II. Aragonskim, podržala i financijski pomogla Kristoforu Kolumbu da 1492.g. krene na svoje prvo veliko putovanje prema zapadu?",
     "answers": {
       "A": "Izabela I. Kastiljska",
-      "B": "Juana I. Kastiljska",
-      "C": "Izabela Portugalska"
+      "B": "Juan de Villaseca",
+      "C": "Martín de Arriaga"
     },
     "image": null,
     "correct_answer": "A"
@@ -981,8 +981,8 @@
     "question": "Koji je norveški pustolov 1947.g. preplovio velik dio Pacifika na splavi Kon-Tiki pokušavajući pokazati da su drevni stanovnici Južne Amerike tehnički mogli doploviti do Polinezije?",
     "answers": {
       "A": "Thor Heyerdahl",
-      "B": "Fridtjof Nansen",
-      "C": "Roald Amundsen"
+      "B": "Anders Vik",
+      "C": "Leif Rønning"
     },
     "image": null,
     "correct_answer": "A"
@@ -1006,8 +1006,8 @@
     "topic": "Moreplovci",
     "question": "Koji je grad na otoku New Providence na Bahamima početkom 18. stoljeća postao glavno gusarsko utočište i središte takozvane Gusarske republike?",
     "answers": {
-      "A": "Freeport",
-      "B": "Port Royal",
+      "A": "Pieter Roeland",
+      "B": "Edmund Carver",
       "C": "Nassau"
     },
     "image": null,
@@ -1020,8 +1020,8 @@
     "question": "Koji je flamanski kartograf 1569.g. predstavio projekciju karte koja je moreplovcima omogućavala prikazivanje stalnog smjera plovidbe ravnom linijom?",
     "answers": {
       "A": "Gerardus Mercator",
-      "B": "Willem Barentsz",
-      "C": "Jacob Roggeveen"
+      "B": "Maarten de Wit",
+      "C": "Adriaan van Loen"
     },
     "image": null,
     "correct_answer": "A"
@@ -1032,9 +1032,9 @@
     "topic": "Moreplovci",
     "question": "Vasco da Gama nije stigao u Indiju na područje današnjeg Mumbaija ili Goe, nego u luku kojeg grada na obali Kerale?",
     "answers": {
-      "A": "Cochin",
+      "A": "Brest",
       "B": "Calicut",
-      "C": "Kannur"
+      "C": "Antwerpen"
     },
     "image": null,
     "correct_answer": "B"
@@ -1045,8 +1045,8 @@
     "topic": "Moreplovci",
     "question": "Koji je korejski pomorski zapovjednik u 9. stoljeću osnovao bazu Cheonghaejin i razvio trgovačku mrežu između Koreje, Kine i Japana?",
     "answers": {
-      "A": "Kim Yang",
-      "B": "Choe Seung-ro",
+      "A": "Kim Seong-ho",
+      "B": "Park Gyeong-su",
       "C": "Jang Bogo"
     },
     "image": null,
@@ -1059,8 +1059,8 @@
     "question": "Koja je životinja konkvistadorima služila za brzo putovanje i borbu na kopnu?",
     "answers": {
       "A": "Konj",
-      "B": "Mazga",
-      "C": "Slon"
+      "B": "Deva",
+      "C": "Magarac"
     },
     "image": null,
     "correct_answer": "A"
@@ -1071,9 +1071,9 @@
     "topic": "Moreplovci",
     "question": "U kojem je američkom zaljevu francuska flota 1781.g. spriječila britanske brodove da pomognu vojsci kod Yorktowna i tako snažno utjecala na ishod Američkog rata za neovisnost?",
     "answers": {
-      "A": "Zaljev Delaware",
+      "A": "Adenski zaljev",
       "B": "Zaljev Chesapeake",
-      "C": "Zaljev Massachusetts"
+      "C": "Omanski zaljev"
     },
     "image": null,
     "correct_answer": "B"
@@ -1084,8 +1084,8 @@
     "topic": "Moreplovci",
     "question": "Koja je kineska dinastija poslala Zheng Hea na njegovih sedam velikih pomorskih ekspedicija?",
     "answers": {
-      "A": "Tang",
-      "B": "Qing",
+      "A": "Sui",
+      "B": "Jin",
       "C": "Ming"
     },
     "image": null,
@@ -1110,9 +1110,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski istraživač 1580.g. ponovno osnovao Buenos Aires, više od četrdeset godina nakon propasti prvog naselja Pedra de Mendoze?",
     "answers": {
-      "A": "Hernando de Villalba",
+      "A": "Rodrigo de Alarcón",
       "B": "Juan de Garay",
-      "C": "Rodrigo de Salazar"
+      "C": "Hernando de Sotomayor"
     },
     "image": null,
     "correct_answer": "B"
@@ -1176,8 +1176,8 @@
     "question": "Koji je britanski brod 1791.g., tijekom povratka iz potrage za pobunjenicima s Bountyja, potonuo na Velikom koraljnom grebenu?",
     "answers": {
       "A": "HMS Pandora",
-      "B": "Sea Venture",
-      "C": "Dreadnought"
+      "B": "Golden Hind",
+      "C": "Discovery"
     },
     "image": null,
     "correct_answer": "A"
@@ -1188,9 +1188,9 @@
     "topic": "Moreplovci",
     "question": "Koja je kći Erika Crvenog prema nordijskim sagama sudjelovala u putovanjima prema Vinlandu i postala jedna od najpoznatijih žena povezanih s vikinškim istraživanjem Amerike?",
     "answers": {
-      "A": "Gudrid Thorbjarnardóttir",
+      "A": "João Valente",
       "B": "Freydís Eiríksdóttir",
-      "C": "Aud Dubokoumna"
+      "C": "Pieter Roeland"
     },
     "image": null,
     "correct_answer": "B"
@@ -1227,9 +1227,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski istraživač preživio propast Narváezove ekspedicije i nakon višegodišnjeg lutanja kroz jug Sjeverne Amerike zapisao svoja iskustva u djelu Naufragios?",
     "answers": {
-      "A": "Alonso de Córdoba",
+      "A": "Diego de Villacorta",
       "B": "Álvar Núñez Cabeza de Vaca",
-      "C": "Diego de Valderrama"
+      "C": "Rodrigo de Alarcón"
     },
     "image": null,
     "correct_answer": "B"
@@ -1240,8 +1240,8 @@
     "topic": "Moreplovci",
     "question": "Koji je japanski samuraj predvodio diplomatsku misiju koja je od 1613.g. preko Tihog oceana, Meksika i Atlantika stigla sve do Španjolske i Rima?",
     "answers": {
-      "A": "Date Masamune",
-      "B": "Sanada Yukimura",
+      "A": "Gonzalo de Valcárcel",
+      "B": "Juan de Villaseca",
       "C": "Hasekura Tsunenaga"
     },
     "image": null,
@@ -1254,8 +1254,8 @@
     "question": "Koji je engleski gusar pomogao uspostaviti gusarsko uporište u Nassauu, bio rani zapovjednik Edwarda Teacha, poznatijeg kao Crnobradi, a zatim prihvatio pomilovanje i postao lovac na gusare?",
     "answers": {
       "A": "Benjamin Hornigold",
-      "B": "Thomas Cavendish",
-      "C": "Martin Frobisher"
+      "B": "Richard Ashcombe",
+      "C": "William Fenwick"
     },
     "image": null,
     "correct_answer": "A"
@@ -1266,9 +1266,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski konkvistador 1528.g. poveo nesretnu ekspediciju na Floridu, čiji je jedan od rijetkih preživjelih bio Cabeza de Vaca?",
     "answers": {
-      "A": "Martín de Quesada",
+      "A": "Francisco de Montalvo",
       "B": "Pánfilo de Narváez",
-      "C": "Álvaro de Sotomayor"
+      "C": "Luis de Cárdenas"
     },
     "image": null,
     "correct_answer": "B"
@@ -1279,8 +1279,8 @@
     "topic": "Moreplovci",
     "question": "Koja je kineska gusarska zapovjednica početkom 19. stoljeća upravljala savezom koji je obuhvaćao stotine brodova?",
     "answers": {
-      "A": "Anne Bonny",
-      "B": "Grace O’Malley",
+      "A": "North Star",
+      "B": "Belle Étoile",
       "C": "Zheng Yi Sao"
     },
     "image": null,
@@ -1293,8 +1293,8 @@
     "question": "Koji je portugalski vojskovođa i upravitelj 1510.g. osvojio Gou, buduće središte portugalske vlasti u Indiji?",
     "answers": {
       "A": "Afonso de Albuquerque",
-      "B": "João de Serpa",
-      "C": "Afonso de Noronha"
+      "B": "Diogo de Noronha",
+      "C": "Duarte de Meneses"
     },
     "image": null,
     "correct_answer": "A"
@@ -1305,9 +1305,9 @@
     "topic": "Moreplovci",
     "question": "Koji je velški gusar poznat pod nadimkom Black Bart postao jedan od najuspješnijih gusarskih kapetana Zlatnog doba piratstva, zarobivši tijekom karijere stotine brodova?",
     "answers": {
-      "A": "Henry Morgan",
+      "A": "Resolution",
       "B": "Bartholomew Roberts",
-      "C": "Edward Low"
+      "C": "Adventure"
     },
     "image": null,
     "correct_answer": "B"
@@ -1332,8 +1332,8 @@
     "question": "Kako se zvao brod kojim je Joshua Slocum između 1895. i 1898.g. izveo prvo samostalno oplovljavanje svijeta?",
     "answers": {
       "A": "Spray",
-      "B": "Dauphin",
-      "C": "Pelican"
+      "B": "Victoria",
+      "C": "Trinidad"
     },
     "image": null,
     "correct_answer": "A"
@@ -1357,8 +1357,8 @@
     "topic": "Moreplovci",
     "question": "Koji je engleski gusarski kapetan 1718.g. odbio kraljevsko pomilovanje koje je na Bahamima ponudio guverner Woodes Rogers te uspio pobjeći iz blokirane luke Nassau?",
     "answers": {
-      "A": "Robert Harcourt",
-      "B": "Edward Blackwell",
+      "A": "Charles Whitmore",
+      "B": "Thomas Wycliffe",
       "C": "Charles Vane"
     },
     "image": null,
@@ -1383,9 +1383,9 @@
     "topic": "Moreplovci",
     "question": "Koji je admiral 1805.g. kod Trafalgara porazio francusko-španjolsku flotu i osigurao britansku prevlast na moru, ali je tijekom same bitke smrtno ranjen?",
     "answers": {
-      "A": "Cuthbert Collingwood",
+      "A": "Alonso de Benavides",
       "B": "Horatio Nelson",
-      "C": "George Rodney"
+      "C": "Francisco de Montalvo"
     },
     "image": null,
     "correct_answer": "B"
@@ -1410,8 +1410,8 @@
     "question": "Koja je irska pomorska zapovjednica i vladarica poznata kao Gusarska kraljica Connachta 1593.g. osobno pregovarala s engleskom kraljicom Elizabetom I.?",
     "answers": {
       "A": "Grace O’Malley",
-      "B": "Ching Shih",
-      "C": "Rachel Wall"
+      "B": "John Haverford",
+      "C": "Charles Whitmore"
     },
     "image": null,
     "correct_answer": "A"
@@ -1422,9 +1422,9 @@
     "topic": "Moreplovci",
     "question": "Kada je kineski admiral Zheng He 1405.g. krenuo na svoju prvu veliku pomorsku ekspediciju, koji se dugotrajni rat između Engleske i Francuske još vodio u Europi?",
     "answers": {
-      "A": "Tridesetogodišnji",
+      "A": "Edmund Harcourt",
       "B": "Stogodišnji",
-      "C": "Rat dviju ruža"
+      "C": "Richard Ashcombe"
     },
     "image": null,
     "correct_answer": "B"
@@ -1435,8 +1435,8 @@
     "topic": "Moreplovci",
     "question": "Koja je francuska istraživačica na Bougainvilleovoj ekspediciji postala prva poznata žena koja je oplovila svijet?",
     "answers": {
-      "A": "Jacquotte Delahaye",
-      "B": "Sayyida al Hurra",
+      "A": "Étienne de Villeneuve",
+      "B": "Jean-Baptiste Delorme",
       "C": "Jeanne Baret"
     },
     "image": null,
@@ -1474,8 +1474,8 @@
     "topic": "Moreplovci",
     "question": "Koji ocean moraju prijeći brodovi koji iz Europe plove izravno prema Americi?",
     "answers": {
-      "A": "Tihi ocean",
-      "B": "Indijski ocean",
+      "A": "Južni ocean",
+      "B": "Arktički ocean",
       "C": "Atlantski ocean"
     },
     "image": null,
@@ -1488,8 +1488,8 @@
     "question": "Koja je današnja američka savezna država dobila ime u čast engleske kraljice Elizabete I., poznate kao 'Djevičanska kraljica' a ime joj je dao britanski pomorac i istraživač Walter Raleigh?",
     "answers": {
       "A": "Virginija",
-      "B": "Carolina",
-      "C": "Maryland"
+      "B": "Richard Ashcombe",
+      "C": "William Fenwick"
     },
     "image": null,
     "correct_answer": "A"
@@ -1500,9 +1500,9 @@
     "topic": "Moreplovci",
     "question": "Koji je brod 1620.g. prevezao skupinu engleskih doseljenika preko Atlantika do obala današnjeg Massachusettsa i postao jedan od najslavnijih brodova u američkoj povijesnoj predaji?",
     "answers": {
-      "A": "Victoria",
+      "A": "Esperança",
       "B": "Mayflower",
-      "C": "Trinidad"
+      "C": "San Telmo"
     },
     "image": null,
     "correct_answer": "B"
@@ -1513,8 +1513,8 @@
     "topic": "Moreplovci",
     "question": "Koji je nizozemski trgovački brod 1629.g. doživio brodolom kod otočja Houtman Abrolhos uz zapadnu obalu Australije, tijekom svoje prve plovidbe prema Javi?",
     "answers": {
-      "A": "Amsterdam",
-      "B": "Vergulde Draeck",
+      "A": "Duyfken",
+      "B": "Endurance",
       "C": "Batavia"
     },
     "image": null,
@@ -1539,9 +1539,9 @@
     "topic": "Moreplovci",
     "question": "Koji je moreplovac u španjolskoj službi 1542.g. istražio dio pacifičke obale današnje Kalifornije i uplovio u zaljev San Diego, postavši jedan od prvih Europljana koji su istraživali to područje?",
     "answers": {
-      "A": "Pieter van der Meer",
+      "A": "Hernando de Sotomayor",
       "B": "Juan Rodríguez Cabrillo",
-      "C": "Henri de Montreuil"
+      "C": "Gonzalo de Valcárcel"
     },
     "image": null,
     "correct_answer": "B"
@@ -1552,8 +1552,8 @@
     "topic": "Moreplovci",
     "question": "Koja je domaća životinja najprije oplovila svijet na brodu Dolphin, a zatim ponovno putovala oko svijeta s Jamesom Cookom na brodu Endeavour?",
     "answers": {
-      "A": "Ovca",
-      "B": "Svinja",
+      "A": "Slon",
+      "B": "Konj",
       "C": "Koza"
     },
     "image": null,
@@ -1566,8 +1566,8 @@
     "question": "Koji je nordijski moreplovac prema Grenlandskoj sagi oko 986.g. ugledao obalu Sjeverne Amerike prije Leifa Eriksona, ali se ondje nije iskrcao?",
     "answers": {
       "A": "Bjarni Herjólfsson",
-      "B": "Leif Erikson",
-      "C": "Erik Crveni"
+      "B": "Matteo Serani",
+      "C": "João Valente"
     },
     "image": null,
     "correct_answer": "A"
@@ -1591,8 +1591,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao mali norveški brod kojim je Roald Amundsen između 1903. i 1906.g. izveo prvo potpuno preplovljavanje Sjeverozapadnog prolaza?",
     "answers": {
-      "A": "Fram",
-      "B": "Maud",
+      "A": "Bjørn Halvorsen",
+      "B": "Anders Vik",
       "C": "Gjøa"
     },
     "image": null,
@@ -1605,8 +1605,8 @@
     "question": "Koji je brod nestale arktičke ekspedicije Johna Franklina pronađen 2014.g. južno od kanadskog otoka King William, gotovo 170 godina nakon nestanka?",
     "answers": {
       "A": "HMS Erebus",
-      "B": "Endeavour",
-      "C": "Providence"
+      "B": "Terra Nova",
+      "C": "Santa Catarina"
     },
     "image": null,
     "correct_answer": "A"
@@ -1630,8 +1630,8 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski galijun, često nazivan 'svetim gralom brodskih olupina', potonuo 1708.g. u borbi s britanskim brodovima nedaleko od današnje Cartagene?",
     "answers": {
-      "A": "San Felipe",
-      "B": "Nuestra Señora de las Mercedes",
+      "A": "North Star",
+      "B": "Belle Étoile",
       "C": "San José"
     },
     "image": null,
@@ -1656,9 +1656,9 @@
     "topic": "Moreplovci",
     "question": "Koji je brod pronađen napušten u Atlantiku 1872.g., sposoban za plovidbu i s teretom na brodu, ali bez posade, čime je nastala jedna od najpoznatijih pomorskih misterija svih vremena?",
     "answers": {
-      "A": "Mercury",
+      "A": "Resolution",
       "B": "Mary Celeste",
-      "C": "Royal Fortune"
+      "C": "Adventure"
     },
     "image": null,
     "correct_answer": "B"
@@ -1695,9 +1695,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski redovnik i moreplovac 1565.g. pronašao pouzdanu povratnu rutu preko Pacifika od Filipina do Meksika?",
     "answers": {
-      "A": "Rodrigo de Salazar",
+      "A": "Alonso de Benavides",
       "B": "Andrés de Urdaneta",
-      "C": "Gonzalo de Montalvo"
+      "C": "Francisco de Montalvo"
     },
     "image": null,
     "correct_answer": "B"
@@ -1722,8 +1722,8 @@
     "question": "Dok je nizozemski moreplovac Abel Tasman 1642.g. plovio uz obale Tasmanije i Novog Zelanda, koji je veliki rat započet 1618.g. još bjesnio Europom?",
     "answers": {
       "A": "Tridesetogodišnji",
-      "B": "Stogodišnji rat",
-      "C": "Osamdesetogodišnji rat"
+      "B": "Dirk van Meeren",
+      "C": "Maarten de Wit"
     },
     "image": null,
     "correct_answer": "A"
@@ -1734,9 +1734,9 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao brod belgijske antarktičke ekspedicije koji je 1898.g. ostao zarobljen u ledu, zbog čega je njegova posada postala prva koja je provela cijelu zimu na Antarktici?",
     "answers": {
-      "A": "Pelican",
+      "A": "San Telmo",
       "B": "Belgica",
-      "C": "HMS Pandora"
+      "C": "Mercury"
     },
     "image": null,
     "correct_answer": "B"
@@ -1747,8 +1747,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao brod britanskog istraživača Ernesta Shackletona koji je tijekom ekspedicije na Antarktiku 1915.g. ostao zarobljen u morskom ledu, a zatim pod njegovim pritiskom bio potpuno uništen i potonuo?",
     "answers": {
-      "A": "Adventure",
-      "B": "Resolution",
+      "A": "Santa Catarina",
+      "B": "Esperança",
       "C": "Endurance"
     },
     "image": null,
@@ -1773,9 +1773,9 @@
     "topic": "Moreplovci",
     "question": "Koji je prirodoslovac 1831.g. krenuo na putovanje brodom HMS Beagle, ne sluteći da će mu opažanja s tog putovanja pomoći oblikovati jednu od najutjecajnijih znanstvenih teorija u povijesti?",
     "answers": {
-      "A": "Joseph Banks",
+      "A": "Adventure",
       "B": "Charles Darwin",
-      "C": "Alexander von Humboldt"
+      "C": "Providence"
     },
     "image": null,
     "correct_answer": "B"
@@ -1786,8 +1786,8 @@
     "topic": "Moreplovci",
     "question": "Kako se naziva težak predmet koji se spušta na morsko dno kako bi brod ostao na mjestu?",
     "answers": {
-      "A": "Kormilo",
-      "B": "Vitlo",
+      "A": "São Gabriel",
+      "B": "Victoria",
       "C": "Sidro"
     },
     "image": null,
@@ -1800,8 +1800,8 @@
     "question": "Koji je portugalski putnik potkraj 15. stoljeća kopnenim putem stigao do Indije i Etiopije te kralju Ivanu II. slao podatke korisne za pronalazak pomorskog puta prema Aziji?",
     "answers": {
       "A": "Pêro da Covilhã",
-      "B": "Rui de Sequeira",
-      "C": "Fernão de Andrade"
+      "B": "João de Alvim",
+      "C": "Diogo de Noronha"
     },
     "image": null,
     "correct_answer": "A"
@@ -1825,8 +1825,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao nekadašnji brod za prijevoz porobljenih ljudi koji je gusar Samuel Bellamy zarobio, pretvorio u svoj glavni brod, a koji je 1717.g. potonuo kod Cape Coda?",
     "answers": {
-      "A": "Royal Fortune",
-      "B": "Adventure Galley",
+      "A": "Santa Catarina",
+      "B": "Esperança",
       "C": "Whydah Gally"
     },
     "image": null,
@@ -1890,9 +1890,9 @@
     "topic": "Moreplovci",
     "question": "Koji je finsko-švedski istraživač brodom Vega između 1878. i 1879.g. prvi uspješno preplovio cijeli Sjeveroistočni prolaz uz sjevernu obalu Euroazije?",
     "answers": {
-      "A": "Fridtjof Nansen",
+      "A": "Providence",
       "B": "Adolf Erik Nordenskiöld",
-      "C": "Otto Sverdrup"
+      "C": "Royal Fortune"
     },
     "image": null,
     "correct_answer": "B"
@@ -1903,8 +1903,8 @@
     "topic": "Moreplovci",
     "question": "Koji je norveški istraživač 1911.g. prvi stigao na Južni pol, pobijedivši britansku ekspediciju Roberta Falcona Scotta u jednoj od najpoznatijih polarnih utrka u povijesti?",
     "answers": {
-      "A": "Fridtjof Nansen",
-      "B": "Otto Sverdrup",
+      "A": "Edward Langford",
+      "B": "John Haverford",
       "C": "Roald Amundsen"
     },
     "image": null,
@@ -1929,9 +1929,9 @@
     "topic": "Moreplovci",
     "question": "Koji je veliki kanadski grad na obali Tihog oceana dobio ime po britanskom kapetanu koji je krajem 18. stoljeća detaljno kartirao sjeverozapadnu obalu Sjeverne Amerike?",
     "answers": {
-      "A": "Seattle",
+      "A": "Richard Ashcombe",
       "B": "Vancouver",
-      "C": "Victoria"
+      "C": "William Fenwick"
     },
     "image": null,
     "correct_answer": "B"
@@ -2007,9 +2007,9 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao brod kapetana Williama Kidda, opremljen jedrima i veslima, kojim je 1696.g. krenuo u lov na gusare i neprijateljske brodove?",
     "answers": {
-      "A": "Providence",
+      "A": "Adventure",
       "B": "Adventure Galley",
-      "C": "Golden Hind"
+      "C": "Providence"
     },
     "image": null,
     "correct_answer": "B"
@@ -2020,8 +2020,8 @@
     "topic": "Moreplovci",
     "question": "Tko je zapovijedao brodom Gjøa kada je između 1903. i 1906.g. prvi put uspješno preplovljen cijeli Sjeverozapadni prolaz?",
     "answers": {
-      "A": "Fridtjof Nansen",
-      "B": "Otto Sverdrup",
+      "A": "João Valente",
+      "B": "Pieter Roeland",
       "C": "Roald Amundsen"
     },
     "image": null,
@@ -2034,8 +2034,8 @@
     "question": "Koji je engleski moreplovac, prirodoslovac i nekadašnji bukanir postao prva poznata osoba koja je tri puta oplovila svijet?",
     "answers": {
       "A": "William Dampier",
-      "B": "John Hawkins",
-      "C": "Humphrey Gilbert"
+      "B": "Charles Whitmore",
+      "C": "Thomas Wycliffe"
     },
     "image": null,
     "correct_answer": "A"
@@ -2046,9 +2046,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski moreplovac i kartograf, sudionik Kolumbovih putovanja, oko 1500.g. izradio najstariju sačuvanu kartu na kojoj je prikazan američki kontinent?",
     "answers": {
-      "A": "Pedro de Alarcón",
+      "A": "Hernando de Sotomayor",
       "B": "Juan de la Cosa",
-      "C": "Francisco de Villaseñor"
+      "C": "Gonzalo de Valcárcel"
     },
     "image": null,
     "correct_answer": "B"
@@ -2073,8 +2073,8 @@
     "question": "Koji je španjolski konkvistador, poznat kao El Adelantado, predvodio dugotrajne pokušaje osvajanja poluotoka Yucatána?",
     "answers": {
       "A": "Francisco de Montejo",
-      "B": "Francisco de Montejo Mlađi",
-      "C": "Diego de Mazariegos"
+      "B": "Alonso de Benavides",
+      "C": "Francisco de Montalvo"
     },
     "image": null,
     "correct_answer": "A"
@@ -2085,9 +2085,9 @@
     "topic": "Moreplovci",
     "question": "Od koje francuske riječi za drvenu rešetku na kojoj se dimilo meso potječe naziv bukanir, kojim su se isprva nazivali lovci s karipskih otoka?",
     "answers": {
-      "A": "Grillage",
+      "A": "Jean-Baptiste Delorme",
       "B": "Boucan",
-      "C": "Fumage"
+      "C": "Pierre de Montreuil"
     },
     "image": null,
     "correct_answer": "B"
@@ -2098,8 +2098,8 @@
     "topic": "Moreplovci",
     "question": "Koji je osmanski admiral i nekadašnji gusar, rođen kao Hızır, u Europi ostao poznat po nadimku koji znači Crvenobradi?",
     "answers": {
-      "A": "Piri Reis",
-      "B": "Turgut Reis",
+      "A": "Lucien Moreau",
+      "B": "Diego Santillán",
       "C": "Barbarossa"
     },
     "image": null,
@@ -2112,8 +2112,8 @@
     "question": "Kako se naziva toranj sa snažnim svjetlom koji brodovima pokazuje put i upozorava ih na opasnu obalu?",
     "answers": {
       "A": "Svjetionik",
-      "B": "Signalni toranj",
-      "C": "Obalna kula"
+      "B": "Golden Hind",
+      "C": "Discovery"
     },
     "image": null,
     "correct_answer": "A"
@@ -2151,8 +2151,8 @@
     "question": "Koji je istraživač u engleskoj službi 1497.g. stigao do obala Sjeverne Amerike, a njegovo se putovanje često povezuje s Newfoundlandom?",
     "answers": {
       "A": "John Cabot",
-      "B": "Henri de Montreuil",
-      "C": "Richard Hargreaves"
+      "B": "John Haverford",
+      "C": "Charles Whitmore"
     },
     "image": null,
     "correct_answer": "A"
@@ -2163,9 +2163,9 @@
     "topic": "Moreplovci",
     "question": "Koji je tjesnac između Koreje i Japana dao ime pomorskoj bitci iz 1905.g. u kojoj je Japan teško porazio rusku Baltičku flotu?",
     "answers": {
-      "A": "Mozambički kanal",
+      "A": "Han Seung-min",
       "B": "Tsushima",
-      "C": "Biskajski zaljev"
+      "C": "Seo Jin-ho"
     },
     "image": null,
     "correct_answer": "B"
@@ -2176,8 +2176,8 @@
     "topic": "Moreplovci",
     "question": "Koja je gusarica početkom 18. stoljeća plovila u posadi Calica Jacka zajedno s Mary Read te postala jedna od najpoznatijih žena Zlatnog doba piratstva?",
     "answers": {
-      "A": "Sayyida al Hurra",
-      "B": "Ching Shih",
+      "A": "Nicolás Ferraro",
+      "B": "Étienne Valmont",
       "C": "Anne Bonny"
     },
     "image": null,
@@ -2190,8 +2190,8 @@
     "question": "Koji je britanski pomorac 1823.g. doplovio južnije od bilo kojeg dotadašnjeg moreplovca, a po njemu je poslije nazvano veliko more uz Antarktiku?",
     "answers": {
       "A": "James Weddell",
-      "B": "John Hawkins",
-      "C": "Humphrey Gilbert"
+      "B": "Henry Walsingham",
+      "C": "Arthur Redgrave"
     },
     "image": null,
     "correct_answer": "A"
@@ -2215,8 +2215,8 @@
     "topic": "Moreplovci",
     "question": "Koji je danski moreplovac u ruskoj službi 1728.g. prošao morskim prolazom između Sibira i Aljaske, koji je poslije nazvan njegovim prezimenom?",
     "answers": {
-      "A": "Martin Spanberg",
-      "B": "Aleksej Čirikov",
+      "A": "Lucien Moreau",
+      "B": "Diego Santillán",
       "C": "Vitus Bering"
     },
     "image": null,
@@ -2241,9 +2241,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski istraživač 1541.g. i 1542.g. predvodio ekspediciju koja je prva preplovila gotovo cijeli tok Amazone, od Anda do Atlantskog oceana?",
     "answers": {
-      "A": "Mateo de Villalobos",
+      "A": "Juan de Villaseca",
       "B": "Francisco de Orellana",
-      "C": "Alonso de Córdoba"
+      "C": "Martín de Arriaga"
     },
     "image": null,
     "correct_answer": "B"
@@ -2280,9 +2280,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski istraživač 1536.g. predvodio prvo osnivanje Buenos Airesa, naselja koje je zbog teških uvjeta poslije napušteno?",
     "answers": {
-      "A": "Gonzalo de Montalvo",
+      "A": "Rodrigo de Alarcón",
       "B": "Pedro de Mendoza",
-      "C": "Martín de Quesada"
+      "C": "Hernando de Sotomayor"
     },
     "image": null,
     "correct_answer": "B"
@@ -2293,8 +2293,8 @@
     "topic": "Moreplovci",
     "question": "Koji je zapovjednik Hernana Corteza poslije predvodio španjolsko osvajanje većeg dijela današnje Gvatemale?",
     "answers": {
-      "A": "Lorenzo de Acosta",
-      "B": "João de Serpa",
+      "A": "Juan de Villaseca",
+      "B": "Martín de Arriaga",
       "C": "Pedro de Alvarado"
     },
     "image": null,
@@ -2307,8 +2307,8 @@
     "question": "Kako se zvao brat Vasca da Game koji je kao kapetan broda São Rafael sudjelovao u njegovu prvom putovanju prema Indiji?",
     "answers": {
       "A": "Paulo da Gama",
-      "B": "Mateo de Villalobos",
-      "C": "Sebastián de Aranda"
+      "B": "Endurance",
+      "C": "Terra Nova"
     },
     "image": null,
     "correct_answer": "A"
@@ -2346,8 +2346,8 @@
     "question": "Koji je gusar prije odlaska na more bio imućni vlasnik plantaže, zbog čega je u povijesti ostao poznat pod nadimkom Gentleman Pirate?",
     "answers": {
       "A": "Stede Bonnet",
-      "B": "Lorenzo de Acosta",
-      "C": "João de Serpa"
+      "B": "Diego Santillán",
+      "C": "Adrian Mercer"
     },
     "image": null,
     "correct_answer": "A"
@@ -2358,9 +2358,9 @@
     "topic": "Moreplovci",
     "question": "Tko je zapovijedao brodom Golden Hind kada se 1580.g. vratio u Englesku nakon putovanja oko svijeta?",
     "answers": {
-      "A": "Thomas Cavendish",
+      "A": "Richard Ashcombe",
       "B": "Francis Drake",
-      "C": "John Hawkins"
+      "C": "William Fenwick"
     },
     "image": null,
     "correct_answer": "B"
@@ -2371,8 +2371,8 @@
     "topic": "Moreplovci",
     "question": "Koji je njemački kartograf na svojoj karti svijeta iz 1507.g. prvi upotrijebio ime Amerika?",
     "answers": {
-      "A": "Sebastián de Aranda",
-      "B": "Edward Blackwell",
+      "A": "Matteo Serani",
+      "B": "João Valente",
       "C": "Martin Waldseemüller"
     },
     "image": null,
@@ -2424,8 +2424,8 @@
     "question": "Premda je na pramcu imao zmajevu glavu, na koju je životinju zbog zatvorene gornje palube nalik oklopu podsjećao geobukseon, znameniti korejski ratni brod admirala Yi Sun-sina?",
     "answers": {
       "A": "Kornjaču",
-      "B": "Armadila",
-      "C": "Pangolina"
+      "B": "Lama",
+      "C": "Slon"
     },
     "image": null,
     "correct_answer": "A"
@@ -2449,8 +2449,8 @@
     "topic": "Moreplovci",
     "question": "Koji je nizozemski istraživač potkraj 16. stoljeća pokušavao pronaći sjeveroistočni pomorski prolaz prema Aziji, a po njemu danas ime nosi jedno more i jedan otok u arhipelagu Svalbard?",
     "answers": {
-      "A": "Jacob van Heemskerck",
-      "B": "Willem Schouten",
+      "A": "Gerrit van Dijk",
+      "B": "Joost van Brederode",
       "C": "Willem Barents"
     },
     "image": null,
@@ -2463,8 +2463,8 @@
     "question": "Koji je kineski moreplovac prema starim kronikama po zapovijedi cara Qin Shi Huanga otplovio prema istoku u potrazi za otocima besmrtnika, a kasnija ga je predaja povezala s dolaskom u Japan?",
     "answers": {
       "A": "Xu Fu",
-      "B": "Zhang Qian",
-      "C": "Gan Ying"
+      "B": "Chen Haifeng",
+      "C": "Wang Shun"
     },
     "image": null,
     "correct_answer": "A"
@@ -2475,9 +2475,9 @@
     "topic": "Moreplovci",
     "question": "Kako se nazivao velik oceanski jedrenjak široka trupa, na portugalskom poznat kao nau, koji je tijekom velikih geografskih otkrića mogao prevoziti znatno više tereta od karavele?",
     "answers": {
-      "A": "Galijun",
+      "A": "Álvaro de Sequeira",
       "B": "Karaka",
-      "C": "Karavela"
+      "C": "Gaspar de Távora"
     },
     "image": null,
     "correct_answer": "B"
@@ -2488,8 +2488,8 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski moreplovac dao ime najvećem kanadskom poluotoku, nakon što je krajem 15. stoljeća istraživao sjevernoatlantske obale u portugalskoj službi?",
     "answers": {
-      "A": "Gaspar Corte-Real",
-      "B": "João Vaz Corte-Real",
+      "A": "Simão de Faria",
+      "B": "António de Mascarenhas",
       "C": "João Fernandes Lavrador"
     },
     "image": null,
@@ -2502,8 +2502,8 @@
     "question": "Na dvor kineskog cara nakon ekspedicija Zheng Hea stigla je koja egzotična afrička životinja koju su Kinezi povezivali s mitskim qilinom?",
     "answers": {
       "A": "Žirafa",
-      "B": "Slon",
-      "C": "Deva"
+      "B": "Magarac",
+      "C": "Vol"
     },
     "image": null,
     "correct_answer": "A"
@@ -2514,9 +2514,9 @@
     "topic": "Moreplovci",
     "question": "Bitka kod Trafalgara odvijala se uz obalu koje države?",
     "answers": {
-      "A": "Nizozemska",
+      "A": "Oman",
       "B": "Španjolska",
-      "C": "Italija"
+      "C": "Portugal"
     },
     "image": null,
     "correct_answer": "B"
@@ -2566,8 +2566,8 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski galijun s vrijednim teretom potonuo 1622.g. kod Floridskih otoka, a istraživač Mel Fisher pronašao je njegovu olupinu 1985.g.?",
     "answers": {
-      "A": "San José",
-      "B": "Nuestra Señora de las Mercedes",
+      "A": "Alonso de Benavides",
+      "B": "Francisco de Montalvo",
       "C": "Nuestra Señora de Atocha"
     },
     "image": null,
@@ -2592,9 +2592,9 @@
     "topic": "Moreplovci",
     "question": "Koji je britanski pomorski časnik 1722.g. porazio gusarskog kapetana Bartholomewa Robertsa i poslije bio proglašen vitezom zbog borbe protiv gusarstva?",
     "answers": {
-      "A": "Henry Every",
+      "A": "Charles Whitmore",
       "B": "Chaloner Ogle",
-      "C": "Robert Harcourt"
+      "C": "Thomas Wycliffe"
     },
     "image": null,
     "correct_answer": "B"
@@ -2605,8 +2605,8 @@
     "topic": "Moreplovci",
     "question": "Koji je škotski pomorac proveo više od četiri godine sam na pacifičkom otoku, a njegova je pustolovina pomogla nadahnuti roman Robinson Crusoe?",
     "answers": {
-      "A": "William Dampier",
-      "B": "John Byron",
+      "A": "Nicolás Ferraro",
+      "B": "Étienne Valmont",
       "C": "Alexander Selkirk"
     },
     "image": null,
@@ -2619,8 +2619,8 @@
     "question": "Kojim je španjolskim nazivom poznata noć iz 1520.g. tijekom koje su se Cortés i njegovi ljudi morali povući iz Tenochtitlána uz velike gubitke?",
     "answers": {
       "A": "Noche Triste",
-      "B": "Noche Victoriosa",
-      "C": "Noche de Fuego"
+      "B": "Pedro de Salcedo",
+      "C": "Alonso de Benavides"
     },
     "image": null,
     "correct_answer": "A"
@@ -2631,9 +2631,9 @@
     "topic": "Moreplovci",
     "question": "Koji je osmanski admiral i kartograf 1513.g. izradio kartu svijeta na kojoj su prikazani dijelovi američke obale, koristeći se brojnim starijim kartama?",
     "answers": {
-      "A": "Turgut Reis",
+      "A": "Pieter Roeland",
       "B": "Piri Reis",
-      "C": "Kemal Reis"
+      "C": "Edmund Carver"
     },
     "image": null,
     "correct_answer": "B"
@@ -2644,8 +2644,8 @@
     "topic": "Moreplovci",
     "question": "Koji je norveški istraživač brodom Fram između 1898. i 1902.g. istraživao velike dijelove kanadskog Arktika, uključujući skupinu otoka koja danas nosi njegovo prezime?",
     "answers": {
-      "A": "Fridtjof Nansen",
-      "B": "Roald Amundsen",
+      "A": "Providence",
+      "B": "Royal Fortune",
       "C": "Otto Sverdrup"
     },
     "image": null,
@@ -2658,8 +2658,8 @@
     "question": "Koji je portugalski moreplovac 1500.g., ploveći prema Indiji, stigao do obale današnjeg Brazila i proglasio je portugalskim posjedom?",
     "answers": {
       "A": "Pedro Álvares Cabral",
-      "B": "Afonso de Noronha",
-      "C": "Duarte de Meneses"
+      "B": "Álvaro de Sequeira",
+      "C": "Gaspar de Távora"
     },
     "image": null,
     "correct_answer": "A"
@@ -2670,9 +2670,9 @@
     "topic": "Moreplovci",
     "question": "Koji je moreplovac svojim imenom, premda nije bio Kolumbo, završio u nazivu dvaju američkih kontinenata nakon što su njegovi opisi putovanja uvjerili europske kartografe da je riječ o 'Novom svijetu'?",
     "answers": {
-      "A": "Tomás de Villacorta",
+      "A": "Henrik Dahl",
       "B": "Amerigo Vespucci",
-      "C": "Lorenzo de Acosta"
+      "C": "Matteo Serani"
     },
     "image": null,
     "correct_answer": "B"
@@ -2697,8 +2697,8 @@
     "question": "Koji se tjesnac između japanskog otoka Hokkaida i ruskog Sahalina zove po francuskom istraživaču koji ga je kartirao 1787.g.?",
     "answers": {
       "A": "La Pérouse",
-      "B": "Beringov tjesnac",
-      "C": "Tsugaru tjesnac"
+      "B": "Mesinski tjesnac",
+      "C": "Beringov tjesnac"
     },
     "image": null,
     "correct_answer": "A"
@@ -2709,9 +2709,9 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao bogato natovaren brod Mogulskog Carstva čije je zarobljavanje 1695.g. pretvorilo engleskog gusara Henryja Everyja u jednog od najtraženijih ljudi njegova doba?",
     "answers": {
-      "A": "Quedagh Merchant",
+      "A": "John Haverford",
       "B": "Ganj i Sawai",
-      "C": "Whydah Gally"
+      "C": "Charles Whitmore"
     },
     "image": null,
     "correct_answer": "B"
@@ -2736,8 +2736,8 @@
     "question": "Koji je španjolski istraživač 1513.g. predvodio prvo zabilježeno europsko putovanje na Floridu i dao joj današnje ime?",
     "answers": {
       "A": "Juan Ponce de León",
-      "B": "Gonzalo de Montalvo",
-      "C": "Martín de Quesada"
+      "B": "Martín de Arriaga",
+      "C": "Pedro de Salcedo"
     },
     "image": null,
     "correct_answer": "A"
@@ -2761,8 +2761,8 @@
     "topic": "Moreplovci",
     "question": "Kojim se naslovom nazivao hinduistički vladar grada Calicuta s kojim su Portugalci pregovarali nakon prvog dolaska Vasca da Game?",
     "answers": {
-      "A": "Raja",
-      "B": "Nawab",
+      "A": "Duarte de Meneses",
+      "B": "Tomé de Alvarenga",
       "C": "Zamorin"
     },
     "image": null,
@@ -2775,8 +2775,8 @@
     "question": "Koji je mladi vojskovođa naroda Mapuche, koji je upoznao španjolske vojne metode, postao jedan od najpoznatijih vođa otpora konkvistadoru Pedru de Valdiviji i osvajanju Čilea?",
     "answers": {
       "A": "Lautaro Leftraru",
-      "B": "Francisco de Villaseñor",
-      "C": "Sebastián de Aranda"
+      "B": "Hernando de Sotomayor",
+      "C": "Gonzalo de Valcárcel"
     },
     "image": null,
     "correct_answer": "A"
@@ -2787,9 +2787,9 @@
     "topic": "Moreplovci",
     "question": "Kako se zajednički nazivaju svi mornari i ostali ljudi koji rade na brodu?",
     "answers": {
-      "A": "Flota",
+      "A": "Victoria",
       "B": "Posada",
-      "C": "Garnizon"
+      "C": "Trinidad"
     },
     "image": null,
     "correct_answer": "B"
@@ -2800,8 +2800,8 @@
     "topic": "Moreplovci",
     "question": "U kojem je gradu nastao sporazum iz 1494.g. kojim su se Portugal i Španjolska dogovorili na podjelu novootkrivenih područja izvan Europe?",
     "answers": {
-      "A": "Salamanca",
-      "B": "Burgos",
+      "A": "Cartagena",
+      "B": "Cádiz",
       "C": "Tordesillas"
     },
     "image": null,
@@ -2826,9 +2826,9 @@
     "topic": "Moreplovci",
     "question": "Koji je posljednji vladar neoinkanske države u Vilcabambi zarobljen 1572.g., nakon čega su Španjolci ugasili posljednje neovisno uporište Inka?",
     "answers": {
-      "A": "Manco Inca",
+      "A": "Rodrigo de Alarcón",
       "B": "Túpac Amaru I.",
-      "C": "Sayri Túpac"
+      "C": "Hernando de Sotomayor"
     },
     "image": null,
     "correct_answer": "B"
@@ -2865,9 +2865,9 @@
     "topic": "Moreplovci",
     "question": "Koji je engleski moreplovac, gusar i miljenik kraljice Elizabete I. postao drugi zapovjednik ekspedicije koja je oplovila svijet, a Španjolcima je bio toliko omražen da su ga smatrali običnim piratom?",
     "answers": {
-      "A": "George Anson",
+      "A": "Francisco de Montalvo",
       "B": "Francis Drake",
-      "C": "Edward Fenton"
+      "C": "Luis de Cárdenas"
     },
     "image": null,
     "correct_answer": "B"
@@ -2892,8 +2892,8 @@
     "question": "Koji je ratni brod engleskog kralja Henrika VIII. potonuo 1545.g. u morskom prolazu Solent, a velik dio njegova trupa izvađen je 1982.g.?",
     "answers": {
       "A": "Mary Rose",
-      "B": "HMS Victory",
-      "C": "Sovereign of the Seas"
+      "B": "Providence",
+      "C": "Royal Fortune"
     },
     "image": null,
     "correct_answer": "A"
@@ -2917,8 +2917,8 @@
     "topic": "Moreplovci",
     "question": "Koji je norveški istraživač namjerno dopustio da njegov brod Fram ostane zarobljen u arktičkom ledu, računajući da će ga morske struje zajedno s ledom odnijeti bliže Sjevernom polu?",
     "answers": {
-      "A": "Roald Amundsen",
-      "B": "Otto Sverdrup",
+      "A": "Duyfken",
+      "B": "Batavia",
       "C": "Fridtjof Nansen"
     },
     "image": null,
@@ -2931,8 +2931,8 @@
     "question": "Koji je nekadašnji saveznik Francisca Pizarra u osvajanju Carstva Inka poslije postao njegov suparnik te predvodio ranu španjolsku ekspediciju u Čile, gdje nije pronašao bogatstvo kojem se nadao?",
     "answers": {
       "A": "Diego de Almagro",
-      "B": "Hernando de Soto",
-      "C": "Pedro de Valdivia"
+      "B": "Luis de Cárdenas",
+      "C": "Diego de Villacorta"
     },
     "image": null,
     "correct_answer": "A"
@@ -2943,9 +2943,9 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski zapovjednik 1505.g. postao prvi potkralj Portugalske Indije?",
     "answers": {
-      "A": "Gonçalo de Ataíde",
+      "A": "Diogo de Noronha",
       "B": "Francisco de Almeida",
-      "C": "Lourenço de Almeida"
+      "C": "Duarte de Meneses"
     },
     "image": null,
     "correct_answer": "B"
@@ -2956,8 +2956,8 @@
     "topic": "Moreplovci",
     "question": "Koji je brod postao poprištem jedne od najpoznatijih pobuna u pomorskoj povijesti kada se 1789. dio posade okrenuo protiv kapetana Williama Bligha?",
     "answers": {
-      "A": "Endeavour",
-      "B": "Providence",
+      "A": "Mercury",
+      "B": "North Star",
       "C": "Bounty"
     },
     "image": null,
@@ -3009,8 +3009,8 @@
     "question": "Kako se zvao brod legendarnog gusara po nadimku Crnobradi?",
     "answers": {
       "A": "Queen Anne's Revenge",
-      "B": "Mercury",
-      "C": "Royal Fortune"
+      "B": "Royal Fortune",
+      "C": "São Gabriel"
     },
     "image": null,
     "correct_answer": "A"
@@ -3021,9 +3021,9 @@
     "topic": "Moreplovci",
     "question": "Koju je stvarnu životinju Marko Polo opisao kao velikog, dlakavog i prilično ružnog jednoroga s crnim rogom?",
     "answers": {
-      "A": "Tapir",
+      "A": "Vol",
       "B": "Nosorog",
-      "C": "Nilski konj"
+      "C": "Bivol"
     },
     "image": null,
     "correct_answer": "B"
@@ -3034,8 +3034,8 @@
     "topic": "Moreplovci",
     "question": "Koji je talijanski moreplovac u službi francuskog kralja Franje I. 1524.g. istraživao atlantsku obalu Sjeverne Amerike i uplovio u područje današnje njujorške luke?",
     "answers": {
-      "A": "Sebastiano Caboto",
-      "B": "Amerigo Vespucci",
+      "A": "Jacques de Valcourt",
+      "B": "Henri de Beaumont",
       "C": "Giovanni da Verrazzano"
     },
     "image": null,
@@ -3073,8 +3073,8 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski konkvistador nakon sudjelovanja u osvajanju Carstva Inka otišao u Čile, gdje je 1541.g. osnovao grad Santiago?",
     "answers": {
-      "A": "Pedro de Alarcón",
-      "B": "Francisco de Villaseñor",
+      "A": "Hernando de Sotomayor",
+      "B": "Gonzalo de Valcárcel",
       "C": "Pedro de Valdivia"
     },
     "image": null,
@@ -3087,8 +3087,8 @@
     "question": "Koji je portugalski moreplovac 1498.g. stigao u Calicut i tako dovršio ono što je Dias započeo, otvorivši Europljanima pomorski put do Indije oko Afrike?",
     "answers": {
       "A": "Vasco da Gama",
-      "B": "Simão de Miranda",
-      "C": "António de Saldanha"
+      "B": "Rui de Noronha",
+      "C": "Álvaro de Sequeira"
     },
     "image": null,
     "correct_answer": "A"
@@ -3099,9 +3099,9 @@
     "topic": "Moreplovci",
     "question": "Koji je od dva broda Franklinove arktičke ekspedicije, nestale 1840-ih tijekom potrage za Sjeverozapadnim prolazom, pronađen 2016.g., a njegovo je ime postalo naslov romana Dana Simmonsa i televizijske serije snimljene prema njemu?",
     "answers": {
-      "A": "HMS Erebus",
+      "A": "Golden Hind",
       "B": "HMS Terror",
-      "C": "HMS Investigator"
+      "C": "Discovery"
     },
     "image": null,
     "correct_answer": "B"
@@ -3112,8 +3112,8 @@
     "topic": "Moreplovci",
     "question": "Kojim je imenom bila poznata velika španjolska kolonijalna upravna jedinica sa središtem u Ciudad de Méxicu, nastala nakon osvajanja Aztečkog Carstva?",
     "answers": {
-      "A": "Nova Granada",
-      "B": "Nova Kastilja",
+      "A": "Luis de Cárdenas",
+      "B": "Diego de Villacorta",
       "C": "Nova Španjolska"
     },
     "image": null,
@@ -3138,9 +3138,9 @@
     "topic": "Moreplovci",
     "question": "Koje je ime knjige koju je francuski pisac Rustichello iz Pise zapisao krajem 13. stoljeća prema pričama Marka Pola o njegovim putovanjima po Aziji, a koja je stoljećima Europljanima budila maštu o bogatstvima i čudima Dalekog istoka?",
     "answers": {
-      "A": "Putovanja Marka Pola",
+      "A": "Claude de Rochefort",
       "B": "Knjiga svjetskih čuda",
-      "C": "Opis svijeta"
+      "C": "Nicolas de Bréval"
     },
     "image": null,
     "correct_answer": "B"
@@ -3151,8 +3151,8 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao brod moreplovca Jamesa Cooka s njegova prvog velikog putovanja po Pacifiku, čije ime na engleskom znači otprilike 'nastojanje' ili 'pothvat'?",
     "answers": {
-      "A": "Resolution",
-      "B": "Discovery",
+      "A": "Duyfken",
+      "B": "Batavia",
       "C": "HMS Endeavour"
     },
     "image": null,
@@ -3190,8 +3190,8 @@
     "topic": "Moreplovci",
     "question": "Koji je gusar, pravim imenom Edward Teach, zastrašivao neprijatelje izgledom, ogromnom crnom bradom i reputacijom koja je nadživjela njegovu relativno kratku gusarsku karijeru?",
     "answers": {
-      "A": "Charles Vane",
-      "B": "Sam Bellamy",
+      "A": "Matteo Serani",
+      "B": "João Valente",
       "C": "Crnobradi"
     },
     "image": null,
@@ -3216,9 +3216,9 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski svećenik i brodolomac, prethodno godinama zatočen među Majama, Cortésu služio kao prevoditelj između španjolskog i jezika Maja?",
     "answers": {
-      "A": "Pedro de Alarcón",
+      "A": "Golden Hind",
       "B": "Jerónimo de Aguilar",
-      "C": "Francisco de Villaseñor"
+      "C": "Discovery"
     },
     "image": null,
     "correct_answer": "B"
@@ -3229,8 +3229,8 @@
     "topic": "Moreplovci",
     "question": "Koji je engleski moreplovac, tragajući za sjeverozapadnim morskim prolazom prema Aziji, istražio najveći kanadski zaljev, da bi ga 1611.g. nakon pobune vlastita posada ostavila u malom čamcu, nakon čega mu se zauvijek izgubio svaki trag?",
     "answers": {
-      "A": "Martin Frobisher",
-      "B": "John Davis",
+      "A": "Charles Whitmore",
+      "B": "Thomas Wycliffe",
       "C": "Henry Hudson"
     },
     "image": null,
@@ -3255,9 +3255,9 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski princ u 15. stoljeću pokroviteljstvom pomorskih ekspedicija snažno potaknuo istraživanje zapadne obale Afrike, iako osobno nije sudjelovao u većini tih putovanja?",
     "answers": {
-      "A": "Fernão de Andrade",
+      "A": "Diogo de Noronha",
       "B": "Henrik Pomorac",
-      "C": "Estêvão da Gama"
+      "C": "Duarte de Meneses"
     },
     "image": null,
     "correct_answer": "B"
@@ -3268,8 +3268,8 @@
     "topic": "Moreplovci",
     "question": "Tko je zapovijedao brodom São Gabriel kada je 1498.g., nakon plovidbe oko Rta dobre nade, stigao do obale Indije?",
     "answers": {
-      "A": "Bartolomeu Dias",
-      "B": "Pedro Álvares Cabral",
+      "A": "Edmund Carver",
+      "B": "Lucien Moreau",
       "C": "Vasco da Gama"
     },
     "image": null,
@@ -3294,9 +3294,9 @@
     "topic": "Moreplovci",
     "question": "Koji je francuski gusar navodno bacio kriptogram među gomilu ljudi neposredno prije pogubljenja i izazvao okupljene da pronađu njegovo blago, stvarajući jednu od najtrajnijih legendi o zakopanom gusarskom bogatstvu?",
     "answers": {
-      "A": "Claude de Marigny",
+      "A": "Étienne de Villeneuve",
       "B": "La Buse",
-      "C": "Henri de Rochefort"
+      "C": "Jean-Baptiste Delorme"
     },
     "image": null,
     "correct_answer": "B"
@@ -3321,8 +3321,8 @@
     "question": "Koja je vladarica marokanskog grada Tétouana u 16. stoljeću postala poznata kao gusarska kraljica zapadnog Sredozemlja?",
     "answers": {
       "A": "Sayyida al-Hurra",
-      "B": "Grace O’Malley",
-      "C": "Anne Dieu-le-Veut"
+      "B": "Pieter Roeland",
+      "C": "Edmund Carver"
     },
     "image": null,
     "correct_answer": "A"
@@ -3333,9 +3333,9 @@
     "topic": "Moreplovci",
     "question": "Kako se zvao brod američkog kapetana Roberta Graya koji je postao prvo američko plovilo koje je oplovilo svijet, a po kojem je 1792.g. nazvana velika rijeka što dijelom čini granicu između Washingtona i Oregona?",
     "answers": {
-      "A": "Fancy",
+      "A": "Sea Venture",
       "B": "Columbia Rediviva",
-      "C": "Adventure"
+      "C": "Golden Hind"
     },
     "image": null,
     "correct_answer": "B"
@@ -3438,8 +3438,8 @@
     "question": "Kako se zvao brod Francisa Drakea kojim je oplovio svijet i koji je od Pelicana preimenovan u ime po kojem ga povijest danas mnogo bolje pamti?",
     "answers": {
       "A": "Golden Hind",
-      "B": "Dreadnought",
-      "C": "Mercury"
+      "B": "São Gabriel",
+      "C": "Victoria"
     },
     "image": null,
     "correct_answer": "A"
@@ -3450,9 +3450,9 @@
     "topic": "Moreplovci",
     "question": "Koji je francuski moreplovac tijekom triju putovanja između 1534. i 1542.g. istraživao zaljev i rijeku Svetog Lovrijenca te pomogao Francuskoj položiti pravo na dijelove današnje Kanade?",
     "answers": {
-      "A": "Jacques de Villeneuve",
+      "A": "Claude de Rochefort",
       "B": "Jacques Cartier",
-      "C": "Pierre de Montfort"
+      "C": "Nicolas de Bréval"
     },
     "image": null,
     "correct_answer": "B"
@@ -3463,8 +3463,8 @@
     "topic": "Moreplovci",
     "question": "Koji je engleski moreplovac, u Japanu poznat kao Miura Anjin, postao savjetnik Tokugawe Ieyasua i poslužio kao povijesna inspiracija za lik Johna Blackthornea u romanu i serijama Shōgun?",
     "answers": {
-      "A": "John Hawkins",
-      "B": "Humphrey Gilbert",
+      "A": "Arthur Redgrave",
+      "B": "Edward Langford",
       "C": "William Adams"
     },
     "image": null,
@@ -3477,8 +3477,8 @@
     "question": "Koji je venecijanski putnik u 13. stoljeću stigao do Azije i ostavio opis putovanja koji će stoljećima hraniti europsku maštu o bogatstvima Dalekog istoka?",
     "answers": {
       "A": "Marko Polo",
-      "B": "Ibn Battuta",
-      "C": "Odorik iz Pordenonea"
+      "B": "Antonio Serravalle",
+      "C": "Niccolò Ferretti"
     },
     "image": null,
     "correct_answer": "A"
@@ -3489,9 +3489,9 @@
     "topic": "Moreplovci",
     "question": "Koji je pisar iz ekspedicije moreplovca Pedra Cabeala, portugalskom kralju poslao znamenito pismo s jednim od prvih europskih opisa Brazila?",
     "answers": {
-      "A": "Duarte Pacheco Pereira",
+      "A": "Simão de Faria",
       "B": "Pêro Vaz de Caminha",
-      "C": "Tomé Lopes"
+      "C": "António de Mascarenhas"
     },
     "image": null,
     "correct_answer": "B"
@@ -3502,8 +3502,8 @@
     "topic": "Moreplovci",
     "question": "Koji je francuski bukanir iz 17. stoljeća, pravim imenom Jean-David Nau, dobio nadimak prema francuskom gradu Les Sables-d’Olonne?",
     "answers": {
-      "A": "Nicolas de Varenne",
-      "B": "Henri de Montreuil",
+      "A": "Louis de Varenne",
+      "B": "Claude de Rochefort",
       "C": "François l’Olonnais"
     },
     "image": null,
@@ -3516,8 +3516,8 @@
     "question": "Koji je britanski istraživač krenuo prema Južnom polu 1911.g. s ciljem da na njega dođe prvi u povijesti, stigao ondje tek nakon Roalda Amundsena, a zatim sa svojim ljudima stradao tijekom povratka?",
     "answers": {
       "A": "Robert Falcon Scott",
-      "B": "John Davis",
-      "C": "Henry Every"
+      "B": "Henry Walsingham",
+      "C": "Arthur Redgrave"
     },
     "image": null,
     "correct_answer": "A"
@@ -3541,8 +3541,8 @@
     "topic": "Moreplovci",
     "question": "Kako su Španjolci nazvali legendarnog vladara naroda Muisca koji je prema predaji tijekom obreda bio prekriven zlatnom prašinom, a čije je ime poslije postalo sinonim za izgubljeni grad zlata?",
     "answers": {
-      "A": "El Hombre Dorado",
-      "B": "Rey Dorado",
+      "A": "Pedro de Salcedo",
+      "B": "Alonso de Benavides",
       "C": "El Dorado"
     },
     "image": null,
@@ -3555,8 +3555,8 @@
     "question": "Koji je kineski admiral početkom 15. stoljeća predvodio goleme ekspedicije dinastije Ming preko Indijskog oceana, desetljećima prije velikih portugalskih putovanja?",
     "answers": {
       "A": "Zheng He",
-      "B": "Afonso de Noronha",
-      "C": "Duarte de Meneses"
+      "B": "António de Mascarenhas",
+      "C": "João de Alvim"
     },
     "image": null,
     "correct_answer": "A"
@@ -3580,8 +3580,8 @@
     "topic": "Moreplovci",
     "question": "Koji je vladar Inka, kojega su Španjolci nakon smrti Atahualpe postavili na prijestolje, 1536.g. pokrenuo veliki ustanak protiv osvajača i opsadu Cuzca?",
     "answers": {
-      "A": "Túpac Huallpa",
-      "B": "Paullu Inca",
+      "A": "Gonzalo de Valcárcel",
+      "B": "Juan de Villaseca",
       "C": "Manco Inca"
     },
     "image": null,
@@ -3594,8 +3594,8 @@
     "question": "Koji su navigacijski instrument portugalski i španjolski pomorci tijekom velikih geografskih otkrića u 15. i 16. stoljeću koristili za mjerenje visine Sunca ili zvijezda iznad horizonta i određivanje zemljopisne širine?",
     "answers": {
       "A": "Astrolab",
-      "B": "Kvadrant",
-      "C": "Jakobov štap"
+      "B": "Gaspar de Távora",
+      "C": "Lourenço de Ataíde"
     },
     "image": null,
     "correct_answer": "A"
@@ -3619,8 +3619,8 @@
     "topic": "Moreplovci",
     "question": "Tko je sam plovio i zapovijedao jedrenjakom Spray kada je 1898.g. završio prvo samostalno putovanje jednog čovjeka oko svijeta?",
     "answers": {
-      "A": "Francis Chichester",
-      "B": "Robin Knox-Johnston",
+      "A": "Henrik Dahl",
+      "B": "Matteo Serani",
       "C": "Joshua Slocum"
     },
     "image": null,
@@ -3633,8 +3633,8 @@
     "question": "Pizarro je pri osvajanju Inka računao i na unutarnje podjele Carstva. Kako se zvao brat cara Atahualpe te njegov suparnik u građanskom ratu koji je neposredno prethodio dolasku Španjolaca?",
     "answers": {
       "A": "Huáscar",
-      "B": "Manco Inca",
-      "C": "Túpac Huallpa"
+      "B": "Hernando de Sotomayor",
+      "C": "Gonzalo de Valcárcel"
     },
     "image": null,
     "correct_answer": "A"
@@ -3658,8 +3658,8 @@
     "topic": "Moreplovci",
     "question": "Kako se nazivao malen, brz i okretan tip jedrenjaka koji su Portugalci i Španjolci često koristili za istraživanje udaljenih obala tijekom doba velikih geografskih otkrića?",
     "answers": {
-      "A": "Karaka",
-      "B": "Galijun",
+      "A": "Lourenço de Ataíde",
+      "B": "Simão de Faria",
       "C": "Karavela"
     },
     "image": null,
@@ -3672,8 +3672,8 @@
     "question": "Koji je španjolski istraživač tijekom kopnene ekspedicije kroz jugoistok današnjih SAD-a 1541.g. postao prvi Europljanin za kojeg pouzdano znamo da je stigao do rijeke Mississippi?",
     "answers": {
       "A": "Hernando de Soto",
-      "B": "Álvaro de Sotomayor",
-      "C": "Juan de Escalante"
+      "B": "Luis de Cárdenas",
+      "C": "Diego de Villacorta"
     },
     "image": null,
     "correct_answer": "A"
@@ -3684,9 +3684,9 @@
     "topic": "Moreplovci",
     "question": "Koji je korejski admiral 1597.g. u bitci kod Myeongnyanga s tek trinaest ratnih brodova zaustavio znatno veću japansku flotu?",
     "answers": {
-      "A": "Won Gyun",
+      "A": "San Telmo",
       "B": "Yi Sun-sin",
-      "C": "Gwon Yul"
+      "C": "Mercury"
     },
     "image": null,
     "correct_answer": "B"
@@ -3697,8 +3697,8 @@
     "topic": "Moreplovci",
     "question": "Koji je velški gusar postao toliko uspješan u napadima na Španjolce na Karibima da je poslije čak postao zamjenik guvernera Jamajke?",
     "answers": {
-      "A": "Edward Blackwell",
-      "B": "Richard Hargreaves",
+      "A": "Juan de Villaseca",
+      "B": "Martín de Arriaga",
       "C": "Henry Morgan"
     },
     "image": null,
@@ -3762,9 +3762,9 @@
     "topic": "Moreplovci",
     "question": "Koji je gusarski kapetan poznat pod nadimkom Black Sam zapovijedao brodom Whydah Gally prije njegova potonuća kod Cape Coda 1717.g.?",
     "answers": {
-      "A": "Edward Blackwell",
+      "A": "Trinidad",
       "B": "Samuel Bellamy",
-      "C": "Pieter van der Meer"
+      "C": "Duyfken"
     },
     "image": null,
     "correct_answer": "B"
@@ -3801,9 +3801,9 @@
     "topic": "Moreplovci",
     "question": "Magellan nije doživio kraj putovanja oko svijeta. Koji je baskijski pomorac nakon njegove smrti preuzeo zapovjedništvo nad brodom Victoria i 1522. doveo ekspediciju natrag u Španjolsku?",
     "answers": {
-      "A": "Lorenzo de Acosta",
+      "A": "San Telmo",
       "B": "Juan Sebastián Elcano",
-      "C": "João de Serpa"
+      "C": "Mercury"
     },
     "image": null,
     "correct_answer": "B"
@@ -3853,8 +3853,8 @@
     "topic": "Moreplovci",
     "question": "Koji je francuski književnik u romanu „Dvadeset tisuća milja pod morem” doveo podmornicu Nautilus do Vanikora, mjesta brodoloma La Pérouseove ekspedicije i njezinih brodova Boussole i Astrolabe?",
     "answers": {
-      "A": "Étienne Moreau",
-      "B": "Jacques de Villeneuve",
+      "A": "Providence",
+      "B": "Royal Fortune",
       "C": "Jules Verne"
     },
     "image": null,
@@ -3867,8 +3867,8 @@
     "question": "Kojim imenom nazivamo španjolske vojnike, istraživače i pustolove koji su u 15. i 16. stoljeću osvajali dijelove Amerike u ime španjolskog kralja?",
     "answers": {
       "A": "Konkvistadori",
-      "B": "Kaperi",
-      "C": "Bukaniri"
+      "B": "Rodrigo de Alarcón",
+      "C": "Hernando de Sotomayor"
     },
     "image": null,
     "correct_answer": "A"
@@ -3879,9 +3879,9 @@
     "topic": "Moreplovci",
     "question": "Koja je ukrasna penjačica, prepoznatljiva po živim ružičastim, ljubičastim ili crvenim pricvjetnim listovima, dobila ime po zapovjedniku prvog francuskog putovanja oko svijeta?",
     "answers": {
-      "A": "Kamélija",
+      "A": "François de Chastel",
       "B": "Bugenvilija",
-      "C": "Pasiflora"
+      "C": "Louis de Varenne"
     },
     "image": null,
     "correct_answer": "B"
@@ -3906,8 +3906,8 @@
     "question": "Koji je konkvistador srušio Aztečko Carstvo, koristeći ne samo španjolsko oružje nego i savezništva s narodima drugih domorodaca koji su bili neprijatelji Azteka?",
     "answers": {
       "A": "Hernán Cortés",
-      "B": "Alonso de Córdoba",
-      "C": "Diego de Valderrama"
+      "B": "Francisco de Montalvo",
+      "C": "Luis de Cárdenas"
     },
     "image": null,
     "correct_answer": "A"
@@ -3931,8 +3931,8 @@
     "topic": "Moreplovci",
     "question": "Koji je portugalski moreplovac 1434.g. oplovio Rt Bojador, dotad jednu od najvećih psiholoških i geografskih prepreka portugalskom morskom napredovanju uz zapadnu obalu Afrike?",
     "answers": {
-      "A": "Nuno Tristão",
-      "B": "Dinis Dias",
+      "A": "João de Alvim",
+      "B": "Diogo de Noronha",
       "C": "Gil Eanes"
     },
     "image": null,
@@ -3945,8 +3945,8 @@
     "question": "Koja je velika mezoamerička civilizacija pružala dugotrajan otpor španjolskom osvajanju Yucatána i susjednih područja?",
     "answers": {
       "A": "Maje",
-      "B": "Azteci",
-      "C": "Tarasci"
+      "B": "Martín de Arriaga",
+      "C": "Pedro de Salcedo"
     },
     "image": null,
     "correct_answer": "A"
@@ -3957,9 +3957,9 @@
     "topic": "Moreplovci",
     "question": "Koji je karipski otok uz sjevernu obalu Hispaniole u 17. stoljeću postao poznato uporište francuskih i engleskih bukanira koji su napadali španjolske brodove i naselja?",
     "answers": {
-      "A": "Vanikoro",
+      "A": "Discovery",
       "B": "Tortuga",
-      "C": "Madeira"
+      "C": "Resolution"
     },
     "image": null,
     "correct_answer": "B"
@@ -4009,8 +4009,8 @@
     "topic": "Moreplovci",
     "question": "Koji je španjolski konkvistador 1513.g. prešao Panamsku prevlaku i postao prvi Europljanin koji je s američke strane ugledao ocean koji je nazvao Južnim morem?",
     "answers": {
-      "A": "Sebastián de Aranda",
-      "B": "Tomás de Villacorta",
+      "A": "Pedro de Salcedo",
+      "B": "Alonso de Benavides",
       "C": "Vasco Núñez de Balboa"
     },
     "image": null,
