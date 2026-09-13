@@ -7,8 +7,8 @@
     "question": "Ovaj viseći most, dugačak 4 608m, spaja Europu i Aziju preko Dardanelskog kanala, svečano je otvoren 2022.g., te je najveći takav most na svijetu. U imenu se nalazi i spomen na jednu bitku 1. svjetskog rata, a most se zove kako?",
     "answers": {
       "A": "Canakkale 1915",
-      "B": "Azija",
-      "C": "Abhaziju"
+      "B": "Osmangazi",
+      "C": "Yavuz Sultan Selim"
     },
     "image": null,
     "correct_answer": "A"
@@ -19,9 +19,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem je izoliranom otoku u Atlantskom oceanu umro Napoleon I. Bonaparte?",
     "answers": {
-      "A": "Napoleona I. Bonaparte",
+      "A": "Ascension",
       "B": "Sveta Helena",
-      "C": "Gvineja Bisau"
+      "C": "Tristan da Cunha"
     },
     "image": null,
     "correct_answer": "B"
@@ -32,8 +32,8 @@
     "topic": "Zemljopis",
     "question": "Čiji su posmrtni ostaci premješteni s otoka Sveta Helena u vojni muzej Doma invalida u Parizu?",
     "answers": {
-      "A": "Sveta Helena",
-      "B": "Gvineja Bisau",
+      "A": "Ferdinanda Focha",
+      "B": "Henrija de Turennea",
       "C": "Napoleona I. Bonaparte"
     },
     "image": null,
@@ -46,8 +46,8 @@
     "question": "S kojom su afričkom državom Zelenortski Otoci dijelili himnu 'Esta É a Nossa Pátria Amada' od 1975. do 1996. godine?",
     "answers": {
       "A": "Gvineja Bisau",
-      "B": "Napoleona I. Bonaparte",
-      "C": "Sveta Helena"
+      "B": "Angola",
+      "C": "Mozambik"
     },
     "image": null,
     "correct_answer": "A"
@@ -71,8 +71,8 @@
     "topic": "Zemljopis",
     "question": "Nekadašnji otok Más a Tierra bio je mjesto na kojem je škotski mornar Alexander Selkirk proveo više od četiri godine u samoći. Čileanske su vlasti 1966. godine otoku dale koje ime, pod kojim je poznat i danas?",
     "answers": {
-      "A": "Petra",
-      "B": "Sahel",
+      "A": "Alexander Selkirk",
+      "B": "Santa Clara",
       "C": "Robinson Crusoe"
     },
     "image": null,
@@ -85,8 +85,8 @@
     "question": "Na kojem se kontinentu nalazi najveći dio Turske?",
     "answers": {
       "A": "Azija",
-      "B": "Abhaziju",
-      "C": "Zvonik"
+      "B": "Europa",
+      "C": "Afrika"
     },
     "image": null,
     "correct_answer": "A"
@@ -97,9 +97,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem se kontinentu nalazi najveći dio Rusije?",
     "answers": {
-      "A": "Abhaziju",
+      "A": "Europa",
       "B": "Azija",
-      "C": "Zvonik"
+      "C": "Sjeverna Amerika"
     },
     "image": null,
     "correct_answer": "B"
@@ -110,8 +110,8 @@
     "topic": "Zemljopis",
     "question": "Koju se nepriznatu kavkašku republiku priznale Južna Osetija i Pridnjestrovlje, također nepriznate republike?",
     "answers": {
-      "A": "Azija",
-      "B": "Zvonik",
+      "A": "Arcah",
+      "B": "Čečeniju",
       "C": "Abhaziju"
     },
     "image": null,
@@ -124,8 +124,8 @@
     "question": "Južna Osetija je samoprozvana te nepriznata republika koja se nalazi unutar granica koje države?",
     "answers": {
       "A": "Gruzije",
-      "B": "Velike Britanije",
-      "C": "Kiribatija"
+      "B": "Armenije",
+      "C": "Azerbajdžana"
     },
     "image": null,
     "correct_answer": "A"
@@ -136,9 +136,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem se kontinentu smjestila država Surinam?",
     "answers": {
-      "A": "Gvineja Bisau",
+      "A": "Sjeverna Amerika",
       "B": "Južna Amerika",
-      "C": "Napoleona I. Bonaparte"
+      "C": "Afrika"
     },
     "image": null,
     "correct_answer": "B"
@@ -149,8 +149,8 @@
     "topic": "Zemljopis",
     "question": "Kosi toranj u Pisi, katedrali uz koju se nalazi, služi kao koji dio crkve?",
     "answers": {
-      "A": "Sedam",
-      "B": "Danske",
+      "A": "Krstionica",
+      "B": "Transept",
       "C": "Zvonik"
     },
     "image": null,
@@ -163,8 +163,8 @@
     "question": "Koliko se zvona nalazi na vrhu kosog tornja u Pisi?",
     "answers": {
       "A": "Sedam",
-      "B": "Zvonik",
-      "C": "Danske"
+      "B": "Šest",
+      "C": "Osam"
     },
     "image": null,
     "correct_answer": "A"
@@ -175,9 +175,9 @@
     "topic": "Zemljopis",
     "question": "Farski Otoci su autonomna pokrajina koje kraljevine?",
     "answers": {
-      "A": "Sedam",
+      "A": "Norveške",
       "B": "Danske",
-      "C": "Zvonik"
+      "C": "Švedske"
     },
     "image": null,
     "correct_answer": "B"
@@ -188,12 +188,13 @@
     "topic": "Zemljopis",
     "question": "Koju životinju možemo uočiti na grbu Farskih Otoka, a odaje je i samo ime ove autonomne Danske pokrajine, naravno ako znate staronordijski?",
     "answers": {
-      "A": "Pas",
-      "B": "Lav",
+      "A": "Sob",
+      "B": "Tulenj",
       "C": "Ovcu"
     },
     "image": null,
-    "correct_answer": "C"
+    "correct_answer": "C",
+    "qa_note": "Grb Farskih Otoka heraldički prikazuje ovna (mužjaka ovce); izvorni odgovor \"Ovcu\" ostavljen je netaknut."
   },
   {
     "type": "blitz",
@@ -202,8 +203,8 @@
     "question": "Koji otok simbolizira polarni medvjed na grbu Kraljevine Danske?",
     "answers": {
       "A": "Grenland",
-      "B": "Omanski Zaljev",
-      "C": "Dunav"
+      "B": "Island",
+      "C": "Farski Otoci"
     },
     "image": null,
     "correct_answer": "A"
@@ -214,9 +215,9 @@
     "topic": "Zemljopis",
     "question": "Premijer koje države svoj ured ima na adresi '10 Downing street'?",
     "answers": {
-      "A": "Gruzije",
+      "A": "Irske",
       "B": "Velike Britanije",
-      "C": "Kiribatija"
+      "C": "Kanade"
     },
     "image": null,
     "correct_answer": "B"
@@ -227,8 +228,8 @@
     "topic": "Zemljopis",
     "question": "Koliko samoglasnika možemo pronaći u imenu Srbije?",
     "answers": {
-      "A": "1",
-      "B": "3",
+      "A": "3",
+      "B": "4",
       "C": "2"
     },
     "image": null,
@@ -241,8 +242,8 @@
     "question": "Atoli Enewetak i Bikini najpoznatiji su po američkim nuklearnim testovima te detonaciji prve američke hidrogenske bombe, a nalaze se u sklopu koje pacifičke države?",
     "answers": {
       "A": "Maršalovih Otoka",
-      "B": "Južna Amerika",
-      "C": "Gvineja Bisau"
+      "B": "Mikronezije",
+      "C": "Palaua"
     },
     "image": null,
     "correct_answer": "A"
@@ -253,9 +254,9 @@
     "topic": "Zemljopis",
     "question": "Na kojem je Ruskom poluotoku izbušena najdublja vertikalna rupa u povijesti čovječanstva, duboka čak 12 262m?",
     "answers": {
-      "A": "Mindanao",
+      "A": "Kamčatka",
       "B": "Kola",
-      "C": "Angole"
+      "C": "Tajmir"
     },
     "image": null,
     "correct_answer": "B"
@@ -266,8 +267,8 @@
     "topic": "Zemljopis",
     "question": "Koji je drugi po veličini otok u sastavu države Filipina?",
     "answers": {
-      "A": "Kola",
-      "B": "Angole",
+      "A": "Palawan",
+      "B": "Samar",
       "C": "Mindanao"
     },
     "image": null,
@@ -280,8 +281,8 @@
     "question": "Visočje Bie se smjestilo u sredini koje afričke države?",
     "answers": {
       "A": "Angole",
-      "B": "Mindanao",
-      "C": "Mara"
+      "B": "Zambije",
+      "C": "Namibije"
     },
     "image": null,
     "correct_answer": "A"
@@ -292,9 +293,9 @@
     "topic": "Zemljopis",
     "question": "Najveće kopneno kretanje životinja na svijetu 'Velika Migracija', odvija se u Tanzaniji i Keniji gdje stotine tisuća gnuova, gazela i zebri u potrazi za hranom prelaze velika afrička prostranstva. Kretanja su tako masivna da se vide i iz svemira a najopasniji dio ove selidbe je prelazak preko koje rijeke?",
     "answers": {
-      "A": "Angole",
+      "A": "Tana",
       "B": "Mara",
-      "C": "Mindanao"
+      "C": "Rufiji"
     },
     "image": null,
     "correct_answer": "B"
@@ -305,8 +306,8 @@
     "topic": "Zemljopis",
     "question": "Tarawa je glavni grad koje države?",
     "answers": {
-      "A": "Katara",
-      "B": "Švicarskoj",
+      "A": "Tuvalua",
+      "B": "Naurua",
       "C": "Kiribatija"
     },
     "image": null,
@@ -319,8 +320,8 @@
     "question": "Kako se zove glavni grad Nepala?",
     "answers": {
       "A": "Kathmandu",
-      "B": "Brasilia",
-      "C": "Moroni"
+      "B": "Thimphu",
+      "C": "Dhaka"
     },
     "image": null,
     "correct_answer": "A"
@@ -331,9 +332,9 @@
     "topic": "Zemljopis",
     "question": "Koji se aktivni vulkan u Ekvadoru, sa kečuanskog jezika prevodi kao \"prijestolje mjeseca\"?",
     "answers": {
-      "A": "Mara",
+      "A": "Tungurahua",
       "B": "Cotopaxi",
-      "C": "Angole"
+      "C": "Chimborazo"
     },
     "image": null,
     "correct_answer": "B"
@@ -344,8 +345,8 @@
     "topic": "Zemljopis",
     "question": "Koji je glavni grad 1987.g. upisan na UNESCO-v popis svjetske baštine, nakon što je u samo 4 godine, (od 1956. do 1960.), izgrađen gotovo od nule?",
     "answers": {
-      "A": "Moroni",
-      "B": "Kathmandu",
+      "A": "Canberra",
+      "B": "Islamabad",
       "C": "Brasilia"
     },
     "image": null,
@@ -358,8 +359,8 @@
     "question": "Koji je glavni grad Komora?",
     "answers": {
       "A": "Moroni",
-      "B": "Brasilia",
-      "C": "Kathmandu"
+      "B": "Victoria",
+      "C": "Port Louis"
     },
     "image": null,
     "correct_answer": "A"
@@ -370,9 +371,9 @@
     "topic": "Zemljopis",
     "question": "Doha je glavni grad koje države?",
     "answers": {
-      "A": "Švicarskoj",
+      "A": "Bahreina",
       "B": "Katara",
-      "C": "Kiribatija"
+      "C": "Ujedinjenih Arapskih Emirata"
     },
     "image": null,
     "correct_answer": "B"
