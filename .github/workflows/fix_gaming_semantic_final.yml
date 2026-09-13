@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -26,13 +28,14 @@ jobs:
           for i,x in enumerate(d,1):
             assert set(x['answers'])==set('ABC'),i
             assert x['correct_answer'] in 'ABC',i
+            assert all(str(x['answers'][k]).strip() for k in 'ABC'),i
             assert len({x['answers'][k].casefold().strip() for k in 'ABC'})==3,i
             c[x['correct_answer']]+=1
           assert c=={'A':148,'B':148,'C':148},c
-          print(c)
+          print('OK',len(d),c)
           PY
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add Gaming.json
-          git diff --cached --quiet || git commit -m 'Finalno uredi Gaming ABC odgovore'
+          git diff --cached --quiet || git commit -m 'Vrati i ocisti Gaming ABC odgovore'
           git push
