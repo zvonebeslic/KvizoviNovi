@@ -1,0 +1,54 @@
+name: Gaming final tail cleanup
+on:
+  push:
+    paths:
+      - '.github/workflows/gaming-final-tail-cleanup.yml'
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fix last weak Gaming sets
+        run: |
+          python - <<'PY'
+          import json, collections
+          p='Gaming.json'
+          d=json.load(open(p,encoding='utf-8'))
+          def fix(fragment, w1, w2):
+              m=[x for x in d if fragment in x['question']]
+              assert len(m)==1,(fragment,len(m))
+              x=m[0]; ca=x['correct_answer']; original=x['answers'][ca]
+              wrong=[k for k in 'ABC' if k!=ca]
+              x['answers'][wrong[0]]=w1; x['answers'][wrong[1]]=w2
+              assert x['answers'][ca]==original
+          fix('crveni okruglasti neprijatelj s velikim naočalama', 'Fygar', 'Taizo Hori')
+          fix('kuhar kojim igrač upravlja u arkadnoj videoigri BurgerTime', 'Mr. Do', 'Taizo Hori')
+          fix('arkadna videoigra iz 1979. kojoj je Namcova Galaga izravni nastavak', 'Space Invaders', 'Phoenix')
+          fix('junak odjeven u zeleno koji u većini igara serijala The Legend of Zelda spašava Zeldu', 'Tingle', 'Groose')
+          fix('kultnu videoigru 1984.g. osmislio sovjetski programer Aleksej Pažitnov', 'Columns', 'Dr. Mario')
+          fix('videoigri se nalazi svijet imena Azeroth', 'Guild Wars 2', 'The Elder Scrolls Online')
+          c=collections.Counter()
+          for i,x in enumerate(d,1):
+              assert set(x['answers'])==set('ABC'),i
+              assert x['correct_answer'] in 'ABC',i
+              assert all(str(x['answers'][k]).strip() for k in 'ABC'),i
+              assert len({x['answers'][k].casefold().strip() for k in 'ABC'})==3,i
+              c[x['correct_answer']]+=1
+          assert len(d)==444
+          assert c=={'A':148,'B':148,'C':148},c
+          json.dump(d,open(p,'w',encoding='utf-8'),ensure_ascii=False,indent=2)
+          with open(p,'a',encoding='utf-8') as f:f.write('\n')
+          print('OK',c)
+          PY
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add Gaming.json
+          git diff --cached --quiet || git commit -m 'Dovrsi Gaming ABC audit'
+          git push
