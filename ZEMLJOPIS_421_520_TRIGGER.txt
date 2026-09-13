@@ -1,1 +1,1 @@
-Ponovno pokreni ručne ispravke pitanja 421-520.
+Pokreni aktivni workflow za ručne ispravke 521-550.
