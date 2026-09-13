@@ -49,14 +49,20 @@ original_correct = {
     154:'Negev',155:'Liberiji',156:'Bounty',157:'Diomedu',158:'Hainan',159:'Krakataua',160:'Kuala Lumpur'
 }
 
-for i in range(128,161):
-    q=d[i-1]
-    key=q['correct_answer']
-    cur=q['answers'][key]
-    assert cur==original_correct[i], (i,key,cur,original_correct[i])
-    wrong=iter(distractors[i])
-    q['answers']={letter:(original_correct[i] if letter==key else next(wrong)) for letter in ('A','B','C')}
-    assert len(set(q['answers'].values()))==3
+anchor = "Iako u sastavu Čilea, kojoj 'neziji' tj. otočnoj skupini u Tihom Oceanu, pripada Uskršnji Otok?"
+starts = [idx for idx, q in enumerate(d) if q.get('question') == anchor]
+assert len(starts) == 1, f'Anchor count: {len(starts)}'
+start = starts[0]
 
-p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-print('fixed',len(distractors),'questions 128-160')
+for num in range(128,161):
+    q = d[start + (num - 128)]
+    key = q['correct_answer']
+    cur = q['answers'][key]
+    assert cur == original_correct[num], (num, q['question'], key, cur, original_correct[num])
+    wrong = iter(distractors[num])
+    q['answers'] = {letter: (original_correct[num] if letter == key else next(wrong)) for letter in ('A','B','C')}
+    assert len(set(q['answers'].values())) == 3
+    assert q['answers'][key] == original_correct[num]
+
+p.write_text(json.dumps(d, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+print('fixed', len(distractors), 'questions 128-160 from anchor index', start + 1)
