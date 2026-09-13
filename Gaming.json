@@ -1787,7 +1787,7 @@
     "question": "Kako se zove kuhar kojim igrač upravlja u arkadnoj videoigri BurgerTime?",
     "answers": {
       "A": "Mr. Do",
-      "B": "Dig Dug",
+      "B": "Taizo Hori",
       "C": "Peter Pepper"
     },
     "image": null,
@@ -2358,9 +2358,9 @@
     "topic": "Gaming",
     "question": "Kako se zove arkadna videoigra iz 1979. kojoj je Namcova Galaga izravni nastavak?",
     "answers": {
-      "A": "Contra",
+      "A": "Space Invaders",
       "B": "Galaxian",
-      "C": "Shinobi"
+      "C": "Phoenix"
     },
     "image": null,
     "correct_answer": "B"
@@ -3191,7 +3191,7 @@
     "question": "Kako se zove crveni okruglasti neprijatelj s velikim naočalama u arkadnoj videoigri Dig Dug?",
     "answers": {
       "A": "Fygar",
-      "B": "Pooka Jr.",
+      "B": "Taizo Hori",
       "C": "Pooka"
     },
     "image": null,
@@ -3204,8 +3204,8 @@
     "question": "Kako se zove junak odjeven u zeleno koji u većini igara serijala The Legend of Zelda spašava Zeldu?",
     "answers": {
       "A": "Link",
-      "B": "Solid Snake",
-      "C": "Gordon Freeman"
+      "B": "Tingle",
+      "C": "Groose"
     },
     "image": null,
     "correct_answer": "A"
@@ -4126,8 +4126,8 @@
     "topic": "Gaming",
     "question": "Koju je kultnu videoigru 1984.g. osmislio sovjetski programer Aleksej Pažitnov?",
     "answers": {
-      "A": "Dona Bailey",
-      "B": "Chris Sawyer",
+      "A": "Columns",
+      "B": "Dr. Mario",
       "C": "Tetris"
     },
     "image": null,
@@ -4698,9 +4698,9 @@
     "topic": "Gaming",
     "question": "U kojoj videoigri se nalazi svijet imena Azeroth?",
     "answers": {
-      "A": "Defender",
+      "A": "Guild Wars 2",
       "B": "World of Warcraft",
-      "C": "Portal"
+      "C": "The Elder Scrolls Online"
     },
     "image": null,
     "correct_answer": "B"
