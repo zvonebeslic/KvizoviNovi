@@ -10403,8 +10403,8 @@
     "question": "Koju državu stanovnici Paragvaja poznaju kao 'Pindorama'?",
     "answers": {
       "A": "Brazil",
-      "B": "Kambodže",
-      "C": "Paragvaja"
+      "B": "Argentina",
+      "C": "Bolivija"
     },
     "image": null,
     "correct_answer": "A"
@@ -10415,9 +10415,9 @@
     "topic": "Zemljopis",
     "question": "Angkor Wat je najveći religijski objekat na svijetu. Prostire se na 1,6km² i djeluje kao cijeli grad. Ponos je tog naroda, pa se tako našao i na nacionalnoj zastavi koje države?",
     "answers": {
-      "A": "Brazil",
+      "A": "Tajlanda",
       "B": "Kambodže",
-      "C": "Paragvaja"
+      "C": "Laosa"
     },
     "image": null,
     "correct_answer": "B"
@@ -10428,8 +10428,8 @@
     "topic": "Zemljopis",
     "question": "Koji se planinski lanac Karpata, najviše prostire na području Slovačke?",
     "answers": {
-      "A": "Uzbekistan",
-      "B": "Trinidad",
+      "A": "Beskidi",
+      "B": "Fatra",
       "C": "Tatre"
     },
     "image": null,
@@ -10442,8 +10442,8 @@
     "question": "Koji kanal prolazi između Madagaskara i afričkog kopna?",
     "answers": {
       "A": "Mozambički Kanal",
-      "B": "Tihi Ocean",
-      "C": "Kanarski Otoci"
+      "B": "Zanzibarski kanal",
+      "C": "Pemba kanal"
     },
     "image": null,
     "correct_answer": "A"
@@ -10454,9 +10454,9 @@
     "topic": "Zemljopis",
     "question": "Koja azijska država nema ni jednu susjednu zemlju sa izlazom na more?",
     "answers": {
-      "A": "Trinidad",
+      "A": "Mongolija",
       "B": "Uzbekistan",
-      "C": "Tatre"
+      "C": "Nepal"
     },
     "image": null,
     "correct_answer": "B"
@@ -10467,8 +10467,8 @@
     "topic": "Zemljopis",
     "question": "Državu Trinidad i Tobago čine dva otoka, a veći je koji?",
     "answers": {
-      "A": "Uzbekistan",
-      "B": "Kyushu",
+      "A": "Tobago",
+      "B": "Grenada",
       "C": "Trinidad"
     },
     "image": null,
@@ -10481,8 +10481,8 @@
     "question": "Japan se sastoji od tisuća otoka a četiri najveća su Hokkaido, Honshu, Shikoku i koji još?",
     "answers": {
       "A": "Kyushu",
-      "B": "Trinidad",
-      "C": "Uzbekistan"
+      "B": "Okinawa",
+      "C": "Sado"
     },
     "image": null,
     "correct_answer": "A"
@@ -10493,9 +10493,9 @@
     "topic": "Zemljopis",
     "question": "Turizam koje države je procvao nakon Gospodara Prstenova?",
     "answers": {
-      "A": "Kambodže",
+      "A": "Australije",
       "B": "Novog Zelanda",
-      "C": "Samoe"
+      "C": "Islanda"
     },
     "image": null,
     "correct_answer": "B"
@@ -10506,8 +10506,8 @@
     "topic": "Zemljopis",
     "question": "Peru se danas smatra domovinom kojeg drevnog latinskog naroda?",
     "answers": {
-      "A": "Pariz",
-      "B": "Kyushu",
+      "A": "Maja",
+      "B": "Asteka",
       "C": "Inka"
     },
     "image": null,
@@ -10520,8 +10520,8 @@
     "question": "Pont Neuf,  Pont au Change, Pont au Double i Petit Pont su mostovi koji povezuju koji europski grad?",
     "answers": {
       "A": "Pariz",
-      "B": "Inka",
-      "C": "Shire"
+      "B": "Lyon",
+      "C": "Toulouse"
     },
     "image": null,
     "correct_answer": "A"
@@ -10532,9 +10532,9 @@
     "topic": "Zemljopis",
     "question": "Kako se zove glavni grad Iraka?",
     "answers": {
-      "A": "Willemstad",
+      "A": "Damask",
       "B": "Bagdad",
-      "C": "Podgorica"
+      "C": "Amman"
     },
     "image": null,
     "correct_answer": "B"
@@ -10545,8 +10545,8 @@
     "topic": "Zemljopis",
     "question": "Ime koje se rijeke, koja najvećim dijelom protječe kroz Malavi, može pronaći i na karti Međuzemlja, J. R. R. Tolkien?",
     "answers": {
-      "A": "Teide",
-      "B": "Pariz",
+      "A": "Anduin",
+      "B": "Brandywine",
       "C": "Shire"
     },
     "image": null,
@@ -10559,8 +10559,8 @@
     "question": "Najviši vulkan u Europi pripada Španjolskoj, nalazi se na Kanarima, visok je 3718m a zove se kako?",
     "answers": {
       "A": "Teide",
-      "B": "Shire",
-      "C": "Pariz"
+      "B": "Etna",
+      "C": "Stromboli"
     },
     "image": null,
     "correct_answer": "A"
@@ -10571,9 +10571,9 @@
     "topic": "Zemljopis",
     "question": "Apia je glavni grad koje države?",
     "answers": {
-      "A": "Gvajani",
+      "A": "Tonga",
       "B": "Samoe",
-      "C": "Butan"
+      "C": "Fidži"
     },
     "image": null,
     "correct_answer": "B"
@@ -10598,8 +10598,8 @@
     "question": "Organizacija CARICOM je zajednica 15 karipskih naroda sa sjedištem u kojoj državi?",
     "answers": {
       "A": "Gvajani",
-      "B": "Butan",
-      "C": "Samoe"
+      "B": "Barbadosu",
+      "C": "Trinidadu i Tobagu"
     },
     "image": null,
     "correct_answer": "A"
@@ -10610,9 +10610,9 @@
     "topic": "Zemljopis",
     "question": "Koju državu možemo pronaći i na popisu parafina?",
     "answers": {
-      "A": "Gvajani",
+      "A": "Propan",
       "B": "Butan",
-      "C": "Samoe"
+      "C": "Pentan"
     },
     "image": null,
     "correct_answer": "B"
@@ -10623,8 +10623,8 @@
     "topic": "Zemljopis",
     "question": "Kojom rijekom su povezani Managua i Nikaragva, dva najveća jezera države Nikaragve?",
     "answers": {
-      "A": "Rajna",
-      "B": "Dardaneli",
+      "A": "San Juan",
+      "B": "Escondido",
       "C": "Tipitapa"
     },
     "image": null,
@@ -10637,8 +10637,8 @@
     "question": "Koja velika rijeka čini granicu između Lihtenštajna i Švicarske?",
     "answers": {
       "A": "Rajna",
-      "B": "Tipitapa",
-      "C": "Dardaneli"
+      "B": "Dunav",
+      "C": "Inn"
     },
     "image": null,
     "correct_answer": "A"
@@ -10649,9 +10649,9 @@
     "topic": "Zemljopis",
     "question": "Koje more su 'zarobili' tjesnaci Bospor i Dardaneli?",
     "answers": {
-      "A": "Gvinejskom",
+      "A": "Crno More",
       "B": "Mramorno More",
-      "C": "Južna Amerika"
+      "C": "Egejsko More"
     },
     "image": null,
     "correct_answer": "B"
@@ -10662,8 +10662,8 @@
     "topic": "Zemljopis",
     "question": "Keren, Teseney i Assab su gradovi koje države?",
     "answers": {
-      "A": "Butan",
-      "B": "Gvajani",
+      "A": "Etiopije",
+      "B": "Džibutija",
       "C": "Eritreje"
     },
     "image": null,
@@ -10676,8 +10676,8 @@
     "question": "Koji se morski tjesnac nalazi u blizini Bospora?",
     "answers": {
       "A": "Dardaneli",
-      "B": "Rajna",
-      "C": "Tipitapa"
+      "B": "Kerčki tjesnac",
+      "C": "Otrantska vrata"
     },
     "image": null,
     "correct_answer": "A"
@@ -10688,9 +10688,9 @@
     "topic": "Zemljopis",
     "question": "U kojem zaljevu, Benin ima izlaz na Atlantski ocean?",
     "answers": {
-      "A": "Mramorno More",
+      "A": "Beninskom",
       "B": "Gvinejskom",
-      "C": "Južna Amerika"
+      "C": "Biafranskom"
     },
     "image": null,
     "correct_answer": "B"
