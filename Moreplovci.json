@@ -84,8 +84,8 @@
     "question": "Kako se naziva visoki uspravni stup na brodu koji nosi jedra?",
     "answers": {
       "A": "Jarbol",
-      "B": "Bum",
-      "C": "Rah"
+      "B": "Burbol",
+      "C": "Ranbol"
     },
     "image": null,
     "correct_answer": "A"
@@ -226,8 +226,8 @@
     "topic": "Moreplovci",
     "question": "Popularan naziv španjolskih moreplovaca i osvajača iz 15. i 16. stoljeća korijen vuče iz naziva otpora u kojem je Pirinejski poluotok oslobođen od muslimanskih država a naziva se kako?",
     "answers": {
-      "A": "Conquista",
-      "B": "Repoblación",
+      "A": "Konkvista",
+      "B": "Repoblakon",
       "C": "Rekonkvista"
     },
     "image": null,
@@ -343,8 +343,8 @@
     "topic": "Moreplovci",
     "question": "Prema kojem je azijskom području zapravo plovila flota moreplovca Pedra Cabrala kada je 1500.g. stigla do Brazila?",
     "answers": {
-      "A": "Kina",
-      "B": "Moluci",
+      "A": "Kini",
+      "B": "Indokini",
       "C": "Indiji"
     },
     "image": null,
@@ -436,7 +436,7 @@
     "answers": {
       "A": "Crno more",
       "B": "Egejsko more",
-      "C": "Jadransko more"
+      "C": "Baltičko more"
     },
     "image": null,
     "correct_answer": "A"
