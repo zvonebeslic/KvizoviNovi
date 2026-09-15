@@ -490,7 +490,7 @@
     "answers": {
       "A": "Crvenog Mora",
       "B": "Mrtvog Mora",
-      "C": "Galilejskog jezera"
+      "C": "Galilejskog Mora"
     },
     "image": null,
     "correct_answer": "B"
@@ -711,7 +711,7 @@
     "topic": "Zemljopis",
     "question": "Ganges i Brahmaputra su dvije velike Azijske rijeke koje u Azijski Ocean zajedno utječu u kojoj državi?",
     "answers": {
-      "A": "Bangladeš",
+      "A": "Bangladešu",
       "B": "Indiji",
       "C": "Mjanmaru"
     },
@@ -1599,7 +1599,7 @@
     "answers": {
       "A": "Gvineji",
       "B": "Senegalu",
-      "C": "Mali"
+      "C": "Maliju"
     },
     "image": null,
     "correct_answer": "C"
@@ -2770,7 +2770,7 @@
     "answers": {
       "A": "Maltom",
       "B": "Ciprom",
-      "C": "Gibraltar"
+      "C": "Gibraltarom"
     },
     "image": null,
     "correct_answer": "C"
@@ -2874,7 +2874,7 @@
     "question": "Sa kojom državom Dominikanska Republika ima kopnenu granicu?",
     "answers": {
       "A": "Kubom",
-      "B": "Haiti",
+      "B": "Haitijem",
       "C": "Jamajkom"
     },
     "image": null,
@@ -3461,9 +3461,9 @@
     "topic": "Zemljopis",
     "question": "Maurice Yameogo, rođen u gradu Koudougou, bio je prvi predsjednik koje afričke države?",
     "answers": {
-      "A": "Mali",
+      "A": "Malija",
       "B": "Burkine Faso",
-      "C": "Niger"
+      "C": "Nigera"
     },
     "image": null,
     "correct_answer": "B"
@@ -3529,7 +3529,7 @@
     "answers": {
       "A": "Čehoslovačke",
       "B": "Austro-Ugarske",
-      "C": "Slovačke"
+      "C": "Habzburške Monarhije"
     },
     "image": null,
     "correct_answer": "A"
@@ -4440,7 +4440,7 @@
     "answers": {
       "A": "Sredozemno More",
       "B": "Crveno More",
-      "C": "Adenski Zaljev"
+      "C": "Crno More"
     },
     "image": null,
     "correct_answer": "B"
@@ -4687,7 +4687,7 @@
     "answers": {
       "A": "Crvenom Moru",
       "B": "Crnom Moru",
-      "C": "Sredozemnom"
+      "C": "Sredozemnom Moru"
     },
     "image": null,
     "correct_answer": "C"
@@ -5128,7 +5128,7 @@
     "topic": "Zemljopis",
     "question": "U kojem je gradu sjedište nizozemske vlade?",
     "answers": {
-      "A": "Haag",
+      "A": "Haagu",
       "B": "Amsterdamu",
       "C": "Rotterdamu"
     },
@@ -5273,7 +5273,7 @@
     "answers": {
       "A": "Monaka",
       "B": "Lihtenštajna",
-      "C": "San Marino"
+      "C": "San Marina"
     },
     "image": null,
     "correct_answer": "C"
@@ -5351,7 +5351,7 @@
     "answers": {
       "A": "Hrvatske",
       "B": "Slovačke",
-      "C": "Slovenija"
+      "C": "Slovenije"
     },
     "image": null,
     "correct_answer": "C"
@@ -5963,7 +5963,7 @@
     "question": "Na kojem se grčkom poluotoku nalazi Atena?",
     "answers": {
       "A": "Peloponezu",
-      "B": "Atika",
+      "B": "Atiki",
       "C": "Halkidikiju"
     },
     "image": null,
@@ -6080,7 +6080,7 @@
     "question": "AfriSki je jedno od rijetkih ski-resorta u Africi. Na njemu je moguće skijati u lipnju (Juni) i srpnju (Juli). Nalazi se na preko 3000m iznad razine mora, ali u kojoj državi?",
     "answers": {
       "A": "Južnoafričkoj Republici",
-      "B": "Lesoto",
+      "B": "Lesotu",
       "C": "Maroku"
     },
     "image": null,
@@ -6158,7 +6158,7 @@
     "question": "U kojoj državi se nalaze Dašte e Lut tj. Prazna pustinja i Dašt e Kavir tj. Velika slana pustinja?",
     "answers": {
       "A": "Afganistanu",
-      "B": "Iran",
+      "B": "Iranu",
       "C": "Pakistanu"
     },
     "image": null,
@@ -6263,7 +6263,7 @@
     "answers": {
       "A": "Tap Tap",
       "B": "Car rapide",
-      "C": "Taptap bus"
+      "C": "Bip Bip"
     },
     "image": null,
     "correct_answer": "A"
@@ -6511,7 +6511,7 @@
     "answers": {
       "A": "Australiju",
       "B": "Novi Zeland",
-      "C": "Samoa"
+      "C": "Samou"
     },
     "image": null,
     "correct_answer": "B"
@@ -6692,8 +6692,8 @@
     "question": "Struktura Richat u Mauritaniji, velika je kružna geološka formacija promjera oko 40-50 km a poznata je i kao 'oko' koje pustinje?",
     "answers": {
       "A": "Sahare",
-      "B": "Kalahari",
-      "C": "Namib"
+      "B": "Kalaharija",
+      "C": "Namiba"
     },
     "image": null,
     "correct_answer": "A"
@@ -6900,7 +6900,7 @@
     "question": "Burundi je afrička država koja nema obalu na moru, ali ima na kojem velikom afričkom jezeru?",
     "answers": {
       "A": "Viktorijinom jezeru",
-      "B": "Tanganjika",
+      "B": "Tanganjiki",
       "C": "Jezeru Malawi"
     },
     "image": null,
@@ -7029,8 +7029,8 @@
     "topic": "Zemljopis",
     "question": "Koju se državu naziva 'suzom Indije'?",
     "answers": {
-      "A": "Maldivi",
-      "B": "Madagaskar",
+      "A": "Maldive",
+      "B": "Sejšele",
       "C": "Šri Lanku"
     },
     "image": null,
@@ -7356,7 +7356,7 @@
     "answers": {
       "A": "Tongi",
       "B": "Fidžiju",
-      "C": "Samoau"
+      "C": "Samoi"
     },
     "image": null,
     "correct_answer": "A"
@@ -7981,8 +7981,8 @@
     "question": "Koji se zid može pohvaliti sveukupnom dužinom od 21 196km?",
     "answers": {
       "A": "Kineski Zid",
-      "B": "Hadrijanov zid",
-      "C": "Berlinski zid"
+      "B": "Sibirski Veliki zid",
+      "C": "Željezni zid"
     },
     "image": null,
     "correct_answer": "A"
@@ -8698,8 +8698,8 @@
     "question": "Funafuti je glavni grad koje države?",
     "answers": {
       "A": "Kiribatija",
-      "B": "Tuvala",
-      "C": "Samoa"
+      "B": "Tuvalua",
+      "C": "Samoe"
     },
     "image": null,
     "correct_answer": "B"
@@ -8893,7 +8893,7 @@
     "question": "Najviši vrh bivšeg SSSR-a, imena 'Vrh Komunizma' je bio 7 495m visok vrh u planinskom lancu Pamir, a danas nosi ime Ismoil Somoni i nalazi se u kojoj državi?",
     "answers": {
       "A": "Kirgistanu",
-      "B": "Tadžikistan",
+      "B": "Tadžikistanu",
       "C": "Kazahstanu"
     },
     "image": null,
@@ -9766,7 +9766,7 @@
     "answers": {
       "A": "Južno Kinesko More",
       "B": "Javsko More",
-      "C": "Andamansko"
+      "C": "Andamansko More"
     },
     "image": null,
     "correct_answer": "C"
@@ -10261,7 +10261,7 @@
     "answers": {
       "A": "Zlatni cepin",
       "B": "Snježni Leopard",
-      "C": "Majstor sporta SSSR-a"
+      "C": "Majstor alpinizma SSSR-a"
     },
     "image": null,
     "correct_answer": "B"
