@@ -22,7 +22,7 @@
     "answers": {
       "A": "Bethmann Hollweg",
       "B": "Zimmerman",
-      "C": "von Jagow"
+      "C": "Von Jagow"
     },
     "image": null,
     "correct_answer": "B"
@@ -3004,7 +3004,7 @@
     "answers": {
       "A": "Kaiten",
       "B": "Kamikaze",
-      "C": "Banzai postrojbe"
+      "C": "Banzai"
     },
     "image": null,
     "correct_answer": "B"
@@ -3088,7 +3088,7 @@
     "answers": {
       "A": "Sedmogodišnji",
       "B": "Osamdesetogodišnji",
-      "C": "Rat za španjolsku baštinu"
+      "C": "Rekonkvista"
     },
     "image": null,
     "correct_answer": "B"
@@ -4080,7 +4080,7 @@
     "topic": "Povijest",
     "question": "Kako se nazivala drevna pomorska i trgovačka civilizacija čiji su najpoznatiji gradovi bili Sidon, Tir i Biblos?",
     "answers": {
-      "A": "Fenicija",
+      "A": "Fenička civilizacija",
       "B": "Minojska civilizacija",
       "C": "Mikenska civilizacija"
     },
@@ -4544,7 +4544,7 @@
     "answers": {
       "A": "Hanon Pomorac",
       "B": "Himilkon Pomorac",
-      "C": "Piteja iz Masalije"
+      "C": "Pitej iz Masalije"
     },
     "image": null,
     "correct_answer": "A"
