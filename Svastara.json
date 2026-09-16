@@ -6,8 +6,8 @@
     "question": "Ako znamo da mu je prezime bilo Gucci, koje je onda bilo ime osnivaču modne kuće Gucci, koji je 1921.g. u Firenci pokrenuo posao iz kojeg će nastati jedan od najpoznatijih talijanskih luksuznih brendova?",
     "answers": {
       "A": "Guccio",
-      "B": "Tirolski šešir",
-      "C": "Darjeeling"
+      "B": "Aldo",
+      "C": "Rodolfo"
     },
     "image": null,
     "correct_answer": "A"
@@ -18,9 +18,9 @@
     "topic": "svastara",
     "question": "Koji tradicionalni alpski šešir, obično izrađen od filca i ukrašen perom, nosi ime po austrijskoj pokrajini s kojom se posebno povezuje?",
     "answers": {
-      "A": "Guccio",
+      "A": "Bavarski šešir",
       "B": "Tirolski šešir",
-      "C": "Darjeeling"
+      "C": "Štajerski šešir"
     },
     "image": null,
     "correct_answer": "B"
@@ -31,8 +31,8 @@
     "topic": "svastara",
     "question": "Koji je njemačko američki poduzetnik zajedno s Jacobom Davisom povezan s patentiranjem hlača ojačanih metalnim zakovicama, iz kojih su se razvile moderne traperice?",
     "answers": {
-      "A": "John Maynard Keynes",
-      "B": "Millau Viaduct",
+      "A": "John B. Stetson",
+      "B": "Isaac Singer",
       "C": "Levi Strauss"
     },
     "image": null,
@@ -45,8 +45,8 @@
     "question": "Koji čaj nosi ime indijskog grada u podnožju Himalaje, a zbog svoje kvalitete i karakteristične arome često ga nazivaju 'šampanjcem među čajevima'?",
     "answers": {
       "A": "Darjeeling",
-      "B": "Tirolski šešir",
-      "C": "Paiza"
+      "B": "Assam",
+      "C": "Ceylon"
     },
     "image": null,
     "correct_answer": "A"
@@ -70,8 +70,8 @@
     "topic": "svastara",
     "question": "Kako se zvala metalna pločica mongolskih vlasti koja je njezinu nositelju služila kao svojevrsna srednjovjekovna službena propusnica te mu omogućavala korištenje konja, smještaja i drugih pogodnosti tijekom putovanja?",
     "answers": {
-      "A": "Darjeeling",
-      "B": "Botrytis cinerea",
+      "A": "Yassa",
+      "B": "Ortoo",
       "C": "Paiza"
     },
     "image": null,
@@ -96,9 +96,9 @@
     "topic": "svastara",
     "question": "Koja gljivica u vinogradu može biti katastrofa, ali u pravim uvjetima stvara 'plemenitu plijesan' zaslužnu za neka od najslavnijih slatkih vina svijeta?",
     "answers": {
-      "A": "Paiza",
+      "A": "Saccharomyces cerevisiae",
       "B": "Botrytis cinerea",
-      "C": "Darjeeling"
+      "C": "Penicillium roqueforti"
     },
     "image": null,
     "correct_answer": "B"
@@ -109,8 +109,8 @@
     "topic": "svastara",
     "question": "Koji je britanski ekonomist, autor 'Opće teorije zaposlenosti, kamate i novca', dao prezime čitavom pravcu ekonomske misli koji naglašava ulogu države u upravljanju potražnjom?",
     "answers": {
-      "A": "Millau Viaduct",
-      "B": "Levi Strauss",
+      "A": "Friedrich Hayek",
+      "B": "Milton Friedman",
       "C": "John Maynard Keynes"
     },
     "image": null,
@@ -123,8 +123,8 @@
     "question": "Kako nazivamo razdoblje američke povijesti od 1920. do 1933.g. tijekom kojeg je ustavnim amandmanom i saveznim zakonima bila zabranjena proizvodnja, prodaja i prijevoz alkoholnih pića?",
     "answers": {
       "A": "Američka Prohibicija",
-      "B": "Blanc de Blancs",
-      "C": "Umnožak"
+      "B": "New Deal",
+      "C": "Rekonstrukcija"
     },
     "image": null,
     "correct_answer": "A"
@@ -148,8 +148,8 @@
     "topic": "svastara",
     "question": "Koji je tvrdi, zaobljeni šešir nastao u Engleskoj sredinom 19. stoljeća, a u hrvatskom se naziva i polucilindar?",
     "answers": {
-      "A": "Ultramarin",
-      "B": "Botrytis cinerea",
+      "A": "Fedora",
+      "B": "Homburg",
       "C": "Bowler"
     },
     "image": null,
@@ -162,8 +162,8 @@
     "question": "Koji francuski vijadukt prelazi dolinu rijeke Tarn, a jedan od njegovih pilona viši je od Eiffelova tornja?",
     "answers": {
       "A": "Millau Viaduct",
-      "B": "John Maynard Keynes",
-      "C": "Levi Strauss"
+      "B": "Pont de Normandie",
+      "C": "Viaduc de Garabit"
     },
     "image": null,
     "correct_answer": "A"
@@ -174,9 +174,9 @@
     "topic": "svastara",
     "question": "Koja francuska oznaka na boci Champagnea govori da je vino proizvedeno isključivo od bijelog grožđa?",
     "answers": {
-      "A": "Američka Prohibicija",
+      "A": "Blanc de Noirs",
       "B": "Blanc de Blancs",
-      "C": "Umnožak"
+      "C": "Brut Nature"
     },
     "image": null,
     "correct_answer": "B"
@@ -187,8 +187,8 @@
     "topic": "svastara",
     "question": "Kako se naziva intenzivna plava boja čiji se skupocjeni pigment tradicionalno proizvodio od minerala lapis lazuli?",
     "answers": {
-      "A": "Wow",
-      "B": "Bowler",
+      "A": "Prusko plava",
+      "B": "Kobaltno plava",
       "C": "Ultramarin"
     },
     "image": null,
@@ -201,8 +201,8 @@
     "question": "Neobičan radijski signal iz smjera svemira, zabilježen 1977.g., dobio je ime prema riječi koju je astronom Jerry Ehman napisao na ispisu uz uskličnik, a ta tri slova su...?",
     "answers": {
       "A": "Wow",
-      "B": "Ultramarin",
-      "C": "Jellinek"
+      "B": "SOS",
+      "C": "SET"
     },
     "image": null,
     "correct_answer": "A"
@@ -226,8 +226,8 @@
     "topic": "svastara",
     "question": "Svi znamo da je Mercedes dobio ime po imenu kćeri jednog trgovca automobilima, a kako su se ti otac i kćer prezivali?",
     "answers": {
-      "A": "Cathay",
-      "B": "Wow",
+      "A": "Benz",
+      "B": "Daimler",
       "C": "Jellinek"
     },
     "image": null,
@@ -240,8 +240,8 @@
     "question": "Kojim su imenom Marko Polo i drugi srednjovjekovni Europljani nazivali sjevernu Kinu, preuzevši naziv povezan s narodom Kitana?",
     "answers": {
       "A": "Cathay",
-      "B": "Jellinek",
-      "C": "Wow"
+      "B": "Cipango",
+      "C": "Serica"
     },
     "image": null,
     "correct_answer": "A"
@@ -279,8 +279,8 @@
     "question": "Kako se naziva uzorak sastavljen od vodoravnih i okomitih pruga različitih boja, snažno povezan sa Škotskom i njezinim klanovima?",
     "answers": {
       "A": "Tartan",
-      "B": "Cathay",
-      "C": "Jellinek"
+      "B": "Houndstooth",
+      "C": "Glen plaid"
     },
     "image": null,
     "correct_answer": "A"
@@ -304,8 +304,8 @@
     "topic": "svastara",
     "question": "Američki otmičar zrakoplova koji je 1971.g. uzeo 200.000 dolara otkupnine, iskočio padobranom iz aviona i nestao, poznat je pod kojim imenom?",
     "answers": {
-      "A": "Pinot Noir",
-      "B": "Il Milione",
+      "A": "Frank Morris",
+      "B": "Richard McCoy",
       "C": "D. B. Cooper"
     },
     "image": null,
@@ -318,8 +318,8 @@
     "question": "Koja se tamna sorta grožđa, čije ime u prijevodu upućuje na 'crni bor', koristi i za proizvodnju bijelog šampanjca jer se sok brzo odvaja od kožice?",
     "answers": {
       "A": "Pinot Noir",
-      "B": "D. B. Cooper",
-      "C": "Il Milione"
+      "B": "Pinot Meunier",
+      "C": "Cabernet Sauvignon"
     },
     "image": null,
     "correct_answer": "A"
@@ -343,8 +343,8 @@
     "topic": "svastara",
     "question": "Pod kojim je kratkim talijanskim naslovom postalo poznato djelo koje je Europi prenijelo priče Marka Pola o njegovim putovanjima Azijom?",
     "answers": {
-      "A": "Alexander McQueen",
-      "B": "Pinot Noir",
+      "A": "Il Novellino",
+      "B": "Il Tesoretto",
       "C": "Il Milione"
     },
     "image": null,
@@ -357,8 +357,8 @@
     "question": "Koji je britanski modni dizajner, poznat po dramatičnim i teatralnim modnim revijama, četiri puta osvojio nagradu British Designer of the Year?",
     "answers": {
       "A": "Alexander McQueen",
-      "B": "Il Milione",
-      "C": "Akashi Kaikyō"
+      "B": "John Galliano",
+      "C": "Vivienne Westwood"
     },
     "image": null,
     "correct_answer": "A"
@@ -369,9 +369,9 @@
     "topic": "svastara",
     "question": "Koji fermentirani napitak nastaje djelovanjem zajednice bakterija i kvasaca na zaslađeni čaj, zbog čega se pri njegovoj proizvodnji često koristi želatinozna kultura poznata kao Scoby?",
     "answers": {
-      "A": "Hat trick",
+      "A": "Kefir",
       "B": "Kombucha",
-      "C": "Aszú"
+      "C": "Kvass"
     },
     "image": null,
     "correct_answer": "B"
@@ -382,8 +382,8 @@
     "topic": "svastara",
     "question": "Koji japanski viseći most povezuje Kobe i otok Awaji, a nakon otvaranja 1998.g. imao je najdulji raspon između dvaju glavnih nosivih tornjeva na svijetu?",
     "answers": {
-      "A": "Alexander McQueen",
-      "B": "Il Milione",
+      "A": "Seto Ōhashi",
+      "B": "Rainbow Bridge",
       "C": "Akashi Kaikyō"
     },
     "image": null,
@@ -396,8 +396,8 @@
     "question": "Koji današnji sportski izraz za velik uspjeha jednog nogometaša potječe iz kriketa, gdje je 1858.g. nakon tri uzastopno osvojena wicketa za H. H. Stephensona prikupljen novac kojim mu je kupljen šešir?",
     "answers": {
       "A": "Hat trick",
-      "B": "Aszú",
-      "C": "Kombucha"
+      "B": "Clean sheet",
+      "C": "Golden goal"
     },
     "image": null,
     "correct_answer": "A"
@@ -408,9 +408,9 @@
     "topic": "svastara",
     "question": "Kako se naziva čuveni stil slatkog vina iz Tokaja koji se proizvodi uz korištenje grožđa zahvaćenog 'plemenitom plijesni'?",
     "answers": {
-      "A": "Hat trick",
+      "A": "Sauternes",
       "B": "Aszú",
-      "C": "Gobi"
+      "C": "Trockenbeerenauslese"
     },
     "image": null,
     "correct_answer": "B"
@@ -421,8 +421,8 @@
     "topic": "svastara",
     "question": "Koju je golemu azijsku pustinju Marko Polo opisivao kao zastrašujuće mjesto u kojem putnici, prema predajama koje prenosi, mogu čuti tajanstvene glasove koji ih odvode s puta?",
     "answers": {
-      "A": "Aszú",
-      "B": "Cardigan",
+      "A": "Taklamakan",
+      "B": "Karakum",
       "C": "Gobi"
     },
     "image": null,
@@ -435,8 +435,8 @@
     "question": "Kako se naziva pleteni džemper ili vesta koja se sprijeda otvara, a ime je dobila prema britanskom grofu i vojnom zapovjedniku iz Krimskog rata?",
     "answers": {
       "A": "Cardigan",
-      "B": "Gobi",
-      "C": "Aszú"
+      "B": "Raglan",
+      "C": "Chesterfield"
     },
     "image": null,
     "correct_answer": "A"
@@ -460,8 +460,8 @@
     "topic": "svastara",
     "question": "Kako se naziva sprava za pogubljenje koja je postala simbol Francuske revolucije, a ime je dobila po francuskom liječniku koji je zagovarao njezinu uporabu kao humaniji način izvršenja smrtne kazne?",
     "answers": {
-      "A": "Weihenstephan",
-      "B": "Cardigan",
+      "A": "Garota",
+      "B": "Vješala",
       "C": "Giljotina"
     },
     "image": null,
@@ -474,8 +474,8 @@
     "question": "Koji je benediktinski samostan u Bavarskoj, osnovan 1040.g., danas poznat po tvrdnji da je najstarija kontinuirano djelujuća pivovara na svijetu?",
     "answers": {
       "A": "Weihenstephan",
-      "B": "Giljotina",
-      "C": "Cardigan"
+      "B": "Weltenburg",
+      "C": "Andechs"
     },
     "image": null,
     "correct_answer": "A"
@@ -486,9 +486,9 @@
     "topic": "svastara",
     "question": "Koja je britanska modna dizajnerica, vlasnica londonskog butika Bazaar na King's Roadu, postala jednom od ključnih figura 'Swinging Londona' i posebno se proslavila popularizacijom minice tijekom 1960-ih?",
     "answers": {
-      "A": "John Pemberton",
+      "A": "Vivienne Westwood",
       "B": "Mary Quant",
-      "C": "Coco Chanel"
+      "C": "Barbara Hulanicki"
     },
     "image": null,
     "correct_answer": "B"
@@ -499,8 +499,8 @@
     "topic": "svastara",
     "question": "Kako se zvao američki ljekarnik iz Atlante koji je 1886.g. osmislio napitak iz kojeg će nastati Coca-Cola?",
     "answers": {
-      "A": "Mary Quant",
-      "B": "Coco Chanel",
+      "A": "Caleb Bradham",
+      "B": "Charles Alderton",
       "C": "John Pemberton"
     },
     "image": null,
@@ -513,8 +513,8 @@
     "question": "Koja matematička konstanta predstavlja omjer opsega kružnice i njezina promjera?",
     "answers": {
       "A": "Pi",
-      "B": "Sombrero",
-      "C": "Weihenstephan"
+      "B": "Eulerov broj",
+      "C": "Zlatni rez"
     },
     "image": null,
     "correct_answer": "A"
@@ -525,9 +525,9 @@
     "topic": "svastara",
     "question": "Koji španjolski naziv za šešir izvan španjolskog govornog područja najčešće povezujemo s tradicionalnim meksičkim šeširom izrazito širokog oboda?",
     "answers": {
-      "A": "Pi",
+      "A": "Panama",
       "B": "Sombrero",
-      "C": "Golf"
+      "C": "Fedora"
     },
     "image": null,
     "correct_answer": "B"
@@ -538,8 +538,8 @@
     "topic": "svastara",
     "question": "Koja je francuska modna dizajnerica popularizirala malu crnu haljinu, osnovala modnu kuću koja nosi njezino prezime te svoje ime povezala s parfemom No. 5?",
     "answers": {
-      "A": "John Pemberton",
-      "B": "Mary Quant",
+      "A": "Jeanne Lanvin",
+      "B": "Elsa Schiaparelli",
       "C": "Coco Chanel"
     },
     "image": null,
@@ -552,8 +552,8 @@
     "question": "Koji je Volkswagenov model 1974.g. stigao kao moderni nasljednik Bube i potom postao jedan od najuspješnijih europskih automobila svih vremena?",
     "answers": {
       "A": "Golf",
-      "B": "Tupi kut",
-      "C": "Sombrero"
+      "B": "Passat",
+      "C": "Scirocco"
     },
     "image": null,
     "correct_answer": "A"
@@ -564,9 +564,9 @@
     "topic": "svastara",
     "question": "Kako se naziva kut veći od 90°, a manji od 180°?",
     "answers": {
-      "A": "Golf",
+      "A": "Šiljasti kut",
       "B": "Tupi kut",
-      "C": "Sombrero"
+      "C": "Refleksni kut"
     },
     "image": null,
     "correct_answer": "B"
@@ -603,9 +603,9 @@
     "topic": "svastara",
     "question": "Kako se naziva obuća kod koje je cijeli potplat znatno povišen, a posebno je obilježila modu 1970-ih i disco eru?",
     "answers": {
-      "A": "Florin",
+      "A": "Mary Jane",
       "B": "Platformke",
-      "C": "Put svile"
+      "C": "Oxfordice"
     },
     "image": null,
     "correct_answer": "B"
@@ -616,8 +616,8 @@
     "topic": "svastara",
     "question": "Koja je zlatna kovanica prvi put iskovana u Firenci 1252.g. i zahvaljujući moći tog trgovačkog grada postala jedan od najvažnijih novaca srednjovjekovne Europe?",
     "answers": {
-      "A": "Platformke",
-      "B": "Put svile",
+      "A": "Dukat",
+      "B": "Groš",
       "C": "Florin"
     },
     "image": null,
@@ -630,8 +630,8 @@
     "question": "Kako danas nazivamo golemi splet kopnenih trgovačkih ruta između Azije i Europe kojim su se prenosili roba, ljudi, ideje i religije, a dijelovima kojeg su putovali i Polovi?",
     "answers": {
       "A": "Put svile",
-      "B": "Florin",
-      "C": "Platformke"
+      "B": "Put začina",
+      "C": "Jantarni put"
     },
     "image": null,
     "correct_answer": "A"
@@ -642,9 +642,9 @@
     "topic": "svastara",
     "question": "Koji golemi čelični lučni most, otvoren 1932.g., dominira lukom najvećeg australskog grada?",
     "answers": {
-      "A": "Mimar Sinan",
+      "A": "Story Bridge",
       "B": "Sydney Harbour Bridge",
-      "C": "Spirit of Ecstasy"
+      "C": "Anzac Bridge"
     },
     "image": null,
     "correct_answer": "B"
@@ -655,8 +655,8 @@
     "topic": "svastara",
     "question": "Koje je gazirano piće nastalo iz napitka s kininom koji su britanski kolonijalni službenici koristili u područjima gdje je harala malarija?",
     "answers": {
-      "A": "Put svile",
-      "B": "Florin",
+      "A": "Ginger ale",
+      "B": "Soda water",
       "C": "Tonic"
     },
     "image": null,
@@ -669,8 +669,8 @@
     "question": "Koji je slavni osmanski arhitekt, učenik graditeljske tradicije 16. stoljeća, povezan s projektiranjem mosta Mehmed-paše Sokolovića u Višegradu?",
     "answers": {
       "A": "Mimar Sinan",
-      "B": "Sydney Harbour Bridge",
-      "C": "Spirit of Ecstasy"
+      "B": "Sedefkar Mehmed-aga",
+      "C": "Davud-aga"
     },
     "image": null,
     "correct_answer": "A"
@@ -694,8 +694,8 @@
     "topic": "svastara",
     "question": "Kako se naziva mala figura žene nagnute prema naprijed koja se više od stoljeća nalazi iznad maske hladnjaka automobila Rolls-Royce?",
     "answers": {
-      "A": "Mimar Sinan",
-      "B": "Sydney Harbour Bridge",
+      "A": "Leaper",
+      "B": "Flying B",
       "C": "Spirit of Ecstasy"
     },
     "image": null,
@@ -720,9 +720,9 @@
     "topic": "svastara",
     "question": "Kako se naziva mekana obuća bez vezica čiji naziv potječe iz jezika domorodačkih naroda Sjeverne Amerike?",
     "answers": {
-      "A": "Øresund",
+      "A": "Loafers",
       "B": "Mokasine",
-      "C": "Etiopija"
+      "C": "Espadrile"
     },
     "image": null,
     "correct_answer": "B"
@@ -733,8 +733,8 @@
     "topic": "svastara",
     "question": "Koji most povezuje Dansku i Švedsku preko tjesnaca između Kopenhagena i Malmöa, pri čemu se dio veze nastavlja kroz podmorski tunel?",
     "answers": {
-      "A": "Mokasine",
-      "B": "Etiopija",
+      "A": "Most Veliki Belt",
+      "B": "Most kraljice Aleksandrine",
       "C": "Øresund"
     },
     "image": null,
@@ -747,8 +747,8 @@
     "question": "Koja se afrička država smatra pradomovinom kave, a uz nju je vezana i legenda o pastiru Kaldiju koji je primijetio neobično živahno ponašanje svojih koza nakon što su jele crvene bobice?",
     "answers": {
       "A": "Etiopija",
-      "B": "Øresund",
-      "C": "Zelenu"
+      "B": "Jemen",
+      "C": "Kenija"
     },
     "image": null,
     "correct_answer": "A"
@@ -759,9 +759,9 @@
     "topic": "svastara",
     "question": "U klasičnom slikarstvu, koju boju dobijemo miješanjem plave i žute?",
     "answers": {
-      "A": "Etiopija",
+      "A": "Ljubičastu",
       "B": "Zelenu",
-      "C": "Ugljen"
+      "C": "Narančastu"
     },
     "image": null,
     "correct_answer": "B"
@@ -772,8 +772,8 @@
     "topic": "svastara",
     "question": "Koje je 'crno kamenje' Marko Polo opisao kao gorivo koje Kinezi vade iz zemlje i pale poput drva, navodeći da može gorjeti cijelu noć?",
     "answers": {
-      "A": "Zelenu",
-      "B": "Kugla",
+      "A": "Treset",
+      "B": "Koks",
       "C": "Ugljen"
     },
     "image": null,
@@ -786,8 +786,8 @@
     "question": "Koje geometrijsko tijelo nema bridova ni vrhova?",
     "answers": {
       "A": "Kugla",
-      "B": "Ugljen",
-      "C": "Zelenu"
+      "B": "Valjak",
+      "C": "Stožac"
     },
     "image": null,
     "correct_answer": "A"
@@ -798,9 +798,9 @@
     "topic": "svastara",
     "question": "Efekt prema kojem ljudi s malo znanja ili sposobnosti u nekom području mogu precijeniti vlastitu kompetenciju nosi prezimena dva američka psihologa, jedan je David Dunning a drugi koji?",
     "answers": {
-      "A": "Spirit of Ecstasy",
+      "A": "Daniel Kahneman",
       "B": "Justin Kruger",
-      "C": "Mimar Sinan"
+      "C": "Amos Tversky"
     },
     "image": null,
     "correct_answer": "B"
@@ -811,8 +811,8 @@
     "topic": "svastara",
     "question": "Koji je visoki šešir ravnog vrha i uskog oboda tijekom 19. stoljeća postao neizostavan dio svečanog muškog odijevanja?",
     "answers": {
-      "A": "Kugla",
-      "B": "Pork pie",
+      "A": "Homburg",
+      "B": "Bowler",
       "C": "Cilindar"
     },
     "image": null,
@@ -837,9 +837,9 @@
     "topic": "svastara",
     "question": "Koji šešir kratkog oboda i ravne, udubljene krune dijeli svoje neobično ime s tradicionalnom britanskom mesnom pitom?",
     "answers": {
-      "A": "Cilindar",
+      "A": "Fedora",
       "B": "Pork pie",
-      "C": "Kugla"
+      "C": "Trilby"
     },
     "image": null,
     "correct_answer": "B"
@@ -876,9 +876,9 @@
     "topic": "svastara",
     "question": "Koji je srednjovjekovni redovnički red imao važnu ulogu u usavršavanju proizvodnje piva u europskim samostanima, gdje se pivo često kuhalo i za putnike i hodočasnike?",
     "answers": {
-      "A": "Panama",
+      "A": "Cisterciti",
       "B": "Benediktinci",
-      "C": "Coca Cola"
+      "C": "Franjevci"
     },
     "image": null,
     "correct_answer": "B"
@@ -903,8 +903,8 @@
     "question": "Od koje se biljke proizvodi tequila?",
     "answers": {
       "A": "Agava",
-      "B": "Cloche",
-      "C": "Mitra"
+      "B": "Kaktus",
+      "C": "Aloe vera"
     },
     "image": null,
     "correct_answer": "A"
@@ -915,9 +915,9 @@
     "topic": "svastara",
     "question": "Koji je ženski šešir, čiji naziv na francuskom znači 'zvono', svojim zvonolikim oblikom postao jedan od simbola ženske mode 1920-ih?",
     "answers": {
-      "A": "Agava",
+      "A": "Pillbox",
       "B": "Cloche",
-      "C": "Mitra"
+      "C": "Bonnet"
     },
     "image": null,
     "correct_answer": "B"
@@ -928,8 +928,8 @@
     "topic": "svastara",
     "question": "Koji se viseći most, otvoren 1937.g., proteže preko tjesnaca koji povezuje zaljev San Francisca s Tihim oceanom i postao je jedan od simbola Kalifornije?",
     "answers": {
-      "A": "Wall Street",
-      "B": "Ponte Vecchio",
+      "A": "Bay Bridge",
+      "B": "Brooklyn Bridge",
       "C": "Golden Gate"
     },
     "image": null,
@@ -942,8 +942,8 @@
     "question": "Kako se naziva visoko svečano pokrivalo za glavu koje u liturgijskim obredima nose biskupi Katoličke Crkve?",
     "answers": {
       "A": "Mitra",
-      "B": "Cloche",
-      "C": "Plave"
+      "B": "Tiara",
+      "C": "Biretta"
     },
     "image": null,
     "correct_answer": "A"
@@ -954,9 +954,9 @@
     "topic": "svastara",
     "question": "Koja je njujorška ulica postala toliko povezana s financijama da se njezino ime danas koristi i kao simbol američkog financijskog sektora?",
     "answers": {
-      "A": "Golden Gate",
+      "A": "Broadway",
       "B": "Wall Street",
-      "C": "Ponte Vecchio"
+      "C": "Fifth Avenue"
     },
     "image": null,
     "correct_answer": "B"
@@ -967,8 +967,8 @@
     "topic": "svastara",
     "question": "Koje je boje Zvijezda života (Star of Life), simbol koji se često nalazi na vozilima i oznakama hitne medicinske pomoći?",
     "answers": {
-      "A": "Mongoli",
-      "B": "Mitra",
+      "A": "Crvene",
+      "B": "Zelene",
       "C": "Plave"
     },
     "image": null,
@@ -981,8 +981,8 @@
     "question": "Koji je narod u 13. stoljeću stvorio golemo carstvo kojim je vladao Kublaj-kan i pod čijom je vlašću Marko Polo putovao velikim dijelom Azije?",
     "answers": {
       "A": "Mongoli",
-      "B": "Plave",
-      "C": "Pamir"
+      "B": "Tatari",
+      "C": "Huni"
     },
     "image": null,
     "correct_answer": "A"
@@ -1006,8 +1006,8 @@
     "topic": "svastara",
     "question": "Koje je izrazito visoko planinsko područje središnje Azije Marko Polo opisivao na putu prema Kini, a danas se prostire ponajviše na području Tadžikistana?",
     "answers": {
-      "A": "Mongoli",
-      "B": "Oktoberfest",
+      "A": "Tien Shan",
+      "B": "Hindu Kush",
       "C": "Pamir"
     },
     "image": null,
@@ -1020,8 +1020,8 @@
     "question": "Koji je firentinski most preko Arna poznat po trgovinama izgrađenima uz sam most, danas osobito povezanima sa zlatarima?",
     "answers": {
       "A": "Ponte Vecchio",
-      "B": "Wall Street",
-      "C": "Golden Gate"
+      "B": "Ponte Santa Trinita",
+      "C": "Ponte alle Grazie"
     },
     "image": null,
     "correct_answer": "A"
@@ -1032,9 +1032,9 @@
     "topic": "svastara",
     "question": "Koji je veliki njemački festival, prvi put održan 1810.g. povodom kraljevskog vjenčanja, prerastao u jedan od najpoznatijih festivala piva na svijetu?",
     "answers": {
-      "A": "Fibonaccijev niz",
+      "A": "Cannstatter Volksfest",
       "B": "Oktoberfest",
-      "C": "Pamir"
+      "C": "Starkbierfest"
     },
     "image": null,
     "correct_answer": "B"
@@ -1045,8 +1045,8 @@
     "topic": "svastara",
     "question": "Kako se naziva niz 1, 1, 2, 3, 5, 8, 13, 21...?",
     "answers": {
-      "A": "Oktoberfest",
-      "B": "Genova",
+      "A": "Lucasov niz",
+      "B": "Aritmetički niz",
       "C": "Fibonaccijev niz"
     },
     "image": null,
@@ -1059,8 +1059,8 @@
     "question": "Koja je velika trgovačka suparnica Venecije zarobila Marka Pola tijekom njihova međusobnog rata, što će posredno dovesti do nastanka njegove slavne knjige?",
     "answers": {
       "A": "Genova",
-      "B": "Fibonaccijev niz",
-      "C": "Oktoberfest"
+      "B": "Pisa",
+      "C": "Dubrovnik"
     },
     "image": null,
     "correct_answer": "A"
@@ -1084,8 +1084,8 @@
     "topic": "svastara",
     "question": "U blizini kojeg je grčkog otoka početkom 20. stoljeća u antičkoj olupini pronađen iznimno složen mehanizam sa zupčanicima za praćenje astronomskih ciklusa, koji se često opisuje kao jedno od najvećih tehnoloških dostignuća antičkog svijeta i najstarije poznato analogno računalo?",
     "answers": {
-      "A": "Genova",
-      "B": "Fibonaccijev niz",
+      "A": "Kreta",
+      "B": "Rodos",
       "C": "Antikitera"
     },
     "image": null,
@@ -1098,8 +1098,8 @@
     "question": "Kako se zove rezultat množenja?",
     "answers": {
       "A": "Umnožak",
-      "B": "Nazivnik",
-      "C": "Zelene"
+      "B": "Kvocijent",
+      "C": "Zbroj"
     },
     "image": null,
     "correct_answer": "A"
@@ -1110,9 +1110,9 @@
     "topic": "svastara",
     "question": "Koji je francuski modni dizajner 1966.g. predstavio 'Le Smoking', žensko odijelo inspirirano muškim smokingom koje je postalo jedan od njegovih najpoznatijih dizajna?",
     "answers": {
-      "A": "Wilhelm IV.",
+      "A": "Pierre Cardin",
       "B": "Yves Saint Laurent",
-      "C": "Ponte Vecchio"
+      "C": "Hubert de Givenchy"
     },
     "image": null,
     "correct_answer": "B"
@@ -1137,8 +1137,8 @@
     "question": "Koja je najpoznatija bijela sorta grožđa u Champagnei, ujedno ključna i za velika bijela vina Burgundije?",
     "answers": {
       "A": "Chardonnay",
-      "B": "Dud",
-      "C": "Antikitera"
+      "B": "Chenin Blanc",
+      "C": "Sauvignon Blanc"
     },
     "image": null,
     "correct_answer": "A"
@@ -1149,9 +1149,9 @@
     "topic": "svastara",
     "question": "Koji je bavarski vojvoda 1516.g. zajedno s bratom Ludwigom X. donio slavni Reinheitsgebot, zakon koji je propisivao dopuštene sastojke piva?",
     "answers": {
-      "A": "Yves Saint Laurent",
+      "A": "Albrecht IV.",
       "B": "Wilhelm IV.",
-      "C": "Rolls Royce"
+      "C": "Maximilian I."
     },
     "image": null,
     "correct_answer": "B"
@@ -1176,8 +1176,8 @@
     "question": "Od kore kojeg se stabla, prema opisu Marka Pola, u Kini izrađivao materijal za proizvodnju novčanica?",
     "answers": {
       "A": "Dud",
-      "B": "Haute couture",
-      "C": "Chardonnay"
+      "B": "Bambus",
+      "C": "Breza"
     },
     "image": null,
     "correct_answer": "A"
@@ -1188,9 +1188,9 @@
     "topic": "svastara",
     "question": "Koji francuski pojam označava najvišu kategoriju francuske mode, čiji naziv doslovno znači 'visoko krojenje', a pravo korištenja tog naziva u Francuskoj podliježe posebnim pravilima?",
     "answers": {
-      "A": "Dud",
+      "A": "Prêt-à-porter",
       "B": "Haute couture",
-      "C": "Lager"
+      "C": "Bespoke"
     },
     "image": null,
     "correct_answer": "B"
@@ -1201,8 +1201,8 @@
     "topic": "svastara",
     "question": "Koja britanska automobilska marka, koju su početkom 20. stoljeća stvorili Charles Rolls i Henry Royce, postala je sinonim za iznimno luksuzne automobile?",
     "answers": {
-      "A": "Wilhelm IV.",
-      "B": "Royal Ascot",
+      "A": "Bentley",
+      "B": "Aston Martin",
       "C": "Rolls Royce"
     },
     "image": null,
@@ -1215,8 +1215,8 @@
     "question": "Koji se naziv koristi za pivo donjeg vrenja koje dozrijeva na niskim temperaturama, a njegovo ime potječe od njemačke riječi povezane sa skladištenjem?",
     "answers": {
       "A": "Lager",
-      "B": "Haute couture",
-      "C": "T"
+      "B": "Ale",
+      "C": "Porter"
     },
     "image": null,
     "correct_answer": "A"
@@ -1240,8 +1240,8 @@
     "topic": "svastara",
     "question": "Koje slovo stoji u Fordovu modelu, predstavljenom 1908.g., koji je postao simbol masovne motorizacije i jedan od najutjecajnijih automobila u povijesti?",
     "answers": {
-      "A": "Étienne de Silhouette",
-      "B": "Lager",
+      "A": "A",
+      "B": "V",
       "C": "T"
     },
     "image": null,
@@ -1254,8 +1254,8 @@
     "question": "Prezime kojeg je francuskog ministra financija iz 18. stoljeća, poznatog po nepopularnim mjerama štednje, postalo naziv za jeftine portrete izrađene samo kao tamni obrisi?",
     "answers": {
       "A": "Étienne de Silhouette",
-      "B": "T",
-      "C": "Lager"
+      "B": "Turgot",
+      "C": "Colbert"
     },
     "image": null,
     "correct_answer": "A"
@@ -1279,8 +1279,8 @@
     "topic": "svastara",
     "question": "Koje su britanske konjske utrke, koje se održavaju još od početka 18. stoljeća, postale poznate i po strogom kodeksu odijevanja te raskošnim i neobičnim šeširima posjetitelja?",
     "answers": {
-      "A": "Pont du Gard",
-      "B": "Kublaj Kan",
+      "A": "Epsom Derby",
+      "B": "Cheltenham Gold Cup",
       "C": "Royal Ascot"
     },
     "image": null,
@@ -1305,9 +1305,9 @@
     "topic": "svastara",
     "question": "Koji rimski akvaduktni most u južnoj Francuskoj, izgrađen preko rijeke Gardon, spada među najbolje očuvane primjere rimske hidrotehnike?",
     "answers": {
-      "A": "Kublaj Kan",
+      "A": "Akvadukt Segovia",
       "B": "Pont du Gard",
-      "C": "Royal Ascot"
+      "C": "Pont de Vaison"
     },
     "image": null,
     "correct_answer": "B"
@@ -1318,8 +1318,8 @@
     "topic": "svastara",
     "question": "Koji je unuk Džingis kana vladao Kinom u vrijeme ekspedicije Marka Pola te osnovao kinesku dinastiju Yuan?",
     "answers": {
-      "A": "Pont du Gard",
-      "B": "Royal Ascot",
+      "A": "Ögedej-kan",
+      "B": "Möngke-kan",
       "C": "Kublaj Kan"
     },
     "image": null,
@@ -1357,8 +1357,8 @@
     "topic": "svastara",
     "question": "Polusestra kojeg mitskog kralja je bila vila Morgana, čarobnica iz srednjovjekovnih legendi čije se ime danas nalazi u riječi 'fatamorgana'?",
     "answers": {
-      "A": "Stiletto",
-      "B": "Turban",
+      "A": "Lancelota",
+      "B": "Uthera Pendragona",
       "C": "Arthura"
     },
     "image": null,
@@ -1371,8 +1371,8 @@
     "question": "Iz koje države potječe Scotch whisky?",
     "answers": {
       "A": "Škotska",
-      "B": "Francuska",
-      "C": "Panama"
+      "B": "Irska",
+      "C": "Kanada"
     },
     "image": null,
     "correct_answer": "A"
@@ -1383,9 +1383,9 @@
     "topic": "svastara",
     "question": "Kako se naziva izrazito tanka i visoka potpetica čije ime na talijanskom označava vrstu tankog bodeža?",
     "answers": {
-      "A": "Arthura",
+      "A": "Kitten heel",
       "B": "Stiletto",
-      "C": "Turban"
+      "C": "Wedge"
     },
     "image": null,
     "correct_answer": "B"
@@ -1396,8 +1396,8 @@
     "topic": "svastara",
     "question": "Kako se zove broj ispod razlomačke crte?",
     "answers": {
-      "A": "Zelene",
-      "B": "Umnožak",
+      "A": "Brojnik",
+      "B": "Kvocijent",
       "C": "Nazivnik"
     },
     "image": null,
@@ -1410,8 +1410,8 @@
     "question": "Koje pokrivalo za glavu ne nastaje kao klasična kapa ili šešir, nego omatanjem dugačkog komada tkanine oko glave, a posebno je poznato kao važan dio tradicije Sikha?",
     "answers": {
       "A": "Turban",
-      "B": "Stiletto",
-      "C": "Arthura"
+      "B": "Keffiyeh",
+      "C": "Fez"
     },
     "image": null,
     "correct_answer": "A"
@@ -1422,9 +1422,9 @@
     "topic": "svastara",
     "question": "Kako se zvao Volvoov inženjer koji je razvio sigurnosni pojas u tri točke, izum kojem se pripisuje spašavanje golemog broja života?",
     "answers": {
-      "A": "Wilhelm Scream",
+      "A": "Béla Barényi",
       "B": "Nils Bohlin",
-      "C": "Mary Jane"
+      "C": "John Hetrick"
     },
     "image": null,
     "correct_answer": "B"
@@ -1435,8 +1435,8 @@
     "topic": "svastara",
     "question": "Filmski zvučni efekt, prvi put snimljen u filmu 'Udaljeni bubnjevi (Distant Drums) 1951.g., se kao interna šala tonskih majstora ponavlja u stotinama filmova i dan danas a poznat je pod kojim imenom?",
     "answers": {
-      "A": "Nils Bohlin",
-      "B": "Mary Jane",
+      "A": "Howie scream",
+      "B": "Tarzan yell",
       "C": "Wilhelm Scream"
     },
     "image": null,
@@ -1449,8 +1449,8 @@
     "question": "Koji poznati slamnati šešir, unatoč svom imenu, tradicionalno potječe iz Ekvadora, gdje se izrađuje od vlakana biljke toquilla?",
     "answers": {
       "A": "Panama",
-      "B": "Benediktinci",
-      "C": "Coca Cola"
+      "B": "Fedora",
+      "C": "Boater"
     },
     "image": null,
     "correct_answer": "A"
@@ -1474,8 +1474,8 @@
     "topic": "svastara",
     "question": "Koje su dugodlake životinje, prilagođene velikim nadmorskim visinama, putnicima poput Marka Pola bile važan prizor i dio života u planinskim krajevima središnje Azije?",
     "answers": {
-      "A": "Turban",
-      "B": "Šiljasti kut",
+      "A": "Deva",
+      "B": "Bivol",
       "C": "Jak"
     },
     "image": null,
@@ -1488,8 +1488,8 @@
     "question": "Kako se naziva tip cipele s remenčićem preko rista, koji je ime dobio prema liku iz američkog stripa s početka 20. stoljeća?",
     "answers": {
       "A": "Mary Jane",
-      "B": "Dom Pérignon",
-      "C": "Wilhelm Scream"
+      "B": "T-strap",
+      "C": "Saddle shoe"
     },
     "image": null,
     "correct_answer": "A"
@@ -1513,8 +1513,8 @@
     "topic": "svastara",
     "question": "Koji je benediktinski redovnik iz 17. stoljeća postao toliko povezan s poviješću Champagnea da danas njegovo ime nosi jedna od najpoznatijih etiketa šampanjca?",
     "answers": {
-      "A": "Mary Jane",
-      "B": "Wilhelm Scream",
+      "A": "Dom Antoine le Grand",
+      "B": "Frère Jean Oudart",
       "C": "Dom Pérignon"
     },
     "image": null,
@@ -1539,9 +1539,9 @@
     "topic": "svastara",
     "question": "Kako se naziva kut manji od 90°?",
     "answers": {
-      "A": "60 km/h",
+      "A": "Tupi kut",
       "B": "Šiljasti kut",
-      "C": "Lamborghini"
+      "C": "Pravi kut"
     },
     "image": null,
     "correct_answer": "B"
@@ -1552,8 +1552,8 @@
     "topic": "svastara",
     "question": "Ako automobil prijeđe 120 km za dva sata vozeći cijelo vrijeme istom brzinom, kolika mu je brzina?",
     "answers": {
-      "A": "Šiljasti kut",
-      "B": "Lamborghini",
+      "A": "50 km/h",
+      "B": "70 km/h",
       "C": "60 km/h"
     },
     "image": null,
@@ -1566,8 +1566,8 @@
     "question": "Koju je danas slavnu marku supersportskih automobila osnovao čovjek koji se prije toga obogatio proizvodnjom traktora?",
     "answers": {
       "A": "Lamborghini",
-      "B": "60 km/h",
-      "C": "Šiljasti kut"
+      "B": "Ferrari",
+      "C": "Maserati"
     },
     "image": null,
     "correct_answer": "A"
@@ -1591,8 +1591,8 @@
     "topic": "svastara",
     "question": "U kojem se europskom gradu nalazi Karlov most preko Vltave, nazvan po caru Karlu IV. te je ukrašen nizom baroknih kipova?",
     "answers": {
-      "A": "Stockholm",
-      "B": "Lisabon",
+      "A": "Budimpešti",
+      "B": "Beču",
       "C": "Pragu"
     },
     "image": null,
@@ -1605,8 +1605,8 @@
     "question": "Koje pojačano španjolsko vino potječe iz područja oko Jerez de la Frontere, čije je ime u engleskom jeziku dalo i naziv samom piću?",
     "answers": {
       "A": "Sherry",
-      "B": "Kinin",
-      "C": "Lamborghini"
+      "B": "Madeira",
+      "C": "Marsala"
     },
     "image": null,
     "correct_answer": "A"
@@ -1617,9 +1617,9 @@
     "topic": "svastara",
     "question": "Koja gorka tvar dobivena iz kore kininovca ima dugu povijest primjene protiv malarije, a upravo je ona zaslužna za karakterističnu gorčinu tonika?",
     "answers": {
-      "A": "Sherry",
+      "A": "Kofein",
       "B": "Kinin",
-      "C": "Stetson"
+      "C": "Tanin"
     },
     "image": null,
     "correct_answer": "B"
@@ -1644,8 +1644,8 @@
     "question": "Koji je američki inženjer bio glavni projektant Golden Gate Bridgea i desetljećima se borio da projekt uopće bude prihvaćen?",
     "answers": {
       "A": "Joseph Strauss",
-      "B": "Pax Mongolica",
-      "C": "Dom Pérignon"
+      "B": "John Roebling",
+      "C": "Gustave Eiffel"
     },
     "image": null,
     "correct_answer": "A"
@@ -1656,9 +1656,9 @@
     "topic": "svastara",
     "question": "Koju je američku marku šešira 1865.g. osnovao John B. Stetson, a njezino je ime s vremenom postalo gotovo neraskidivo povezano s kaubojima i Divljim zapadom?",
     "answers": {
-      "A": "Armagnac",
+      "A": "Resistol",
       "B": "Stetson",
-      "C": "Kinin"
+      "C": "Bailey"
     },
     "image": null,
     "correct_answer": "B"
@@ -1669,8 +1669,8 @@
     "topic": "svastara",
     "question": "Koje je boje križ koji se u mnogim europskim državama često koristi kao oznaka ljekarne?",
     "answers": {
-      "A": "Nazivnik",
-      "B": "Bombilla",
+      "A": "Plave",
+      "B": "Crvene",
       "C": "Zelene"
     },
     "image": null,
@@ -1683,8 +1683,8 @@
     "question": "Koji francuski destilat iz Gaskonje ima povijest koja seže dalje u prošlost od njegova poznatijeg rođaka iz Cognaca?",
     "answers": {
       "A": "Armagnac",
-      "B": "Rothschild",
-      "C": "Stetson"
+      "B": "Calvados",
+      "C": "Marc de Gascogne"
     },
     "image": null,
     "correct_answer": "A"
@@ -1695,9 +1695,9 @@
     "topic": "svastara",
     "question": "Koja je europska bankarska obitelj, čiji je uspon započeo s Mayerom Amschelom u Frankfurtu, tijekom 19. stoljeća izgradila financijsku mrežu u nekoliko najvećih europskih gradova?",
     "answers": {
-      "A": "Armagnac",
+      "A": "Baring",
       "B": "Rothschild",
-      "C": "Stetson"
+      "C": "Mediči"
     },
     "image": null,
     "correct_answer": "B"
@@ -1708,8 +1708,8 @@
     "topic": "svastara",
     "question": "Kako povjesničari nazivaju razdoblje relativne stabilnosti pod mongolskom vlašću koje je tijekom 13. i 14. stoljeća olakšalo trgovinu i putovanja između Europe i Azije?",
     "answers": {
-      "A": "Joseph Strauss",
-      "B": "Ferdinand Porsche",
+      "A": "Pax Romana",
+      "B": "Pax Britannica",
       "C": "Pax Mongolica"
     },
     "image": null,
@@ -1734,9 +1734,9 @@
     "topic": "svastara",
     "question": "Kako se naziva iznimno mekano i cijenjeno vlakno dobiveno od posebnih pasmina koza, čije ime potječe iz jedne južnoazijske regije?",
     "answers": {
-      "A": "Lav",
+      "A": "Moher",
       "B": "Kašmir",
-      "C": "Tigar"
+      "C": "Alpaka"
     },
     "image": null,
     "correct_answer": "B"
@@ -1761,8 +1761,8 @@
     "question": "Koje je boje karta kojom nogometni sudac isključuje igrača iz utakmice?",
     "answers": {
       "A": "Crvena",
-      "B": "Pickelhaube",
-      "C": "Tulipomanija"
+      "B": "Žuta",
+      "C": "Plava"
     },
     "image": null,
     "correct_answer": "A"
@@ -1773,9 +1773,9 @@
     "topic": "svastara",
     "question": "Koja je karakteristična pruska vojna kaciga, uvedena u 19. stoljeću, bila lako prepoznatljiva po šiljku koji se uzdizao s njezina vrha?",
     "answers": {
-      "A": "Crvena",
+      "A": "Shako",
       "B": "Pickelhaube",
-      "C": "Tulipomanija"
+      "C": "Busby"
     },
     "image": null,
     "correct_answer": "B"
@@ -1800,8 +1800,8 @@
     "question": "Koji je austrijsko-njemački automobilski konstruktor sudjelovao u razvoju izvornog Volkswagena, a njegovo prezime danas nosi jedna od najslavnijih marki sportskih automobila?",
     "answers": {
       "A": "Ferdinand Porsche",
-      "B": "Louis Vuitton",
-      "C": "Pax Mongolica"
+      "B": "Karl Benz",
+      "C": "Gottlieb Daimler"
     },
     "image": null,
     "correct_answer": "A"
@@ -1812,9 +1812,9 @@
     "topic": "svastara",
     "question": "Kako se popularno naziva nizozemska pomama za lukovicama tulipana iz 17. stoljeća, često navođena kao jedan od najpoznatijih povijesnih primjera špekulativnog balona?",
     "answers": {
-      "A": "Rauchbier",
+      "A": "Južnomorski mjehur",
       "B": "Tulipomanija",
-      "C": "Pickelhaube"
+      "C": "Mississippi Bubble"
     },
     "image": null,
     "correct_answer": "B"
@@ -1825,8 +1825,8 @@
     "topic": "svastara",
     "question": "Kako se naziva njemački stil piva čije ime doslovno upućuje na dim, a posebno se povezuje s Bambergom?",
     "answers": {
-      "A": "Tulipomanija",
-      "B": "Vestern",
+      "A": "Gose",
+      "B": "Kölsch",
       "C": "Rauchbier"
     },
     "image": null,
@@ -1839,8 +1839,8 @@
     "question": "Koji je francuski modni brend nastao 1854.g. kao radionica proizvođača putnih kovčega, mnogo prije nego što je postao jedan od najpoznatijih luksuznih brendova svijeta?",
     "answers": {
       "A": "Louis Vuitton",
-      "B": "Ferdinand Porsche",
-      "C": "Edward Vernon"
+      "B": "Goyard",
+      "C": "Moynat"
     },
     "image": null,
     "correct_answer": "A"
@@ -1851,9 +1851,9 @@
     "topic": "svastara",
     "question": "Kojeg žanra je bio film 'Udaljeni Bubnjevi' (Distant Drums), koji je ostao ponajviše poznat po zvučnom efektu Wilhelm Scream, koji se i danas koristi u mnogim filmovima?",
     "answers": {
-      "A": "Fanta",
+      "A": "Mjuzikl",
       "B": "Vestern",
-      "C": "Rauchbier"
+      "C": "Noir"
     },
     "image": null,
     "correct_answer": "B"
@@ -1864,8 +1864,8 @@
     "topic": "svastara",
     "question": "Koje je danas globalno poznato bezalkoholno piće nastalo u Njemačkoj tijekom Drugog svjetskog rata kada tamošnja podružnica Coca-Cole više nije mogla normalno nabavljati sastojke za originalno piće?",
     "answers": {
-      "A": "Vestern",
-      "B": "Corolla",
+      "A": "Sprite",
+      "B": "Mirinda",
       "C": "Fanta"
     },
     "image": null,
@@ -1878,8 +1878,8 @@
     "question": "Koji Toyotin model, predstavljen 1966.g., nosi ime koje na latinskom znači 'mala kruna', a postao je jedno od najprodavanijih automobilskih imena u povijesti?",
     "answers": {
       "A": "Corolla",
-      "B": "Fanta",
-      "C": "Boater"
+      "B": "Corona",
+      "C": "Crown"
     },
     "image": null,
     "correct_answer": "A"
@@ -1890,9 +1890,9 @@
     "topic": "svastara",
     "question": "Kako se na engleskom naziva kruti slamnati šešir ravnog vrha i oboda koji je krajem 19. i početkom 20. stoljeća postao posebno popularan među veslačima?",
     "answers": {
-      "A": "Corolla",
+      "A": "Panama",
       "B": "Boater",
-      "C": "Krez"
+      "C": "Fedora"
     },
     "image": null,
     "correct_answer": "B"
@@ -1903,8 +1903,8 @@
     "topic": "svastara",
     "question": "Koji je legendarno bogati lidijski kralj iz 6. stoljeća pr. Kr. ostao toliko poznat po svojem bogatstvu da je njegovo ime stoljećima bilo sinonim za nevjerojatno bogata čovjeka?",
     "answers": {
-      "A": "Boater",
-      "B": "Žuto",
+      "A": "Mida",
+      "B": "Darije I.",
       "C": "Krez"
     },
     "image": null,
@@ -1917,8 +1917,8 @@
     "question": "Koje svjetlo na standardnom cestovnom semaforu nalazi se između crvenog i zelenog?",
     "answers": {
       "A": "Žuto",
-      "B": "Krez",
-      "C": "Porculan"
+      "B": "Plavo",
+      "C": "Bijelo"
     },
     "image": null,
     "correct_answer": "A"
@@ -1929,9 +1929,9 @@
     "topic": "svastara",
     "question": "Koji je kineski materijal, dobiven pečenjem posebne keramike na visokim temperaturama, stoljećima bio toliko cijenjen u Europi da je njegovo ime postalo gotovo sinonim za luksuzno posuđe?",
     "answers": {
-      "A": "Žuto",
+      "A": "Fajansa",
       "B": "Porculan",
-      "C": "Krez"
+      "C": "Kamenina"
     },
     "image": null,
     "correct_answer": "B"
@@ -1956,8 +1956,8 @@
     "question": "Koji je britanski admiral, poznat pod nadimkom 'Old Grog', 1740.g. naredio razrjeđivanje mornarske porcije ruma vodom, a njegov je nadimak ostao živjeti u nazivu pića?",
     "answers": {
       "A": "Edward Vernon",
-      "B": "Louis Vuitton",
-      "C": "Ferdinand Porsche"
+      "B": "Horatio Nelson",
+      "C": "John Jervis"
     },
     "image": null,
     "correct_answer": "A"
@@ -1968,9 +1968,9 @@
     "topic": "svastara",
     "question": "Kako se naziva tehnologija distribuirane digitalne knjige zapisa u kojoj se podaci grupiraju u međusobno povezane blokove, a posebno ju je proslavio Bitcoin?",
     "answers": {
-      "A": "Lassi",
+      "A": "Hashgraph",
       "B": "Blockchain",
-      "C": "Porculan"
+      "C": "DAG"
     },
     "image": null,
     "correct_answer": "B"
@@ -1981,8 +1981,8 @@
     "topic": "svastara",
     "question": "Koji indijski napitak na bazi jogurta postoji u slatkim i slanim verzijama, dok je verzija s mangom postala popularna diljem svijeta?",
     "answers": {
-      "A": "Blockchain",
-      "B": "Trench coat",
+      "A": "Ayran",
+      "B": "Kefir",
       "C": "Lassi"
     },
     "image": null,
@@ -2007,9 +2007,9 @@
     "topic": "svastara",
     "question": "Kako se naziva dugi kaput koji se razvio iz vojne odjeće, a njegov engleski naziv doslovno upućuje na rovove u kojima su ga vojnici nosili tijekom Prvog svjetskog rata?",
     "answers": {
-      "A": "Fiat",
+      "A": "Peacoat",
       "B": "Trench coat",
-      "C": "Lassi"
+      "C": "Duffel coat"
     },
     "image": null,
     "correct_answer": "B"
@@ -2020,8 +2020,8 @@
     "topic": "svastara",
     "question": "Koja je talijanska automobilska marka 1957.g. predstavila maleni model 500, automobil koji je postao jedan od najvećih simbola poslijeratne motorizacije Italije?",
     "answers": {
-      "A": "Trench coat",
-      "B": "Lassi",
+      "A": "Lancia",
+      "B": "Alfa Romeo",
       "C": "Fiat"
     },
     "image": null,
@@ -2046,9 +2046,9 @@
     "topic": "svastara",
     "question": "Popularni naziv za pojavu u kojoj talac razvije pozitivne osjećaje prema otmičaru nastao je nakon pljačke banke 1973.g. u kojem gradu?",
     "answers": {
-      "A": "Lisabon",
+      "A": "Oslo",
       "B": "Stockholm",
-      "C": "Pragu"
+      "C": "Helsinki"
     },
     "image": null,
     "correct_answer": "B"
@@ -2073,8 +2073,8 @@
     "question": "Kada u pustinji vidimo nešto što zapravo ne postoji , onda doživljavamo koju optičku varku?",
     "answers": {
       "A": "Fatamorganu",
-      "B": "Grog",
-      "C": "Plzeň"
+      "B": "Halo",
+      "C": "Duga"
     },
     "image": null,
     "correct_answer": "A"
@@ -2085,9 +2085,9 @@
     "topic": "svastara",
     "question": "Kako se nazvao mornarski napitak koji je nastao kada je britanska Kraljevska mornarica počela dnevnu porciju ruma razrjeđivati vodom?",
     "answers": {
-      "A": "Fatamorganu",
+      "A": "Toddy",
       "B": "Grog",
-      "C": "Plzeň"
+      "C": "Punsch"
     },
     "image": null,
     "correct_answer": "B"
@@ -2098,8 +2098,8 @@
     "topic": "svastara",
     "question": "Koji je češki grad dao ime stilu svijetlog lagera koji je ondje prvi put proizveden 1842.g.?",
     "answers": {
-      "A": "Grog",
-      "B": "Fatamorganu",
+      "A": "České Budějovice",
+      "B": "Bamberg",
       "C": "Plzeň"
     },
     "image": null,
@@ -2112,8 +2112,8 @@
     "question": "Koje je utvrđeno mjesto u Kentuckyju postalo gotovo mitski simbol američkih zlatnih rezervi jer se ondje nalazi United States Bullion Depository?",
     "answers": {
       "A": "Fort Knox",
-      "B": "Edward Vernon",
-      "C": "Mt. Gox"
+      "B": "West Point",
+      "C": "Cheyenne Mountain"
     },
     "image": null,
     "correct_answer": "A"
@@ -2137,8 +2137,8 @@
     "topic": "svastara",
     "question": "Koja je luka na ulazu u Perzijski zaljev bila važna postaja na putovanjima obitelji Polo i stoljećima jedno od ključnih trgovačkih čvorišta između Perzije, Indije i Arabije?",
     "answers": {
-      "A": "Aviator",
-      "B": "Plzeň",
+      "A": "Aden",
+      "B": "Basra",
       "C": "Hormuz"
     },
     "image": null,
@@ -2151,8 +2151,8 @@
     "question": "Kako se naziva kultni model sunčanih naočala koji je izvorno razvijen za američke pilote, a karakteriziraju ga velike, približno kapljaste leće?",
     "answers": {
       "A": "Aviator",
-      "B": "Hormuz",
-      "C": "Zeleno"
+      "B": "Wayfarer",
+      "C": "Clubmaster"
     },
     "image": null,
     "correct_answer": "A"
@@ -2163,9 +2163,9 @@
     "topic": "svastara",
     "question": "Kako se zove metalna slamka s filtrom na donjem kraju kojom se tradicionalno pije južnoamerički 'mate' bez uvlačenja komadića biljke?",
     "answers": {
-      "A": "Promjer",
+      "A": "Calabash",
       "B": "Bombilla",
-      "C": "Zelene"
+      "C": "Cuia"
     },
     "image": null,
     "correct_answer": "B"
@@ -2176,8 +2176,8 @@
     "topic": "svastara",
     "question": "Koje svjetlo na semaforu označava da je prolazak dopušten?",
     "answers": {
-      "A": "Nula",
-      "B": "Aviator",
+      "A": "Crveno",
+      "B": "Žuto",
       "C": "Zeleno"
     },
     "image": null,
@@ -2190,8 +2190,8 @@
     "question": "Koliko je 99 + 1-100?",
     "answers": {
       "A": "Nula",
-      "B": "Zeleno",
-      "C": "Shako"
+      "B": "−1",
+      "C": "1"
     },
     "image": null,
     "correct_answer": "A"
@@ -2215,8 +2215,8 @@
     "topic": "svastara",
     "question": "Kako se naziva visoka vojnička kapa sa šiltom, često ukrašena značkom i perjanicom, koja je tijekom Napoleonskih ratova postala dio odore brojnih europskih vojski?",
     "answers": {
-      "A": "Tunguzija",
-      "B": "Nula",
+      "A": "Pickelhaube",
+      "B": "Busby",
       "C": "Shako"
     },
     "image": null,
@@ -2229,8 +2229,8 @@
     "question": "U kojem je sibirskom području 1908.g. došlo do goleme eksplozije koja je sravnila više od 2.000 km² šume, a pritom nije ostavila klasični udarni krater?",
     "answers": {
       "A": "Tunguzija",
-      "B": "Shako",
-      "C": "Krug"
+      "B": "Kamčatka",
+      "C": "Jakutija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2241,9 +2241,9 @@
     "topic": "svastara",
     "question": "Kojeg je oblika baza stošca?",
     "answers": {
-      "A": "Tunguzija",
+      "A": "Elipsa",
       "B": "Krug",
-      "C": "Barista"
+      "C": "Kvadrat"
     },
     "image": null,
     "correct_answer": "B"
@@ -2254,8 +2254,8 @@
     "topic": "svastara",
     "question": "Koji talijanski naziv za osobu koja radi za šankom danas širom svijeta prvenstveno povezujemo sa stručnjakom za pripremu espressa i drugih napitaka od kave?",
     "answers": {
-      "A": "Krug",
-      "B": "Tunguzija",
+      "A": "Sommelier",
+      "B": "Barmen",
       "C": "Barista"
     },
     "image": null,
@@ -2268,8 +2268,8 @@
     "question": "Koja je nekoć najveća burza za trgovanje Bitcoinom, sa sjedištem u Tokiju, propala 2014.g. nakon nestanka goleme količine bitcoina svojih korisnika?",
     "answers": {
       "A": "Mt. Gox",
-      "B": "Fort Knox",
-      "C": "Bernie Madoff"
+      "B": "Bitfinex",
+      "C": "FTX"
     },
     "image": null,
     "correct_answer": "A"
@@ -2280,9 +2280,9 @@
     "topic": "svastara",
     "question": "Koja portugalska rijeka protječe kroz jednu od najstarijih zakonski razgraničenih vinskih regija svijeta, poznatu ponajprije po proizvodnji vina 'porta'?",
     "answers": {
-      "A": "Zelena",
+      "A": "Tagus",
       "B": "Douro",
-      "C": "Barista"
+      "C": "Guadiana"
     },
     "image": null,
     "correct_answer": "B"
@@ -2293,8 +2293,8 @@
     "topic": "svastara",
     "question": "Koja je boja klorofila, pigmenta zahvaljujući kojem većina listova biljaka apsorbira svjetlost za fotosintezu?",
     "answers": {
-      "A": "Douro",
-      "B": "Ugljikov dioksid",
+      "A": "Crvena",
+      "B": "Plava",
       "C": "Zelena"
     },
     "image": null,
@@ -2307,8 +2307,8 @@
     "question": "Koji je plin odgovoran za mjehuriće u pjenušavom vinu?",
     "answers": {
       "A": "Ugljikov dioksid",
-      "B": "Zelena",
-      "C": "Ispruženi kut"
+      "B": "Dušik",
+      "C": "Kisik"
     },
     "image": null,
     "correct_answer": "A"
@@ -2319,9 +2319,9 @@
     "topic": "svastara",
     "question": "Kako se naziva kut od točno 180°?",
     "answers": {
-      "A": "Ugljikov dioksid",
+      "A": "Pravi kut",
       "B": "Ispruženi kut",
-      "C": "Zelena"
+      "C": "Puni kut"
     },
     "image": null,
     "correct_answer": "B"
@@ -2346,8 +2346,8 @@
     "question": "Koja je mađarska vinska regija toliko slavna po svojim povijesnim slatkim vinima da je njezin krajolik uvršten na UNESCO-ov popis svjetske baštine?",
     "answers": {
       "A": "Tokaj",
-      "B": "Bijele",
-      "C": "Ispruženi kut"
+      "B": "Eger",
+      "C": "Villány"
     },
     "image": null,
     "correct_answer": "A"
@@ -2358,9 +2358,9 @@
     "topic": "svastara",
     "question": "Koje je boje križ na zastavi Švicarske?",
     "answers": {
-      "A": "Tokaj",
+      "A": "Crvene",
       "B": "Bijele",
-      "C": "Fedora"
+      "C": "Plave"
     },
     "image": null,
     "correct_answer": "B"
@@ -2371,8 +2371,8 @@
     "topic": "svastara",
     "question": "Koji je šešir dobio ime prema naslovnoj junakinji drame Victoriena Sardoua iz 1882.g., a tijekom 20. stoljeća postao jedan od najpoznatijih muških šešira?",
     "answers": {
-      "A": "Bijele",
-      "B": "Prost broj",
+      "A": "Trilby",
+      "B": "Homburg",
       "C": "Fedora"
     },
     "image": null,
@@ -2385,8 +2385,8 @@
     "question": "Kako se naziva broj koji ima točno dva pozitivna djelitelja?",
     "answers": {
       "A": "Prost broj",
-      "B": "Fedora",
-      "C": "Bijele"
+      "B": "Složen broj",
+      "C": "Savršen broj"
     },
     "image": null,
     "correct_answer": "A"
@@ -2410,8 +2410,8 @@
     "topic": "svastara",
     "question": "Koji je njemački grad dao ime Kölschu, lokalnom stilu piva čiji je naziv zaštićen zemljopisnim podrijetlom?",
     "answers": {
-      "A": "Prost broj",
-      "B": "Fascinator",
+      "A": "Düsseldorf",
+      "B": "Bremen",
       "C": "Köln"
     },
     "image": null,
@@ -2424,8 +2424,8 @@
     "question": "Koji je američki financijer 2008.g. priznao da je njegova investicijska djelatnost zapravo golema Ponzijeva shema, jedna od najvećih financijskih prijevara u povijesti?",
     "answers": {
       "A": "Bernie Madoff",
-      "B": "Mt. Gox",
-      "C": "Satoshi Nakamoto"
+      "B": "Allen Stanford",
+      "C": "Charles Ponzi"
     },
     "image": null,
     "correct_answer": "A"
@@ -2436,9 +2436,9 @@
     "topic": "svastara",
     "question": "Kako se naziva mali ukras za glavu, često ukrašen perjem, cvijećem ili mrežicom, koji se umjesto klasičnog šešira često nosi na britanskim vjenčanjima i drugim svečanostima?",
     "answers": {
-      "A": "Michelin",
+      "A": "Pillbox",
       "B": "Fascinator",
-      "C": "Köln"
+      "C": "Tiara"
     },
     "image": null,
     "correct_answer": "B"
@@ -2449,8 +2449,8 @@
     "topic": "svastara",
     "question": "Sustav dodjeljivanja jedne, dvije ili tri zvjezdice vrhunskim restoranima potječe od vodiča kojeg francuskog proizvođača automobilskih guma?",
     "answers": {
-      "A": "Fascinator",
-      "B": "Osmerokut",
+      "A": "Pirelli",
+      "B": "Goodyear",
       "C": "Michelin"
     },
     "image": null,
@@ -2463,8 +2463,8 @@
     "question": "Kako se naziva mnogokut s osam stranica?",
     "answers": {
       "A": "Osmerokut",
-      "B": "Michelin",
-      "C": "Fascinator"
+      "B": "Sedmerokut",
+      "C": "Devetokut"
     },
     "image": null,
     "correct_answer": "A"
@@ -2475,9 +2475,9 @@
     "topic": "svastara",
     "question": "U kojem se europskom gradu nalazi viseći most Ponte 25 de Abril, koji je nakon Revolucije karanfila 1974.g. preimenovan u čast datuma njezina početka?",
     "answers": {
-      "A": "Stockholm",
+      "A": "Porto",
       "B": "Lisabon",
-      "C": "Pragu"
+      "C": "Coimbra"
     },
     "image": null,
     "correct_answer": "B"
@@ -2527,8 +2527,8 @@
     "topic": "svastara",
     "question": "Koje je kratko automobilsko ime, nastalo tijekom Drugog svjetskog rata, s vremenom postalo gotovo sinonim za robusno terensko vozilo?",
     "answers": {
-      "A": "Yuan",
-      "B": "Numizmatika",
+      "A": "Land Rover",
+      "B": "Hummer",
       "C": "Jeep"
     },
     "image": null,
@@ -2553,9 +2553,9 @@
     "topic": "svastara",
     "question": "Koja je mongolska dinastija vladala Kinom tijekom boravka Marka Pola u Aziji, a njezin je prvi car bio Kublaj-kan?",
     "answers": {
-      "A": "Jeep",
+      "A": "Song",
       "B": "Yuan",
-      "C": "Numizmatika"
+      "C": "Ming"
     },
     "image": null,
     "correct_answer": "B"
@@ -2566,8 +2566,8 @@
     "topic": "svastara",
     "question": "Kako se zove dužina kroz središte kružnice koja spaja dvije točke kružnice?",
     "answers": {
-      "A": "Kvocijent",
-      "B": "Scotch",
+      "A": "Polumjer",
+      "B": "Tetiva",
       "C": "Promjer"
     },
     "image": null,
@@ -2580,8 +2580,8 @@
     "question": "Kako se naziva znanstveno i kolekcionarsko proučavanje kovanica, medalja i drugih oblika novca?",
     "answers": {
       "A": "Numizmatika",
-      "B": "Akubra",
-      "C": "Yuan"
+      "B": "Notafilija",
+      "C": "Filatelija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2592,9 +2592,9 @@
     "topic": "svastara",
     "question": "Koja je australska marka šešira, registrirana 1912.g., svojim širokoobodnim modelima postala jedan od prepoznatljivih simbola australskog busha?",
     "answers": {
-      "A": "Numizmatika",
+      "A": "R.M. Williams",
       "B": "Akubra",
-      "C": "Viseći most"
+      "C": "Driza-Bone"
     },
     "image": null,
     "correct_answer": "B"
@@ -2605,8 +2605,8 @@
     "topic": "svastara",
     "question": "Kako se naziva tip mosta kod kojeg glavnu nosivu konstrukciju čine kabeli ovješeni između visokih tornjeva?",
     "answers": {
-      "A": "Akubra",
-      "B": "Bourbon",
+      "A": "Lučni most",
+      "B": "Kabelski most",
       "C": "Viseći most"
     },
     "image": null,
@@ -2619,8 +2619,8 @@
     "question": "Koja američka vrsta whiskeyja prema zakonskoj definiciji mora biti proizvedena od žitne smjese koja sadrži najmanje 51 % kukuruza?",
     "answers": {
       "A": "Bourbon",
-      "B": "Viseći most",
-      "C": "Akubra"
+      "B": "Rye whiskey",
+      "C": "Wheat whiskey"
     },
     "image": null,
     "correct_answer": "A"
@@ -2631,9 +2631,9 @@
     "topic": "svastara",
     "question": "Pod kojim je pseudonimom poznat tajanstveni autor ili skupina autora koji su 2008.g. objavili dokument kojim je predstavljen Bitcoin?",
     "answers": {
-      "A": "Mary Celeste",
+      "A": "Hal Finney",
       "B": "Satoshi Nakamoto",
-      "C": "Bernie Madoff"
+      "C": "Nick Szabo"
     },
     "image": null,
     "correct_answer": "B"
@@ -2644,8 +2644,8 @@
     "topic": "svastara",
     "question": "Američki trgovački jedrenjak pronađen 1872.g. kako pluta Atlantikom bez svoje posade zvao se kako?",
     "answers": {
-      "A": "Satoshi Nakamoto",
-      "B": "Mehmed-paše Sokolovića",
+      "A": "Carroll A. Deering",
+      "B": "Kaz II",
       "C": "Mary Celeste"
     },
     "image": null,
@@ -2658,8 +2658,8 @@
     "question": "Koje se drevno kraljevstvo u zapadnoj Maloj Aziji najčešće povezuje s pojavom prvih kovanica u povijesti, izrađivanih od prirodne legure zlata i srebra?",
     "answers": {
       "A": "Lidija",
-      "B": "Bicorne",
-      "C": "Bourbon"
+      "B": "Frigija",
+      "C": "Jonija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2670,9 +2670,9 @@
     "topic": "svastara",
     "question": "Koji je dvorogi šešir postao neraskidivo povezan s Napoleonom, koji ga je često nosio postrance kako bi bio lako prepoznatljiv među svojim vojnicima",
     "answers": {
-      "A": "Lidija",
+      "A": "Tricorne",
       "B": "Bicorne",
-      "C": "Mercedes"
+      "C": "Shako"
     },
     "image": null,
     "correct_answer": "B"
@@ -2697,8 +2697,8 @@
     "question": "Koja automobilska marka koristi trokraku zvijezdu čiji su krakovi tradicionalno tumačeni kao simbol motorizacije na kopnu, vodi i u zraku?",
     "answers": {
       "A": "Mercedes",
-      "B": "Crvene",
-      "C": "Bicorne"
+      "B": "Subaru",
+      "C": "Chrysler"
     },
     "image": null,
     "correct_answer": "A"
@@ -2709,9 +2709,9 @@
     "topic": "svastara",
     "question": "Koje je boje međunarodno prepoznatljiv simbol Crvenog križa na bijeloj podlozi?",
     "answers": {
-      "A": "Mercedes",
+      "A": "Plave",
       "B": "Crvene",
-      "C": "Sol"
+      "C": "Zelene"
     },
     "image": null,
     "correct_answer": "B"
@@ -2722,8 +2722,8 @@
     "topic": "svastara",
     "question": "Koja je danas sasvim obična kuhinjska namirnica u srednjovjekovnoj Kini bila toliko važna državna roba da su porezi i monopol na njezinu prodaju donosili goleme prihode vlastima?",
     "answers": {
-      "A": "Crvene",
-      "B": "Polo",
+      "A": "Čaj",
+      "B": "Porculan",
       "C": "Sol"
     },
     "image": null,
@@ -2736,8 +2736,8 @@
     "question": "Koji je sport dao ime majici kratkih rukava s ovratnikom i nekoliko gumba ispod vrata, danas jednom od najraširenijih komada ležerne odjeće?",
     "answers": {
       "A": "Polo",
-      "B": "Sol",
-      "C": "Crvene"
+      "B": "Tenis",
+      "C": "Ragbi"
     },
     "image": null,
     "correct_answer": "A"
@@ -2748,9 +2748,9 @@
     "topic": "svastara",
     "question": "Kako se zove rezultat dijeljenja?",
     "answers": {
-      "A": "Scotch",
+      "A": "Umnožak",
       "B": "Kvocijent",
-      "C": "Nordschleife"
+      "C": "Razlika"
     },
     "image": null,
     "correct_answer": "B"
@@ -2761,8 +2761,8 @@
     "topic": "svastara",
     "question": "Koji je tip šešira dobio ime prema naslovnoj junakinji drame francuskog pisca Victoriena Sardoua, koju je na pozornici 1882.g. glumila Sarah Bernhardt?",
     "answers": {
-      "A": "Polo",
-      "B": "Bordo",
+      "A": "Trilby",
+      "B": "Homburg",
       "C": "Fedora"
     },
     "image": null,
@@ -2775,8 +2775,8 @@
     "question": "Koje je danas jedno od najpoznatijih bezalkoholnih pića svijeta prvi put predstavljeno 1886.g. u ljekarni u Atlanti, gdje se u početku prodavalo po pet centi za čašu?",
     "answers": {
       "A": "Coca Cola",
-      "B": "Panama",
-      "C": "Benediktinci"
+      "B": "Dr Pepper",
+      "C": "Pepsi-Cola"
     },
     "image": null,
     "correct_answer": "A"
@@ -2787,9 +2787,9 @@
     "topic": "svastara",
     "question": "Kako se naziva duboka crvena boja koja je ime dobila prema francuskom vinskom području?",
     "answers": {
-      "A": "Fedora",
+      "A": "Kestenjasta",
       "B": "Bordo",
-      "C": "Fatamorgana"
+      "C": "Purpurna"
     },
     "image": null,
     "correct_answer": "B"
@@ -2800,8 +2800,8 @@
     "topic": "svastara",
     "question": "Koji naziv smije nositi whisky proizveden i odležan u Škotskoj u skladu s tamošnjim zakonskim pravilima?",
     "answers": {
-      "A": "Nordschleife",
-      "B": "Kvocijent",
+      "A": "Bourbon",
+      "B": "Irish whiskey",
       "C": "Scotch"
     },
     "image": null,
@@ -2814,8 +2814,8 @@
     "question": "Koju optičku varku dobijemo spajanjem talijaske riječi za 'vilu' i imena polusestre kralja Arthura?",
     "answers": {
       "A": "Fatamorgana",
-      "B": "Bordo",
-      "C": "Deerstalker"
+      "B": "Déjà vu",
+      "C": "Pareidolija"
     },
     "image": null,
     "correct_answer": "A"
@@ -2826,9 +2826,9 @@
     "topic": "svastara",
     "question": "Kako se zove legendarni dio Nürburgringa dug više od 20 kilometara, na kojem se utrke voze i danas, a kojem je Jackie Stewart dao nadimak 'Zeleni pakao'?",
     "answers": {
-      "A": "Scotch",
+      "A": "Südschleife",
       "B": "Nordschleife",
-      "C": "Kvocijent"
+      "C": "Hockenheimring"
     },
     "image": null,
     "correct_answer": "B"
@@ -2839,8 +2839,8 @@
     "topic": "svastara",
     "question": "Koji je most u Višegradu poslužio kao središnji simbol romana Ive Andrića 'Na Drini ćuprija'?",
     "answers": {
-      "A": "Mary Celeste",
-      "B": "Henry Ford",
+      "A": "Arslanagića most",
+      "B": "Stari most u Mostaru",
       "C": "Mehmed-paše Sokolovića"
     },
     "image": null,
@@ -2853,8 +2853,8 @@
     "question": "Koji je lovački šešir s prednjim i stražnjim šiltom zahvaljujući ilustracijama i kasnijoj popularnoj kulturi postao gotovo neodvojiv od lika Sherlocka Holmesa?",
     "answers": {
       "A": "Deerstalker",
-      "B": "Bikini",
-      "C": "Fatamorgana"
+      "B": "Flat cap",
+      "C": "Newsboy cap"
     },
     "image": null,
     "correct_answer": "A"
@@ -2865,9 +2865,9 @@
     "topic": "svastara",
     "question": "Koji je ženski dvodijelni kupaći kostim dobio ime prema pacifičkom atolu na kojem su SAD 1946.g. izvodile nuklearne pokuse?",
     "answers": {
-      "A": "Deerstalker",
+      "A": "Monokini",
       "B": "Bikini",
-      "C": "Hipotenuza"
+      "C": "Tankini"
     },
     "image": null,
     "correct_answer": "B"
@@ -2878,8 +2878,8 @@
     "topic": "svastara",
     "question": "Kako se zove velika američka burza osnovana 1971.g., poznata po snažnoj zastupljenosti tehnoloških kompanija i po tome što je započela kao elektroničko tržište vrijednosnih papira?",
     "answers": {
-      "A": "South Sea Company",
-      "B": "QR",
+      "A": "NYSE",
+      "B": "AMEX",
       "C": "NASDAQ"
     },
     "image": null,
@@ -2892,8 +2892,8 @@
     "question": "Kako se naziva najdulja stranica pravokutnog trokuta?",
     "answers": {
       "A": "Hipotenuza",
-      "B": "Placebo efekt",
-      "C": "Bikini"
+      "B": "Kateta",
+      "C": "Težišnica"
     },
     "image": null,
     "correct_answer": "A"
@@ -2904,9 +2904,9 @@
     "topic": "svastara",
     "question": "Učinak kod kojeg osoba može osjetiti poboljšanje nakon tretmana bez specifičnog aktivnog djelovanja, djelomično zbog očekivanja, naziva se?",
     "answers": {
-      "A": "Hipotenuza",
+      "A": "Nocebo efekt",
       "B": "Placebo efekt",
-      "C": "Bikini"
+      "C": "Hawthorneov efekt"
     },
     "image": null,
     "correct_answer": "B"
@@ -2943,9 +2943,9 @@
     "topic": "svastara",
     "question": "Koji je britanski model, prepoznatljiv po vrlo kratkoj kosi i velikim očima, postao jednom od najvećih modnih ikona 'Swinging Londona' tijekom 1960-ih?",
     "answers": {
-      "A": "Kentucky",
+      "A": "Jean Shrimpton",
       "B": "Twiggy",
-      "C": "Elektrum"
+      "C": "Penelope Tree"
     },
     "image": null,
     "correct_answer": "B"
@@ -2956,8 +2956,8 @@
     "topic": "svastara",
     "question": "Koja je američka savezna država toliko povezana s bourbonom da se u njoj proizvodi golema većina tog američkog whiskeyja?",
     "answers": {
-      "A": "Twiggy",
-      "B": "Elektrum",
+      "A": "Tennessee",
+      "B": "Virginia",
       "C": "Kentucky"
     },
     "image": null,
@@ -2970,8 +2970,8 @@
     "question": "Kako se naziva prirodna legura zlata i srebra od koje su u drevnoj Lidiji kovane neke od prvih poznatih kovanica u povijesti?",
     "answers": {
       "A": "Elektrum",
-      "B": "Kentucky",
-      "C": "Horchata"
+      "B": "Bronca",
+      "C": "Mjed"
     },
     "image": null,
     "correct_answer": "A"
@@ -2982,9 +2982,9 @@
     "topic": "svastara",
     "question": "Koje se španjolsko osvježavajuće piće u Valenciji tradicionalno proizvodi od tigrovih oraščića, odnosno gomolja biljke Cyperus esculentus?",
     "answers": {
-      "A": "Elektrum",
+      "A": "Aguas frescas",
       "B": "Horchata",
-      "C": "Kentucky"
+      "C": "Leche merengada"
     },
     "image": null,
     "correct_answer": "B"
@@ -2995,8 +2995,8 @@
     "topic": "svastara",
     "question": "Koja je britanska kompanija 1720.g. bila u središtu velike burzovne pomame nakon koje je cijena njezinih dionica naglo propala i izazvala financijski kaos u Britaniji?",
     "answers": {
-      "A": "NASDAQ",
-      "B": "QR",
+      "A": "Mississippi Company",
+      "B": "Dutch East India Company",
       "C": "South Sea Company"
     },
     "image": null,
@@ -3009,8 +3009,8 @@
     "question": "Kako se naziva njemačko piće nastalo miješanjem piva i limunade, čije ime na njemačkom znači 'biciklist'?",
     "answers": {
       "A": "Radler",
-      "B": "Rosetta",
-      "C": "Horchata"
+      "B": "Diesel",
+      "C": "Snakebite"
     },
     "image": null,
     "correct_answer": "A"
@@ -3021,9 +3021,9 @@
     "topic": "svastara",
     "question": "U blizini kojeg je egipatskog grada 1799.g. pronađena kamena ploča s istim tekstom na starogrčkom, demotskom pismu i hijeroglifima, koja je poslije postala ključ za njihovo dešifriranje?",
     "answers": {
-      "A": "Radler",
+      "A": "Aleksandrija",
       "B": "Rosetta",
-      "C": "Horchata"
+      "C": "Giza"
     },
     "image": null,
     "correct_answer": "B"
@@ -3034,8 +3034,8 @@
     "topic": "svastara",
     "question": "Koji je američki industrijalac postao simbol masovne automobilske proizvodnje zahvaljujući pokretnoj proizvodnoj traci kojom je dramatično ubrzao izradu Modela T?",
     "answers": {
-      "A": "Brooklyn Bridge",
-      "B": "Adam Smith",
+      "A": "Ransom E. Olds",
+      "B": "Walter Chrysler",
       "C": "Henry Ford"
     },
     "image": null,
@@ -3060,9 +3060,9 @@
     "topic": "svastara",
     "question": "Kako se naziva stručnjak u restoranu koji gostima preporučuje vina, brine o vinskoj karti te poznaje pravilno čuvanje i posluživanje vina?",
     "answers": {
-      "A": "Rosetta",
+      "A": "Enolog",
       "B": "Sommelier",
-      "C": "Rustichello"
+      "C": "Vinski trgovac"
     },
     "image": null,
     "correct_answer": "B"
@@ -3073,8 +3073,8 @@
     "topic": "svastara",
     "question": "Koji most preko East Rivera povezuje Manhattan i Brooklyn, a nakon dovršetka 1883.g. bio je najveći viseći most svojega doba?",
     "answers": {
-      "A": "Henry Ford",
-      "B": "Adam Smith",
+      "A": "Manhattan Bridge",
+      "B": "Williamsburg Bridge",
       "C": "Brooklyn Bridge"
     },
     "image": null,
@@ -3099,9 +3099,9 @@
     "topic": "svastara",
     "question": "Kako se zvao pisac iz Pise koji je, dijeleći zatočeništvo s Markom Polom, zapisao njegove priče o putovanjima Azijom?",
     "answers": {
-      "A": "Mini",
+      "A": "Giovanni Villani",
       "B": "Rustichello",
-      "C": "Voynich"
+      "C": "Brunetto Latini"
     },
     "image": null,
     "correct_answer": "B"
@@ -3112,8 +3112,8 @@
     "topic": "svastara",
     "question": "Koji je maleni britanski automobil iz 1959.g. revolucionarno iskoristio prostor postavljanjem motora poprečno i pogonom na prednje kotače?",
     "answers": {
-      "A": "Rustichello",
-      "B": "Voynich",
+      "A": "Fiat 500",
+      "B": "Morris Minor",
       "C": "Mini"
     },
     "image": null,
@@ -3126,8 +3126,8 @@
     "question": "Misteriozni ilustrirani rukopis iz 15. stoljeća, napisan nepoznatim i još uvijek neodgonetnutim pismom, nosi prezime kojeg trgovca knjigama koji ga je kupio 1912.g.?",
     "answers": {
       "A": "Voynich",
-      "B": "Mini",
-      "C": "Cognac"
+      "B": "Hans Peter Kraus",
+      "C": "Bernard Quaritch"
     },
     "image": null,
     "correct_answer": "A"
@@ -3138,9 +3138,9 @@
     "topic": "svastara",
     "question": "Koji francuski grad i okolno područje daju zaštićeno ime brandyju koji se mora proizvoditi prema strogo određenim pravilima da bi smio nositi taj naziv?",
     "answers": {
-      "A": "Voynich",
+      "A": "Bordeaux",
       "B": "Cognac",
-      "C": "Mini"
+      "C": "Jarnac"
     },
     "image": null,
     "correct_answer": "B"
@@ -3165,8 +3165,8 @@
     "question": "Kako se naziva lagana tradicionalna obuća s potplatom od užeta, osobito povezana sa Španjolskom i područjem Pireneja?",
     "answers": {
       "A": "Espadrile",
-      "B": "Mošus",
-      "C": "Cognac"
+      "B": "Mokasine",
+      "C": "Opanci"
     },
     "image": null,
     "correct_answer": "A"
@@ -3177,9 +3177,9 @@
     "topic": "svastara",
     "question": "Koja se skupocjena mirisna tvar životinjskog podrijetla iz Azije stoljećima koristila u parfemima i medicini te predstavljala jednu od egzotičnih roba o kojima su europski putnici pisali tijekom Puta Svile?",
     "answers": {
-      "A": "Espadrile",
+      "A": "Ambra",
       "B": "Mošus",
-      "C": "Cognac"
+      "C": "Cibet"
     },
     "image": null,
     "correct_answer": "B"
@@ -3204,8 +3204,8 @@
     "question": "Koji je škotski ekonomist 1776.g. objavio djelo 'Bogatstvo naroda' i postao jedan od najpoznatijih mislilaca u povijesti ekonomije?",
     "answers": {
       "A": "Adam Smith",
-      "B": "Julius Richard Petri",
-      "C": "Brooklyn Bridge"
+      "B": "David Ricardo",
+      "C": "Thomas Malthus"
     },
     "image": null,
     "correct_answer": "A"
@@ -3216,9 +3216,9 @@
     "topic": "svastara",
     "question": "Koji je automobil s karoserijom od nehrđajućeg čelika i vratima koja se podižu prema gore postao filmski vremeplov u trilogiji 'Povratak u budućnost'?",
     "answers": {
-      "A": "Fatamorgana",
+      "A": "Pontiac Firebird",
       "B": "DeLorean",
-      "C": "Mocktail"
+      "C": "Chevrolet Camaro"
     },
     "image": null,
     "correct_answer": "B"
@@ -3229,8 +3229,8 @@
     "topic": "svastara",
     "question": "Složena atmosferska optička varka koja može stvoriti privid izduženih ili lebdećih objekata iznad horizonta nosi ime koje čarobnice iz arturijanskih legendi?",
     "answers": {
-      "A": "DeLorean",
-      "B": "Mocktail",
+      "A": "Zeleni bljesak",
+      "B": "Halo",
       "C": "Fatamorgana"
     },
     "image": null,
@@ -3243,8 +3243,8 @@
     "question": "Kako se danas naziva bezalkoholno piće osmišljeno i posluženo poput koktela, čiji je naziv nastao spajanjem riječi koje sugeriraju 'lažni koktel'?",
     "answers": {
       "A": "Mocktail",
-      "B": "Fatamorgana",
-      "C": "Tirkizna"
+      "B": "Smoothie",
+      "C": "Highball"
     },
     "image": null,
     "correct_answer": "A"
@@ -3255,9 +3255,9 @@
     "topic": "svastara",
     "question": "Kako se naziva boja između plave i zelene, čiji naziv potječe od imena dragog kamena karakteristične plavozelene boje?",
     "answers": {
-      "A": "Mocktail",
+      "A": "Akvamarin",
       "B": "Tirkizna",
-      "C": "Fatamorgana"
+      "C": "Petrolej plava"
     },
     "image": null,
     "correct_answer": "B"
@@ -3268,8 +3268,8 @@
     "topic": "svastara",
     "question": "Iz koje države potječe šampanjac?",
     "answers": {
-      "A": "Škotska",
-      "B": "Coca Cola",
+      "A": "Italija",
+      "B": "Španjolska",
       "C": "Francuska"
     },
     "image": null,
@@ -3307,8 +3307,8 @@
     "topic": "svastara",
     "question": "Plitka laboratorijska posuda za uzgoj mikroorganizama nosi prezime kojeg njemačkog bakteriologa?",
     "answers": {
-      "A": "Theodore Roosevelt",
-      "B": "Adam Smith",
+      "A": "Robert Koch",
+      "B": "Ferdinand Cohn",
       "C": "Julius Richard Petri"
     },
     "image": null,
@@ -3321,8 +3321,8 @@
     "question": "Koji se japanski čaj ne priprema klasičnim namakanjem listića, nego se fini zeleni prah umuti izravno u vodi i tradicionalno koristi u japanskoj ceremoniji ispijanja čaja?",
     "answers": {
       "A": "Matcha",
-      "B": "Papir",
-      "C": "Tirkizna"
+      "B": "Sencha",
+      "C": "Gyokuro"
     },
     "image": null,
     "correct_answer": "A"
@@ -3346,8 +3346,8 @@
     "topic": "svastara",
     "question": "Engleski naziv „Teddy bear” za plišanog medvjedića nastao je prema nadimku kojeg američkog predsjednika?",
     "answers": {
-      "A": "Julius Richard Petri",
-      "B": "Adam Smith",
+      "A": "William Howard Taft",
+      "B": "Franklin D. Roosevelt",
       "C": "Theodore Roosevelt"
     },
     "image": null,
@@ -3372,9 +3372,9 @@
     "topic": "svastara",
     "question": "Marka Pola fascinirao je kineski novac koji nije bio izrađen od zlata, srebra ili bakra već kd kojeg materijala?",
     "answers": {
-      "A": "Déjà vu",
+      "A": "Porculan",
       "B": "Papir",
-      "C": "Faktorijel"
+      "C": "Drvo"
     },
     "image": null,
     "correct_answer": "B"
@@ -3385,8 +3385,8 @@
     "topic": "svastara",
     "question": "Osjećaj da upravo proživljavamo nešto što smo već jednom doživjeli poznat je pod kojim francuskim izrazom?",
     "answers": {
-      "A": "Papir",
-      "B": "Faktorijel",
+      "A": "Jamais vu",
+      "B": "Presque vu",
       "C": "Déjà vu"
     },
     "image": null,
@@ -3411,9 +3411,9 @@
     "topic": "svastara",
     "question": "Kako se naziva znak '!' iza broja u izrazu '5!'?",
     "answers": {
-      "A": "Méthode traditionnelle",
+      "A": "Eksponent",
       "B": "Faktorijel",
-      "C": "Déjà vu"
+      "C": "Modul"
     },
     "image": null,
     "correct_answer": "B"
@@ -3424,8 +3424,8 @@
     "topic": "svastara",
     "question": "Kako se naziva postupak proizvodnje pjenušavog vina u kojem se sekundarna fermentacija, odgovorna za nastanak mjehurića, odvija izravno u boci?",
     "answers": {
-      "A": "Faktorijel",
-      "B": "Svila",
+      "A": "Charmat metoda",
+      "B": "Karbonizacija",
       "C": "Méthode traditionnelle"
     },
     "image": null,
@@ -3438,8 +3438,8 @@
     "question": "Dvodimenzionalni kod koji je japanska tvrtka Denso Wave razvila 1994.g. za praćenje dijelova u automobilskoj industriji poznat je pod kojom kraticom?",
     "answers": {
       "A": "QR",
-      "B": "South Sea Company",
-      "C": "NASDAQ"
+      "B": "EAN",
+      "C": "NFC"
     },
     "image": null,
     "correct_answer": "A"
@@ -3450,9 +3450,9 @@
     "topic": "svastara",
     "question": "Koja je lagana i iznimno vrijedna tkanina bila jedna od najpoželjnijih azijskih roba među europskim trgovcima poput obitelji Polo?",
     "answers": {
-      "A": "Žuta",
+      "A": "Pamuk",
       "B": "Svila",
-      "C": "Méthode traditionnelle"
+      "C": "Lan"
     },
     "image": null,
     "correct_answer": "B"
@@ -3463,8 +3463,8 @@
     "topic": "svastara",
     "question": "Koje je boje karta koju nogometni sudac pokazuje igraču kao upozorenje?",
     "answers": {
-      "A": "Svila",
-      "B": "Versace",
+      "A": "Crvena",
+      "B": "Plava",
       "C": "Žuta"
     },
     "image": null,
@@ -3489,9 +3489,9 @@
     "topic": "svastara",
     "question": "Koja talijanska modna kuća kao jedan od svojih najprepoznatljivijih simbola koristi glavu Meduze iz grčke mitologije?",
     "answers": {
-      "A": "Beretka",
+      "A": "Gucci",
       "B": "Versace",
-      "C": "Žuta"
+      "C": "Valentino"
     },
     "image": null,
     "correct_answer": "B"
@@ -3502,8 +3502,8 @@
     "topic": "svastara",
     "question": "Koje mekano i okruglo pokrivalo bez oboda tradicionalno povezujemo s Baskijom i Francuskom, a danas ga nose i brojne vojne postrojbe diljem svijeta?",
     "answers": {
-      "A": "Versace",
-      "B": "Bospor",
+      "A": "Fez",
+      "B": "Kufi",
       "C": "Beretka"
     },
     "image": null,
@@ -3516,8 +3516,8 @@
     "question": "Kako se zove čep izrađen od kore hrasta plutnjaka kojim se tradicionalno zatvaraju vinske boce?",
     "answers": {
       "A": "Pluto",
-      "B": "Karavana",
-      "C": "Blanc de Noirs"
+      "B": "Silikon",
+      "C": "Staklo"
     },
     "image": null,
     "correct_answer": "A"
@@ -3528,9 +3528,9 @@
     "topic": "svastara",
     "question": "Preko kojeg se tjesnaca protežu mostovi koji povezuju europski i azijski dio Istanbula?",
     "answers": {
-      "A": "Beretka",
+      "A": "Dardaneli",
       "B": "Bospor",
-      "C": "Versace"
+      "C": "Kerčki tjesnac"
     },
     "image": null,
     "correct_answer": "B"
@@ -3541,8 +3541,8 @@
     "topic": "svastara",
     "question": "Kako nazivamo skupinu trgovaca i putnika koji su zbog sigurnosti zajedno prelazili goleme azijske trgovačke rute, često vodeći deve natovarene vrijednom robom?",
     "answers": {
-      "A": "Pluto",
-      "B": "Blanc de Noirs",
+      "A": "Konvoj",
+      "B": "Karaka",
       "C": "Karavana"
     },
     "image": null,
@@ -3567,9 +3567,9 @@
     "topic": "svastara",
     "question": "Koja francuska oznaka, doslovno 'bijelo od crnih', govori da je bijeli Champagne proizveden od tamnih sorti grožđa?",
     "answers": {
-      "A": "Karavana",
+      "A": "Blanc de Blancs",
       "B": "Blanc de Noirs",
-      "C": "Pluto"
+      "C": "Rosé de Saignée"
     },
     "image": null,
     "correct_answer": "B"
@@ -3594,8 +3594,8 @@
     "question": "Na kojem je velikom indonezijskom otoku Marko Polo tijekom povratka iz Azije proveo nekoliko mjeseci čekajući povoljnije uvjete za nastavak plovidbe?",
     "answers": {
       "A": "Sumatra",
-      "B": "Denim",
-      "C": "Volvo"
+      "B": "Java",
+      "C": "Borneo"
     },
     "image": null,
     "correct_answer": "A"
@@ -3606,9 +3606,9 @@
     "topic": "svastara",
     "question": "Naziv koje čvrste pamučne tkanine, danas neraskidivo povezane s trapericama, potječe od francuskog izraza 'serge de Nîmes'?",
     "answers": {
-      "A": "Sumatra",
+      "A": "Kanavas",
       "B": "Denim",
-      "C": "Volvo"
+      "C": "Moleskin"
     },
     "image": null,
     "correct_answer": "B"
@@ -3619,8 +3619,8 @@
     "topic": "svastara",
     "question": "Koja je švedska automobilska marka 1959.g. uvela sigurnosni pojas u tri točke u serijski automobil, a potom omogućila i drugim proizvođačima korištenje tog sigurnosnog rješenja potpuno besplatno?",
     "answers": {
-      "A": "Denim",
-      "B": "Sumatra",
+      "A": "Saab",
+      "B": "Mercedes-Benz",
       "C": "Volvo"
     },
     "image": null,
@@ -3633,8 +3633,8 @@
     "question": "Kako se naziva konferencija održana 1944.g. u američkoj saveznoj državi New Hampshire na kojoj su postavljeni temelji poslijeratnog međunarodnog monetarnog sustava?",
     "answers": {
       "A": "Bretton Woods",
-      "B": "Codex Gigas",
-      "C": "Charlesa Boycotta"
+      "B": "Jalta",
+      "C": "Dumbarton Oaks"
     },
     "image": null,
     "correct_answer": "A"
@@ -3645,9 +3645,9 @@
     "topic": "svastara",
     "question": "Kako se zvala sumerska božica piva kojoj je posvećena i poznata himna, jedan od najstarijih sačuvanih tekstova povezanih s proizvodnjom piva?",
     "answers": {
-      "A": "Volvo",
+      "A": "Siris",
       "B": "Ninkasi",
-      "C": "Grožđe"
+      "C": "Nisaba"
     },
     "image": null,
     "correct_answer": "B"
@@ -3672,8 +3672,8 @@
     "question": "Od kojeg se voća proizvodi klasično vino poput crnog, bijelog i rosé vina?",
     "answers": {
       "A": "Grožđe",
-      "B": "Ninkasi",
-      "C": "Reinheitsgebot"
+      "B": "Jabuke",
+      "C": "Šljive"
     },
     "image": null,
     "correct_answer": "A"
@@ -3697,8 +3697,8 @@
     "topic": "svastara",
     "question": "Koji je bavarski propis iz 1516.g., poznat kao „zakon o čistoći piva“, izvorno određivao koje se osnovne sirovine smiju koristiti u njegovoj proizvodnji?",
     "answers": {
-      "A": "Narančasta",
-      "B": "Grožđe",
+      "A": "Zakon o sladu",
+      "B": "Hmeljski dekret",
       "C": "Reinheitsgebot"
     },
     "image": null,
@@ -3711,8 +3711,8 @@
     "question": "Koja je boja svoje današnje ime dobila prema voću koje je u Europu stiglo iz Azije, dok se prije njegova širenja često opisivala jednostavno kao žutocrvena?",
     "answers": {
       "A": "Narančasta",
-      "B": "Reinheitsgebot",
-      "C": "Grožđe"
+      "B": "Ljubičasta",
+      "C": "Tirkizna"
     },
     "image": null,
     "correct_answer": "A"
@@ -3723,9 +3723,9 @@
     "topic": "svastara",
     "question": "Koji grad u Champagnei ima slavnu Avenue de Champagne, ispod koje se protežu kilometri podruma s milijunima boca pjenušavog vina?",
     "answers": {
-      "A": "Taos",
+      "A": "Reims",
       "B": "Épernay",
-      "C": "Khanbaliq"
+      "C": "Aÿ"
     },
     "image": null,
     "correct_answer": "B"
@@ -3736,8 +3736,8 @@
     "topic": "svastara",
     "question": "Kako se zove znameniti most preko Neretve u Mostaru, izgrađen u 16. stoljeću, srušen 1993.g. i kasnije obnovljen?",
     "answers": {
-      "A": "Velika depresija",
-      "B": "Blanc de Noirs",
+      "A": "Kriva ćuprija",
+      "B": "Arslanagića most",
       "C": "Stari most"
     },
     "image": null,
@@ -3750,8 +3750,8 @@
     "question": "Koja žitarica je glavni sastojak bourbon whiskeyja?",
     "answers": {
       "A": "Kukuruz",
-      "B": "Narančasta",
-      "C": "Hefeweizen"
+      "B": "Ječam",
+      "C": "Raž"
     },
     "image": null,
     "correct_answer": "A"
@@ -3775,8 +3775,8 @@
     "topic": "svastara",
     "question": "Kako nazivamo veliku svjetsku gospodarsku krizu koja je započela nakon burzovnog sloma 1929.g. i obilježila velik dio 1930-ih?",
     "answers": {
-      "A": "Stari most",
-      "B": "Bačva",
+      "A": "Duga depresija",
+      "B": "Naftna kriza",
       "C": "Velika depresija"
     },
     "image": null,
@@ -3789,8 +3789,8 @@
     "question": "Kako se naziva pšenično pivo koje zadržava kvasac pa zbog toga obično ima karakterističan mutan izgled?",
     "answers": {
       "A": "Hefeweizen",
-      "B": "Ayran",
-      "C": "Kukuruz"
+      "B": "Kristallweizen",
+      "C": "Kölsch"
     },
     "image": null,
     "correct_answer": "A"
@@ -3801,9 +3801,9 @@
     "topic": "svastara",
     "question": "Golemi srednjovjekovni rukopis iz 13. stoljeća, poznat i kao „Đavolja Biblija”, nosi koji latinski naziv?",
     "answers": {
-      "A": "Charlesa Boycotta",
+      "A": "Codex Sinaiticus",
       "B": "Codex Gigas",
-      "C": "Bretton Woods"
+      "C": "Codex Argenteus"
     },
     "image": null,
     "correct_answer": "B"
@@ -3814,8 +3814,8 @@
     "topic": "svastara",
     "question": "Kako se naziva osvježavajući napitak od jogurta, vode i soli koji je osobito raširen u Turskoj i okolnim područjima?",
     "answers": {
-      "A": "Svila",
-      "B": "Hefeweizen",
+      "A": "Lassi",
+      "B": "Kefir",
       "C": "Ayran"
     },
     "image": null,
@@ -3828,8 +3828,8 @@
     "question": "Koja je dragocjena tkanina stoljećima bila jedan od najvažnijih kineskih izvoznih proizvoda te je dala ime čitavoj mreži trgovačkih putova između Azije i Europe?",
     "answers": {
       "A": "Svila",
-      "B": "Ayran",
-      "C": "Fez"
+      "B": "Kašmir",
+      "C": "Lan"
     },
     "image": null,
     "correct_answer": "A"
@@ -3853,8 +3853,8 @@
     "topic": "svastara",
     "question": "Koje crveno pokrivalo ravnog vrha, često ukrašeno crnom kićankom, nosi ime marokanskog grada, a osobito ga povezujemo s Osmanskim Carstvom?",
     "answers": {
-      "A": "Svila",
-      "B": "Ayran",
+      "A": "Kufi",
+      "B": "Shako",
       "C": "Fez"
     },
     "image": null,
@@ -3879,9 +3879,9 @@
     "topic": "svastara",
     "question": "Današnja riječ 'bojkot' nastala je od prezimena kojeg upravitelja imanja kojeg su irski zakupci 1880.g. počeli organizirano izbjegavati?",
     "answers": {
-      "A": "Codex Gigas",
+      "A": "Charlesa Parnella",
       "B": "Charlesa Boycotta",
-      "C": "Dunning Kruger"
+      "C": "Michaela Davitta"
     },
     "image": null,
     "correct_answer": "B"
@@ -3906,8 +3906,8 @@
     "question": "Na kojem je pomalo neočekivanom mjestu Marko Polo piscu Rustichellu iz Pise pripovijedao priče sa svojih azijskih putovanja koje će završiti u njegovu slavnom djelu?",
     "answers": {
       "A": "Zatvoru",
-      "B": "Nepoznanica",
-      "C": "Šubara"
+      "B": "Samostanu",
+      "C": "Na brodu"
     },
     "image": null,
     "correct_answer": "A"
@@ -3918,9 +3918,9 @@
     "topic": "svastara",
     "question": "Kako se naziva slovo ili simbol koji u jednadžbi predstavlja nepoznatu vrijednost?",
     "answers": {
-      "A": "Zatvoru",
+      "A": "Koeficijent",
       "B": "Nepoznanica",
-      "C": "Šubara"
+      "C": "Eksponent"
     },
     "image": null,
     "correct_answer": "B"
@@ -3931,8 +3931,8 @@
     "topic": "svastara",
     "question": "Kako se na hrvatskom naziva tradicionalna krznena kapa bez oboda kakva se u različitim oblicima stoljećima nosila na Balkanu?",
     "answers": {
-      "A": "Nepoznanica",
-      "B": "BMW",
+      "A": "Ushanka",
+      "B": "Papaha",
       "C": "Šubara"
     },
     "image": null,
@@ -3945,8 +3945,8 @@
     "question": "Koja njemačka automobilska marka ima okrugli plavo-bijeli znak čije boje zapravo potječu od Bavarske, iako je popularna legenda znak povezala s rotirajućim avionskim propelerom?",
     "answers": {
       "A": "BMW",
-      "B": "Šubara",
-      "C": "Nepoznanica"
+      "B": "Audi",
+      "C": "Mercedes-Benz"
     },
     "image": null,
     "correct_answer": "A"
@@ -3957,9 +3957,9 @@
     "topic": "svastara",
     "question": "Na kojem se planinskom lancu 1959.g. dogodio misteriozni incident u kojem je devetero članova planinarske skupine Igora Djatlova izgubilo život, a slučaj je poslije postao poznat kao tragedija na Djatlovljevu prijevoju?",
     "answers": {
-      "A": "Odiseja",
+      "A": "Altaj",
       "B": "Ural",
-      "C": "Božanstvena komedija"
+      "C": "Kavkaz"
     },
     "image": null,
     "correct_answer": "B"
@@ -3970,8 +3970,8 @@
     "topic": "svastara",
     "question": "Kako se zove drvena posuda u kojoj odležavaju mnoga vina i jaka alkoholna pića?",
     "answers": {
-      "A": "Velika depresija",
-      "B": "Stari most",
+      "A": "Amfora",
+      "B": "Demižon",
       "C": "Bačva"
     },
     "image": null,
@@ -3996,9 +3996,9 @@
     "topic": "svastara",
     "question": "Koji aromatični bitter, prepoznatljiv po etiketi koja je neobično velika za njegovu bocu, nosi ime venezuelanskog grada u kojem ga je u 19. stoljeću razvio liječnik Johann Siegert?",
     "answers": {
-      "A": "Jeroboam",
+      "A": "Peychaud's",
       "B": "Angostura",
-      "C": "BMW"
+      "C": "Orange bitters"
     },
     "image": null,
     "correct_answer": "B"
@@ -4023,8 +4023,8 @@
     "question": "Koje biblijsko ime nosi velika boca Champagnea zapremnine tri litre, odnosno četiri standardne boce?",
     "answers": {
       "A": "Jeroboam",
-      "B": "Angostura",
-      "C": "Crvene"
+      "B": "Methuselah",
+      "C": "Salmanazar"
     },
     "image": null,
     "correct_answer": "A"
@@ -4035,9 +4035,9 @@
     "topic": "svastara",
     "question": "Efekt prema kojem ljudi s malo znanja ili sposobnosti u nekom području mogu precijeniti vlastitu kompetenciju nosi prezimena koja dva psihologa?",
     "answers": {
-      "A": "Karavan Saraj",
+      "A": "Maslow i Rogers",
       "B": "Dunning Kruger",
-      "C": "Charlesa Boycotta"
+      "C": "Tversky i Kahneman"
     },
     "image": null,
     "correct_answer": "B"
@@ -4048,8 +4048,8 @@
     "topic": "svastara",
     "question": "Kako se nazivalo svratište uz velike trgovačke putove Azije u kojem su putnici i trgovci mogli prenoćiti, zaštititi robu i odmoriti životinje prije nastavka putovanja?",
     "answers": {
-      "A": "Dunning Kruger",
-      "B": "Charlesa Boycotta",
+      "A": "Citadela",
+      "B": "Bazar",
       "C": "Karavan Saraj"
     },
     "image": null,
@@ -4062,8 +4062,8 @@
     "question": "Koje je boje krug u središtu zastave Japana?",
     "answers": {
       "A": "Crvene",
-      "B": "Bearskin",
-      "C": "Jeroboam"
+      "B": "Plave",
+      "C": "Zelene"
     },
     "image": null,
     "correct_answer": "A"
@@ -4074,9 +4074,9 @@
     "topic": "svastara",
     "question": "Kako se naziva velika crna krznena kapa koju nose britanski kraljevski gardisti, poznati po gotovo nepomičnom stražarenju ispred Buckinghamske palače i čestom fotografiranju s turistima?",
     "answers": {
-      "A": "Crvene",
+      "A": "Busby",
       "B": "Bearskin",
-      "C": "Kilt"
+      "C": "Shako"
     },
     "image": null,
     "correct_answer": "B"
@@ -4101,8 +4101,8 @@
     "question": "Kako se naziva tradicionalni škotski odjevni predmet nalik suknji, najčešće izrađen od tartana i povijesno povezan sa škotskim Highlandom?",
     "answers": {
       "A": "Kilt",
-      "B": "Seltzer boca",
-      "C": "Bearskin"
+      "B": "Tartan hlače",
+      "C": "Sporran"
     },
     "image": null,
     "correct_answer": "A"
@@ -4113,9 +4113,9 @@
     "topic": "svastara",
     "question": "Kako se naziva prepoznatljiva boca s mehanizmom pod pritiskom iz koje se nekoć u kavanama i barovima često posluživala gazirana voda?",
     "answers": {
-      "A": "Kilt",
+      "A": "Demižon",
       "B": "Seltzer boca",
-      "C": "CAPTCHA"
+      "C": "Boca s krunskim čepom"
     },
     "image": null,
     "correct_answer": "B"
@@ -4126,8 +4126,8 @@
     "topic": "svastara",
     "question": "Internetski test s iskrivljenim slovima, slikama ili drugim zadacima kojim se pokušava razlikovati čovjeka od automatiziranog programa poznat je pod kojom kraticom?",
     "answers": {
-      "A": "Seltzer boca",
-      "B": "Ushanka",
+      "A": "OCR",
+      "B": "OTP",
       "C": "CAPTCHA"
     },
     "image": null,
@@ -4140,8 +4140,8 @@
     "question": "Kako se naziva karakteristična ruska krznena kapa čiji se preklopi mogu spustiti preko ušiju i zaštititi ih od velike hladnoće?",
     "answers": {
       "A": "Ushanka",
-      "B": "CAPTCHA",
-      "C": "Bloop"
+      "B": "Papaha",
+      "C": "Šubara"
     },
     "image": null,
     "correct_answer": "A"
@@ -4152,9 +4152,9 @@
     "topic": "svastara",
     "question": "Iznimno snažan podvodni zvuk koji je NOAA zabilježila u Pacifiku 1997.g. dobio je koje kratko ime?",
     "answers": {
-      "A": "Ushanka",
+      "A": "Upsweep",
       "B": "Bloop",
-      "C": "CAPTCHA"
+      "C": "Julia"
     },
     "image": null,
     "correct_answer": "B"
@@ -4179,8 +4179,8 @@
     "question": "Koje se slovo najčešće koristi za nepoznanicu u jednostavnim jednadžbama?",
     "answers": {
       "A": "X",
-      "B": "Veneciju",
-      "C": "Bloop"
+      "B": "Y",
+      "C": "Z"
     },
     "image": null,
     "correct_answer": "A"
@@ -4191,9 +4191,9 @@
     "topic": "svastara",
     "question": "U koji se europski grad Marko Polo 1295.g. vratio nakon približno 24 godine izbivanja i putovanja Azijom?",
     "answers": {
-      "A": "X",
+      "A": "Genovu",
       "B": "Veneciju",
-      "C": "Islay"
+      "C": "Firencu"
     },
     "image": null,
     "correct_answer": "B"
@@ -4204,8 +4204,8 @@
     "topic": "svastara",
     "question": "Koji škotski otok s tek nekoliko tisuća stanovnika ima iznimno velik broj destilerija i posebno je poznat po snažnim, često tresetnim i dimnim whiskyjima?",
     "answers": {
-      "A": "Veneciju",
-      "B": "X",
+      "A": "Skye",
+      "B": "Orkney",
       "C": "Islay"
     },
     "image": null,
@@ -4218,8 +4218,8 @@
     "question": "Koji je francuski modni dizajner 1947.g. predstavio kolekciju čija je naglašena ženstvena silueta postala poznata pod nazivom 'New Look'?",
     "answers": {
       "A": "Christian Dior",
-      "B": "Karavan Saraj",
-      "C": "Dunning Kruger"
+      "B": "Cristóbal Balenciaga",
+      "C": "Pierre Balmain"
     },
     "image": null,
     "correct_answer": "A"
@@ -4230,9 +4230,9 @@
     "topic": "svastara",
     "question": "Kako se naziva tradicionalna zaobljena kapa bez oboda koja se u različitim oblicima nosi u zapadnoj i istočnoj Africi te među muslimanskim zajednicama?",
     "answers": {
-      "A": "Grenadine",
+      "A": "Fez",
       "B": "Kufi",
-      "C": "Islay"
+      "C": "Songkok"
     },
     "image": null,
     "correct_answer": "B"
@@ -4243,8 +4243,8 @@
     "topic": "svastara",
     "question": "Koji se crveni sirup danas koristi u brojnim koktelima, a njegovo ime potječe od francuske riječi za nar, voće od kojeg se tradicionalno izrađivao?",
     "answers": {
-      "A": "Kufi",
-      "B": "Bluetooth",
+      "A": "Orgeat",
+      "B": "Falernum",
       "C": "Grenadine"
     },
     "image": null,
@@ -4257,8 +4257,8 @@
     "question": "Koja je bežična tehnologija za povezivanje uređaja dobila ime po danskom kralju Haraldu Gormssonu iz 10. stoljeća, koji je prema predaji nadimak dobio zbog tamnog zuba, a poznat je po ujedinjenju Danske i Norveške, baš kao što je tehnologija trebala 'ujediniti' različite uređaje?",
     "answers": {
       "A": "Bluetooth",
-      "B": "Grenadine",
-      "C": "Kufi"
+      "B": "Wi-Fi",
+      "C": "Zigbee"
     },
     "image": null,
     "correct_answer": "A"
@@ -4269,9 +4269,9 @@
     "topic": "svastara",
     "question": "Kako se zove dužina od središta kružnice do njezina ruba?",
     "answers": {
-      "A": "Brojnik",
+      "A": "Tetiva",
       "B": "Polumjer",
-      "C": "Promjer"
+      "C": "Sekanta"
     },
     "image": null,
     "correct_answer": "B"
@@ -4282,8 +4282,8 @@
     "topic": "svastara",
     "question": "Koja se drevna civilizacija Mezopotamije među prvima povezuje s organiziranom proizvodnjom piva, o čemu svjedoče zapisi i himne posvećene božici Ninkasi?",
     "answers": {
-      "A": "Bluetooth",
-      "B": "Grenadine",
+      "A": "Babilonci",
+      "B": "Egipćani",
       "C": "Sumerani"
     },
     "image": null,
@@ -4321,8 +4321,8 @@
     "topic": "svastara",
     "question": "Kako se naziva gruba vunena tkanina posebno povezana sa Škotskom i tradicionalnom britanskom odjećom, često korištena za sakoe, kapute i odijela?",
     "answers": {
-      "A": "Audi",
-      "B": "Bijela",
+      "A": "Gabarden",
+      "B": "Flanel",
       "C": "Tweed"
     },
     "image": null,
@@ -4335,8 +4335,8 @@
     "question": "Četiri međusobno spojena prstena na znaku koje njemačke marke auromobila predstavljaju četiri proizvođača koji su 1932.g. udruženi u Auto Union?",
     "answers": {
       "A": "Audi",
-      "B": "Tweed",
-      "C": "Bijela"
+      "B": "BMW",
+      "C": "Opel"
     },
     "image": null,
     "correct_answer": "A"
@@ -4347,9 +4347,9 @@
     "topic": "svastara",
     "question": "Koja se boja nalazi u srednjoj okomitoj pruzi zastave Italije?",
     "answers": {
-      "A": "Audi",
+      "A": "Crvena",
       "B": "Bijela",
-      "C": "Bubble tea"
+      "C": "Zelena"
     },
     "image": null,
     "correct_answer": "B"
@@ -4360,8 +4360,8 @@
     "topic": "svastara",
     "question": "Koje je piće nastalo na Tajvanu 1980-ih, a lako ga je prepoznati po velikoj slamci i kuglicama tapioke koje ostaju na dnu čaše?",
     "answers": {
-      "A": "Bijela",
-      "B": "Audi",
+      "A": "Thai tea",
+      "B": "Dalgona coffee",
       "C": "Bubble tea"
     },
     "image": null,
@@ -4374,8 +4374,8 @@
     "question": "U kojem gradu u Novom Meksiku dio stanovnika još od početka 1990-ih prijavljuje tajanstveno niskofrekventno brujanje nepoznatog podrijetla, čiji izvor ni nakon desetljeća istraživanja nije pouzdano utvrđen?",
     "answers": {
       "A": "Taos",
-      "B": "Khanbaliq",
-      "C": "Épernay"
+      "B": "Bristol",
+      "C": "Windsor"
     },
     "image": null,
     "correct_answer": "A"
@@ -4399,8 +4399,8 @@
     "topic": "svastara",
     "question": "Koja francuska riječ za dvorac ili veće ladanjsko imanje često stoji ispred imena vinskih posjeda Bordeauxa, poput Margauxa i Latoura?",
     "answers": {
-      "A": "Punch",
-      "B": "Bubble tea",
+      "A": "Domaine",
+      "B": "Maison",
       "C": "Château"
     },
     "image": null,
@@ -4413,8 +4413,8 @@
     "question": "Koji je konstruktor grčkog podrijetla osmislio originalni Mini, jedan od najutjecajnijih malih automobila 20. stoljeća?",
     "answers": {
       "A": "Alec Issigonis",
-      "B": "Tower Bridge",
-      "C": "Land Rover"
+      "B": "Dante Giacosa",
+      "C": "Ferdinand Porsche"
     },
     "image": null,
     "correct_answer": "A"
@@ -4425,9 +4425,9 @@
     "topic": "svastara",
     "question": "Kako se naziva piće koje se tradicionalno priprema u većoj zdjeli za više osoba, a njegov se naziv često povezuje s hindi riječi za broj pet zbog pet osnovnih sastojaka ranih recepata?",
     "answers": {
-      "A": "Château",
+      "A": "Sangria",
       "B": "Punch",
-      "C": "Narančastu"
+      "C": "Julep"
     },
     "image": null,
     "correct_answer": "B"
@@ -4438,8 +4438,8 @@
     "topic": "svastara",
     "question": "Koji se londonski most s dvije prepoznatljive kule i podiznim središnjim dijelom često pogrešno naziva London Bridge?",
     "answers": {
-      "A": "Alec Issigonis",
-      "B": "Land Rover",
+      "A": "Westminster Bridge",
+      "B": "London Bridge",
       "C": "Tower Bridge"
     },
     "image": null,
@@ -4452,8 +4452,8 @@
     "question": "Kako se zove broj iznad razlomačke crte?",
     "answers": {
       "A": "Brojnik",
-      "B": "Promjer",
-      "C": "Single malt"
+      "B": "Nazivnik",
+      "C": "Kvocijent"
     },
     "image": null,
     "correct_answer": "A"
@@ -4464,9 +4464,9 @@
     "topic": "svastara",
     "question": "Koju boju dobijemo miješanjem crvene i žute?",
     "answers": {
-      "A": "Burberry",
+      "A": "Ljubičastu",
       "B": "Narančastu",
-      "C": "Punch"
+      "C": "Zelenu"
     },
     "image": null,
     "correct_answer": "B"
@@ -4491,8 +4491,8 @@
     "question": "Koja je britanska modna kuća, osnovana 1856.g., posebno poznata po balonerima i prepoznatljivom kariranom uzorku?",
     "answers": {
       "A": "Burberry",
-      "B": "Narančastu",
-      "C": "Arabica"
+      "B": "Barbour",
+      "C": "Aquascutum"
     },
     "image": null,
     "correct_answer": "A"
@@ -4503,9 +4503,9 @@
     "topic": "svastara",
     "question": "Koja je britanska marka terenskih vozila nastala nakon Drugog svjetskog rata, kada je Maurice Wilks ideju za novi automobil razrađivao koristeći Jeep kao inspiraciju?",
     "answers": {
-      "A": "Mehmed paša Sokolović",
+      "A": "Austin",
       "B": "Land Rover",
-      "C": "Tower Bridge"
+      "C": "Rover"
     },
     "image": null,
     "correct_answer": "B"
@@ -4516,8 +4516,8 @@
     "topic": "svastara",
     "question": "Koji je osmanski veliki vezir rođen u okolici Višegrada dao izgraditi znameniti most preko Drine koji danas nosi njegovo ime?",
     "answers": {
-      "A": "Land Rover",
-      "B": "Forth Bridge",
+      "A": "Mimar Sinan",
+      "B": "Sokollu Mustafa-paša",
       "C": "Mehmed paša Sokolović"
     },
     "image": null,
@@ -4530,8 +4530,8 @@
     "question": "Koja vrsta kave čini najveći dio svjetske proizvodnje, a zbog blažeg i aromatičnijeg okusa obično je cjenjenija od robuste?",
     "answers": {
       "A": "Arabica",
-      "B": "Burberry",
-      "C": "Masala chai"
+      "B": "Robusta",
+      "C": "Liberica"
     },
     "image": null,
     "correct_answer": "A"
@@ -4542,9 +4542,9 @@
     "topic": "svastara",
     "question": "Kako se zove najdulja tetiva kružnice?",
     "answers": {
-      "A": "Single malt",
+      "A": "Polumjer",
       "B": "Promjer",
-      "C": "Brojnik"
+      "C": "Tetiva"
     },
     "image": null,
     "correct_answer": "B"
@@ -4555,8 +4555,8 @@
     "topic": "svastara",
     "question": "Koja oznaka na škotskom whiskyju znači da je proizveden u jednoj destileriji od vode i sladnog ječma, bez miješanja whiskyja iz različitih destilerija?",
     "answers": {
-      "A": "Promjer",
-      "B": "Brojnik",
+      "A": "Blended malt",
+      "B": "Single grain",
       "C": "Single malt"
     },
     "image": null,
@@ -4569,8 +4569,8 @@
     "question": "Koji škotski željeznički most preko Firth of Fortha, otvoren 1890.g., predstavlja jedno od najpoznatijih djela konzolne mostogradnje?",
     "answers": {
       "A": "Forth Bridge",
-      "B": "Bertha Benz",
-      "C": "Mehmed paša Sokolović"
+      "B": "Tay Bridge",
+      "C": "Clyde Arc"
     },
     "image": null,
     "correct_answer": "A"
@@ -4581,9 +4581,9 @@
     "topic": "svastara",
     "question": "Koji indijski napitak nastaje kuhanjem crnog čaja s mlijekom i mješavinom aromatičnih začina poput kardamoma, cimeta, klinčića i đumbira?",
     "answers": {
-      "A": "Paran broj",
+      "A": "Butter tea",
       "B": "Masala chai",
-      "C": "Raglan"
+      "C": "Kashmiri chai"
     },
     "image": null,
     "correct_answer": "B"
@@ -4594,8 +4594,8 @@
     "topic": "svastara",
     "question": "Kako se naziva broj koji je djeljiv s 2?",
     "answers": {
-      "A": "Masala chai",
-      "B": "Raglan",
+      "A": "Neparan broj",
+      "B": "Prost broj",
       "C": "Paran broj"
     },
     "image": null,
@@ -4608,8 +4608,8 @@
     "question": "Koja je žena 1888.g. bez znanja svojeg supruga krenula njegovim automobilom na put dug više od 100 kilometara i izvela prvo veliko putovanje automobilom u povijesti?",
     "answers": {
       "A": "Bertha Benz",
-      "B": "Forth Bridge",
-      "C": "John Roebling"
+      "B": "Clara Ford",
+      "C": "Louise Sarazin"
     },
     "image": null,
     "correct_answer": "A"
@@ -4620,9 +4620,9 @@
     "topic": "svastara",
     "question": "Kako se naziva vrsta rukava koji se proteže u jednom komadu sve do ovratnika, a ime je dobila prema britanskom zapovjedniku iz Krimskog rata?",
     "answers": {
-      "A": "Bamberg",
+      "A": "Kimono rukav",
       "B": "Raglan",
-      "C": "Paran broj"
+      "C": "Dolman rukav"
     },
     "image": null,
     "correct_answer": "B"
@@ -4633,8 +4633,8 @@
     "topic": "svastara",
     "question": "Koji je njemački grad posebno poznat po Rauchbieru, pivu čiji karakteristični okus nastaje uporabom dimljenog slada?",
     "answers": {
-      "A": "Raglan",
-      "B": "Ferrari",
+      "A": "München",
+      "B": "Köln",
       "C": "Bamberg"
     },
     "image": null,
@@ -4647,8 +4647,8 @@
     "question": "Koja talijanska marka sportskih automobila koristi slavnog 'propetog konja', simbol koji je prije nje krasio avion talijanskog ratnog pilota Francesca Baracce?",
     "answers": {
       "A": "Ferrari",
-      "B": "Bamberg",
-      "C": "Raglan"
+      "B": "Porsche",
+      "C": "Lamborghini"
     },
     "image": null,
     "correct_answer": "A"
@@ -4659,9 +4659,9 @@
     "topic": "svastara",
     "question": "Koji je njemačko-američki inženjer projektirao Brooklyn Bridge, ali je umro prije početka njegove glavne gradnje?",
     "answers": {
-      "A": "Mad Hatter",
+      "A": "Othmar Ammann",
       "B": "John Roebling",
-      "C": "Bertha Benz"
+      "C": "Gustave Eiffel"
     },
     "image": null,
     "correct_answer": "B"
@@ -4672,8 +4672,8 @@
     "topic": "svastara",
     "question": "Koji je lik iz 'Alise u zemlji čudesa', prikazan na čajanki s velikim šeširom na glavi, vjerojatno najpoznatiji šeširdžija u književnosti?",
     "answers": {
-      "A": "John Roebling",
-      "B": "Romanée Conti",
+      "A": "March Hare",
+      "B": "White Rabbit",
       "C": "Mad Hatter"
     },
     "image": null,
@@ -4698,9 +4698,9 @@
     "topic": "svastara",
     "question": "Koji geometrijski lik nema ni stranice ni vrhove, a sve točke njegove kružnice jednako su udaljene od središta?",
     "answers": {
-      "A": "Ferrari",
+      "A": "Elipsa",
       "B": "Krug",
-      "C": "Kipa"
+      "C": "Oval"
     },
     "image": null,
     "correct_answer": "B"
@@ -4725,8 +4725,8 @@
     "question": "Koje glasovito burgundsko vino, proizvedeno iz iznimno malenog vinograda u Vosne-Romanéeu, redovito pripada među najskuplja vina na svijetu?",
     "answers": {
       "A": "Romanée Conti",
-      "B": "Mad Hatter",
-      "C": "John Roebling"
+      "B": "Pétrus",
+      "C": "Château Lafite"
     },
     "image": null,
     "correct_answer": "A"
@@ -4750,8 +4750,8 @@
     "topic": "svastara",
     "question": "Kako se naziva malo okruglo pokrivalo za glavu koje tradicionalno nose židovski muškarci kao znak poštovanja prema Bogu?",
     "answers": {
-      "A": "Tricorne",
-      "B": "Krug",
+      "A": "Fez",
+      "B": "Kufi",
       "C": "Kipa"
     },
     "image": null,
@@ -4776,9 +4776,9 @@
     "topic": "svastara",
     "question": "Koji je šešir karakterističan za 18. stoljeće dobio naziv prema tome što mu je obod bio podignut na tri strane, stvarajući njegova prepoznatljiva tri roga?",
     "answers": {
-      "A": "Kipa",
+      "A": "Bicorne",
       "B": "Tricorne",
-      "C": "Kököchin"
+      "C": "Shako"
     },
     "image": null,
     "correct_answer": "B"
@@ -4803,8 +4803,8 @@
     "question": "Kako se zvala mongolska princeza koju su Marko Polo, njegov otac i stric pratili morskim putem iz Kine prema Perziji radi dogovorenog braka?",
     "answers": {
       "A": "Kököchin",
-      "B": "Rialto",
-      "C": "Tricorne"
+      "B": "Sorghaghtani Beki",
+      "C": "Khutulun"
     },
     "image": null,
     "correct_answer": "A"
@@ -4815,9 +4815,9 @@
     "topic": "svastara",
     "question": "Koji je venecijanski kameni most preko Canal Grande poznat po trgovinama smještenima uz njegove prolaze?",
     "answers": {
-      "A": "Kököchin",
+      "A": "Ponte dei Sospiri",
       "B": "Rialto",
-      "C": "Speyside"
+      "C": "Ponte dell'Accademia"
     },
     "image": null,
     "correct_answer": "B"
@@ -4842,8 +4842,8 @@
     "question": "Koja škotska whisky-regija uz rijeku Spey ima najveću koncentraciju destilerija u toj zemlji, uključujući Glenfiddich i The Macallan?",
     "answers": {
       "A": "Speyside",
-      "B": "Medici",
-      "C": "Rialto"
+      "B": "Islay",
+      "C": "Highlands"
     },
     "image": null,
     "correct_answer": "A"
@@ -4854,9 +4854,9 @@
     "topic": "svastara",
     "question": "Koja je firentinska obitelj izgradila golemo bogatstvo kroz bankarstvo, vladala Firencom i financijski podupirala neke od najvećih umjetnika renesanse?",
     "answers": {
-      "A": "Speyside",
+      "A": "Pazzi",
       "B": "Medici",
-      "C": "Bordeaux"
+      "C": "Strozzi"
     },
     "image": null,
     "correct_answer": "B"
@@ -4867,8 +4867,8 @@
     "topic": "svastara",
     "question": "Koja francuska vinska regija oko rijeka Garonne i Dordogne proizvodi neka od najslavnijih crnih vina svijeta te je dala ime karakterističnoj vinskoj boji?",
     "answers": {
-      "A": "Medici",
-      "B": "Pareidolija",
+      "A": "Burgundija",
+      "B": "Rhône",
       "C": "Bordeaux"
     },
     "image": null,
@@ -4881,8 +4881,8 @@
     "question": "Psihološki fenomen zbog kojeg u oblacima, stijenama ili drugim slučajnim uzorcima prepoznajemo lica i poznate oblike naziva se?",
     "answers": {
       "A": "Pareidolija",
-      "B": "Bordeaux",
-      "C": "Espresso"
+      "B": "Apofenija",
+      "C": "Prosopagnozija"
     },
     "image": null,
     "correct_answer": "A"
@@ -4893,9 +4893,9 @@
     "topic": "svastara",
     "question": "Koji je način pripreme kave nastao u Italiji, a naziv mu dolazi od ideje kave pripremljene brzo i posebno za gosta propuštanjem vruće vode pod pritiskom kroz mljevenu kavu?",
     "answers": {
-      "A": "Pareidolija",
+      "A": "Moka",
       "B": "Espresso",
-      "C": "Bordeaux"
+      "C": "French press"
     },
     "image": null,
     "correct_answer": "B"
@@ -4920,8 +4920,8 @@
     "question": "Kako se nazivala mongolska prijestolnica Kublaj-kana koju je Marko Polo opisivao, a na čijem se području danas nalazi Peking?",
     "answers": {
       "A": "Khanbaliq",
-      "B": "Taos",
-      "C": "Épernay"
+      "B": "Karakorum",
+      "C": "Shangdu"
     },
     "image": null,
     "correct_answer": "A"
@@ -4932,9 +4932,9 @@
     "topic": "svastara",
     "question": "Kako se zvao talijanski prevarant iz 20. stoljeća po kojem je nazvana prijevarna investicijska shema u kojoj se stariji ulagači isplaćuju novcem novih?",
     "answers": {
-      "A": "Jakob Fugger",
+      "A": "Bernie Madoff",
       "B": "Charles Ponzi",
-      "C": "Karl Benz"
+      "C": "Allen Stanford"
     },
     "image": null,
     "correct_answer": "B"
@@ -4945,8 +4945,8 @@
     "topic": "svastara",
     "question": "Koje se tradicionalno istočnoeuropsko fermentirano piće može proizvoditi od raženog kruha i može sadržavati vrlo malo alkohola?",
     "answers": {
-      "A": "Kocka",
-      "B": "Talir",
+      "A": "Kombucha",
+      "B": "Boza",
       "C": "Kvass"
     },
     "image": null,
@@ -4959,8 +4959,8 @@
     "question": "Koje tijelo ima šest jednakih kvadratnih strana?",
     "answers": {
       "A": "Kocka",
-      "B": "Kvass",
-      "C": "Talir"
+      "B": "Kvadar",
+      "C": "Tetraedar"
     },
     "image": null,
     "correct_answer": "A"
@@ -4971,9 +4971,9 @@
     "topic": "svastara",
     "question": "Koja je velika srebrna kovanica, raširena Europom od 16. stoljeća, svojim nazivom posredno dala ime današnjem dolaru?",
     "answers": {
-      "A": "Kocka",
+      "A": "Gulden",
       "B": "Talir",
-      "C": "Plava agava"
+      "C": "Dukat"
     },
     "image": null,
     "correct_answer": "B"
@@ -4984,8 +4984,8 @@
     "topic": "svastara",
     "question": "Koja je biljka jedina vrsta agave dopuštena za proizvodnju tequile, a prepoznatljiva je po velikoj rozeti dugih, šiljastih listova?",
     "answers": {
-      "A": "Talir",
-      "B": "Lorem ipsum",
+      "A": "Agava sisalana",
+      "B": "Agava americana",
       "C": "Plava agava"
     },
     "image": null,
@@ -4998,8 +4998,8 @@
     "question": "Kojim dvjema riječima počinje čuveni besmisleni tekst koji se desetljećima koristi kao privremeni sadržaj pri grafičkom dizajnu i prijelomu stranica?",
     "answers": {
       "A": "Lorem ipsum",
-      "B": "Plava agava",
-      "C": "Talir"
+      "B": "Dolor sit",
+      "C": "Ipsum dolor"
     },
     "image": null,
     "correct_answer": "A"
@@ -5010,9 +5010,9 @@
     "topic": "svastara",
     "question": "Koji je njemački trgovac i bankar s prijelaza iz 15. u 16. stoljeće zbog svojeg golemog bogatstva ostao poznat pod nadimkom 'Bogati'?",
     "answers": {
-      "A": "Charles Ponzi",
+      "A": "Cosimo de' Medici",
       "B": "Jakob Fugger",
-      "C": "Karl Benz"
+      "C": "Mayer Amschel Rothschild"
     },
     "image": null,
     "correct_answer": "B"
@@ -5023,8 +5023,8 @@
     "topic": "svastara",
     "question": "Koji francuski grad, poznat po katedrali u kojoj su stoljećima krunjeni francuski kraljevi, predstavlja i jedno od glavnih središta proizvodnje šampanjca?",
     "answers": {
-      "A": "Lorem ipsum",
-      "B": "Plava agava",
+      "A": "Épernay",
+      "B": "Troyes",
       "C": "Reims"
     },
     "image": null,
@@ -5062,8 +5062,8 @@
     "topic": "svastara",
     "question": "Koje portugalsko pojačano vino nosi ime grada iz kojeg se povijesno otpremalo, iako se grožđe uzgaja uzvodno u dolini Douro?",
     "answers": {
-      "A": "Denar",
-      "B": "Reims",
+      "A": "Madeira",
+      "B": "Marsala",
       "C": "Porto"
     },
     "image": null,
@@ -5076,8 +5076,8 @@
     "question": "Kako se zvala važna starorimska srebrna kovanica čije je ime stoljećima preživjelo u nazivima novca diljem Europe i Bliskog istoka?",
     "answers": {
       "A": "Denar",
-      "B": "Porto",
-      "C": "Neparan broj"
+      "B": "Sestercij",
+      "C": "Aureus"
     },
     "image": null,
     "correct_answer": "A"
@@ -5088,9 +5088,9 @@
     "topic": "svastara",
     "question": "Koji je njemački izumitelj 1886.g. patentirao Motorwagen, vozilo koje se često smatra prvim praktičnim automobilom pokretanim motorom s unutarnjim izgaranjem?",
     "answers": {
-      "A": "Jakob Fugger",
+      "A": "Gottlieb Daimler",
       "B": "Karl Benz",
-      "C": "John Law"
+      "C": "Nikolaus Otto"
     },
     "image": null,
     "correct_answer": "B"
@@ -5101,8 +5101,8 @@
     "topic": "svastara",
     "question": "Kako se naziva broj koji nije djeljiv s 2?",
     "answers": {
-      "A": "Denar",
-      "B": "Porto",
+      "A": "Paran broj",
+      "B": "Prost broj",
       "C": "Neparan broj"
     },
     "image": null,
@@ -5115,8 +5115,8 @@
     "question": "Koja je decentralizirana digitalna valuta pokrenuta 2009.g. postala prva široko poznata kriptovaluta i najveći simbol razvoja kriptoimovine?",
     "answers": {
       "A": "Bitcoin",
-      "B": "Euro",
-      "C": "Dolar"
+      "B": "Litecoin",
+      "C": "Ethereum"
     },
     "image": null,
     "correct_answer": "A"
@@ -5154,8 +5154,8 @@
     "question": "Kako se najčešće skraćeno naziva slavni američki burzovni indeks osnovan krajem 19. stoljeća, koji prati 30 velikih kompanija kojima se trguje u SAD-u?",
     "answers": {
       "A": "Dow Jones",
-      "B": "QR",
-      "C": "South Sea Company"
+      "B": "S&P 500",
+      "C": "NASDAQ Composite"
     },
     "image": null,
     "correct_answer": "A"
@@ -5166,9 +5166,9 @@
     "topic": "svastara",
     "question": "U klasičnom slikarstvu, koju boju dobijemo miješanjem crvene i plave?",
     "answers": {
-      "A": "Tequila",
+      "A": "Zelenu",
       "B": "Ljubičastu",
-      "C": "Citroen"
+      "C": "Narančastu"
     },
     "image": null,
     "correct_answer": "B"
@@ -5179,8 +5179,8 @@
     "topic": "svastara",
     "question": "Koji meksički destilat zaštićenog zemljopisnog podrijetla mora biti proizveden od plave Weberove agave, a ime je dobio po gradu u saveznoj državi Jalisco?",
     "answers": {
-      "A": "Ljubičastu",
-      "B": "Citroen",
+      "A": "Mezcal",
+      "B": "Raicilla",
       "C": "Tequila"
     },
     "image": null,
@@ -5193,8 +5193,8 @@
     "question": "Koji je škotski financijer početkom 18. stoljeća u Francuskoj pokrenuo banku koja je izdavala papirni novac te postao ključna figura financijskog sustava povezanog s Mississippi Company?",
     "answers": {
       "A": "John Law",
-      "B": "Karl Benz",
-      "C": "Jakob Fugger"
+      "B": "Richard Cantillon",
+      "C": "John Blunt"
     },
     "image": null,
     "correct_answer": "A"
@@ -5205,9 +5205,9 @@
     "topic": "svastara",
     "question": "Koja je francuska automobilska marka 1955.g. predstavila futuristički model DS, koji se proslavio hidropneumatskim ovjesom i čije se ime na francuskom izgovara poput riječi 'božica'?",
     "answers": {
-      "A": "Vijadukt",
+      "A": "Peugeot",
       "B": "Citroen",
-      "C": "Tequila"
+      "C": "Renault"
     },
     "image": null,
     "correct_answer": "B"
@@ -5218,8 +5218,8 @@
     "topic": "svastara",
     "question": "Kako se naziva duga mostovska građevina sastavljena od većeg broja raspona, najčešće podignuta preko doline ili neravnog terena?",
     "answers": {
-      "A": "Citroen",
-      "B": "Burgundija",
+      "A": "Akvadukt",
+      "B": "Nadvožnjak",
       "C": "Vijadukt"
     },
     "image": null,
@@ -5244,9 +5244,9 @@
     "topic": "svastara",
     "question": "Koja francuska regija, čija su vinogradarska područja poznata kao 'climats', proizvodi neka od najcjenjenijih vina od Pinota Noira i Chardonnaya?",
     "answers": {
-      "A": "Crni utorak",
+      "A": "Bordeaux",
       "B": "Burgundija",
-      "C": "Vijadukt"
+      "C": "Champagne"
     },
     "image": null,
     "correct_answer": "B"
@@ -5257,8 +5257,8 @@
     "topic": "svastara",
     "question": "Kojim je nazivom ostao poznat 29. listopada 1929.g., jedan od najdramatičnijih dana sloma američkog tržišta dionica?",
     "answers": {
-      "A": "Burgundija",
-      "B": "Mate",
+      "A": "Crni četvrtak",
+      "B": "Crni ponedjeljak",
       "C": "Crni utorak"
     },
     "image": null,
@@ -5271,8 +5271,8 @@
     "question": "Koji južnoamerički napitak od listova biljke Ilex paraguariensis tradicionalno kruži među prijateljima u istoj posudi, osobito u Argentini, Urugvaju i Paragvaju?",
     "answers": {
       "A": "Mate",
-      "B": "Crni utorak",
-      "C": "Murphyjev zakon"
+      "B": "Chicha",
+      "C": "Guaraná"
     },
     "image": null,
     "correct_answer": "A"
@@ -5283,9 +5283,9 @@
     "topic": "svastara",
     "question": "Popularna izreka 'Sve što može poći po zlu, poći će po zlu' poznata je kao čiji zakon?",
     "answers": {
-      "A": "Mate",
+      "A": "Peterovo načelo",
       "B": "Murphyjev zakon",
-      "C": "Crni utorak"
+      "C": "Parkinsonov zakon"
     },
     "image": null,
     "correct_answer": "B"
@@ -5322,9 +5322,9 @@
     "topic": "svastara",
     "question": "Koja je francuska vinska regija dala ime pjenušavom vinu čiji je naziv zaštićen i vezan uz proizvodnju na tom području?",
     "answers": {
-      "A": "Murphyjev zakon",
+      "A": "Burgundija",
       "B": "Champagne",
-      "C": "Mate"
+      "C": "Alsace"
     },
     "image": null,
     "correct_answer": "B"
@@ -5349,8 +5349,8 @@
     "question": "Koji je zlatni novac, prvi put kovan u Veneciji krajem 13. st, stoljećima bio jedna od najuglednijih trgovačkih kovanica Europe i Sredozemlja?",
     "answers": {
       "A": "Dukat",
-      "B": "Pulitzerova nagrada",
-      "C": "Zlatni globus"
+      "B": "Florin",
+      "C": "Zlatni gulden"
     },
     "image": null,
     "correct_answer": "A"
@@ -5374,8 +5374,8 @@
     "topic": "svastara",
     "question": "Kako se naziva mala posuda s dugom drškom u kojoj se tradicionalno priprema kava u Bosni i Hercegovini, Turskoj i drugim dijelovima nekadašnjeg Osmanskog Carstva?",
     "answers": {
-      "A": "Hmelj",
-      "B": "Champagne",
+      "A": "Samovar",
+      "B": "Moka lončić",
       "C": "Džezva"
     },
     "image": null,
@@ -5413,8 +5413,8 @@
     "topic": "svastara",
     "question": "Koji sastojak pivu daje karakterističnu gorčinu i aromu, a Hallertau u Bavarskoj jedno je od njegovih najpoznatijih uzgojnih područja?",
     "answers": {
-      "A": "Džezva",
-      "B": "Buba",
+      "A": "Slad",
+      "B": "Kvasac",
       "C": "Hmelj"
     },
     "image": null,
@@ -5452,8 +5452,8 @@
     "topic": "svastara",
     "question": "Koji je automobil, u Njemačkoj službeno poznat kao Volkswagen Type 1, zbog karakterističnog zaobljenog izgleda širom svijeta dobio nadimak po jednom kukcu?",
     "answers": {
-      "A": "Hmelj",
-      "B": "Džezva",
+      "A": "Mini",
+      "B": "Fiat 500",
       "C": "Buba"
     },
     "image": null,
