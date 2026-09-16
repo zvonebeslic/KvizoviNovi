@@ -1893,19 +1893,6 @@
     "type": "blitz",
     "difficulty": 3,
     "topic": "Nogomet",
-    "question": "Uz pobjedu i poraz, jedan nogometni klub može završiti utakmicu i kako još?",
-    "answers": {
-      "A": "Produžecima",
-      "B": "Neriješeno",
-      "C": "Poništeno"
-    },
-    "image": null,
-    "correct_answer": "B"
-  },
-  {
-    "type": "blitz",
-    "difficulty": 3,
-    "topic": "Nogomet",
     "question": "Tko je zabio hat-trick za Bayern Munchen u polufinalu Lige Prvaka 2010.g. protiv Lyona?",
     "answers": {
       "A": "Mario Gomez",
@@ -3003,7 +2990,7 @@
     "question": "Koja je posebna sportska obuća dizajnirana za igranje nogometa, ragbija i sličnih sportova na travi?",
     "answers": {
       "A": "Sprinterice",
-      "B": "Klizaljke",
+      "B": "Trenerice",
       "C": "Kopačke"
     },
     "image": null,
@@ -3250,7 +3237,7 @@
     "question": "Kojem je portugalcu, prvom nakon Eusebija, pošlo za 'nogom' osvojiti Ballon d'Or?",
     "answers": {
       "A": "Luisu Figu",
-      "B": "Rui Costa",
+      "B": "Rui Costi",
       "C": "Cristianu Ronaldu"
     },
     "image": null,
