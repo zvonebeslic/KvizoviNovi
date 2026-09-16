@@ -1270,7 +1270,7 @@
     "topic": "Nogomet",
     "question": "Na kojem kontinentu se, uz Australiju i Antartiku, nikada nije slavilo jedno od prva tri mjesta na nogometnim SP-ima?",
     "answers": {
-      "A": "Azija",
+      "A": "Europa",
       "B": "Afrika",
       "C": "Sjeverna Amerika"
     },
@@ -1285,7 +1285,7 @@
     "answers": {
       "A": "Ruuda van Nistelrooya",
       "B": "Ole Gunnara Solskjaera",
-      "C": "Fillipa Inzaghija"
+      "C": "Filippa Inzaghija"
     },
     "image": null,
     "correct_answer": "C"
@@ -2129,8 +2129,8 @@
     "topic": "Nogomet",
     "question": "Za koji je francuski klub, legendarni francuski nogometaš Raymond Kopa, u svojoj karijeri upisao najviše nastupa te zabio najviše golova?",
     "answers": {
-      "A": "Reims",
-      "B": "Angers",
+      "A": "Angers",
+      "B": "Reims",
       "C": "Lens"
     },
     "image": null,
@@ -2418,7 +2418,7 @@
     "answers": {
       "A": "Čile",
       "B": "Brazil",
-      "C": "Jugoslaviju"
+      "C": "Nikoga – utakmica za treće mjesto nije odigrana"
     },
     "image": null,
     "correct_answer": "C"
@@ -2976,7 +2976,7 @@
     "topic": "Nogomet",
     "question": "U eri Messija i Ronalda, od 12 uzastopnih sezona Lige Prvaka njih dvoje su naizmjenično bili najbolji strijelci u svima od njih, a jedan je nogometaš bar na kratko uspio razbiti njihovu dominaciju te se u sezoni 2013/14 sa 10 golova izjednačio na vrhu sa ove dvije spomenute legende. Tko je on?",
     "answers": {
-      "A": "Neymar",
+      "A": "Nitko – Cristiano Ronaldo bio je sam na vrhu",
       "B": "Zlatan Ibrahimović",
       "C": "Robert Lewandowski"
     },
@@ -3433,7 +3433,7 @@
     "answers": {
       "A": "Vedad Ibišević",
       "B": "Miralem Pjanić",
-      "C": "Edin Džeko"
+      "C": "Nitko – Edin Džeko je zabio 29"
     },
     "image": null,
     "correct_answer": "C"
@@ -3575,7 +3575,7 @@
     "question": "Službena lopta Europskog nogometnog prvenstva u Portugalu iz 2002.g. je dobila ime po dnevniku putovanja Vasca da Game, a zove se kako?",
     "answers": {
       "A": "Europass",
-      "B": "Roteiro",
+      "B": "Roteiro (EURO 2004.)",
       "C": "Terrestra Silverstream"
     },
     "image": null,
@@ -4566,8 +4566,8 @@
     "question": "Koji je igrač zabio najviše golova u povijesti najelitnijeg engleskog razreda nogometa?",
     "answers": {
       "A": "Wayne Rooney",
-      "B": "Jimmy Greaves",
-      "C": "Alan Shearer"
+      "B": "Alan Shearer",
+      "C": "Jimmy Greaves"
     },
     "image": null,
     "correct_answer": "C"
@@ -4669,8 +4669,8 @@
     "topic": "Nogomet",
     "question": "Koliko najviše UEFA-inih zvjezdica može dobiti jedan nogometni stadion?",
     "answers": {
-      "A": "5",
-      "B": "4",
+      "A": "4",
+      "B": "5",
       "C": "3"
     },
     "image": null,
