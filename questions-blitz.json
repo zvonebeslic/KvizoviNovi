@@ -226,7 +226,7 @@
     "topic": "MisliIzrekeCitati",
     "question": "Kakav je, prema poslovici, onaj koji ne vjeruje gladnome?",
     "answers": {
-      "A": "Bogataš",
+      "A": "Bogat",
       "B": "Zdrav",
       "C": "Sit"
     },
@@ -371,7 +371,7 @@
     "answers": {
       "A": "Godina",
       "B": "Dan",
-      "C": "Čovjek"
+      "C": "Mjesec"
     },
     "image": null,
     "correct_answer": "B"
@@ -2020,9 +2020,9 @@
     "topic": "Znanost",
     "question": "Koja se Nobelova nagrada ne dodjeljuje u Švedskoj nego u Norveškoj?",
     "answers": {
-      "A": "Nobelova nagrada za književnost",
-      "B": "Nobelova nagrada za fiziku",
-      "C": "Nobelova nagrada za mir"
+      "A": "Za književnost",
+      "B": "Za fiziku",
+      "C": "Za mir"
     },
     "image": null,
     "correct_answer": "C"
@@ -5804,7 +5804,7 @@
     "question": "U kojoj se poslanici Korinćanima nalazi poznati citat o ljubavi 'Ljubav je strpljiva, ljubav je dobrostiva'?",
     "answers": {
       "A": "Drugoj",
-      "B": "Poslanici Rimljanima",
+      "B": "Trećoj",
       "C": "Prvoj"
     },
     "image": null,
