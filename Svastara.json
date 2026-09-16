@@ -709,7 +709,7 @@
     "answers": {
       "A": "999",
       "B": "989",
-      "C": "1009"
+      "C": "1"
     },
     "image": null,
     "correct_answer": "A"
@@ -1708,8 +1708,8 @@
     "topic": "svastara",
     "question": "Kako povjesničari nazivaju razdoblje relativne stabilnosti pod mongolskom vlašću koje je tijekom 13. i 14. stoljeća olakšalo trgovinu i putovanja između Europe i Azije?",
     "answers": {
-      "A": "Pax Romana",
-      "B": "Pax Britannica",
+      "A": "Pax India",
+      "B": "Pax Asia",
       "C": "Pax Mongolica"
     },
     "image": null,
@@ -2189,7 +2189,7 @@
     "topic": "svastara",
     "question": "Koliko je 99 + 1-100?",
     "answers": {
-      "A": "Nula",
+      "A": "0",
       "B": "−1",
       "C": "1"
     },
@@ -2202,9 +2202,9 @@
     "topic": "svastara",
     "question": "Koliko nula ima bilijun prema hrvatskoj dugoj ljestvici?",
     "answers": {
-      "A": "7",
+      "A": "9",
       "B": "12",
-      "C": "17"
+      "C": "15"
     },
     "image": null,
     "correct_answer": "B"
@@ -3555,8 +3555,8 @@
     "question": "Koliko je 10 × 10 × 10?",
     "answers": {
       "A": "1000",
-      "B": "999",
-      "C": "1001"
+      "B": "100",
+      "C": "1000"
     },
     "image": null,
     "correct_answer": "A"
@@ -3697,8 +3697,8 @@
     "topic": "svastara",
     "question": "Koji je bavarski propis iz 1516.g., poznat kao „zakon o čistoći piva“, izvorno određivao koje se osnovne sirovine smiju koristiti u njegovoj proizvodnji?",
     "answers": {
-      "A": "Zakon o sladu",
-      "B": "Hmeljski dekret",
+      "A": "Biergebot",
+      "B": "Munichgebot",
       "C": "Reinheitsgebot"
     },
     "image": null,
@@ -3879,9 +3879,9 @@
     "topic": "svastara",
     "question": "Današnja riječ 'bojkot' nastala je od prezimena kojeg upravitelja imanja kojeg su irski zakupci 1880.g. počeli organizirano izbjegavati?",
     "answers": {
-      "A": "Charlesa Parnella",
+      "A": "Edwarda Boycotta",
       "B": "Charlesa Boycotta",
-      "C": "Michaela Davitta"
+      "C": "Michaela Boycotta"
     },
     "image": null,
     "correct_answer": "B"
@@ -3907,7 +3907,7 @@
     "answers": {
       "A": "Zatvoru",
       "B": "Samostanu",
-      "C": "Na brodu"
+      "C": "Na planini"
     },
     "image": null,
     "correct_answer": "A"
