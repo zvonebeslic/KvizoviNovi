@@ -1075,7 +1075,7 @@
     "question": "Čije njihalo, koje je dokazalo rotaciju Zemlje, je prvi put napravljeno u Pantheonu u Parizu, a danas se nalazi u muzejima diljem svijeta?",
     "answers": {
       "A": "Gustavea Coriolisa",
-      "B": "Léona Foucaulta",
+      "B": "Leona Faucaulta",
       "C": "Armanda Fizeaua"
     },
     "image": null,
@@ -3122,7 +3122,7 @@
     "answers": {
       "A": "Augustin Fresnel",
       "B": "Armand Fizeau",
-      "C": "Léon Foucault"
+      "C": "Leon Faucault"
     },
     "image": null,
     "correct_answer": "C"
@@ -3732,7 +3732,7 @@
     "question": "Koliko herca odgovara jednoj minuti?",
     "answers": {
       "A": "30",
-      "B": "1/60",
+      "B": "60",
       "C": "120"
     },
     "image": null,
@@ -3796,7 +3796,7 @@
     "topic": "Znanost",
     "question": "Kojem se francuskom fizičaru pripisuje izum žiroskopa?",
     "answers": {
-      "A": "Léon Foucault",
+      "A": "Leon Faucault",
       "B": "Gustaveu Coriolisu",
       "C": "Armandu Fizeauu"
     },
@@ -3952,7 +3952,7 @@
     "topic": "Znanost",
     "question": "Kad bismo vrijeme mjerili u hercima, koliko bi herca prošlo u jednoj sekundi?",
     "answers": {
-      "A": "Ne može se tako izraziti",
+      "A": "Jedan",
       "B": "Dva",
       "C": "Deset"
     },
@@ -4643,7 +4643,7 @@
     "answers": {
       "A": "Pierre-Simon Laplace",
       "B": "Gaspard Monge",
-      "C": "Joseph Fourier"
+      "C": "Joseph Fournier"
     },
     "image": null,
     "correct_answer": "C"
@@ -5749,7 +5749,7 @@
     "topic": "Znanost",
     "question": "Tko se smatra službenim pronalazačem radija?",
     "answers": {
-      "A": "Guglielmo Marconi",
+      "A": "Nikola Tesla",
       "B": "Alexander Popov",
       "C": "Reginald Fessenden"
     },

@@ -1285,7 +1285,7 @@
     "answers": {
       "A": "Ruuda van Nistelrooya",
       "B": "Ole Gunnara Solskjaera",
-      "C": "Filippa Inzaghija"
+      "C": "Fillipa Inzaghija"
     },
     "image": null,
     "correct_answer": "C"
@@ -2129,8 +2129,8 @@
     "topic": "Nogomet",
     "question": "Za koji je francuski klub, legendarni francuski nogometaš Raymond Kopa, u svojoj karijeri upisao najviše nastupa te zabio najviše golova?",
     "answers": {
-      "A": "Angers",
-      "B": "Reims",
+      "A": "Reims",
+      "B": "Angers",
       "C": "Lens"
     },
     "image": null,
@@ -2418,7 +2418,7 @@
     "answers": {
       "A": "Čile",
       "B": "Brazil",
-      "C": "Nikoga – utakmica za treće mjesto nije odigrana"
+      "C": "Jugoslaviju"
     },
     "image": null,
     "correct_answer": "C"
@@ -2976,7 +2976,7 @@
     "topic": "Nogomet",
     "question": "U eri Messija i Ronalda, od 12 uzastopnih sezona Lige Prvaka njih dvoje su naizmjenično bili najbolji strijelci u svima od njih, a jedan je nogometaš bar na kratko uspio razbiti njihovu dominaciju te se u sezoni 2013/14 sa 10 golova izjednačio na vrhu sa ove dvije spomenute legende. Tko je on?",
     "answers": {
-      "A": "Nitko – Cristiano Ronaldo bio je sam na vrhu",
+      "A": "Neymar",
       "B": "Zlatan Ibrahimović",
       "C": "Robert Lewandowski"
     },
@@ -3433,7 +3433,7 @@
     "answers": {
       "A": "Vedad Ibišević",
       "B": "Miralem Pjanić",
-      "C": "Nitko – Edin Džeko je zabio 29"
+      "C": "Edin Džeko"
     },
     "image": null,
     "correct_answer": "C"
@@ -3575,7 +3575,7 @@
     "question": "Službena lopta Europskog nogometnog prvenstva u Portugalu iz 2002.g. je dobila ime po dnevniku putovanja Vasca da Game, a zove se kako?",
     "answers": {
       "A": "Europass",
-      "B": "Roteiro (EURO 2004.)",
+      "B": "Roteiro",
       "C": "Terrestra Silverstream"
     },
     "image": null,
@@ -4566,8 +4566,8 @@
     "question": "Koji je igrač zabio najviše golova u povijesti najelitnijeg engleskog razreda nogometa?",
     "answers": {
       "A": "Wayne Rooney",
-      "B": "Alan Shearer",
-      "C": "Jimmy Greaves"
+      "B": "Jimmy Greaves",
+      "C": "Alan Shearer"
     },
     "image": null,
     "correct_answer": "C"
@@ -4669,8 +4669,8 @@
     "topic": "Nogomet",
     "question": "Koliko najviše UEFA-inih zvjezdica može dobiti jedan nogometni stadion?",
     "answers": {
-      "A": "4",
-      "B": "5",
+      "A": "5",
+      "B": "4",
       "C": "3"
     },
     "image": null,
