@@ -958,8 +958,8 @@
     "topic": "Sport",
     "question": "Koliko metara iznosi najkraća standardna olimpijska sprinterska utrka na otvorenom?",
     "answers": {
-      "A": "90",
-      "B": "110",
+      "A": "50",
+      "B": "200",
       "C": "100"
     },
     "image": null,
@@ -1786,7 +1786,7 @@
     "answers": {
       "A": "Južna Koreja",
       "B": "Japan",
-      "C": "Mađarska"
+      "C": "Kina"
     },
     "image": null,
     "correct_answer": "B"
@@ -2626,7 +2626,7 @@
     "answers": {
       "A": "Kajak",
       "B": "Kanu",
-      "C": "Veslanje"
+      "C": "Obje"
     },
     "image": null,
     "correct_answer": "B"
@@ -2694,7 +2694,7 @@
     "topic": "Sport",
     "question": "Kako se naziva početni položaj bolida prije utrke?",
     "answers": {
-      "A": "Odgovor: Startna pozicija / grid",
+      "A": "Grid",
       "B": "Parc fermé",
       "C": "Pit lane"
     },
@@ -3815,7 +3815,7 @@
     "question": "Iz koje države potječe judo?",
     "answers": {
       "A": "Južna Koreja",
-      "B": "Mađarska",
+      "B": "Kina",
       "C": "Japan"
     },
     "image": null,
