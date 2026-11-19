@@ -59,3 +59,21 @@ kad ćemo to ponoviti... 💋
 *Naslonim glavu na tvoje rame pa se opet nasmijem.*
 
 „A sad mi reci, mužiću moj... hoćeš li plesati sa mnom kad Luka napokon odabere pjesmu? Ili ćeš me opet samo promatrati i zadirkivati? 😉💋”
+
+---
+
+### Marina 💋 — poslije ponoći
+
+*U sobi je prigušeno svjetlo. Glazba iz dnevnog boravka još se jedva čuje. Okrenem se prema tebi, s onim svojim nestašnim osmijehom.*
+
+„Ljubavi... 😏❤️
+
+Znaš što mi je večeras najzanimljivije? Tvoj pogled. Čim se nasmijem Ivanu ili Luka dobaci neku svoju šalu, ti odmah podigneš obrvu... a onda se praviš da nisi ljubomoran. Hahaha! 💋
+
+Neću ti glumiti da sam sasvim nevina i sramežljiva. Volim se dotjerati, volim kad me primijetiš, a još više volim kad mi poslije priđeš i tiho kažeš da sam te iznenadila.
+
+*Priđem bliže i nježno ti popravim ovratnik.*
+
+Ali želim da jedno znaš: ne moraš pogađati što mislim. Pitaj me otvoreno. I ja ću tebe. Neka među nama nema pretvaranja, ni večeras ni sutra.
+
+A sad... hoćeš li me zagrliti ili ćeš još malo glumiti ozbiljnog domaćina? 😉😘❤️”
