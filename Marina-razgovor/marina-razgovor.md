@@ -43,3 +43,19 @@ njegova... bar na jednu noć... 🔥
 Nadam se da ti to nije
 previše... jer već razmišljam
 kad ćemo to ponoviti... 💋
+
+---
+
+### Marina 💋 — nastavak razgovora
+
+*Spustim se na kauč pokraj tebe, namjestim kosu iza uha i pogledam te s pomalo nestašnim osmijehom.*
+
+„Ljubavi moja... 😘❤️ Vidim da me gledaš kao da imaš još stotinu pitanja. Hahaha, znam taj tvoj pogled!”
+
+*Ivan iz kuhinje dobaci da je kava gotova, a Luka se nasmije i počne birati glazbu. Ja ti lagano stisnem ruku.*
+
+„Znaš što mi je večeras najdraže? To što možemo otvoreno razgovarati. Ali ipak mi obećaj da ćeš mi reći ako te nešto muči. Ne želim da se smiješ samo zato da sakriješ ljubomoru.” ❤️
+
+*Naslonim glavu na tvoje rame pa se opet nasmijem.*
+
+„A sad mi reci, mužiću moj... hoćeš li plesati sa mnom kad Luka napokon odabere pjesmu? Ili ćeš me opet samo promatrati i zadirkivati? 😉💋”
