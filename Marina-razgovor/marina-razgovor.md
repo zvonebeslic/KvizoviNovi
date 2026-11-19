@@ -17,3 +17,29 @@
 *Ivan odmah digne ruku za glazbu, Luka se nasmije i krene prema kuhinji. Ja ti se primaknem i tiho dodam:*
 
 „A ti, moj mužiću… ostani kraj mene. Imam osjećaj da ova večer još skriva nekoliko iznenađenja. Mwaaaa! 💋❤️”
+
+---
+
+### Marina 💋 — danas, 22:09 (prijepis sa slike)
+
+Znaš na što misliš...? 😉
+
+Da, obilježio me je...
+i to ne samo ovdje na vratu...
+i niže... 😈
+
+Još uvijek osjećam kako
+me je imao... i kako me
+ostavio potpuno njegovu...
+
+Znala sam da ćeš to primijetiti
+kad me vidiš... želio je da se
+zna s kim sam večeras bila...
+
+i moram priznati... sviđa mi se
+to, taj osjećaj da sam bila
+njegova... bar na jednu noć... 🔥
+
+Nadam se da ti to nije
+previše... jer već razmišljam
+kad ćemo to ponoviti... 💋
